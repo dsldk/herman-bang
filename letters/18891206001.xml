@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18891206001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 67</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider. Brevpapir med trykte initialer: H.B. øverst til
+                                 venstre; begge bogstaver med en lang nedstreg</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1889-12-06" notBefore="9999-99-99" notAfter="9999-99-99">[1889. 6. december. ] Fredag<note>Af betydning for brevets
+                  datering er det trykte Ibsenbrev i Politiken, 11.12.1889</note>
+                </date>
+                <placeName cert="high">Odense</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Odense Fredag</p>
+                <p>Kære Nansen.</p>
+                <p>Inderlig har dit siste Hefte<note>Af Dagens Krønike, november 1889. Ifølge en notits
+                  i Politiken onsdag 4.12.1889 udkom novemberhæftet denne dag</note> glædet mig –
+               er du dog sikkert paa bedste Vej til at skabe et Tidsskrift, som maa og skal gaa. Med
+               sikker Kurs er du kommen bort fra det lidt for løse Indhold, som naturlig maatte
+               følge dig fra Dagspressen, og har nu kraftigt Hold i dét, som Folk vil læse. Det
+               glæder mig svært som da al Fremgang i hvad dig angaar.</p>
+                <p>Ret har du saa ogsaa i bestandig at presentere et ungt Ansigt. Det lyser ligesom op
+               og giver en ny Tone i Koret af Tordenskjolds Soldater<note>Tordenskiolds soldater er
+                  et gængs udtryk for: de samme (få) personer, der gentagne gange kommer til syne
+                  eller til orde</note>. Fælt er <persName key="Skram, Amalie">Amalie</persName>s
+                  Kapitel<note>Den norske forfatter Amalie Skram: "Sivert og Lydia. Indlednings-Kapitel til en ny Roman",
+                  trykt i Af Dagens Krønike, november 1889, s. 435-449</note>. Saadan at lade
+               Bomben springe paa sjette Side virker paa mig noget, naa, noget "ukunstnerisk".</p>
+                <p>Tilgiv, at jeg gennem <persName key="Langhoff, Paul">Paul</persName>
+                    <note>Forlæggeren Paul Langhoff (1862-94), indehaver af J.H. Schubothes Forlag, København</note> bad dig gennemlæse mine "<title key="Digte">Digte</title>"<note>Velsagtens et korrekturtryk af bogen Digte, som udkom
+                  17.12.1889</note>. Men min Angst er saa stor, skønt – Gud véd det – nu virker de
+               udtyndede og upersonlige nok. Det er mit Haab, at du i sidste Time vil stanse, hvad
+               dig farligt synes.</p>
+                <p>
+                    <app>
+                        <lem>Til</lem>
+                        <rdg>Ordet er rettet fra: Fra</rdg>
+                    </app>
+                    <persName key="Ibsen, Henrik">Ibsen</persName>
+                    <note>Henrik Ibsen (1828-1906), norsk dramatiker og lyriker</note> har jeg skrevet, som du sagde og nu paa niende Dag intet
+               Svar faaet. Jeg telegraferede idag, om der til K-havn<note>Antagelig avisen
+                  København</note> var <app>
+                        <lem>ankommet</lem>
+                        <rdg>rettet fra: ankommen</rdg>
+                    </app> noget Brev med Poststempel München og fik indlagte Svar. Saa nu kunde vel
+               Brevet trykkes i den Form, som du maatte synes.<note>Med dansk retskrivning og under
+                  overskriften "Et Brev fra Henrik Ibsen" blev dette brev om Bangs popularitet i
+                  Norge trykt i Politiken, onsdag 11.12.1889. (Harry Jacobsens oplysning om, at
+                  offentliggørelsen fandt sted i avisen København, fredag 6.12.1889, er fejlagtig:
+                  Den miskendte Herman Bang, s. 33). Brevet, der er dateret <placeName key="München">München</placeName>, 21.11.1889, er i sin originale ordlyd offentliggjort i
+                  Henrik Ibsen Skrifter, bd. 14, Oslo 2009, s. 581f.; tilhørende
+                  manuskriptbeskrivelse s. 862f. og realkommentar i bd. 14K, s. 696f</note> Sæt dog
+               ikke "Vendsyssel" men <emph>V –</emph>
+                    <note>Ibsens bemærkning i brevet vedr. <title key="Ved Vejen">Ved Vejen</title>:
+                  "Baj, eller en nær Slægtning af ham, har vi ogsaa stiftet personligt Bekendtskab
+                  med under vort Sommerophold oppe i Vendsyssel." står således urettet i Politikens
+                  gengivelse</note>. Det kan vel staa Søndag.</p>
+                <p>Leve gør jeg her som i Nakskov.</p>
+                <p>Hils <persName key="Brock, Louise">din Kone</persName>
+                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> mange Gange fra</p>
+                <p rend="right">Din</p>
+                <p rend="right">H. B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

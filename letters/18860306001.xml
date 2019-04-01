@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860306001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 320. Samt NKS 2353, 2io: "1 udat. fragment"</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 6 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-03-06" notBefore="9999-99-99" notAfter="9999-99-99">1886. 6. marts [lørdag]<note>Brevets side 5 og 6 er kommet
+                  på afveje på et tidspunkt forud for 1921, da Peter Nansens brevarkiv blev
+                  erhvervet af Det Kongelige Bibliotek. Idag ligger brevets to sidste sider i Det
+                  Kongelige Bibliotek, NKS 2353, 2io</note>
+                </date>
+                <placeName cert="high">Wien</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Wien. Hotel Hammerand VIII Bezirk.</p>
+                <p rend="right">6.3.86</p>
+                <p>Kære Peter.</p>
+                <p>Min Flid belønnes. <persName key="Renz, Ernst">Renz</persName>
+                    <note>Ernst Renz (1815-92), tysk cirkusdirektør, portrætteret af Bang i Politiken,
+                  14.3.1886</note> er god.</p>
+                <p>Men min Anelse slog ikke feil: man <emph>vil</emph> have mig til "Dagsavisen" med
+               Trusel af Udhungring.</p>
+                <p>Det er vel at høre som en Fabel, men Fablen er Sandhed, at jeg for alt, hvad jeg har
+                  <emph>skrevet</emph> til Norden under mit tyske Ophold – og hvad har jeg ikke
+               kradset – foruden de 200 Forskud fra Jer, ikke har modtaget 150 Kroner. Og under det
+               har jeg oplevet to Udsmidninger med to Dages Varsel hvert Sted. Og Udsmidning fra min
+               Bolig her.</p>
+                <p>Du vil kunne begribe, at jeg ikke har meget at skaffe Penge paa nu. I "Nutiden"
+               ligger Bunker af Manuskript; i "Illustreret", i "Nordstjernen"; i <placeName key="Göteborg">Göteborg</placeName>; i <placeName key="Bergen">Bergen</placeName>; "<app>
+                        <lem>A</lem>
+                        <rdg>Rettet fra et: L</rdg>
+                    </app>rbeidernes Almanak" har Manuskript; <persName key="Schou, Andreas">Andreas
+                 Schou</persName>
+                    <note>Andreas Schou (1829-89), boghandler og forlægger i København, indehaver af Andr. Schous Forlag indtil nytår 1889; forlægger for Herman Bang</note> har nu faaet vel 4 Ark til Tryk<note>Manuskript til disse fire
+                  trykark (svarende til 64 trykte bogsider) må være del af novellesamlingen <title key="Stille Eksistenser">Stille Eksistenser</title>, som udkom i oktober 1886
+                  hos Andreas Schous Forlag</note>.</p>
+                <p>Og alle disse Steder skylder man mig dog eller vil skylde mig den Dag, man trykker
+               mine Ting.</p>
+                <p>
+                    <emph>Det</emph> gør mig jo imidlertid ikke rigere <app>
+                        <lem>nu</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app>, og <emph>det</emph> ved Konsortiet, som aldrig sætter fedt paa Krogen. Jeg
+               faar kun Depescher – "Penge, naar De siger Ja". Jeg har ikke Penge nok til at
+               telegrafere dig et ordenligt Telegram. Og du er <emph>den eneste</emph>, som vil gøre
+               noget for at hindre denne skønne Plan.</p>
+                <p>Konsortiet bestaar af: <persName key="Ottesen, Otto Andreas">Ottesen</persName>
+                    <note>Otto Andreas Ottesen (født ca. 1835), ejer af ejendommen Studiestræde 4, Bangs københavnske bopæl siden 1884</note>, som
+               vil have sine lumpne <app>
+                        <lem>140</lem>
+                        <rdg>Rettet fra: 160</rdg>
+                    </app> Kroner; <persName key="Ottesen, Christine Margrethe">Fru Ottesen</persName>,
+               som vil have <emph>mig</emph>; <persName key="Bjerring, Emil">Bierring</persName>
+                    <note>Emil Bjerring (1837-96), journalist, fra 1878 redaktionssekretær ved Nationaltidende, 1880 medstifter af Journalistforeningen</note>, som frygter, at min Sundhed her skal lide ubodeligt –
+               hvad der er det <app>
+                        <lem>nobleste –</lem>
+                        <rdg>Over linjen har Bang hér skrevet: <emph>Intet Ord i No. 4!!</emph>, dvs. til
+                     Ottesens i Studiestræde 4</rdg>
+                    </app>; <persName key="Schiøtt, Julius">Schiøtt</persName>
+                    <note>Journalisten Julius Schiøtt (1856-1910), mag.art., redaktør 1882-84 af Theaterbladet, 1885-96 af ugebladet Nordstjernen, fra 1899 direktør for Zoologisk Have, København; skolekammerat med Herman Bang i Horsens</note>, som i Parenthes sagt intet hellere ønsker end at sé mig
+               selv som det mindste Horn imod "Politiken".</p>
+                <p>Konsortiet indsér, at jeg ikke <emph>kan</emph> holde ud, hvormeget jeg saa arbeider,
+               uden Driftskapital, og man venter min Kapitulation.</p>
+                <p>Som ogsaa <emph>maa</emph> følge, hvis du ikke griber ind – i al Hemmelighed. Du véd,
+               at <persName key="Andreasen, A.O.">Andreasen</persName>
+                    <note>En københavnsk pantelåner, også omtalt i brevet 18860301. Han kan identificeres som Adolph Olsen Andreasen (født ca. 1834); ifølge folketællingen 1885 var han 50 år gammel og da bosat i Krystalgade 13</note> skal have Halvdelen af
+               mit Honorar hos Schou. Hvor flittig jeg end er, bliver der jo meget lidt for mig –
+               ogsaa Schou tager en Sjettedel – og den Trediedel, der bliver, og som vel kunde
+               hjælpe, hvis man vilde udbetale den arkvis (jeg vilde jo skrive, til jeg faldt ned af
+               Stolen – min Ven, hvor <emph>er</emph> det græsseligt!) – <emph>den</emph> vil man
+               naturligvis for at naa sit Maal ogsaa trække i Langdrag. Det kan jo Schiøtt, som har
+               Modtagelsesretten hos den iøvrigt langsomme Schou, saare let.</p>
+                <p>Og det dreier sig om Dage. Kunde jeg være blevet i mit Privatlogis, havde der endda
+               været Mulighed. Men nu, naar jeg Tirsdag faar min Ugeregning, tvivler jeg om, at
+               Værten giver lang Pardon. Min Udstyrelse indgyder just ikke mere Respekt eller
+               Tillid. – Der er under disse Forhold, hvis jeg <emph>skal</emph> reddes fra
+               "Dagsavisen" kun en Udvei – at sende Bud til <emph>de</emph> Redaktioner, som i Aar
+               og Dag har skyldt mig Penge vilde være det samme som at søge at slaa Vand af Klipper
+               (hvilket, som bekendt, kun lykkedes for Hr Moses<note>Det Gamle Testamente, 4.
+                  Mosebog, kap. 20</note>) –: du maa sætte Sagen ud for enten <persName key="Hørup, Viggo">Hørup</persName>
+                    <note>Viggo Hørup (1841-1902), politiker (Det Radikale Venstre), medstifter af dagbladet Politiken 1884, redaktør af samme</note> eller <persName key="Brandes, Edvard">Brandes</persName>
+                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker (Det Radikale Venstre), medstifter 1884 af dagbladet Politiken og redaktør af samme</note>. At jeg nødig gaar til dette, siden jeg alt staar i
+               Jeres Gæld <emph>dobbelt</emph> nødigt <app>
+                        <lem>ved du</lem>
+                        <rdg>De to ord er tilføjet over linjen</rdg>
+                    </app> – men alt er bedre end at lade sig true til "Dags-Avisen" og daglig skulle
+               leve dér.</p>
+                <p>Nu ved jeg, min kære Peter, at det desværre <emph>nu</emph> kan være "Politiken"
+                  <emph>reelt</emph> meget ligegyldigt, om "Dagsavisen" faar mig eller ei. Ti
+                  <emph>jeg</emph> kan ikke mere "skade" "Politiken". Som Journalist skulde jeg
+               atter indskrive mig i Publikum o:s:v: og selv om <emph>det</emph> lykkedes mig, vilde
+               jeg aldrig skade Jer et Gran. <emph>Det</emph> beder jeg dig aabent meddele som min
+               Mening. Men sig disse Herrer, at det er <emph>anden</emph> Gang, jeg modtager dette
+               Tilbud, anden Gang, jeg kæmper mod det. Ifjor besvor jeg Uveiret ved en
+               Aftenunderholdning. <emph>Nu</emph> staar jeg efter to Udsmidninger – med den samme
+                  <emph>Havn</emph> for mine Øine. Sig fremdeles, at jeg vel ved, at jeg hidtil kun
+               har gjort mig sparsomt fortjent af "Politiken". Men Forholdene tjener mig til
+               Undskyldning. Dels vil det bedre sig, fordi det <emph>synes</emph>, at her i Wien kan
+               jeg dog blive, dels fordi jeg lidt efter lidt vil vænne mig til Korrespondancens
+               Form, som altid har været mig som et Par ubekvemme Støvler. Fremdeles synes jeg ikke
+               det vilde være umuligt at anvende mig som <emph>Boganmelder</emph>. Send strax
+               Bøgerne til mig, og I har Anmeldelsen i en Uge. Jeg skulde gøre mig Umage for at
+               finde <emph>en Rubrik, som jeg kunde skriver her</emph>; og én af mine nye Noveller
+               kunde man jo tage som <emph>Forfeuilleton til sædvanlig Pris</emph>.</p>
+                <p>Men for at <emph>kunne</emph> holde ud her <emph>maa</emph> man give mig et nyt
+               Forskud af <emph>mindst</emph> 300 Kr ɔ: 150 Gylden – <emph>den mindste Sum</emph>,
+               for hvilken jeg her, hvor en Gylden betyder en Kr: Værdi, kan betale min Bolig her og
+               leie en Privatbolig for en Maaned. "Dagsavisen" byder mig 500 paa Haanden – hvad jeg
+               siger, ikke for at sætte Kniven paa Struben, men kun for at vise hvor
+                  <emph>nødig</emph> jeg vil ud i Rømersgade.</p>
+                <p>
+                    <emph>Men kom hjem</emph> – vil du sige. Jeg kan i Løbet af nogle Maaneder tjene mere
+               her; jeg <emph>kan</emph> ikke komme hjem uden at noget af min Gæld betales – derfor
+               Maddingen med de femtusind –; jeg vilde <emph>nu</emph> ved at komme hjem lide saa
+               meget (moralsk) at jeg ikke var til Nytte for nogen. "Politiken" kan jeg tjene
+               ligegodt her – naar jeg anstrænger mig – og os <emph>alle</emph> kan min Hjemkomst
+                  <emph>gavne</emph> – og først <emph>da</emph> gavne – naar "Bernhard
+                  Hoff"<note>Arbejdstitel på romanen <title key="Stuk">Stuk</title>
+                    </note> er
+               skrevet.</p>
+                <p>Tilgiv, min Ven, at jeg ikke skriver mere. At sætte saaroligt Sagen frem, udmatter
+               mig til Døden under den grænseløse Ophidselse, i hvilken jeg befinder mig.</p>
+                <p>Til Redaktionen endnu kun dette: 300 Kroner er det mindste, jeg <emph>kan</emph>
+               have. Saa skylder jeg 500 Kroner? Disse 500 Kroner kan jeg ikke afdrage noget paa i
+               denne og næste Maaned; men først fra første Mai. Skulde jeg dø forinden, maatte
+               Bladet tage sig saavidt muligt betalt i Manuskript, der maatte findes efter mig, og i
+               de af mine Breve – Privatbreve – som det maatte vise sig værd at lade trykke.</p>
+                <p>Til dig, kære Peter, en Bøn om at bede de Herrer tie absolut. "Konsortiet" vil aldrig
+               tilgive mig, om de erfarer dette.</p>
+                <p>Og hastigt maa det ske – for jeg er svært nær ved at falde sammen i denne elendige
+               Usikkerhed i alt. Naar Tingen er bevilliget, da sæt <persName key="Bing, Herman">Hr.
+                  Bing</persName>
+                    <note>Herman Bing (1845-96), politiker, medstifter i 1884 og forretningsfører for dagbladet Politiken, medlem af Folketinget 1890-92, valgt i Bælumkredsen</note> en Raket i den "derrière"<note>fr.: bagdelen</note>.
+               Ialfald véd jeg, du vil udrette det <emph>meste</emph>, du kan. Jeg kan love dig, at,
+               naar Regeringen lader mig sidde her i Ro – hvad den vel er nødt til; <persName key="Knuth, J.S.D.">Gesandten</persName>
+                    <note>Greve J.S.D. Knuth (1835-1905), dansk gesandt (ambassadør) i Wien 1884-90</note> siger det – du
+               ikke skal have mere Vrøvl af</p>
+                <p rend="right">Herman.</p>
+                <p>Men Hastighed. Hils <persName key="Nansen, Immanuel">Hvalpen</persName>
+                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

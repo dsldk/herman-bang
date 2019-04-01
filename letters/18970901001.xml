@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18970901001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 145</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1897-09-01" notBefore="9999-99-99" notAfter="9999-99-99">[1897. 1. september. ] Onsdag<note>Bang var 28.8.-8.9.1897 gæst hos Johan Knudsen. Dette brev henføres
+                til Bangsbo ved Frederikshavn, fordi Bang refererer et mundtligt udsagn af Johan
+                Knudsen</note>
+                </date>
+                <placeName cert="high">[Bangsbo]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag.</p>
+                <p>Kære Peter.</p>
+                <p>Jeg vilde saa gerne have at vide, hvordan <persName key="Nansen, Betty">Betty</persName>
+                    <note>Betty Nansen</note> har det.</p>
+                <p>Kan du maaske finde Tid til at sige mig det i et Par Ord?</p>
+                <p>Jeg synes, jeg har det ganske ved det samme og maa nu mærkeligt længe kæmpe med
+                        at faa fat paa Sætningerne i min Hjerne</p>
+                <p>Men de andre trøster mig saa godt det gaar an.</p>
+                <p>
+                    <persName key="Knudsen, Johan">Johan</persName>
+                    <note>Johan Knudsen (1865-1942), ejer 1891-1909 af herregården Bangsbo ved Frederikshavn</note> siger,
+                        han har skrevet til dig – nogle Spørgsmaal, tror jeg.</p>
+                <p>Hils Betty saa uendelig mange Gange. Hvis jeg ikke føler nogen Bedring, da tager
+                        jeg snart hjem, da de københavnske Læger er skrappere til at holde mig paa
+                        Benene.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

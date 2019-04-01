@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19011101001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 350</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-11-01" notBefore="9999-99-99" notAfter="9999-99-99">1901. 1. november.  [fredag]<note>Bang var september-november 1901 indlagt på dr. Torrilds nerveklinik i
+                Aalborg</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aalborg den 1' November 1901.</p>
+                <p>Kære Ven.</p>
+                <p>Det er fuldkomment overflødigt at tilsende mig 3die Korrekturen<note>
+                        <title key="Det graa                Hus">Det graa
+               Hus</title>
+                    </note>. Kun naar Du har noget ganske særligt at bemærke, beder
+                        jeg Dig gøre det.</p>
+                <p>Hvad Pengene angaar, da gør det mig oprigtig ondt at skulle stille dette Krav til
+                                <persName key="Hegel, Jacob">Hr Hegel</persName>
+                    <note>Jacob Hegel (1851-1918), fra 1887 eneejer af og direktør for forlaget Gyldendal</note>. Men det er nødvendigt, da jeg endnu
+                        er syg, <app>
+                        <lem>og</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> da jeg ikke, før jeg kommer til <placeName key="Aarhus">Aarhus</placeName>, kan ordne mine Sager. Men
+               "Fest"<note>Bangs arbejdstitel for <title key="Ravnene">Ravnene</title>
+                    </note> skal være færdigt
+                        inden 1 Januar og jeg beder Dig, hvis det ikke allerede er sket, da at lade
+                        afsende de 250 Kr samt 250 Kr om en Uge. Naar jeg først er i Aarhus og borte
+                        fra denne forbandede By, hvor man ikke <emph>vil</emph> høre mig – skal jeg
+                        nok rede for mig selv.</p>
+                <p rend="right">Din hengivne</p>
+                <p rend="right">Herman Bang</p>
+            </div>
+        </body>
+    </text>
+</TEI>

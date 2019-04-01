@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19011030001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 349</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-10-30" notBefore="9999-99-99" notAfter="9999-99-99">1901. 30. oktober.  [onsdag]<note>Bang var september-november
+                  1901 indlagt på dr. Johannes Torrilds nerveklinik i Aalborg</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aalborg 30-10-1901.</p>
+                <p>Kære Ven.</p>
+                <p>Jeg har i dette Øjeblik afsendt Slutningen af min Bog<note>
+                        <title key="Det graa Hus">Det graa Hus</title>, udkom hos
+                  Det Schubotheske Forlag 26.11.1901</note>. Naar Du først modtager <app>
+                        <lem>Tredjekorrekturen</lem>
+                        <rdg>Begyndelsesbogstavet rettet fra et lille t</rdg>
+                    </app> er det kun, fordi jeg har villet, at Bogen skulle være helt færdig fra min
+               Haand, inden Du læste den. Nu kan jeg ikke gøre den bedre og en Skelm er den, der
+               giver mere end han kan<note>Gammel talemåde med betydningen: Den, der giver mere, end
+                  han (med rette) ejer, må være en bedrager, løgner el.lign.; se også ODS,
+                  "Skælm"</note>. Nu beder jeg Jer, Dig og <persName key="Nansen, Betty">Betty</persName>
+                    <note>Betty Nansen</note>, thi Du ved hvor megen Pris jeg sætter paa hendes Dom – om
+               at skrive mig til, naar <app>
+                        <lem>i</lem>
+                        <rdg>Skrivefejl for: I</rdg>
+                    </app> har naaet Slutningen af andet Afsnit. Thi jeg lever i en urimelig Angst.
+               Uagtet jeg har bedt derom, har jeg ikke modtaget noget Aftryk af første Ark, skønt
+               Tilføjelsen med Tjenerne synes mig af megen Vigtighed af Hensyn til det følgende. Der
+               maa paa dette Punkt Forberedelse til.</p>
+                <p>Med Tak for al Din Ulejlighed er jeg</p>
+                <p rend="right">Din Hengivne.</p>
+                <p rend="right">Herman Bang.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

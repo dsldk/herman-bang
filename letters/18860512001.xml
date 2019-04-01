@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860512001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 46</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-05-12" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 12. maj], Onsdag<note>Dateringen følger Torbjörn
+                  Nilsson, s. 332, note 11</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag.</p>
+                <p>Kære Peter.</p>
+                <p>I dit "Sensations-Blad" vil dette ikke være ilde. Jeg var hos <persName key="Franzós, Karl Emil">Franzos</persName>
+                    <note>Karl Emil Franzós (1848-1904), tysk forfatter og journalist</note> sammen med en ung Forfatter, som
+               fortalte om <placeName key="Augsburg">Augsburg</placeName>-Forestillingen.<note>Bangs artikel "<title key="Gengangere">Gengangere</title>" i Tyskland",
+                  Politiken, 17.5.1886</note>
+                </p>
+                <p>Jeg har nu lavet dette. Ret i Korrekturen, hvor <emph>jeg</emph> kendes for meget.
+               Jeg har med <emph>Vilie</emph> skrevet alt, hvad han sagde – og alt saa dumt som
+               muligt.</p>
+                <p>Tag <emph>Nordling</emph> paa <emph>snart</emph>
+                    <note>Bangs artikel "Johan Nordling", Politiken, 15.6.1886</note>. Vera<note>Roman
+                  (1885) af den svenske forfatter og journalist <persName key="Nordling, Johan">Johan
+                     Nordling</persName> (1863-1938); bogen kom 1887 i en dansk oversættelse ved <persName key="Horten, Sofie">Sofie Horten</persName>
+                    </note> udkommer snart.</p>
+                <p rend="right">Herman.</p>
+                <p>Jeg er saare glad og nærer mig af Kaffe og andre Urter.</p>
+                <p>Gud – hvor det glæder mig med <persName key="Renz, Ernst">Renz</persName>
+                    <note>Ernst Renz (1815-92), tysk cirkusdirektør</note>. Naar jeg i Eders Anmeldelser citeres (som
+               Berider-Autoritet) bedes om Citationstegn.</p>
+                <p>Snart maa jeg afsende mine Bidrag uden Frimærker.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

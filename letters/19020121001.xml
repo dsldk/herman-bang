@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19020121001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 357</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 breve</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1902-01-21" notBefore="9999-99-99" notAfter="9999-99-99">1902. 21. januar [tirsdag]<note>Peter Nansen havde
+                  fødselsdag 20.1. og fyldte i 1902 41 år</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">21.1.1902.</p>
+                <p>Kære Nansen.</p>
+                <p>Jeg vilde have skrevet igaar – paa din Fødselsdag – men jeg havde saa frygtelige
+               Hovedsmerter, at jeg ikke kunde skrive <emph>et</emph> Ord. Saadan maa jeg betale et
+               Par Timer som de i Lørdags<note>Dvs. 18.1.1902</note>.</p>
+                <p>Et lykkeligt Aar for dig og dine.</p>
+                <p>Aldrig kommer din Fødselsdag igen uden at jeg tænker paa den gamle Fødselsdag paa
+                  Nørregade<note>Nørregade 45, hvor Bang og Nansen delte lejlighed 1883-84 – eller
+                  Nørregade 43, hvor Nansen efterfølgende boede</note>. Hvor længe det er siden.
+               For mig er <emph>Livet</emph> gaaet siden da. For Jer er det derimod kun
+               Middagshøjden, som er naaet. Gid den maa være rig og lykkelig og solbeskinnet for Jer
+               – et stort Fremad, et langt Opad.</p>
+                <p rend="right">Din Ven</p>
+                <p rend="right">Herman Bang.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

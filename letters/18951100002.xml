@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18951100002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 70</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1895-11-01" notBefore="9999-99-99" notAfter="9999-99-99">[1895.  november. ] Lørdag<note>Bangs håndskrift peger med
+                  stor sandsynlighed på perioden 1895-97 og i hvert fald ikke et tidspunkt forud
+                  herfor. Et citat fra brevet er bragt i Harry Jacobsen: Herman Bang. Resignationens
+                  Digter, s. 181, note 380; Harry Jacobsens datering af dette brev til 1888 må med
+                  megen vægt afvises</note>
+                </date>
+                <placeName cert="low">[Sorø?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Kære Ven.</p>
+                <p>Der er en Ting, jeg gerne vilde forklare dig, og da det falder mig altfor svært at
+               tale derom, skriver jeg det. Det er angaaende dette med det Blad<note>Ikke oplyst. Ud
+                  fra sammenhængen at dømme må Nansen have foreslået Bang en
+                  redaktørstilling</note>. Du maa tro, at jeg var oprigtig glad, da du talte derom,
+               og mest fordi Tanken var kommen just fra dig. Og du kan forstaa, at jeg havde ogsaa
+               uendelig gerne villet det. Men det er den Slags Ting, jeg ikke bør. Jeg kan ikke, bør
+               ikke indtage nogen ledende Stilling, hvor beskeden den end kunde synes. Jeg ved det
+               selv og det er <app>
+                        <lem>kun</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> Eders store Godheds Skyld, naar I fristes til ikke at vide det. For det takker
+               jeg dig mere end du véd – det havde ogsaa været saa dejligt, halvt i Fællesskab, som
+               i de gamle Dage, at arbejde paa at slaa noget op.</p>
+                <p>Men det er mod min Følelse og mod den Pligt til at resignere, som jeg
+                  <emph>maa</emph> bære ....</p>
+                <p>Du vil forstaa dette og disse Ord lader vi saa begge uomtalte.</p>
+                <p rend="right">Din gamle</p>
+                <p rend="right">Herman B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

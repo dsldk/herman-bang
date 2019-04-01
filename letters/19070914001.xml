@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19070914001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 565, 4to. Nr. 45</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort, fabrikeret i Italien ("Cartolina postale"). Billedsidens
+                                 motiv er en tegning af en hyrde, en kvinde og to får, med trykt
+                                 tekst: <q>Pastorale (G. Segantini)</q>
+                                            </ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-09-14" notBefore="9999-99-99" notAfter="9999-99-99">1907. 14. september [lørdag]<note>Dateres efter poststemplet.
+                  Bangs formål må være at melde sin adresseændring efter at være fraflyttet
+                  Nürnbergerstrasse</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Mange Hilsener fra Fasanenstrasse 58.</p>
+                <p>
+                    <app>
+                        <lem>J</lem>
+                        <rdg>Dette J eller I står med Bangs håndskrift helt for sig selv; meningen er
+                     uvis</rdg>
+                    </app>
+                </p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

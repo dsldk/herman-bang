@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18911000001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 147</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1891-10-01" notBefore="9999-99-99" notAfter="9999-99-99">[1891.  oktober], Mandag<note>Bang var indlagt på
+                  Kommunehospitalet i tidsrummet 7.-29.10.1891. Brevet er følgelig skrevet mandag
+                  12., 19. eller 26.10.1891</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Kommunehospitalet.</p>
+                <p rend="right">Mandag.</p>
+                <p>Kære Nansen.</p>
+                <p>Tak for din Ulejlighed med Forestillingen<note>Beneficeforestillingen på
+                  Dagmarteatret 31.10.1891 til fordel for Herman Bangs rekreationsrejse; 3. akt af
+               <persName key="Ibsen, Henrik">Henrik Ibsen</persName>s skuespil <title key="Gengangere">Gengangere</title> blev
+                  opført (jf. Mette Borg, s. 198)</note> – om hvilken jeg kun har ét Ønske, at den
+               maa finde Sted d 31 hujus<note>lat.: i indeværende måned</note> – og for din
+               Bog<note>Peter Nansen: <title key="Et Hjem">Et Hjem</title>. En Fortælling, der udkom i efteråret 1891 (se
+                  Karin Bang, s. 290-292)</note>.</p>
+                <p>Dens sidste Halvdel har glædet mig oprigtigt. Du siger meget om Menneskene og du
+               siger det godt. Lidelserne, som du skjuler, skjuler du <emph>forsætligt</emph>, og
+               maaske har du Ret. Der er ikke nok af os andre, som tager Tingene trop au
+                  sérieux<note>fr.: alt for seriøst</note>.</p>
+                <p>Fru Nancy<note>Person i Nansens lille roman Et Hjem, jf. Karin Bang, s. 292</note>
+               synes mig bedst. Hun lever lige ved Siden af os – tankeløs, syg efter mild Pirring og
+               fuld af Løgn, som hun selv tror, er den halve Sandhed.</p>
+                <p>Lev vel.</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

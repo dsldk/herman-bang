@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19040318001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 371</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-03-18" notBefore="9999-99-99" notAfter="9999-99-99">1904. 18. marts.  [fredag]<note>Fra turneen rundt i landet, ukendt sted</note>
+                </date>
+                <placeName cert="low">empty</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">18.3.1904.</p>
+                <p>Kære Nansen.</p>
+                <p>Øjeblikket nærmer sig vel, hvor du har læst "<title key="Mikaël">Mikaël</title>" til Ende. Naar du har gjort
+                        det, beder jeg <app>
+                        <lem>dig</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> saa meget skrive mig, hvad du saa synes om den. Det kan ikke nytte at
+                        du sender mig nogle "skaansomme" Ord. For jeg kan alligevel sé Sandheden
+                        igennem dem. Skriv derfor rent ud af din Tanke. Er "Mikaël" mislykket, vil
+                        det jo altid være mig et svært Slag. Men hellere vide det strax .... Skriv
+                        mig derfor et Par Ord blot. Jeg ved jo, at du har saa mange "Digtere" at
+                        skrive til, og hver enkelt synes naturligvis, at hans er det vigtigste. Det
+                        maa saamæn være svært at staa i din Stilling.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

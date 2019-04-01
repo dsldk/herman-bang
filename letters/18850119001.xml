@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850119001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 14</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-01-19" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 19. januar], Mandag<note>Kombinationen "mandag" og dagen før Peter Nansens fødselsdag 20.
+                januar passer kun på 1885 og 1886, men i 1886 befandt Bang sig på denne mandag i
+                Tyskland</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Mandag.</p>
+                <p>Min kære Peter – jeg ved ikke hvordan du har bestemt om din Fødselsdag, men hvis
+                        du iaften vil seile den imøde sammen med mig, saa kom ud i
+                        Dagmar-Restauranten<note>Dagmarteatret, Vester Boulevard (nuværende H.C. Andersens Boulevard) i København, blev indviet 7.3.1883. Der er rimeligvis tale om restauranten i dette nybyggede teaterkompleks</note> iaften Kl. halv elleve? Vil du det?</p>
+                <p>Hvis du kommer, sender du intet Svar.</p>
+                <p>I modsat Fald, læg et "Nei" i en Postkasse.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

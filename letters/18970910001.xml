@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18970910001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 04</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1897-09-10" notBefore="9999-99-99" notAfter="9999-99-99">[1897. 10. september], Fredag<note>Datering retter sig efter
+                  brevets oplysning: "Jeg var i Jylland...", som refererer til Bangs kortvarige og
+                  nervebetonede ophold på Bangsbo, 28.8.-8.9.1897. Se også Harry Jacobsen: Den
+                  tragiske Herman Bang, s. 19, Breve til Fritz, s. 25-28 og Karin Bang, s.
+                  461f</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag.</p>
+                <p>Ja, kære Børn, naar jeg ikke har været ude hos Jer, er Grunden egenlig sørgelig
+               sørgelig. Jeg var i Jylland<note>Bang opholdt sig 28.8.-8.9.1897 hos vennen Johan Knudsen (1865-1942) på godset
+                     <placeName key="Bangsbo">Bangsbo</placeName> ved Frederikshavn</note> og da jeg kom, var jeg lam
+               i Benet. Jeg kan ikke gaa – voila<note>fr.: sådan er dét</note>. Lægerne haaber vel,
+               det kan være Ischias, men min Massør, til hvem Lægen har talt, giver mig ikke noget
+               Haab. Det er ogsaa bedre at kende Sandhed og allerede de franske Læger forberedte mig
+               jo. J'y suis<note>fr.: Jeg hænger på den</note>.</p>
+                <p>Her er jeg og jeg tror, at Bladet<note>Aftenbladets redaktion</note> er lidt til
+               Ende med sin Taalmodighed. Jeg faar nok Penge fra <persName key="Holst, Nini">min
+                  Søster</persName>
+                    <note>Nini Holst (døbt Nicoline Sophie Bang) (22.3.1853-17.12.1922), søster til Herman Bang, gift 1879 med exam.jur. Alfred Peter Holst (1842-99), fra 1884 godsforvalter ved grevskabet <placeName key="Wedellsborg">Wedellsborg</placeName> ved Lillebælt,
+                  syd for Middelfart</note> paa Fyen. Men jeg har slet ingen. Jeg véd saa godt, at du har haft saa
+               mange <app>
+                        <lem>Udgifter</lem>
+                        <rdg>Ordet er rettet, vist efter en skrivefejl</rdg>
+                    </app> netop nu, men, hvis du kan, da laan mig endnu tredive Kroner. Jeg skal nok
+               skrive <persName key="Réjane, Gabrielle">Réjane</persName>-Heftet<note>Bangs artikel
+                  "Réjane hjemme og paa Scenen", illustreret med fem rollefotos, trykt i ugebladet
+                  Hver 8. Dag (udgivet af Gyldendal), 4. årgang, nr. 1, 2.10.1897, s. 3-5. Gabrielle Réjane (1856-1920), berømt fransk skuespillerinde, som Bang instruerede i Paris 1894</note>
+               til Forlaget og det bliver nok de halvtreds Kroner, som jeg i et Brev beder dig at
+               hæve i Forlaget.</p>
+                <p>Sig til <persName key="Grøn, George C.">Grøn</persName>
+                    <note>George C. Grøn, (1864-1923), der fra oktober 1897 var redaktør af ugebladet Hver 8. Dag</note>, at jeg er
+               rede og at jeg endnu idag skal skrive til <placeName key="Paris">Paris</placeName>
+               efter Fotografier.</p>
+                <p>Jeg har fra den unge <persName key="Clarétie, Leo">Clarétie</persName>
+                    <note>Formodentlig den franske journalist og forfatter Léo Claretie (1862-1924), en nevø af journalisten Jules Clarétie</note> haft et langt Brev, hvori han hjerteligt bad
+               hilse dig.</p>
+                <p rend="right">Din Herman</p>
+                <p>Det er det venstre Ben, som det er galt med.</p>
+                <p>Mange mange Hilsener.</p>
+                <p>Tilgiv min Skrift.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

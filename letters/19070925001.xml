@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19070925001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NBD 2.rk. Acc. 2005/80</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort. Billedsidens motiv er et fotografi af et gadeparti, med
+                                 trykt tekst: <q>Berlin W., Wilmersdorf. Fasanenplatz Schaperstrasse
+                                    – Fasanenstrasse</q>
+                                            </ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Et lille blyantsnummer "531" øverst til højre på kortets tekstside må
+                              være påført af Det Kongelige Bibliotek under ordningen i 2004 af F.J.
+                              Billeskov Jansens efterladte papirer</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1907-09-25" notBefore="9999-99-99" notAfter="9999-99-99">1907. 25. september [onsdag]<note>Dateres efter poststemplet. –
+                  Postkortet blev i 2004 indlemmet i Det Kongelige Bibliotek som del af professor
+                  F.J. Billeskov Jansens efterladte papirer (Acc. 2004/69) og fik året efter en
+                  selvstændig søgbar signatur (Acc. 2005/80). Det må antages, at dette postkort er
+                  kommet i Billeskov Jansens eje adskillige årtier forud, måske som en gave fra dets
+                  daværende, nu ukendte ejer (Billeskov Jansen var selv født 30.9.1907, altså få
+                  dage efter dette postkorts datering, hvad der kan have været en anledning til at
+                  forære ham det ved en rund fødselsdag el.lign.)</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Min kære Ven.</p>
+                <p>Saasnart min Novelle<note>"<title key="Stærkest –">Stærkest –</title>", <title key="Sælsomme Fortællinger">Sælsomme Fortællinger</title>, Gyldendal
+                  1907</note> er færdig skriver jeg. Før kan jeg ikke. Altid Deres</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

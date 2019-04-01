@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18870115001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 176</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="visitkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Visitkort. Fortrykt <q>Herman de Bang.</q> i tillempet
+                                 skriveskrift</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1887-01-15" notBefore="9999-99-99" notAfter="9999-99-99">[1887. 15. januar. ] Lørdag<note>Ud fra datering til "Lørdag"
+                  og omtalen af valgkampen op til Folketingsvalget 28.1.1887 er dateringsforslaget
+                  relativt velbegrundet</note>
+                </date>
+                <placeName cert="high">[Prag]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Om et Par af disse Noter (NB'erne) vilde jeg have skrevet Artiklerne. Valgene lod mig
+               fatte mig i denne Korthed ...... Nu maa "Redaktør" <persName key="Knudtzon, Fr. G.">Knutzon</persName>
+                    <note>Formentlig Fr. G. Knudtzon (1843-1917), dr.phil., kunsthistoriker, fra 1875 indehaver af Fr. G. Knudtzons Bogtrykkeri,
+                  København</note> forbarme sig.</p>
+                <p>Eders Tone i Valgkampagnen er mig, kære Don, saa fremmed, at jeg synes jeg maatte
+               blive som en Hund i Kegler. Dog sender jeg i Ugen <emph>to</emph> Artikler.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

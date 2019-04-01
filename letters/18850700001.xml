@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850700001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 245</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider. Brevpapir: slyngmonogram HJB (uden krone)</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med fremmed hånd er med blyant skrevet: <q>[1885]</q> øverst på
+                              brevet, lige under nummeret 245. Jf. tilsvarende ved Nr. 243, 244 og
+                              246. Kilden hertil er ukendt</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1885-07-01" notBefore="9999-99-99" notAfter="9999-99-99">[1885.  juli], Lørdag<note>Bang har formentlig skrevet
+                  brevet i København mellem to udlandsophold, jf. sætningen: "Jeg er ikke herhjemme
+                  for Intriger". Det anvendte brevpapir kunne passe med sommer 1885</note>
+                </date>
+                <placeName cert="low">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag</p>
+                <p>Nei – kære Peter – jeg vil være <emph>helt</emph> udenfor Sagerne. Jeg er ikke
+               herhjemme for Intriger. Sig intetsomhelst til <persName key="Brandes, Edvard">Brandes</persName>
+                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note>.</p>
+                <p>Du kan jo <emph>spørge</emph> ham, om det er afgjort med <persName key="Andersen, Theodor">Andersen</persName>
+                    <note>Theodor Andersen (1835-1909), 1884-87 direktør for Dagmarteatret</note>. Sig, om det ikke var
+               bedst at faa det bestemt.</p>
+                <p>
+                    <emph>Mig</emph> er det <app>
+                        <lem>det</lem>
+                        <rdg>Ordet er skrevet hen over bogstaverne "sa" i det næste ord</rdg>
+                    </app> samme, <emph>hvor</emph>
+                    <persName key="Aalberg, Ida">hun</persName>
+                    <note>Ida Aalberg (1857-1915), finsk skuespillerinde; under en gæsteoptræden 1885-86 ved Casino og Dagmarteatret i København spillede hun på svensk og senere på dansk. Meningen er vel: Casino eller Dagmarteatret. – Ifølge en notits i
+                  Politiken, 14.6.1885, var hun netop blevet "engageret til et Par
+                  Gæsteforestillinger paa Kasino", dvs. i titelrollen i den franske dramatiker <persName key="Scribe, Eugène">Eugène Scribe</persName>s (1791-1861) skuespil <title key="Adrienne Lecouvreur">Adrienne Lecouvreur</title>; hun "vil her spille paa
+                  Svensk, hvilket Sprog hun tidligere paa Kristiania Theater<note>Dvs. teatret i Oslo</note> har benyttet. I
+                  Helsingfors har hun været knyttet til den finske Scene, og ligeledes i Stockholm
+                  er hun optraadt paa Finsk". Se også brevet 1885, juli, Aften</note> er – som
+                  <emph>Gæst</emph>. Det sidste ligger mig paa Hjerte, fordi hun er finsk.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman</p>
+            </div>
+        </body>
+    </text>
+</TEI>

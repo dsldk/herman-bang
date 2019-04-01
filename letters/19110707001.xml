@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19110707001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 471</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1911-07-07" notBefore="9999-99-99" notAfter="9999-99-99">1911. 7. juli.  [fredag]<note>empty</note>
+                </date>
+                <placeName cert="low">[Norge? Sverige?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">7.7.11.</p>
+                <p>Min kære Ven.</p>
+                <p>De telegraferede Penge returneres, saasnart mine Oplæsninger er afsluttede.</p>
+                <p>
+                    <persName key="Houmark, Christian">Houmark</persName>
+                    <note>Christian Houmark (1869-1950), der som journalist var knyttet til avisen København</note>
+               bringer mig til Fortvivlelse. Han skriver og skriver om hvad jeg har "sagt". Og jeg
+               har <emph>intet</emph> af det sagt. Under min Samtale med <persName key="Witzansky, Harald">W:</persName>
+                    <note>Harald Witzansky (1862-1940), redaktør af avisen København</note> var
+                  <emph>Grundlaget</emph> for alt: at H: skulde træde ind i sin gamle Stilling paa
+               de gamle Vilkaar. Dette blev slaaet fast.</p>
+                <p>Min eneste Indsats (som C:H: ikke ved noget om) var i Hemmelighed denne: Da jeg tog
+               fat i Blade igen, skrev jeg alt i "K"<note>Avisen København</note> (skønt det
+               betaler sig slettest) fordi jeg ménte, at naar <emph>jeg</emph> paany sad fast, var
+               Houmarks Stilling bedre og lettere – af mange Grunde.</p>
+                <p>Det var <emph>min</emph> Part i det.</p>
+                <p>Og nu er det blevet mig, som ødelægger ham.</p>
+                <p>For Himlens Skyld: lad ham <emph>begynde</emph> – og alt ordner sig. W: sagde mig, at
+               han havde givet <persName key="Locher, Jens">Locher</persName>
+                    <note>Jens Locher (1889-1952), journalist, fra 1909 ved avisen København</note> Afslag for at bevare H: – – Jeg bliver rent fortumlet af
+               alt det.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

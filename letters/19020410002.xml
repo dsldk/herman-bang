@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19020410002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 218</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1902-04-10" notBefore="9999-99-99" notAfter="9999-99-99">[1902. 10. april], Torsdag<note>Dateres i forhold til Peter
+                  Nansens brev til Herman Bang, 10.4.1902. Med otte daglige postombæringer i
+                  København kan brevet på én dag sagtens være nået fra Frederikssund og udbragt i
+                  København, og Nansen kunne derfor sende sit svar den samme dag</note>
+                </date>
+                <placeName cert="low">[Frederikssund?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Torsdag.</p>
+                <p>Kære Nansen.</p>
+                <p>Jeg maa fortælle dig noget Glædeligt – der er saa lidt glædeligt, naar det drejer sig
+               om mig – :</p>
+                <p>Du véd, jeg skrev i Sommer en "Roman" for at kunne leve og faa "Det Graa"<note>
+                        <title key="Det                graa Hus">Det
+               graa Hus</title>
+                    </note> færdigt. Den var til "Skandinavisk Bibliotek" og hedder jo
+                  "Sommerglæder"<note>Udkom i dagene før 21.11. 1902 hos Det Nordiske Forlag, som
+                  var ledet af Ernst Bojesen (1849-1925)</note>. Jeg var saa bange for, at den ikke var god.
+               Men nu har jeg gennemarbejdet den og <persName key="Tegner, Hans">Hans
+                  Tegner</persName> har læst den og synes, den er saa god, at han vil illustrere
+               den. Og det synes jeg er rart. Bojesen syntes nu strax, den var saa udmærket, at han
+               gav mig en Masse Penge for den – for at eje den i fem Aar.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

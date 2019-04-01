@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18900300003</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 15</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1890-03-01" notBefore="9999-99-99" notAfter="9999-99-99">[1890.  marts. ]<note>En datering må rette sig efter bogen
+               Korte Veje og lystspillet <title key="Svigermo'r">Svigermo'r</title>, begge aktuelle i marts 1890</note>
+                </date>
+                <placeName cert="high">Kristiania, dvs. Oslo</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Kristiania.</p>
+                <p>Kære Peter.</p>
+                <p>Overgiv vedlagte Brev til <persName key="Hørup, Viggo">Hørup</persName>
+                    <note>Viggo Hørup (1841-1902), politiker (Det Radikale Venstre), medstifter af dagbladet Politiken 1884, redaktør af samme</note>. Det er om Statsunderstøttelse<note>Ikke nærmere
+                  oplyst</note>.</p>
+                <p>Saa du dog florerer: baade Stykke<note>Peter Nansen havde oversat lystspillet
+                  Svigermo'r (af franskmændene <persName key="Sardou, Victorien">Victorien Sardou</persName> og
+                     <persName key="Deslandes, Raymond">Raymond Deslandes</persName>), som 19.3.1890
+               havde première på Folketeatret</note> og Bog<note>
+                        <title key="Korte Veje">Korte Veje</title>. Scener og
+                  Smaahistorier. Udkom hos Schubothe i ugen 21.-27.3.1890</note> og det Hele. Det
+               er dog dejligt.</p>
+                <p>Naar er det <persName key="Brock, Louise">din Kone</persName>
+                    <note>Skuespillerinden Louise Nansen, født Brock, var født 26.3.1864; gift 1887-ca. 1891 med Peter Nansen</note>s Fødselsdag og er hun igen hjemme?</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman Bang.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

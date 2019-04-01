@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18870306001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 110</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Blyantspåskrift af Peter Nansen på side 2: <q>Philipsen</q> og
+                                 <q>Henrik Cavling</q> samt hans overkrydsning af de partier af
+                              brevet, som er udeladt i trykket i Vandreaar</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. LXVIII</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1887-03-06" notBefore="9999-99-99" notAfter="9999-99-99">[1887. 6. marts], Søndag<note>Brevet er ikke forsøgt nøjere
+                  dateret i Vandreaar, s. 258; dér placeret som udgavens første brev fra 1887 og kun
+                  med den første del aftrykt. Brevet dateres i forhold til Strindbergs avisartikel i
+                  Politiken, søndag 27.2.1887; avisen kan næppe den samme dag være kommet Bang i
+                  hænde i Prag</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag Søndag.</p>
+                <p>Kære Peter.</p>
+                <p>En Evighed er det, siden jeg skrev. Det skyldes mit Humør, og mit Humør skyldes atter
+                  <persName key="Schou, Andreas">Schou</persName>
+                    <note>Andreas Schou (1829-89), boghandler og forlægger i København, indehaver af Andr. Schous Forlag indtil nytår 1889; forlægger for Herman Bang</note>. Jeg har ikke fundet det nødigt at forsøde din
+                  Hospitalstilværelse<note>Peter Nansens værnepligt som sygepasser, jf. brevet
+                  18870108</note> yderligere med mine særdeles private Kvaler, der jo hovedsagelig
+               kun gaar ud paa, at mine Indtægter er i saa rivende Synken, at ingen Besparelser kan
+               følge dem. Alle mine Forsøg paa at aabne nye Afsætningskilder for mit Arbejde – slaas
+               tilbage, og jeg kan snart ikke sé hverken Vej eller Mulighed. Min eneste Glæde er min
+                  Bog<note>Arbejdet med romanen <title key="Stuk">Stuk</title>, der udkom 26.10.1887
+                  hos forlaget Schubothe</note>. Om jeg kunde skrive den med lidt rigeligere Paalæg
+               paa mit Brød og saaledes med stærkere Nerver, tror jeg, den vilde komme til at
+               overraske Jer. Den skildrer vort elskede København med en bitter Lystighed og séte
+               Mennesker – som <emph>dog</emph> ikke præsenterer sig som Portrætter – føjer sig
+               villigt ind i Bogens "Idé". Du vil faa sé et Redaktionspersonale, som vil berede dig
+               den lyse Glæde, og i det hele lykkes det mig vel at vise, hvorledes Kendemærkerne paa
+               en Tid kan forfølges til de mindste Ting. I Løbet af Bogen haaber jeg at faa Billedet
+               af vor By ret lyslevende. De uendelige Detailler springer daglig frem af mit Hoved.
+               –</p>
+                <p>Naar blot Bøf hang paa Træerne. Penge vil jeg slet ikke tale om.</p>
+                <p>Denne <persName key="Cavling, Henrik">"Henrik"</persName>
+                    <note>Journalisten Henrik Cavling (1858-1933), fra 1886 ved Politiken. Jf. også brevet 18861208</note> har vel holdt godt paa Jeres
+               Abonnenter. Han indgyder mig en dyb Rædsel, men for Bladet er han vist af saa stor
+               Nytte, at jeg syntes han hellere skulde tage sine fire Dage og blive hjemme. Apropos
+               – vil du takke <persName key="Brandes, Edvard">Edv: B.</persName>
+                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> for hans Møje. Jeg havde intet Øjeblik troet, at det
+               vilde vise sig muligt at bevæge Philp:<note>
+                        <persName key="Philipsen, Gustav">Gustav
+                     Philipsen</persName> (1853-1925), indtil 1895 ejer af P.G. Philipsens Forlag, København; senere kommunalpolitiker i København</note> til en Oversættelse, men
+               alligevel hænger saadant et Haab sig i et Haar blot for at kunne blive hængende.</p>
+                <p>Din Hospitalstjeneste maa da være gyselig, skønt Potterne<note>Dvs.
+                  latrintønderne</note> vel bæres ud af købte Slaver (for hvilke "Kapitaler" køber
+               du, kære?) og det nedrigste Arbejde overhovedet besørges af andre. Beretninger siger
+               mig at Uniformen ikke "misklæder dig", hvilket jo er et noget vagt Begreb.
+                  <emph>Jeg</emph> tænker jo nærmest paa salig <persName key="Helsengreen, Frederik">Helsengreen <emph>père</emph>
+                    </persName>
+                    <note>fr.: far, dvs. den ældre, nemlig skuespilleren Frederik Helsengreen (1827-90), far til skuespillerne
+                     <persName key="Helsengreen, Albert">Albert</persName> og <persName key="Helsengreen, Emil">Emil Helsengreen</persName>. Frederik Helsengreen døde
+                  dog først i 1890, men led i sine sidste år under svigtende hukommelse på
+                  scenen</note> i "Frk. Nitouche"<note>
+                        <title key="Frøken Nitouche">Frøken
+                     Nitouche</title>, vaudeville af franskmændene <persName key="Meilhac, Henri">Henri Meilhac</persName> (1831-97) og <persName key="Millaud, Albert">Albert Millaud</persName> (1844-92),
+                  dansk premiere på Dagmarteatret 31.8.1884; stykket opførtes i alt 165 gange frem
+                  til 1887. Ifølge DBL spillede Frederik Helsengreen korporalen i stykket</note>. –
+               Med <persName key="Andersen, Theodor">Andersen</persName>
+                    <note>Theodor Andersen (1835-1909), skuespiller, 1884-87 direktør for Dagmarteatret</note> er der da vist noget "bag" – men hvad? Vil han løses
+               fra generende Personaleforpligtelser og tager derfor Pas et Aarstid eller rettere et
+               Par Maaneder? <emph>Min</emph> første Tanke var jo <persName key="Lerche, Camilla">"Lerche'n"</persName>
+                    <note>Skuespillerinden Camilla Lerche (1836-1914), 1858-84 ved Casino, 1884-94 ved Dagmarteatret</note>. Om <persName key="Cetti, Frederik">Cetti</persName>
+                    <note>Frederik Cetti (1838-1906), skuespiller, leder 1887-88 af Dagmarteatret, kunstnerisk leder af Casino 1889-90 og 1891-92</note> slæbte hende i Hus. Og <persName key="Aalberg, Ida">"Ida"</persName>
+                    <note>Ida Aalberg (1857-1915), finsk skuespillerinde</note> – "den anséte" Skuespillerinde! For hende gør <app>
+                        <lem>det</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> mig, Gud ved, hvor ondt. Hun er et meget stort Talent og ledet paa gale Veje.
+               Desuden har hun Dybde nok til virkelig at <emph>lide</emph> under Skuffelser. At
+                  <persName key="Rasmussen, August">Rasmussen</persName>
+                    <note>August Rasmussen (1838-1922), der 1884-87 var direktør for Casino i København; hans direktørperiode endte med en økonomisk fallit</note> sidder endnu efter den mislykkede
+               Jubilæums-Storm paa København<note>20.2.-1.3.1887 opførte Casino forfatteren <persName key="Reinhard, Joakim">Joakim Reinhard</persName>s (1858-1925, emigreret til USA 1889) skuespil <title key="Stormen paa                      Kjøbenhavn">Stormen paa
+                     Kjøbenhavn</title>: Krigsbilleder fra 1659-60</note>, overrasker mig mer end
+               højligt. Sé paa hans Komedie gør dog sikkert absolut ingen. Og der er jo dog en
+               Gagedag i hver Maaned. "Besøget" i København<note>
+                        <title key="Besøget i København">Besøget i København</title>, lystspil af forfatteren <persName key="Hertz, Henrik">Henrik
+                     Hertz</persName> (1798-1870), havde premiere 10.3.1887 på Casino, hvor det gik otte
+                  gange</note> vil vel glæde ham just saa meget som "Stormen". Anbefal ham – ad
+               Omveje – Farcen "<title key="Ein toller Einfall">Ein toller
+                  Einfall</title>"<note>Skrevet af den tyske lystspilforfatter <persName key="Laufs, Carl">Carl
+                  Laufs</persName> (1858-1900), oprindelig til Mainzer Carneval Verein; trykt af forlaget
+                  Reclam, Leipzig uden år</note>, som sikkert vilde more. Selv jeg har sét den
+                  <emph>to</emph> Gange, og jeg er ellers uimodtagelig for det humoristiske. Jeg
+               vilde meget gerne læse "<title key="Albertine">Albertine</title>"<note>Roman af den norske maler og forfatter
+                     <persName key="Krohg, Christian">Christian Krohg</persName> (1852-1925), udkom i Kristiania (dvs. Oslo)
+                  20.12.1886 og blev dagen efter beslaglagt som usædelig</note> – men hvorfra faa
+               den? <persName key="Skram, Erik">Skram</persName>
+                    <note>Forfatteren Erik Skrams (1847-1923) anmeldelse af romanen Albertine står i tidsskriftet Tilskueren, februar 1887,
+                  som en del af hans artikel "Den nye Literatur", s. 145-166, konkret s.
+                  151-156</note> er et Fæ. Man faar ikke bildt mig ind, at denne
+                  "Visitation"<note>Alle offentligt registrerede ludere var i datiden underkastet
+                  visitation, dvs. tvungne regelmæssige undersøgelser hos den stedlige politilæge. I
+                  Krohgs roman gælder dette også Albertine</note> er Højden af Roman. Lidet
+               forstaar jeg, at der hyles saa svært over dette "Parade-Syn". Vi maa jo, Gud straffe
+               mig, dog alle til en Doktor. Men sandsynligvis er det hele ogsaa en højst oppustet
+               Historie – jeg mener Forargelsen over Lægesynet.</p>
+                <p>
+                    <persName key="Strindberg, August">Strindberg</persName>
+                    <note>Den svenske forfatter August Strindberg (1849-1912), der 1887-89 var bosat i Danmark</note> burde spærres inde. Hans Snak om, at de stakkels
+               Piger – vore uformuende Søstre f:Ex: – er overflødige Abnormiteter, som ikke
+                  <emph>vil</emph> føde Børn(!!!)<note>I Politiken skrev Strindberg i januar-februar
+                  1887 flere større artikler om sit og samfundets kvindesyn, hvad der undervejs
+                  foranledigede redaktør <persName key="Hørup, Viggo">Viggo Hørup</persName> til at fremsætte
+                  nogle mere velafvejede betragtninger om emnet ("Er der et Kvindespørgsmaal?",
+                  Politiken, 4.2.1887). Bang refererer til Strindbergs artikel "Kvindesagen.
+                  Numerisk og proportionel Retfærdighed", Politiken, 27.2.1887, hvori der bl.a.
+                  står: "Den Kvinde, som siger, at hun ikke vil gifte sig, ikke faa Børn, hører til
+                  de Overflødige og de Ufuldstændige [...]" og "Mon Mødrene vil tillade, at
+                  Abnormiteter stifter Love for de Normale, at de, som lader haant om Barnefødsel og
+                  de som hader Børn, skulde stifte Love om Opdragelsen af deres Børn." Artiklen er
+                  optrykt på svensk ("<title key="Numerisk och Proportionell Rättvisa">Numerisk och
+                     Proportionell Rättvisa</title>") i August Strindbergs Samlade Verk,
+                  Nationalupplaga, bind 17 (Likt och olikt I-II samt uppsatser och tidningsartiklar
+                  1884-1890), Stockholm 2003, s. 291-295</note>, er paa samme Tid for idiotisk og
+               for fræk. Herre Gud – der er sgu ingen, der vil give dem det <emph>nødvendige</emph>
+                    <emph> t i l </emph> [dobbelt understregning!] at føde dem. Eller rettere sagt:
+               enhver Kvinde vil sikkert gerne "føde Børn". Og <app>
+                        <lem>kun</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> en <emph>Ære</emph> er det, at hun ikke vil føde dem sammen med
+                  <emph>ethvert</emph> Mandfolk. Men hellere blive siddende. Én Gang i Livet kunde
+               vel enhver Pige blive gift – men naar hun saa siger "Nej-tak" den éne Gang <app>
+                        <lem>og ikke bydes op, naar hun gerne vilde</lem>
+                        <rdg>Ordene er tilføjet over linjen</rdg>
+                    </app> er det dog for stift, aandeligt talt, at hugge hende ned som et Bestie.</p>
+                <p>Manden er gal og burde indespærres paa offentlig Bekostning.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

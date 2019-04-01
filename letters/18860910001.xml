@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860910001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 126</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider. Fortrykt brevpapir: kronet monogram HB øverst til
+                                 venstre (ikke et slyngmonogram)</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Blyantspåskrift af Peter Nansen: <q>Jeg havde i Spøg lanceret det
+                                 Rygte, at Prins V. skulde være Konge i Bulgarien. Kort efter blev
+                                 Spøgen til Alvor og diskuteredes i alle Verdensbladene</q>
+                                    </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. LI</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-09-10" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 10. september,  fredag] <note>Efter 20. eller 21.8.1886 at
+               være blevet styrtet ved et kup i <placeName key="Sofia">Sofia</placeName>, abdicerede fyrst <persName key="Alexander">Alexander</persName> af <placeName key="Bulgarien">Bulgarien</placeName> 8.9. og forlod Bulgarien</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag.</p>
+                <p>Kære Peter.</p>
+                <p>Hermed <persName key="Valdemar, prins">Valdemar</persName>
+                    <note>Dvs. Bangs manuskript til artiklen "Prins Valdemar Fyrste i Bulgarien", trykt i
+                  Politiken, 16.9.1886. Prins Valdemar (1858-1939) var søn af kong Christian 9. og i 1885 gift med prinsesse Marie</note>
+                </p>
+                <p>Det synes nu sikkert, at han bliver Fyrste.</p>
+                <p>Jeg spørger derfor, om i saa Fald "Politiken", der først har foreslaaet Europa denne
+               Fyrste, ønsker en Korrespondent i Sofia i Anledning af Regeringstiltrædelse o:s:v:
+               Jeg vil paatage mig Reisen, der i hvert Fald er halvveis tilbagelagt fra København at
+               regne. Men jeg gør opmærksom paa, at Spøgen, som var god, ogsaa vilde blive dyr. Jeg
+               fordrer nu, hvor jeg er klogere, alle mine Udgifter betalt – almindeligt beregnede
+               Reiseudgifter, som jeg vedlægger med Hovedregninger – samt allerhøieste Honorar for
+               hver Linie jeg skriver.</p>
+                <p>Du vil forstaa, at Reisen ikke har megen Charme for mig. Du véd, at jeg af min
+               Indtægt ved Turen dog intet faar tilovers. Jeg gør Spørgsmaalet, fordi det efter min
+               Mening er Pligt, naar man som Journalist er i et Blads Brød, da at stille hos
+               Kommandanten – beredt til mulig Tjeneste – naar en Tromme røres.</p>
+                <p>Privat er jeg saare træt og saare, saare mismodig.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

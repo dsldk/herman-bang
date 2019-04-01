@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19050927001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 197</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1905-09-27" notBefore="9999-99-99" notAfter="9999-99-99">[1905. 27. september], Onsdag<note>Brevet er skrevet i
+                  slutningen af enten september eller oktober 1905. En onsdag et par dage før et
+                  månedsskifte passer bedst med 27.9.1905</note>
+                </date>
+                <placeName cert="low">[København?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag.</p>
+                <p>Kære Nansen.</p>
+                <p>Hermed sender jeg dig den første Begyndelse, for at du dog kan sé noget af "de
+               (Stakler) uden Fædreland["].</p>
+                <p>Og saa beder jeg dig, om du vil lade Bogladen give <persName key="Eskildsen">Eskildsen</persName>
+                    <note>Bangs tjener og medhjælp</note> min Gage med hjem. 1) Det er et Par Dage før
+               den første, fordi jeg endnu ikke har naaet at betale <persName key="Holst, Nini">min
+                  Søster</persName>
+                    <note>Nini Holst (1853-1922), Herman Bangs søster, enke siden 1899, adoptivmor til Bertha Holst. Enkefru Holst og Herman Bang delte bolig i København 1900-1907</note> fuldtud for <emph>denne</emph> Maaned og gerne vil gøre det
+               før den første. 2) Er det jo, som du véd, Gagen for <emph>November</emph>. Gud bedre
+               det. Men det er Sommeren, der svider til mig endnu. –</p>
+                <p>Jeg tænker hver Dag paa, at <persName key="Nansen, Betty">Betty</persName>
+                    <note>Betty Nansen</note> nu, Himlen ske Tak, tjener Penge. Saa er da I fri for de
+               pinagtige Bekymringer. Det er saamæn godt at vide, at det gaar godt for nogen af os.
+               Det glæder En altid.</p>
+                <p>... Du kan ikke tænke dig, hvilken Opsigt "<title key="Mikaël">Mikaël</title>" gør i
+                  Tyskland<note>Romanens tyske oversættelse udkom 1906 hos S. Fischer Verlag,
+                  Berlin, antagelig i februar 1906</note>. De finder den saa ganske "sinnlich und
+               ohne Moral"<note>ty.: sanselig og uden moral</note> .... Ja, Moralen, det er
+                  <emph>der</emph>, det kniber.</p>
+                <p rend="right">Din hengivne</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

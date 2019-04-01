@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860306002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 319</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-03-06" notBefore="9999-99-99" notAfter="9999-99-99">1886. 6. marts [lørdag]<note>empty</note>
+                </date>
+                <placeName cert="high">Wien</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Wien. Hotel Hammerand. VIII Bezirk.</p>
+                <p rend="right">6.3.86</p>
+                <p>Kære Peter.</p>
+                <p>Et forfærdeligt Rovmord opfylder Staden med Skræk. Sang og Beretning indlagt. Jeg har
+               faret det af for at I kunde have Originalberetningen strax<note>Bangs artikel "Et
+                  Rovmord i Wien" blev trykt i Politiken, 10.3. 1886, med dateringen: Wien, den 6te
+                  Marts 1886</note>. Den dumme Idiot, at han ikke kunde tage den Avis med sig.</p>
+                <p>Jeg har tænkt paa – naa, alt, hvad jeg tænker paa, for at undgaa dette
+                  "Das"<note>"Das-Avisen" var af det københavnske borgerskab brugt som øgenavn for
+                  det sensationslystne blad Dagsavisen. Et das var i datiden en gængs betegnelse for
+                  et lokum</note> – om det ikke var muligt, <emph>jeg</emph> kunde faa en Farce at
+               oversætte for <persName key="Rasmussen, August">August</persName>
+                    <note>August Rasmussen (1838-1922), der 1884-87 var direktør for Casino i København</note>. Jeg er vildt lystig nu for Tiden og egner mig for det
+               burleske. Vel hører jeg ikke til "Pressen" men her i Operettens Hjem kunde jeg dog
+               til Gengæld gøre ham mange Smaatjenester, hvortil jeg er fuldt villig.</p>
+                <p>Om du hører, han har Manuskript til Farce – fransk eller tysk – da lad stille mit
+               Navn falde. Her har jeg sét en fuldstændig forrykt én-Akts Farce – men de Énakts
+               betaler sig saa skidt. Ikke er det Meningen, at jeg vilde have den idag eller have
+               Forskud eller sligt. Men det var rart at have i disse Maaneder.</p>
+                <p>To Ting ønsker jeg midt i min Sorrig her at vide hjemmefra: hvorfra <persName key="Valdemar, prins">"vor Valde"</persName>
+                    <note>Prins Valdemar (1858-1939), søn af kong Christian 9., gift 1885 med den franskfødte prinsesse Marie af Orléans</note> reiser til <placeName key="Grønland">Grønland</placeName> midt i Hvedebrødsdagene, og hvorfor <persName key="Bojesen, Ernst">"vor Ernst"</persName>
+                    <note>Forlæggeren Ernst Bojesen (1849-1925), der fra oktober 1886 var udgiver af tidsskriftet Norden.
+                  Illustreret skandinavisk Revue</note> har "opsat "Nordens" Udgivelse"?</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

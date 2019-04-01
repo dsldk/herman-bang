@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19010410001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 61</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-04-10" notBefore="9999-99-99" notAfter="9999-99-99">[1901. 10. april. ] Onsdag<note>Det er uklart, om dette brev
+                  er skrevet før eller efter trykningen af velgørenhedspublikationen <title key="Det skønne                   Frankrig">Det skønne Frankrig</title> –
+                  (hvori Bangs "Franske Kunstnerkolonier" er trykt). Dette forslag til datering
+                  forudsætter det sidste, altså: at Bang efter trykningens afslutning hermed sender
+                  sit manuskript til Nansens gemme</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag.</p>
+                <p>Kære Nansen.</p>
+                <p>Her er "Kunstnerkolonier"<note>"Franske Kunstnerkolonier", trykt s. 32-37 i: Det
+                  skønne Frankrig –, der udkom 9.4.1901 i forbindelse med den franskfødte prinsesse <persName key="Marie, prinsesse">Marie</persName>s (1865-1909) bazar 9.-11.4.1901. Med et forord af
+                     journalisten <persName key="Gulmann, Christian">Christian Gulmann</persName> (1869-1934), tekstbidrag af
+                  13 forfattere foruden Bang, illustrationer reproduceret efter 18 billedkunstnere
+                  foruden prinsesse Maries akvarel af en fransk rose i farvetryk på hæftets
+                  foromslag. På bagomslaget er trykt en lodseddel med individuelt påført firecifret
+                  nummer og liste over gevinster, heriblandt prinsesse Maries akvarel</note>, hvis
+               første Side du fik igaar. Maaske har det Hele kun en eneste Smule Interesse –
+                  <emph>den</emph>, at der i "Kolonierne" findes en gammel Kone, i hvis Mund "Hans
+                  Excellences"<note>Person i <title key="Det graa Hus">Det graa Hus</title>, som
+                  udkom 26.11.1901. "Franske Kunstnerkolonier" er erindringsglimt fra Bangs ophold i
+                  1894 i Montreuil, Normandiet. I teksten portrætterer han blandt andre sin 80-årige
+                  værtinde, Madame Fernande</note> Ord allerede spøger .....</p>
+                <p>Men, min Ven, alt dette sender jeg jo kun, fordi du saa har det, for det Tilfældes
+               Skyld, at I en Gang vilde udgive det. Alt afhænger jo af, hvormeget jeg betyder, naar
+               en Dag mit Kistelaag er lukket.</p>
+                <p>Og det bliver vist ikke meget.</p>
+                <p rend="right">Din hengivne</p>
+                <p rend="right">Herman Bang</p>
+            </div>
+        </body>
+    </text>
+</TEI>

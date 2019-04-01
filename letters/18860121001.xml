@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860121001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 307</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. XXXVIII</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-01-21" notBefore="9999-99-99" notAfter="9999-99-99">1886. 21. januar [torsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">[Meiningen]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">21.1.86.</p>
+                <p>Kære Don.</p>
+                <p>To Breve nu tilmorgen:</p>
+                <p>et fra <persName key="Nansen, Immanuel">Hvalpen:</persName>
+                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> "og jeg synes, Deres Artikel<note>Bangs artikel "Brev
+                  fra Herman Bang" i Politiken, 19.1.1886</note> idag i "Politiken" er altfor
+               elskværdig".</p>
+                <p>et fra <persName key="Neiglick, Hjalmar">Neiglick:</persName>
+                    <note>Hjalmar Neiglick (1860-89), finsk psykolog, i 1885 bosat i København, hvor han samarbejdede med Alfred Lehmann; 1887 docent i experimentel psykologi i Helsingfors</note> og idag Eders eget Brev til "Politik". Herre Gud –
+               hvor "vackert" det er. Overfor denne fuldkomne Fornemhed bøier man Hovedet.</p>
+                <p>Ikke sandt – to Domme, som fortjener at bevares – fra En <emph>i</emph> Vrøvlet – fra
+               En <emph>uden</emph>for det.</p>
+                <p>Men jeg <emph>selv</emph> staar endnu <emph>uden</emph> disse Numre. Kære Don, dette
+               er noget af en Livssag for mig og denne Artikel er Grunden, hvorpaa jeg skal
+               bygge.</p>
+                <p>Lad mig dog endelig faa den. Kostbar Tid gaar tabt.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

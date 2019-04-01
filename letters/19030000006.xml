@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19030000006</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Gyldendals arkiv B4c</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1903-01-01" notBefore="9999-99-99" notAfter="9999-99-99">[1903.  00,] Lørdag<note>Brevet er skrevet af sekretær
+                  (frøken Ville Kristiansen?). Egenhændig underskrift. Ved brevet ligger det
+                  blyantskrevne bilag fra Nordisk Forlag: <q>Rest paa Lager: c. 400 hæftet / c. 125
+                     indbunden / Oplag 60</q> har Bang selv skrevet med blæk: <q>leveret af Hr.
+                     König. Diskretion.</q>
+                        <persName key="König, hr."> Hr. König</persName> er antagelig en ansat ved Nordisk
+                  Forlag (der i 1903 fusioneredes med Gyldendal). – Sommerglæder udkom i 2.oplag
+                  primo oktober 1903</note>
+                </date>
+                <placeName cert="low">empty</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Kære Nansen!</p>
+                <p>Maaske gaar "<title key="Ravnene">Ravnene</title>" ikke godt. Jeg ved det jo ikke.
+               Men hvis det er Tilfældet, skyldes det den Omstændighed at "<title key="Sommerglæder">Sommerglæder</title>" kom først og er lysere. Thi "Ravnene" er dog meget bedre og
+               vil nok vinde frem med Tiden.</p>
+                <p>Vedlagde, <emph>fortrolige</emph> Tal viser Dig Salget af "Sommerglæder".</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19040909001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 150</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-09-09" notBefore="9999-99-99" notAfter="9999-99-99">[1904. 9. september], Fredag<note>Gustav Esmann blev søndag
+                  4.9.1904 skudt af en forsmået elskerinde, der derefter begik selvmord. Ved Esmanns bisættelse fredag 9.9.1904 fra
+                  krematoriet på Nyelandsvej talte Bang, – den første sætning i brevet hentyder
+                  hertil</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag.</p>
+                <p>Kære Nansen.</p>
+                <p>Det var mig svært idag og iaften skal jeg læse paa Sommerlyst<note>Et populært
+                  forlystelsessted beliggende lige ved Frederiksberg Runddel, Frederiksberg Allé
+                  102</note>. Jeg blev fri igaar, fordi jeg troede, det skulde være da. Nu, da det
+               blev opsat, <emph>maa</emph> jeg altsaa læse.</p>
+                <p>Naa – det er jo det skønne og brogede Liv<note>Måske en allusion til forfatteren <persName key="Kaalund, H.V.">H.V. Kaalund</persName>s (1818-85) digt "Jeg elsker den brogede
+                  Verden" fra 1877</note>.</p>
+                <p>
+                    <persName key="Esmann, Gustav">Esmann</persName>s Død har bragt mig ud af alle Fuger
+               og jeg har afsagt to Oplæsninger. Saa hele Karussellen er stanset en Uge. Jeg beder
+               dig derfor venligst give <persName key="Ernst, Knud">Ernst</persName>
+                    <note>Knud Ernst</note> hundrede Kroner af mine Oktober-Penge. Og saa er der en
+               Ting, jeg gerne vilde sige dig netop idag, hvor vi har begravet Esmann. Det var
+               rimeligt, hvis I tænkte paa, hvad det dog skulde blive til med mine Penge, naar jeg
+               ikke mere læser op. Men min Tilværelse er allerede indrettet netop paa, at jeg skal
+               læse op iaar og siden – <emph>ikke</emph>. Og en Plads i Bladverdenen er som Retræte
+               lavet for mig, naar jeg ikke mere læser – hvis jeg lever saa længe.</p>
+                <p>Dette vil <app>
+                        <lem>du</lem>
+                        <rdg>Ordet er en skrivefejl, som Bang ikke har rettet</rdg>
+                    </app> maaske berolige dig – jeg mener ikke som "Direktøren" men som min Ven.</p>
+                <p>Hils <persName key="Nansen, Betty">Betty</persName>
+                    <note>Betty Nansen</note> saa mange Gange</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+                <p>Det er sandt, <persName key="Hetsch, Gustav">Hetsch</persName>
+                    <note>Gustav Hetsch (1867-1935), musikkritiker ved Nationaltidende, var redaktør af "Danmark. Illustreret Familie-Almanak"</note> skal én
+               af de første Dage faa den Novelle<note>"<title key="Da Hans Højærværdighed dansede – ">Da Hans Højærværdighed dansede – </title>", se note
+                  til brevet 19040819</note>. I disse Døgn har jeg ikke formaaet at "digte".</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19110700002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1911-07-01" notBefore="9999-99-99" notAfter="9999-99-99">[1911.  juli. ]<note>Skrevet under Bangs ophold hos
+                  familien Sundt på øen <placeName key="Skorpen">Skorpen</placeName> ved Bergen,
+                  juli-august 1911, jf. Harry Jacobsen: Den tragiske Herman Bang, s. 198f</note>
+                </date>
+                <placeName cert="high">Bergen</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Bergen i juli.</p>
+                <p>Min kære Ven.</p>
+                <p>Nei nu bliver det for galt. Nu styrter De ogsaa ned ad trapperne og faar
+               hjernerystelse. Forhaabentlig gik det med Deres rystelse som med min ifjor<note>Bang
+                  sigter til den bilulykke, som han var ude for i København 10.10.1910</note> at
+               den nogenlunde blev paa trapperne.</p>
+                <p>Jeg vilde dog meget ønske, at De kunde overvinde Deres uhyrlige dovenskab saavidt, at
+               De kunde give gamlingen en smule besked baade om Deres nye fald og Deres øvrige liv.
+               Men desværre De skriver s'gu ikke. De er jo fløiet<note>Formentlig sammen med den 11
+                  år yngre pilot, som Betty Nansen kendte siden 1908, og som i 1911 angiveligt var
+                  hendes elsker, se Kvam, s. 133</note> i Tyskland og været over jorden. Jeg har
+               været under jorden<note>Bang var nede i en kobbermine på <placeName key="Svanøy">Svanøy</placeName> omtrent midtvejs mellem Bergen og Aalesund, jf. hans
+                  reportage "To Verdener", trykt i Bergens Tidende, 23.7.1911, og i avisen
+                  København, 9.8.1911</note>. Deiligt har jeg havt det. Men syg er jeg. Jeg har som
+               sædvanlig digtet om Dem. I <placeName key="Horsens">Horsens</placeName> kirke sad der
+               paa alteret to gibsengle med trompeter i munden<note>Øverst på altertavlen i Horsens
+                  Klosterkirke er i 1706 tilføjet et topstykke i bemalet træ, flankeret af to
+                  siddende engle "med, nu forsvundne, attributter i de respektive yderste hænder"
+                  (Danmarks Kirker, Århus Amt, bd. 10, Nationalmuseet 2004-05, s. 5776)</note>. De
+               to engle er jeg for Deres geni. <persName key="Ranft, Albert">Ranft</persName>
+                    <note>Albert Ranft (1858-1938), svensk skuespiller og teaterleder</note> er en latterlig person og slyngel. Mange hilsener</p>
+                <p rend="right">fra</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

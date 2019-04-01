@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18870108001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 43</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1887-01-08" notBefore="9999-99-99" notAfter="9999-99-99">[1887. 8. januar. ] Lørdag<note>8.1.1887 blev der udskrevet
+                  nyvalg til Folketinget til afholdelse 28.1.1887. – Kort efter nytår 1887 har Peter
+                  Nansen givetvis modtaget sin indkaldelse til den militære
+                  sygepassertjeneste</note>
+                </date>
+                <placeName cert="high">[Prag]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Kære Peter.</p>
+                <p>Tak for dit Brev. Tak for dit Tilbud – som jeg ikke modtager. Mindre end nogensinde
+               gaar min Lyst mod Støjen og den offenlige Opmærksomhed i København. Maaske er jeg her
+               ikke lykkelig – men jeg er idetmindste ubegloet.</p>
+                <p>Jeg har været meget syg denne Gang. Men det er nu bedre. Hermed min første
+                  Artikel<note>Dvs. op til folketingsvalget 28.1.1887. Den usignerede artikel har
+                  ikke kunnet identificeres i Politiken, men kan måske være et bidrag til rubrikken
+                  Smæld og Smuld</note>. Den gaar ind i Rækken af Eders – stærkt "holdte"
+               Agitationsskrig. Jeg skal sende saamange, jeg kan. Ti paa <emph>dette</emph> Punkt
+               maa der kunne vindes Hjerter og Stemmer.</p>
+                <p>Saa du gaar nu ind for at passe Syge?<note>Fra slutningen af januar aftjente Peter
+                  Nansen sin værnepligt som sygepasser ved kasernen i Wildersgade på Christianshavn,
+                  jf. Karin Bang, s. 213</note> Rart vil det jo næppe blive – før det er
+               overstaaet. <emph>Da</emph> vil du med Smil tænke paa de andres "overstandne
+               Besværligheder" – som du transporterede ud i Potten.</p>
+                <p>Hils <persName key="Ottesen, Christine Margrethe">Fru
+                  Ottesen</persName>
+                    <note>Christine Margrethe Ottesen (født ca. 1843), Bangs værtinde i Studiestræde 4, København</note>. Jeg
+               skriver til hende imorgen. Og hils <persName key="Nansen, Immanuel">Hvalpen</persName>
+                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+                <p>Sæt intet Mærke under disse Artikler.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

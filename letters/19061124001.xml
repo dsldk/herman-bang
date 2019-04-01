@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19061124001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 565, 4to. Nr. 39</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1906-11-24" notBefore="9999-99-99" notAfter="9999-99-99">1906. 24. november.  [lørdag]<note>Torsdag 22.11.1906 blev Bangs
+                  navn inddraget af middagsbladene i forbindelse med den igangværende
+                  "sædelighedsskandale", jf. Harry Jacobsen: Den tragiske Herman Bang, s. 164
+                  f</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">24.11. 1906.</p>
+                <p>Min kære Ven.</p>
+                <p>Inderlig Tak for Deres Brev. Jeg havde haabet at kunne komme. Men – efter
+                  Prøven<note>Rimeligvis en prøve på den danske forfatter Albert Gnudtzmanns (1865-1912) skuespil <title key="De flotte Drenge">De flotte Drenge</title>, som havde premiere 26.12.1906
+                  på Casino, i Bangs sceneinstruktion</note> – har jeg atter faaet voldsomme
+               Opkastninger.</p>
+                <p>Tak for hver god Tanke, I i disse Dage har sendt mig.</p>
+                <p>Lad <persName key="Nansen, Peter">Peter</persName>
+                    <note>Peter Nansen</note> sende mig to Ord om sin Mening om
+                  "Fædrelandet"<note>Romanen <title key="De uden Fædreland –">De uden Fædreland
+                     –</title>, der udkom 4.12.1906</note>.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

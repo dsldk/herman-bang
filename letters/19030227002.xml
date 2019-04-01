@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Peter Nansen</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19030227002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4685, 4to</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Peter Nansen</persName> til <persName role="recipient">Herman Bang</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider. Fortrykt brevpapir: <q>Gyldendalske Boghandel.
+                                    Kjøbenhavn, den .</q>
+                                            </ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="Peter Nansen">
+                                        <ab>empty</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1903-02-27" notBefore="9999-99-99" notAfter="9999-99-99">1903. 27. februar.  [fredag]<note>Det ene af to breve fra Peter
+                  Nansen til Herman Bang, købt i en københavnsk antikvarboghandel af Det Kongelige
+                  Bibliotek som del af Acc. 1968/25: 138 breve fra hhv. Herman Bang og Peter Nansen
+                  til Christian Houmark samt fem breve fra Peter Nansen til Herman Bang</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">27/2 1903</p>
+                <p>Kære Bang!</p>
+                <p>
+                    <persName key="Nansen, Betty">Betty</persName>
+                    <note>Betty Nansen</note> har forladt
+               sit Engagement ved Dagmarteatret. Hun har gjort det, fordi alle de Forudsætninger,
+               under hvilke hun sluttede det, er bristede. Man har i denne Sæson forsøgt at fjærne
+               hende af Repertoiret. Hun fik Rollen i <persName key="Brandes, Edvard">Brandes</persName>' Stykke<note>Betty Nansen spillede Rose i Edvard Brandes'
+                  skuespil <title key="Udenfor Loven">Udenfor Loven</title>, opført i alt 13 gange
+                  på Dagmarteatret 16.11.-12.12.1902</note>
+                    <emph>imod</emph>
+                    <persName key="Nielsen, Martinius">Mart. N.</persName>
+                    <note>Skuespilleren Martinius
+               Nielsen (1859-1928), tilknyttet Det Kongelige Teater</note>s udtrykkelige Ønske. Han selv har givet hende "la reine" og vilde nu,
+               at hun, efter sin lange ufrivillige Hvile, skulde spille en Rolle i <persName key="Christmas, Walter">Kapt. Christmas</persName>' Stykke<note>Forfatteren Walter Christmas' (1861-1924)
+                  lystspil <title key="Ulla">Ulla</title>, der havde premiere på Dagmarteatret
+                  12.3.1903</note>, en Rolle, der, som Du kan tænke, ikke rummer Mulighed for
+               kunstnerisk Udfoldelse. Hun bad sig fritaget. Man forlangte, hun <emph>skulde</emph>
+               spille Rollen. Da hun ikke vilde lade sig tvinge, gik hun. Naturligvis bliver det
+               Kontraktbrud-Affære. Hun paa sin Side anlægger Sag mod Teatret for at have brudt
+               Forpligtelsen overfor hende.</p>
+                <p>Nu maa Du gøre mig en Tjeneste at behandle denne Sag personlig i "København" –
+                  <emph>ikke overlade den til <persName key="Olsen, Frejlif">Freilif</persName>
+                  eller nogen anden</emph>
+                    <note>Frejlif Olsen (1868-1936), journalist ved avisen København og ved Politiken indtil 1905, derefter ved Ekstra Bladet; bror til journalisten Henrik Cavling</note>.</p>
+                <p>Selvfølgelig staar <app>
+                        <lem>vi</lem>
+                        <rdg>Ordet er rettet fra: jeg</rdg>
+                    </app> til Disposition med alle Oplysninger, Du kunde ønske.</p>
+                <p>Disse Dage har, kan Du tænke, været bevægede. Jeg har derfor ikke naaet at konferere
+               med <persName key="Larsen, Karl">Prof. Larsen</persName>
+                    <note>Forfatteren Karl Larsen (1860-1931), titulær professor 1899</note> om
+               Din Kontrakt. Jeg haaber at kunne gøre det imorgen.</p>
+                <p rend="right">Din P.N.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

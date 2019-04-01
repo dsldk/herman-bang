@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850823001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 183</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider. Brevpapir: slyngmonogram HJB (uden krone). Ulig sin
+                                 vane har Bang beskrevet begge sider af brevet på langs af
+                                 papiret</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1885-08-23" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 23. august], Søndag<note>Brevpapir og de citerede
+                  notitser i Politiken ligger til grund for den foreslåede datering</note>
+                </date>
+                <placeName cert="low">[Hamburg]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Søndag.</p>
+                <p>Min kære Peter.</p>
+                <p>Jeg – og <app>
+                        <lem>du?</lem>
+                        <rdg>Spørgsmålstegnet synes indføjet efter at den afsluttende tankestreg var
+                     skrevet</rdg>
+                    </app> – har læst i Aviserne<note>Hermed sigter Bang formodentlig snarere til den
+                  tyske lokalpresse end til danske aviser</note>, at der var <app>
+                        <lem>udsolgt</lem>
+                        <rdg>u'et er rettet fra U</rdg>
+                    </app> Hus og levende Bifald til min Forelæsning<note>Fredag 21.8.1885 holdt Bang
+                  foredrag i Hamburg om den norske dramatiker <persName key="Ibsen, Henrik">Henrik Ibsen</persName>s
+                  forfatterskab. En notits i Politiken, 25.8.1885, synes at have dette brev som
+                  forudsætning: "Herman Bang holdt i Fredags Foredrag i Hamborg om Henrik Ibsen.
+                  Huset var fuldt og Bifaldet stærkt. Bladene roser meget Foredraget." </note>.
+               Forsaavidt er jo alt vel, hvis ikke (<emph>mellem os</emph>) Regnskabet havde givet
+               et Resultat, som tvinger mig til at blive her<note>Sammenlign dette med notits i
+                  Politiken, torsdag 20.8.1885: "Herman Bang afrejste iaftes til Tyskland. I
+                  Begyndelsen af September ventes han tilbage." </note> og skrive en Masse sammen
+               for at komme videre. Jeg skriver hele Dagen ligesom en gammel Hest, som trofast løber
+               for Kærnen<note>Dvs. en arbejdshest, der er spændt for et trækværk med det formål at kærne smør</note>. Og selv om det ikke er Smør, H.B. kærner, indestaar jeg dig for, at det
+               heller ikke er Kunst.</p>
+                <p>Lev vel.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
