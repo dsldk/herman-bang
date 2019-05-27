@@ -5,14 +5,13 @@
                 <title>Bangs Breve</title>
                 <author>Herman Bang</author>
                 <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
                 <funder>Augustinus Fonden</funder>
             </titleStmt>
             <publicationStmt>
                 <publisher>Danske Sprog- og Litteraturselskab</publisher>
                 <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18801130001</idno>
+                <date>2019</date>
+                <idno type="hbb">18860903001</idno>
                 <idno type="isbn">nil</idno>
                 <availability status="restricted">
                     <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,19 +24,19 @@
                             <msIdentifier>
                                 <settlement>København</settlement>
                                 <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 240</idno>
+                                <idno>NKS 2353, folio. Blyantsnummer 1596</idno>
                             </msIdentifier>
                             <msContents>
                                 <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
                                 </summary>
                             </msContents>
                             <physDesc>
                                 <objectDesc form="brev">
                                     <supportDesc material="empty">
                                         <support>
-                                            <ab>Brev. Fortrykt brevpapir: <q>Herman Bang</q> på skrå i øverste
-                                 venstre hjørne, trykt i blå skriveskrift</ab>
+                                            <ab>Brev, 3 sider</ab>
                                         </support>
                                     </supportDesc>
                                 </objectDesc>
@@ -47,9 +46,14 @@
                                     </handNote>
                                 </handDesc>
                                 <additions>
-                                    <ab>Påskrift af Peter Nansen: <q>Et af Bangs allerførste Breve til mig.
-                                 Jeg boede i Dannebrogsgade i mit Rusaar 1879-80</q>
-                                    </ab>
+                                    <ab>På brevets bagside har Julius Schiøt skrevet et brev til
+                                        Andreas Schou: »Søndag [5.9.1886] / Kjære Hr. Schou, / Det
+                                        første brev fik jeg iforgaars, det andet igaar, det tredie
+                                        idag; de have gjort mig meget ondt, men der maa jo foreligge
+                                        en Uregelmæssighed i Postgangen, som de strax bør paatale. /
+                                        De har, efter Manza's Ord til mig sendt Penge baade Mandag
+                                        (ell. Tirsdag) og Fredag. de første maatte han jo dog have
+                                        før Fredag Aften. / Med Hilsen Deres Jul. Schjøtt«</ab>
                                 </additions>
                             </physDesc>
                             <history>
@@ -72,29 +76,27 @@
         </encodingDesc>
         <profileDesc>
             <creation>
-                <date cert="low" when="1880-11-30" notBefore="1880-11-30" notAfter="1880-12-07">[1880. 30. november], Tirsdag<note>Under overskriften
-                  "Ungdomsprofiler" har Herman Bang i den svenske avis Dagens Nyheter, 27.5.1900,
-                  fortalt, at Peter Nansen havde sendt ham et brev kort efter udgivelsen
-                  [27.11.1880] af <title key="Haabløse Slægter">Haabløse Slægter</title>, et brev,
-                  der kun kendes fra denne omtale. – Såfremt det foreliggende brev, dateret Tirsdag,
-                  er Bangs svar på Nansens henvendelse, lader det sig datere til enten 30.11. eller
-                  7.12.1880</note>
+                <date cert="low" when="1886-09-03">[1886, 3. september] Fredag<note>Bangs håndskrift
+                        er i dette brev større og mere ubehjælpsom end sædvanligt</note>
                 </date>
-                <placeName cert="high">[København]</placeName>
+                <placeName cert="high">Prag</placeName>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Idet jeg takker Dem for Deres venlige Linjer, beder jeg Dem vise mig den store
-               Tjeneste at komme op til mig mellem fem og sex i Eftermiddag. Jeg kan saa daarligt
-               komme saa langt som Dannebrogsgade<note>Peter Nansen boede Dannebrogsgade 11,
-                  Vesterbro, København. Herman Bangs daværende bopæl lå Ny Toldbodgade 35 (nuværende
-                  Toldbodgade 61), ikke langt fra Amalienborg Slot og ud mod havnesiden</note>.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">H. B.</p>
+
+                <p rend="right">Prag. Fredag Aften.</p>
+                <p>Jeg skriver dette i Sengen. Overanstrængelsen vilde have været nok. Ærgrelsen er
+                    for meget. Kære Ven ‒ hvorfor sender Schou mig dog ikke Penge? De vildeste Ideer
+                    gaar gennem mit Hoved. Har man gjort Exekution i min Bog? <emph>Du</emph> har jo
+                    Retten til alle Pengene. Og jeg behøver ikke at aflevere Msk uden mod Kontant.
+                    Om I vidste, hvor jeg havde ondt af slig Venten.</p>
+                <p>Jeg sendte iforgaars og igaar Mansk. ‒ ‒ Men idag er jeg for syg med stærk
+                    Feber.</p>
+                <p rend="right">Herman</p>
+
             </div>
         </body>
     </text>

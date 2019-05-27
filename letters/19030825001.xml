@@ -5,14 +5,13 @@
                 <title>Bangs Breve</title>
                 <author>Herman Bang</author>
                 <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
                 <funder>Augustinus Fonden</funder>
             </titleStmt>
             <publicationStmt>
                 <publisher>Danske Sprog- og Litteraturselskab</publisher>
                 <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18801130001</idno>
+                <date>2019</date>
+                <idno type="hbb">19030825001</idno>
                 <idno type="isbn">nil</idno>
                 <availability status="restricted">
                     <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,19 +24,20 @@
                             <msIdentifier>
                                 <settlement>København</settlement>
                                 <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 240</idno>
+                                <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+                                    31</idno>
                             </msIdentifier>
                             <msContents>
                                 <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Jacob Hegel</persName>
                                 </summary>
                             </msContents>
                             <physDesc>
                                 <objectDesc form="brev">
                                     <supportDesc material="empty">
                                         <support>
-                                            <ab>Brev. Fortrykt brevpapir: <q>Herman Bang</q> på skrå i øverste
-                                 venstre hjørne, trykt i blå skriveskrift</ab>
+                                            <ab>Brev</ab>
                                         </support>
                                     </supportDesc>
                                 </objectDesc>
@@ -47,9 +47,7 @@
                                     </handNote>
                                 </handDesc>
                                 <additions>
-                                    <ab>Påskrift af Peter Nansen: <q>Et af Bangs allerførste Breve til mig.
-                                 Jeg boede i Dannebrogsgade i mit Rusaar 1879-80</q>
-                                    </ab>
+                                    <ab>empty</ab>
                                 </additions>
                             </physDesc>
                             <history>
@@ -72,29 +70,38 @@
         </encodingDesc>
         <profileDesc>
             <creation>
-                <date cert="low" when="1880-11-30" notBefore="1880-11-30" notAfter="1880-12-07">[1880. 30. november], Tirsdag<note>Under overskriften
-                  "Ungdomsprofiler" har Herman Bang i den svenske avis Dagens Nyheter, 27.5.1900,
-                  fortalt, at Peter Nansen havde sendt ham et brev kort efter udgivelsen
-                  [27.11.1880] af <title key="Haabløse Slægter">Haabløse Slægter</title>, et brev,
-                  der kun kendes fra denne omtale. – Såfremt det foreliggende brev, dateret Tirsdag,
-                  er Bangs svar på Nansens henvendelse, lader det sig datere til enten 30.11. eller
-                  7.12.1880</note>
+                <date cert="low" when="1903-08-25">[1903, 25. august ?]<note>Datoforslaget er
+                        omtrentligt og bygger på brevets oplysning om, at Bang er rejst fra
+                        Marienlyst til København</note>
                 </date>
-                <placeName cert="high">[København]</placeName>
+                <placeName cert="high">København</placeName>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Idet jeg takker Dem for Deres venlige Linjer, beder jeg Dem vise mig den store
-               Tjeneste at komme op til mig mellem fem og sex i Eftermiddag. Jeg kan saa daarligt
-               komme saa langt som Dannebrogsgade<note>Peter Nansen boede Dannebrogsgade 11,
-                  Vesterbro, København. Herman Bangs daværende bopæl lå Ny Toldbodgade 35 (nuværende
-                  Toldbodgade 61), ikke langt fra Amalienborg Slot og ud mod havnesiden</note>.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">H. B.</p>
+                <p rend="right">Gamle Kongevej 25.</p>
+                <p>Kære Hr. Hegel.</p>
+                <p>Tak for Deres Brev.</p>
+                <p>Jeg er ‒ for at mindske mine Udgifter ‒ vendt tilbage fra Marienlyst ved Hjælp af
+                    et Laan af min Søster, hvad der var mig meget bittert.</p>
+                <p>Jeg forstaar saa inderlig vel alle de Hensyn, De har at tage. Men jeg tror ikke
+                    fuldkommen, De forstaar mig. Jeg er rede til enhver Opofrelse for Forlaget og
+                    skal, hvis Tiden undes mig dertil, vise det.</p>
+                <p>Hver Dag er nu kostbar. Jeg beder Dem derfor <emph>selv</emph> bestemme,
+                    hvormeget De vil ofre paa mig til Dagen, hvor »Mikaël« er færdig. Men bestem det
+                    hurtigt. Ti under disse Forhold <emph>kan</emph> jeg ikke arbejde. Jeg vilde
+                    gerne have 1/3 af, hvad De bestemte mig, <emph>nu</emph> og Resten delt til hver
+                    fjortende Dag, saa jeg akkurat véd, jeg har dog lidt.</p>
+                <p>Tidligere formaaede jeg, for at faa mine store Romaner færdige, saa mange Ting.
+                    Nu er jeg for svag dertil.</p>
+                <p>Med mange Hilsener og Tak til Fru Hegel</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+                <p>»Mikaël« skal være færdig 20 November.</p>
+
+
             </div>
         </body>
     </text>

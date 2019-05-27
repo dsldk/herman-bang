@@ -5,14 +5,13 @@
                 <title>Bangs Breve</title>
                 <author>Herman Bang</author>
                 <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
                 <funder>Augustinus Fonden</funder>
             </titleStmt>
             <publicationStmt>
                 <publisher>Danske Sprog- og Litteraturselskab</publisher>
                 <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18801130001</idno>
+                <date>2019</date>
+                <idno type="hbb">18861116001</idno>
                 <idno type="isbn">nil</idno>
                 <availability status="restricted">
                     <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,19 +24,19 @@
                             <msIdentifier>
                                 <settlement>København</settlement>
                                 <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 240</idno>
+                                <idno>NKS 4508, 4to</idno>
                             </msIdentifier>
                             <msContents>
                                 <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Hansine Schiøtt</persName>
                                 </summary>
                             </msContents>
                             <physDesc>
                                 <objectDesc form="brev">
                                     <supportDesc material="empty">
                                         <support>
-                                            <ab>Brev. Fortrykt brevpapir: <q>Herman Bang</q> på skrå i øverste
-                                 venstre hjørne, trykt i blå skriveskrift</ab>
+                                            <ab>Brev</ab>
                                         </support>
                                     </supportDesc>
                                 </objectDesc>
@@ -47,9 +46,7 @@
                                     </handNote>
                                 </handDesc>
                                 <additions>
-                                    <ab>Påskrift af Peter Nansen: <q>Et af Bangs allerførste Breve til mig.
-                                 Jeg boede i Dannebrogsgade i mit Rusaar 1879-80</q>
-                                    </ab>
+                                    <ab>empty</ab>
                                 </additions>
                             </physDesc>
                             <history>
@@ -72,29 +69,35 @@
         </encodingDesc>
         <profileDesc>
             <creation>
-                <date cert="low" when="1880-11-30" notBefore="1880-11-30" notAfter="1880-12-07">[1880. 30. november], Tirsdag<note>Under overskriften
-                  "Ungdomsprofiler" har Herman Bang i den svenske avis Dagens Nyheter, 27.5.1900,
-                  fortalt, at Peter Nansen havde sendt ham et brev kort efter udgivelsen
-                  [27.11.1880] af <title key="Haabløse Slægter">Haabløse Slægter</title>, et brev,
-                  der kun kendes fra denne omtale. – Såfremt det foreliggende brev, dateret Tirsdag,
-                  er Bangs svar på Nansens henvendelse, lader det sig datere til enten 30.11. eller
-                  7.12.1880</note>
+                <date cert="high" when="1886-11-16">1886, 16. november [tirsdag]<note>Brevets kuvert
+                        er bevaret; Bangs udskrift: »Fru <emph>Hansine Schiøtt</emph> /
+                            <emph>Kopenhagen.</emph> / N. / Sortedamsgade 5.« Frimærket er afrevet,
+                        men en del af poststemplet er læseligt: »PRAH[A]«. Det danske postvæsens
+                        modtagerstempel på kuvertens bagside: »N. / OMB. 3 / 18 [...] 86«</note>
                 </date>
-                <placeName cert="high">[København]</placeName>
+                <placeName cert="high">Prag</placeName>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Idet jeg takker Dem for Deres venlige Linjer, beder jeg Dem vise mig den store
-               Tjeneste at komme op til mig mellem fem og sex i Eftermiddag. Jeg kan saa daarligt
-               komme saa langt som Dannebrogsgade<note>Peter Nansen boede Dannebrogsgade 11,
-                  Vesterbro, København. Herman Bangs daværende bopæl lå Ny Toldbodgade 35 (nuværende
-                  Toldbodgade 61), ikke langt fra Amalienborg Slot og ud mod havnesiden</note>.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">H. B.</p>
+
+                <p rend="right">Prag. 16.11.86.</p>
+                <p>En hjertelig Tak, kære Frue, for Deres rare Brev. Det maa De tro, at det gode,
+                    som naar mig her i min Ensomhed i det store og golde fremmede ‒ det kommer fra
+                    No. 5<note>Dvs. fra familien Schiøtt, som boede i Sortedamsgade 5 i
+                        København</note>. Tak for hver Smule. Maatte der dog komme en Soldag, hvor
+                    jeg kunde vise i andet end Ord og de løse Talemaader, at jeg er et »tacksamt
+                    djur«. Maaske kommer en saadan Dag, naar vi alle er blevet ældre ‒ maaske vil vi
+                        <emph>da</emph> samles i Ro, under stille Lys ned over det Liv, som hælder
+                    mod Afslutning. Lev vel ‒ med alle Deres. Og pas ret paa Dem selv, at De maa
+                    blive rask og frisk.</p>
+                <p>Kys Deres Børn fra</p>
+                <p>Deres Ven</p>
+                <p rend="right">Herman B.</p>
+
+
             </div>
         </body>
     </text>

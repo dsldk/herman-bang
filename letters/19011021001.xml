@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19011021001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 447</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Edvard Brandes</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær. Underskriften er egenhændig</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-10-21">1901, 21. Oktober [mandag]<note>... Der kom
+                        tilsyneladende aldrig nogen anmeldelse i Politiken, hverken af Det hvide Hus
+                        eller Det graa Hus. [- til gengæld sendte GEORG Brandes et anerkendende
+                        privatbrev til Bang - ! ]</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aalborg den 21' Oktober 1901.</p>
+                <p>Kære Dr. Brandes.</p>
+                <p>Efter Maaneders Forløb skriver jeg igen en Artikkel til Politikken. Den er
+                    naturligvis om Tietgen<note>Finansmanden C.F. Tietgen døde 19.10.1901 i
+                        København</note>.</p>
+                <p>I Aarevis har jeg sagt: gid Tietgen dog maatte dø før jeg, for at jeg kunde
+                    skrive om ham. Nu er jeg desværre, efter Fuldendelsen af »det graa Hus«, saa syg
+                    og træt at jeg ikke har kunnet skrive ret meget. Men min Mening har jeg dog
+                    faaet skrevet.</p>
+                <p>Med det samme je gskriver vil jeg henstille en Ting til Dem. »Det hvide Hus«
+                    udkommer i Morgen i andet Oplag. Det har aldrig været anmeldt i Politikken ‒
+                    rimeligvis, fordi De ikke synes om Bogen. Det kan jeg saa godt forstaa, for den
+                    falder i to Dele.</p>
+                <p>Jeg har nu imidlertid gjort mit for at kitte den sammen, og, hvis De vil ofre en
+                    Times Tid paa at læse Bogen igen, vil De maaske se, at i det mindste Moderen i
+                    den Bog <emph>lever</emph>. Og en Anmeldelse nu ville være mig behagelig, fordi
+                    »det hvide Hus« Hovedpersoner optræder paany i »det graa Hus«, som udkommer om
+                    tre til fire Uger. Men, vel at mærke, jeg bryder mig ikke en Døjt om nogen
+                    Anmeldelse af Hr P.L.<note>Poul Levin</note> eller Hr. O.R.<note>... ???
+                        ...</note> men kun om en Omtale af Dem, hvori ingen Udenomsros staar men kun
+                    Deres Mening.</p>
+                <p>Jeg forbliver Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

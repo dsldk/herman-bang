@@ -5,14 +5,13 @@
                 <title>Bangs Breve</title>
                 <author>Herman Bang</author>
                 <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
                 <funder>Augustinus Fonden</funder>
             </titleStmt>
             <publicationStmt>
                 <publisher>Danske Sprog- og Litteraturselskab</publisher>
                 <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18801130001</idno>
+                <date>2019</date>
+                <idno type="hbb">18870120001</idno>
                 <idno type="isbn">nil</idno>
                 <availability status="restricted">
                     <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,19 +24,19 @@
                             <msIdentifier>
                                 <settlement>København</settlement>
                                 <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 240</idno>
+                                <idno>Georg Brandes' Arkiv. Blyantsnummer 3</idno>
                             </msIdentifier>
                             <msContents>
                                 <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Georg Brandes</persName>
                                 </summary>
                             </msContents>
                             <physDesc>
                                 <objectDesc form="brev">
                                     <supportDesc material="empty">
                                         <support>
-                                            <ab>Brev. Fortrykt brevpapir: <q>Herman Bang</q> på skrå i øverste
-                                 venstre hjørne, trykt i blå skriveskrift</ab>
+                                            <ab>Brev, 2 sider</ab>
                                         </support>
                                     </supportDesc>
                                 </objectDesc>
@@ -47,9 +46,7 @@
                                     </handNote>
                                 </handDesc>
                                 <additions>
-                                    <ab>Påskrift af Peter Nansen: <q>Et af Bangs allerførste Breve til mig.
-                                 Jeg boede i Dannebrogsgade i mit Rusaar 1879-80</q>
-                                    </ab>
+                                    <ab>empty</ab>
                                 </additions>
                             </physDesc>
                             <history>
@@ -72,29 +69,33 @@
         </encodingDesc>
         <profileDesc>
             <creation>
-                <date cert="low" when="1880-11-30" notBefore="1880-11-30" notAfter="1880-12-07">[1880. 30. november], Tirsdag<note>Under overskriften
-                  "Ungdomsprofiler" har Herman Bang i den svenske avis Dagens Nyheter, 27.5.1900,
-                  fortalt, at Peter Nansen havde sendt ham et brev kort efter udgivelsen
-                  [27.11.1880] af <title key="Haabløse Slægter">Haabløse Slægter</title>, et brev,
-                  der kun kendes fra denne omtale. – Såfremt det foreliggende brev, dateret Tirsdag,
-                  er Bangs svar på Nansens henvendelse, lader det sig datere til enten 30.11. eller
-                  7.12.1880</note>
+                <date cert="high" when="1887-01-20">1887, 20. Januar [torsdag]<note>empty</note>
                 </date>
-                <placeName cert="high">[København]</placeName>
+                <placeName cert="high">Prag</placeName>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Idet jeg takker Dem for Deres venlige Linjer, beder jeg Dem vise mig den store
-               Tjeneste at komme op til mig mellem fem og sex i Eftermiddag. Jeg kan saa daarligt
-               komme saa langt som Dannebrogsgade<note>Peter Nansen boede Dannebrogsgade 11,
-                  Vesterbro, København. Herman Bangs daværende bopæl lå Ny Toldbodgade 35 (nuværende
-                  Toldbodgade 61), ikke langt fra Amalienborg Slot og ud mod havnesiden</note>.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">H. B.</p>
+                <p rend="right">Prag. 20.1.87.</p>
+                <p>Det vil maaske meget undre Dem, Hr. Dr., at modtage disse Linjer fra mig, saa
+                    meget mere som Sygdom lader mig overspringe alle Formler og sige Sagen meget
+                    kort.</p>
+                <p>Tingen er denne: Frøken Frederike Bognár, der vel uomstridt ved Siden af Wolter
+                    tør ansés for det ganske Tysklands genialeste Aktrice ‒ vil her til sin Benefice
+                    spille »Gengangere (Fru Alving), og, om det lykkes her, gøre Turné med Dramet.
+                    Ibsens Tilladelse til Beneficen haves. Nu var det, jeg, for Værkets Skyld, vilde
+                    spørge, om De ikke skulde have en ældre Omtale af Stykket, som De vilde sende
+                    mig for at den kunde blive oversat her og trykt i det første Blad for at
+                    forberede Publikum. Jeg er overbevist om, at De, om de har nogen Artikel, gerne
+                    skænker Værket Støtten af Deres store Navn.</p>
+                <p>Ialfald vil De ikke vredes over, at jeg er fremkommen med Anmodningen.</p>
+                <p rend="right">Deres ærbødige</p>
+                <p rend="right">Herman Bang.</p>
+                <p>Prag. <emph>Weinberge</emph></p>
+                <p><emph>Balbingasse 192.</emph></p>
+
             </div>
         </body>
     </text>

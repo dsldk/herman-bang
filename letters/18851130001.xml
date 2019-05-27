@@ -5,14 +5,13 @@
                 <title>Bangs Breve</title>
                 <author>Herman Bang</author>
                 <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
                 <funder>Augustinus Fonden</funder>
             </titleStmt>
             <publicationStmt>
                 <publisher>Danske Sprog- og Litteraturselskab</publisher>
                 <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18801130001</idno>
+                <date>2019</date>
+                <idno type="hbb">18851130001</idno>
                 <idno type="isbn">nil</idno>
                 <availability status="restricted">
                     <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,19 +24,19 @@
                             <msIdentifier>
                                 <settlement>København</settlement>
                                 <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 240</idno>
+                                <idno>NKS 4508, 4to.</idno>
                             </msIdentifier>
                             <msContents>
                                 <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
                                 </summary>
                             </msContents>
                             <physDesc>
                                 <objectDesc form="brev">
                                     <supportDesc material="empty">
                                         <support>
-                                            <ab>Brev. Fortrykt brevpapir: <q>Herman Bang</q> på skrå i øverste
-                                 venstre hjørne, trykt i blå skriveskrift</ab>
+                                            <ab>Brev, 2 sider</ab>
                                         </support>
                                     </supportDesc>
                                 </objectDesc>
@@ -47,9 +46,7 @@
                                     </handNote>
                                 </handDesc>
                                 <additions>
-                                    <ab>Påskrift af Peter Nansen: <q>Et af Bangs allerførste Breve til mig.
-                                 Jeg boede i Dannebrogsgade i mit Rusaar 1879-80</q>
-                                    </ab>
+                                    <ab>empty</ab>
                                 </additions>
                             </physDesc>
                             <history>
@@ -72,13 +69,12 @@
         </encodingDesc>
         <profileDesc>
             <creation>
-                <date cert="low" when="1880-11-30" notBefore="1880-11-30" notAfter="1880-12-07">[1880. 30. november], Tirsdag<note>Under overskriften
-                  "Ungdomsprofiler" har Herman Bang i den svenske avis Dagens Nyheter, 27.5.1900,
-                  fortalt, at Peter Nansen havde sendt ham et brev kort efter udgivelsen
-                  [27.11.1880] af <title key="Haabløse Slægter">Haabløse Slægter</title>, et brev,
-                  der kun kendes fra denne omtale. – Såfremt det foreliggende brev, dateret Tirsdag,
-                  er Bangs svar på Nansens henvendelse, lader det sig datere til enten 30.11. eller
-                  7.12.1880</note>
+                <date cert="high" when="1885-11-30">1885. 30. november, [mandag]<note>Med den samme
+                        datering kendes et eksemplar af Herman Bangs nye bog <emph>Excentriske
+                            Noveller</emph> med hans skrevne dedikation: »Min gamle Skolekammerat
+                        med al min Tak for al hans Godhed fra Herman. 30.11.85.« (bogen blev i 20xx
+                        erhvervet af Det Kongelige Bibliotek). Dagen efter rejste Bang til Berlin og
+                        genså først København i november 1887</note>
                 </date>
                 <placeName cert="high">[København]</placeName>
             </creation>
@@ -87,14 +83,28 @@
     <text>
         <body>
             <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Idet jeg takker Dem for Deres venlige Linjer, beder jeg Dem vise mig den store
-               Tjeneste at komme op til mig mellem fem og sex i Eftermiddag. Jeg kan saa daarligt
-               komme saa langt som Dannebrogsgade<note>Peter Nansen boede Dannebrogsgade 11,
-                  Vesterbro, København. Herman Bangs daværende bopæl lå Ny Toldbodgade 35 (nuværende
-                  Toldbodgade 61), ikke langt fra Amalienborg Slot og ud mod havnesiden</note>.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">H. B.</p>
+                <p rend="right">30.11.85.</p>
+                <p>En hjertelig Lykønskning, min gamle Ven. Saa har du altsaa en Søn<note>Poul
+                        Schiøtt, født xx.xx. 1885</note>, et lille rødligt Væsen, som nu skriger i
+                    sin Vugge, nogle Skrig, <emph>du</emph> finder melodiske ‒ og som en Gang skal
+                    blive stor.</p>
+                <p>Det slog mig saa meget ‒ da jeg fik dit Brev: hvor besynderligt de glider, disse
+                    Menneskeaar. Hvor kort er det dog ikke siden, at vi altid kaldte os selv og blev
+                    kaldt ‒ og af <app>
+                        <lem>gammmel</lem>
+                        <rdg>Skrivefejl, som Bang ikke har rettet</rdg>
+                    </app>
+                    <app>
+                        <lem>Vane</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> kalder og kaldes endnu ‒ for »Fremtidens Soldater« og alt dette andet med
+                    Fremtiden og inden vi ved det, min Ven, er vi <emph>Nutiden</emph>, som skal
+                    forberede de andres, vore Børns Fremtid.</p>
+                <p>Hils din Hustru<note>Hansine Schiøtt, født Hansen (1851-1944), gift 1882 med
+                        Julius Schiøtt</note> saa meget</p>
+                <p rend="right">fra din gamle</p>
+                <p rend="right">Skolekammerat</p>
+                <p rend="right">Herman B.</p>
             </div>
         </body>
     </text>
