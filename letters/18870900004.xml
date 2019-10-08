@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870900004</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 445</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1887-09-01">[1887, september] Lørdag <note>Skal dateres inden
+                        for det tidsrum, Bang opholdt sig i Teplitz: mellem slutningen af august og
+                        ca. 8.10.1887</note>
+                </date>
+                <placeName cert="high">Teplitz [Teplice]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Teplitz. Lørdag.</p>
+                <p>Jeg glemte, kære Paul:</p>
+                <p><emph>tryk De 75 til</emph>.</p>
+                <p>De faar dem saamæn nok solgt i Tidernes Løb<note>Bang må sigte til
+                        oplagsstørrelsen på romanen Stuk, der udkom i København i slutningen af
+                        oktober 1887. Ifølge René Herrings bibliografi over Herman Bangs
+                        forfatterskab (2018) blev originaludgaven af Stuk trykt i 1800 eksemplarer.
+                        Det er uoplyst, om der i dette antal indgår frieksemplarer</note>.</p>
+                <p>Lev vel. <emph>Jeg</emph> har været to Gange besvimet siden jeg sluttede
+                    Manuskriptet.</p>
+                <p>Deres</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

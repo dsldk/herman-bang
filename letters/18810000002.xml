@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18810000002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NBD 2.rk. Blyantsnummer 480</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Vilhelm Greibe (dansk vicekonsul i
+                                        Hamburg)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1881-01-01">[1881?]<note>Greibes artikel om Bang i
+                            <emph>Nutiden i Billeder og Text</emph> er endnu ikke fundet. Årstallet
+                        1881 er indtil videre udgiverens gæt ...</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Greibe!</p>
+                <p>Den ondeste Skæbne synes at hvile over mig. Vi har idag Rengjøring i hele Huset,
+                    og jeg skal inat ligge paa Chaiselongue i min Dagligstue. Bliver det bedre til
+                    imorgen, sender jeg Dem to Ord. Idag vil vi hverken kunne faa Mad eller blivende
+                    Sted.</p>
+                <p>Tusind, tusind Tak for de venlige Ord i »Nutiden«<note>Nutiden i Billeder og
+                        Text. Illustreret Familieblad, redigeret af Vilhelm Møller</note>.</p>
+                <p rend="right">Deres</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18900600001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5159, 4to. Blyantsnummer 3</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Peder Jørgensen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1890-06-01">[1890, maj eller juni] <note>Det brev fra Bang
+                        til Peter Nansen, hvori han omtaler sit selvmordsforsøg, er foreslået
+                        dateret til maj 1890. Dette brev til P. Jørgensen i Maribo kan være skrevet
+                        i maj eller juni 1890</note>
+                </date>
+                <placeName cert="high">Fredrikshald</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right"><emph>Fredrikshald</emph>.</p>
+                <p>Kære Ven.</p>
+                <p>Jeg skriver til Dem i den frygteligste Situation, i hvilken jeg har været i hele
+                    mit Liv. Efter maanedlange Lidelser tog jeg ‒ endelig, træt ‒ forleden Aften
+                    tolv Morfinpulvere. Ved et Under fik næste Dag en Læge mig vækket. Det kaldtes
+                    en Hjernerystelse ‒ og jeg slæbtes til denne By<note>Dvs. til Fredrikshald fra
+                        Larvik, hvor Bangs selvmordsforsøg må have fundet sted</note>.</p>
+                <p>Men her sidder jeg nu ‒ syg og hjælpeløs.</p>
+                <p>Jeg har kun én Tanke: <emph>den</emph> at komme ned til Dem<note>Dvs. at tage
+                        ophold hos familien Jørgensen i Maribo</note> i Fred. Bo paa det lille
+                    Værelse og betale for mig, indtil jeg til Høsten har faaet skrevet saameget, at
+                    jeg kan komme til Paris.</p>
+                <p><emph>Men jeg kan ikke komme herfra</emph>. Fra Hotellet bliver jeg vel snart
+                    smidt ud. Og de lange Maaneder, hvor jeg ikke har kunnet arbejde, har udtømt
+                        <emph>alle</emph> Hjælpekilder.</p>
+                <p>Nu spørger jeg Dem: Kan De ikke skaffe de 200 Kr. som er nødvendige. Paa en
+                    Veksel, hvad véd jeg. Jeg kunde jo saa let skrive <emph>dem</emph> sammen igen,
+                    naar jeg sad nede hos Dem ‒ billigt og i Ro.</p>
+                <p>Dette er et Forsøg paa at leve. Men svar mig hastig. Ti min Livslede er saa stor,
+                    at hver Dag er mig en Kval.</p>
+                <p>Jeg skriver alt, som det er. Ti her nytter det ikke at fordølge noget. Jeg véd,
+                    at Brevet vil gøre Dem meget ængstelig. Men jeg kan ikke gøre derfor. Naar jeg
+                    blot kunde komme ned til Dem.</p>
+                <p>Tal til <emph>ingen</emph> om dette uden til Deres Kone<note>Margarethe
+                        Jørgensen, født Dreyer (1858-1928), gift 18.. med arkitekt Peder Jørgensen,
+                        Maribo</note>.</p>
+                <p>Svar mig ét Ord telegrafisk.</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18871005001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 433</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1887-10-05">[1887, 5. oktober] Onsdag <note>Brevet er
+                        formentlig skrevet den sidste onsdag i Bangs ophold i Teplitz, eftersom han
+                        anfører sin midlertidige hoteladresse i Lübeck</note>
+                </date>
+                <placeName cert="high">Teplitz [Teplice]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Teplitz. Onsdag Aften.</p>
+                <p>Kære Paul.</p>
+                <p>Der staar paa disse Ark <emph>3</emph> Korr:<note>Dvs. tredje
+                    korrektur</note>.... Det er imidlertid den <emph>første</emph>, jeg sér og
+                    saaledes vel aftalemæssigt kun den 2den. I hvert Fald vil den forfærde Dem. Men
+                    det faar ikke hjælpe. <emph>Hver af disse nedbrudte Parentheser er et Paaskud
+                        mindre for Bogens Angribere</emph>.</p>
+                <p>Naturligvis maa jeg have et Aftryk snarest sendt <emph>uden mit</emph> Navn:</p>
+                <p><emph>Max Eisfeld</emph>. Hotel Stadt Hamburg</p>
+                <p>Lübeck.</p>
+                <p>Denne Adresse beder jeg Dem ikke meddele nogen.</p>
+                <p>Deres hengivne</p>
+                <p rend="right">H de B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

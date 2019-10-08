@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19071016001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2009/148. Det 30.brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Olga Dahl</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi af en bro i
+                                                en park; broens to kæder holdes af siddende
+                                                løvefigurer; med trykt tekst på postkortets
+                                                tekstside: <emph>Löwenbrücke im Tiergarten,
+                                                  Berlin</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med blyant i fremmed hånd øverst på postkortets tekstside:
+                                            <emph>16-10-07</emph>, formentlig skrevet af Olga
+                                        Dahl</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-10-16">1907, 16. Oktober [onsdag] <note>Postkort,
+                        frankeret med et 10 Pfennigs frimærke, poststemplet <emph>Berlin W.
+                            16.10.07.4-5N</emph>; adressefeltet udfyldt i Bangs håndskrift:
+                            <emph>Fru Olga Dahl / Frederiksborggade / Kopenhagen. K.</emph> Dateres
+                        efter poststemplet</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Min kære Ven.</p>
+                <p>Tak for Brevet fra den Dag<note>Uoplyst hvad Bang sigter til. Portkortets
+                        afsendelsesdag er Olga og Kristian Dahls bryllupsdag, gift 16.10.1885; nogle
+                        år forud for 1907 blev de skilt</note> ‒ ‒ Hvor Livet er grumt. Mig gaar det
+                    lidt bedre.</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

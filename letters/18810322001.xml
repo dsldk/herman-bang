@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18810322001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5011, 4to</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">fru Anna Ferslew</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Øverst på side 1 er med fremmed hånd, formodentlig Anna
+                                        Levins, skrevet: <emph>22/3 81</emph></ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 77, med et citat fra
+                                        brevet</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1881-03-22">[1881, 22. Marts, tirsdag]<note>Den 23.3.1881
+                        blev Severin Abrahams' beneficeforestilling på Casino efterfulgt af
+                        premieren på Bangs stykke Du og jeg</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Fru Ferslew.</p>
+                <p>De maa ikke blive vred ‒ men jeg har maattet love Abrahams<note>Severin Abrahams
+                        (18.....), ......</note> at tage ud paa Generalprøven af »<emph>Le pere
+                        prodigue</emph>«<note>Alexandre Dumas fils' lystspil i fem akter, der i
+                        Severin Abrahams' og Herman Bangs fælles oversættelse fik titlen »En ødsel
+                        Fader«. Stykket førsteopførtes (formentlig i uddrag) ved denne
+                        beneficeforestilling for Abrahams. I januar 1883 blev det på mere regulær
+                        facon opført i alt 13 gange, ligeledes på Casino i København</note> og jeg
+                    beder Dem derfor laane Deres Mands Pelts blot i de Timer. Jeg skal køre
+                    derud.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

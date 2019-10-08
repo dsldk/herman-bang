@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860810002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 392</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Emil Jonas</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-08-10">[1886, 10. august]
+                        Tirsdag<note>Dateringsforslaget er skønsmæssigt. Brevet må være skrevet
+                        efter politiundersøgelserne mod Bang i Prag</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag. Tirsdag.</p>
+                <p>Kære Kammerraad.</p>
+                <p>Tak for Pengene. Men <emph>skrive</emph> til mig gør De ikke, og <emph>det</emph>
+                    sætter mig i stor Angst.</p>
+                <p>Gesandten<note>Greve J.S.D. Knuth (1835-1905), dansk gesandt (ambassadør) i Wien
+                        1884-1890</note> skrev mig, at Grunden til Undersøgelserne imod mig var, at
+                    »Artiklen« ‒ den græsselige<note>Dvs. Bangs artikel om den tyske kejserfamilie,
+                        oprindelig trykt 1.10.1885 i Bergens Tidende. Den blev årsag til Bangs
+                        udvisning af Preussen i januar 1886 og siden af Tyskland</note> ‒ <app>
+                        <lem>havde</lem>
+                        <rdg>Ordet er rettet fra: var</rdg>
+                    </app> staaet at læse i et Socialistblad.</p>
+                <p>Hirsch sendte mig imorges et elskværdigt Brev med et Billede og bad om Tekst. Jeg
+                    skriver den imorgen og sender den.</p>
+                <p>Han taler om »min Roman, som han nu vil begynde at læse«.</p>
+                <p>Er det »Fædra«?</p>
+                <p>De har altsaa <emph>ikke</emph> faaet Forlægger? Ogsaa det ængster mig meget.</p>
+                <p>Og alle de <emph>smaa</emph> Ting? »Mouche« ‒ »Steindl« ‒ »Sné« ‒ ?</p>
+                <p>Jeg <emph>kan</emph> ikke faa Slutningen af »Hendes Høihed«. Jeg beder og beder
+                    derom.</p>
+                <p>Skriv dog til mig.</p>
+                <p rend="right">Deres</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

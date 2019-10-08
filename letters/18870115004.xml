@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870115004</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1887-01-15">[1887, ca. 15. januar] Lørdag<note>Ud fra sit
+                        indhold kan brevet omtrentligt dateres i forhold til Bangs brev til Paul
+                        Langhoff, 30.1.1887</note>
+                </date>
+                <placeName cert="high">[Prag]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Kære Paul L.</p>
+                <p>Under min Sygdom har jeg læst mange <emph>polske</emph> Bøger. Af dem, jeg har
+                    læst, tror jeg, at Krazsewskis: »<emph>Morituri</emph>«<note>Józef Ignacy
+                        Kraszewski (1812-1887), polsk forfatter. Hans roman Morituri udkom i
+                        1874-1875</note> vilde blive beundret og forgudet af alle
+                        Tasker<note>Læsetasker, dvs. læsekredse, hvor medlemmerne får lejebøger
+                        tilsendt</note>.</p>
+                <p>Og Manden har jo ‒ horribile dictu<note>lat.: gyseligt at sige</note> ‒ et uhyre
+                    Navn.</p>
+                <p>Vil De læse Bogen (<emph>Reclam</emph><note>Bang mener romanen i den tyske
+                        oversættelse, udgivet på forlaget Reclam i Leipzig</note>.)?</p>
+                <p>Jeg har været meget syg. Jeg vilde oversætte den for 15 Kr. pr. Ark.</p>
+                <p rend="right">H. de B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

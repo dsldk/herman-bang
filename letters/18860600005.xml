@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860600005</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 479</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Emil Jonas</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-06-01">[1886, ca. juni måned] Torsdag<note>empty</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Torsdag.</p>
+                <p>Kære Kammerraad.</p>
+                <p>Ved Kaffen forleden fortalte Franzós<note>Den tyske forfatter og journalist Karl
+                        Emil Franzós (1848-1904)</note> dette. <emph>Det vil være let at afsætte til
+                        hvert <app>
+                            <lem>liberalt</lem>
+                            <rdg>Ordets tredje og fjerde bogstav er rettet, formentlig fra: ll</rdg>
+                        </app> Blad</emph>.</p>
+                <p>Det er <emph>Brøndsted</emph><note>Formodentlig Michael Brøndsted (1850-1921),
+                        der siden 1875 gjorde tjeneste som officer i den kejserlige russiske hær;
+                        fra 1881 fungerede han tillige som korrespondent i Sankt Petersborg til
+                        danske, tyske, nederlandske og svenske dagblade (if. google)</note>, som
+                    menes fra Petersborg.</p>
+                <p>Andreas Schou<note>Andreas Schou (1829-1889), boghandler og forlægger i
+                        København...</note> meddeler mig idag, at han skal sende mig Penge, saasnart
+                    »Hendes Høiheds« siste Linie er skrevet. Det kan vel ske nu. Men for at jeg kan
+                    holde Ventetiden ud, kære Kammerraad, saa send mig de tredive Mark og
+                        <emph>strax</emph>. De sér dog, hvormeget jeg arbeider for igen at komme
+                    »op« efter Sygdommen.</p>
+                <p>Imorgen faar De atter Manuskript.</p>
+                <p rend="right">Deres</p>
+                <p rend="right">H. de B.</p>
+                <p>Jeg tror Hirsch vilde være glad ved dette.</p>
+                <p>Send Pengene.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18811017001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5011, 4to</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Ferslew</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med fremmed hånd ‒ sandsynligvis Anna Levins ‒ er der øverst
+                                        på brevets forside skrevet mulige dateringsforslag:
+                                        »(1884)«, som er overstreget, og »Juli?« »1881«</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 62, et par citater af
+                                        brevets ordlyd</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1881-10-17">[1881, cirka 17. oktober, mandag]<note>Brevet må
+                        være skrevet kort tid efter Bangs første offentlige oplæsning, der med
+                        Christian Ferslews billigelse fandt sted lørdag 8.10.1881 på Hotel
+                        Leidersdorff i Hillerød. Fortrykt brevpapir med et kronet slyngmonogram HB,
+                        anbragt på skrå i øverste venstre hjørne</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Hr. Ferslev!</p>
+                <p>Hvor meget ondt det har gjort mig <app>
+                        <lem>ondt</lem>
+                        <rdg>Bang har fejlagtigt tilføjet ordet over linjen</rdg>
+                    </app> med min Spekulation i Hillerød, tror jeg, De maa vide. Nu siger De igjen
+                    ‒ »saa, det sædvanlige«. Jeg havde saa langt fra nogen Gevinst, at de Penge slet
+                    ikke slog til, og Himlen ved nu hvordanjeg faar Dem betalt. I Roskilde er jeg
+                    indbudt af en Klub men faar kun 40 for et; men saa er der ingen Risiko. Det
+                    bliver vist min siste ‒ Forestilling.</p>
+                <p rend="right">Deres taknemlig hengivne</p>
+                <p rend="right">H.B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

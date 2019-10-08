@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18840722001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NBD 2.rk. Blyantsnummer 443</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Theodor Andersen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1884-07-22">[1884, cirka 22. juli, tirsdag] <note>Brevet
+                        bærer forneden påtegningen: <emph>Modtaget 23 Juli</emph>. Bangs opholdssted
+                        er ukendt</note>
+                </date>
+                <placeName cert="low">[ukendt]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Direktør Andersen!</p>
+                <p>Nei ‒ dette er nu saa galt, som det kan være. Ferslev<note>Christian Ferslew
+                        ...</note> er stadig taus i sine Telte over min mislykkede
+                        Oplæsningsreise<note>I dagene 3.-12.6.1884 havde en skuespillertrup med Bang
+                        i spidsen turneret i jyske byer med skuespil og oplæsning. Øvrige
+                        medvirkende var Frederik Cetti, Camilla Lerche, Johannes Marer og Julie
+                        Secher. Økonomisk var turneen en fiasko, og den belastede i alvorlig grad
+                        Bangs forhold til Christian Ferslew, ejer af avisen Nationaltidende</note>,
+                    og her paa Hotellet kan jeg ikke blive, da alt, hvad jeg eier maa gaa til Renter
+                    o:s:v: Jeg beder Dem derfor om at sende mig hertil, for at jeg kan fortsætte
+                    denne lystige Tilværelse, 150 Kroner, som jeg skal betale Dem, saasnart
+                        Schubothe<note>I.H. Schubothes forlag, København</note> giver mig noget for
+                        Bogen<note>Uklart hvilken af sine bøger, Bang hentyder til</note>. Thi at
+                    arbeide for Dem er vel umuligt?</p>
+                <p>Tilgiv denne Paatrængenhed ‒ men jeg <emph>tør</emph> ei gaa til andre. Send mig
+                    de 150 hurtigst og helst pr: Anvisning. Jeg vil saa dermed betale og flytte hen
+                    i et billigt Privathus.</p>
+                <p rend="right">Deres</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18890121001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2009/148. Det 105.brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Kristian Dahl</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>På bagsiden et blyantsnummer: 6</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1889-01-21">[1889, 21. januar] Mandag <note>Formentlig
+                        skrevet i januar 1889; dette nøjere dateringsforslag er et gæt. Ægteparret
+                        Skrams teaterstykke omtales også i Bangs brev til Peter Nansen, dateret til
+                        12.1.1889</note>
+                </date>
+                <placeName cert="high">Nakskov</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Nakskov. Mandag.</p>
+                <p>Kære Dahl.</p>
+                <p>Maaske er Rygtet om den Skramske Komedie ogsaa naaet til Dem. Fru Amalie og Hr.
+                    Erik haver tilsammen forfærdiget et Stykke<note>Forfatterægteparret Amalie Skram
+                        (1846-1905) og Erik Skram (1847-1923) havde i fællesskab skrevet lystspillet
+                        Fjældmennesker (trykt 1889, opført på Dagmarteatret 1892)</note>, som i
+                    Studentersamfundet skal opføres af Herrer og Damer af
+                        »Selskabet«<note>Opførelsen på Studentersamfundets scene skal eftersøges i
+                        dagspressen .......</note>. Jeg anbefalede Dem<note>Journalisten Kristian
+                        Dahl havde 1885-1887 været skuespiller ved Folketeatret</note>, og Skrams
+                    var <emph>meget</emph> ivrige for at faa Dem.</p>
+                <p>Prøverne holdes om Natten.</p>
+                <p>Skram bad mig bede Dem svare <emph>ham</emph> med et Par Ord, om De havde Lyst og
+                    kunde.</p>
+                <p><app>
+                        <lem>Hils</lem>
+                        <rdg>Bang har ikke rettet sin skrivefejl: His</rdg>
+                    </app> Frue<note>Olga Dahl, født Hasselbalch (1862-1915), gift 1885 med Kristian
+                        Dahl</note>, Svigermor<note>Johanne Hasselbalch, født Iversen (1835-1921),
+                        mor til Olga Dahl</note> og Pup<note>Kælenavn for Erna Dahl (1886-1918),
+                        datter af Olga og Kristian Dahl</note> saa hjerteligt fra Deres Digter-Konge
+                    i Exil</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

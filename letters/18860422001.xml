@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860422001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5011, 4to</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">fru Anna Ferslew</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 174</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-04-22">[1886, 22. April] Torsdag<note>Anna og Christian
+                        Ferslew opholdt sig i nogle uger i foråret 1886 i Wien sammen med Emil
+                        Bjerring, jf. Anna Levin 1932, s.172-173. Skærtorsdag faldt i 1886 på
+                        22.4.</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Skærtorsdag.</p>
+                <p>Kære Fru Ferslew.</p>
+                <p>Jeg kunde ikke spille Komedie, og jeg havde ikke Lov til at takke. Derfor er jeg
+                    ikke kommet idag. Og jeg véd heller ikke, om jeg ikke heller havde slæbt min
+                    Skæbne videre, end at disse siste Dage, i hvilke vi mødes, i mange og lange
+                    Tider, skulde berøres af det samme Spøgelses Haand, som har lagt sig koldt over
+                    saa meget i vort Liv.</p>
+                <p>Var jeg kommet idag, var det kun blevet et smerteligt Optrin. Vi vil vel engang
+                    gensés, naar jeg hører til de hæderlige Folk, som lever af deres eget
+                    Arbeide.</p>
+                <p>Indtil da beder jeg Dem bevare i Mindet ‒ De og Deres Mand ‒ disse Dage, som har
+                    været mig saa kære. Jeg takker Dem, fordi De har villet lægge et Skær af
+                    Forsoning over min Ungdoms største Nederlag og største Smerte. Jeg blev en
+                    Fremmed i mit Hjem, da jeg løsnedes fra mit første Ungdomsarbeide. Der laa
+                    saamegen Smerte over selve Maaden, hvorpaa det skete. Nu er den løst op.</p>
+                <p>Tak og lev vel. Maatte jeg en Dag gøre mig fortjent til at være en ligestillet
+                    Ven.</p>
+                <p>Je gtakker Deres Mand. Bevar, om De kan, et venligt Minde om disse Dage;
+                        <emph>jeg</emph> vil ikke glemme dem.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman B.</p>
+                <p>Jeg beder Dem hilse Kristian<note>Christian Ferslew (1877-....), søn af Anna og
+                        Christian Ferslew og formentlig med på forældrenes rejse</note> saa mange
+                    Gange. Sig ham, at han altid vil have og om mange Aar, hvis jeg lever, en gammel
+                    Ven i mig.</p>
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870823001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 432</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1887-08-23">[1887, 23. august] Tirsdag<note>Formentlig det
+                        sidste bevarede brev, som Bang sendte fra Prag til Langhoff</note>
+                </date>
+                <placeName cert="low">[Prag]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Da jeg ligger i Sengen, kære Langhoff, kun min Tak for Deres Godhed. Al Korrektur
+                    har jeg rettet i disse Dage i Sengen.</p>
+                <p>Paa et vedlagt Papir<note>Ikke bevaret sammen med brevet</note> findes de
+                    Rettelser, som <emph>maa</emph> foretages i de første 10 Ark. De betydeligere
+                    (Side 40 og 118) tilstræber at øge Tydeligheden og at <emph>vejlede</emph>
+                    Læseren. 15 og 16 maa jeg sé igen. <app>
+                        <lem>Det øvrige ikke. Jeg mener Ark 11-15 ikke.</lem>
+                        <rdg>Disse ord er tilføjet på en restlinje og i mellemrummet mellem to
+                            linjer</rdg>
+                    </app></p>
+                <p>Det svageste i hele Bogen er Scenerne i II paa Redaktionskontoret ‒ fordi de
+                    falder ud af den strikte Plan og Læseren siger: Men hvorhen skal vi da
+                    egenlig?</p>
+                <p>Men det nytter jo ikke. Hvis jeg kan blive saa rask, at IV og V kan, som jeg vil,
+                        <emph>stige</emph> lige til Slut, <emph>maa</emph> Sukces'en være
+                    sikker.</p>
+                <p>Men jeg er desværre nu saameget svag.</p>
+                <p>Tak, kære Langhoff</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>
