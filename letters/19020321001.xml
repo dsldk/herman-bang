@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19020321001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 828</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1902-03-21">1902, 21. Marts [fredag] <note>Bang var
+                        marts-april 1902 på rekreationsophold i Frederikssund. Nini Holst boede i
+                        den lejlighed, hvor de begge boede 1900-06, Gammel Kongevej 25, 4 sal, i
+                        København</note>
+                </date>
+                <placeName cert="high">Frederikssund</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Frederikssund. 21.3.1902.</p>
+                <p>Kære Nini.</p>
+                <p>De hjerteligste Ønsker om et rigtig fredeligt og rart Aar for dig<note>22.3.1902
+                        fyldte Nini Holst (1853-1922) 49 år</note>. Livet, der berøver de fleste af
+                    os saa meget, giver dog undertiden tilsist en Erstatning for meget andet ‒
+                    Sindets Ro.</p>
+                <p>Jeg har det lidt bedre.</p>
+                <p rend="right">Din Broder</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

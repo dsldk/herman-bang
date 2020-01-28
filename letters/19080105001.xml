@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19080105001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 914</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1908-01-05">1908, 5. Januar [søndag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">Berlin. W.</p>
+                <p rend="right">5.1.1908.</p>
+                <p>Min kære Bertha.</p>
+                <p>Et rigt og lyst Aar ønsker jeg dig af alt mit Hjerte. Først og sidst, at i dette
+                    Aar din Bog maatte prøve Vingernes bærende Slag<note>Bertha Holst debuterede med
+                        sin roman <emph>Vingeslag</emph>, som i maj 1908 udkom hos Gyldendal</note>.
+                    Den <emph>er</emph> hos Hirschsprung<note>Dvs. at manuskriptet på dette
+                        tidspunkt har været indleveret til udgivelse hos Aage Hirschsprung, leder af
+                        Schubothes Forlag.</note>. Og nu skal jeg i denne Uge »pille ved ham«. Men,
+                    min Ven, tro ikke, <emph>jeg</emph> har Indflydelse. Jeg tror at Lopperne paa
+                    Fandens Oldemor har mere at sige end jeg.</p>
+                <p>Ellers er alt som vanligt ‒ trist og over al Forstand øde.....</p>
+                <p>Tusinde Hilsener</p>
+                <p rend="right">fra Din gamle</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

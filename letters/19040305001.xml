@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19040305001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4264, 4to. Det 2. brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Nielsen (fuldmægtig hos
+                                        Gyldendal)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1904-03-05">[1904, ca. 5. marts] Lørdag <note>Brevet må
+                        antagelig kunne dateres til enten 20.2., 27.2. eller 5.3.1904</note>
+                </date>
+                <placeName cert="low">[Aarhus eller København?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Ja, kære Hr. Nielsen, nu har jeg rettet disse fire Ark<note>Bang læser korrektur
+                        på sin roman Mikaël, efterhånden som de satte ark er klar fra trykkeriet
+                        Græbe i København</note>. Men fra Ark 6-Ark 11 (begge inklusive) har jeg
+                    ikke modtaget. Brevene maa være gaaede tabte i Jylland. Jeg maa derfor have
+                    disse Ark sendte i nye Aftryk.</p>
+                <p>Sig til Hr. Nansen<note>Peter Nansen (1861-1918), litterær direktør hos
+                        Gyldendal</note>, at den anden Korrektur kan læses i Trykkeriet. Mig er det
+                    kun behageligt, at det gaar rask, da det dog altid tager nogen Tid at gøre disse
+                    Korrekturer færdige. Og jeg maa snart helt tilhøre min nye Roman<note>Dvs. snart
+                        koncentrere mig om at skrive min nye roman De uden Fædreland ‒</note>.</p>
+                <p rend="right">Deres forbundne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

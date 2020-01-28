@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19110500001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 968</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær; brevets underskrift er skrevet af Bang
+                                            selv</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1911-05-01">1911, Maj <note>Ordlyden er dikteret til en
+                        sekretær (måske frøken Ville Kristiansen)</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Maj 11.</p>
+                <p>Ja, kære Bertha, endelig har jeg <app>
+                        <lem>fået</lem>
+                        <rdg>Ordet er stavet således af sekretæren</rdg>
+                    </app> læst Dit Skuespil. Og Du har taget et megtigt Tag i Dig selv. Nu er »Paa
+                    Vej« virkelig et Menneskes Udvikling. Men et Skuespil, min Ven, er det
+                        <emph>ikke</emph>. Der er mange gode enkelte Scener og de fleste af
+                    Menneskene lever, men den sjælelige Conflikt skaffer sig kun et Sted Udslag i en
+                    ydre dramatisk Konflikt. ‒ Nemlig i sidste Akt, hvor Styrkeprøven, Elses
+                    Forstand skal sættes paa, er virkelig dramatisk.</p>
+                <p>En anden Ting, der paa Scenen vilde virke dødende, er at Stykket i Følge sin Idé
+                    er blevet en Sygehistorie, og syge Mennesker er som Hovedpersoner <app>
+                        <lem>altid</lem>
+                        <rdg>Et par af ordets bogstaver er fjernet af hullemaskinen</rdg>
+                    </app> fatale paa Teatret.</p>
+                <p>Dette, min kære Bertha, maa jeg aabent sige Dig. Ligesaa oprigtigt sige Dig, at
+                    Stykket alligevel er et afgørende Bevis for Dit Talent. Men, som sagt,
+                        <emph>spilles</emph> kan det efter min Mening ikke.</p>
+                <p rend="right">Din gamle</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

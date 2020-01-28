@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19001025001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5152, 4to. Det 12. brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Astrid Pålsson</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Øverst til højre med blyant og i fremmed hånd:
+                                            <emph>[26/10-1900]</emph>, formodentlig skrevet af en
+                                        ansat på Det Kgl. Bibliotek som en afskrift af poststemplet.
+                                        Denne dato var imidlertid en fredag</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1900-10-25">[1900, 25. oktober] Torsdag <note>Dateringen
+                        passer med, at Bang var på oplæsningsrejse 26.-28.10., omtalt sidst i
+                        brevet. Den tilføjede blyantsdato refererer antagelig poststemplet på
+                        brevets kuvert, der ikke er bevaret; Det Kgl. Biblioteks håndskriftsamling
+                        havde tidligere den vane at destruere nyerhvervede breves konvolutter</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Torsdag.</p>
+                <p>Kære Frøken Pålsson.</p>
+                <p>Jeg kom igaar til at sige en Dumhed og jeg vil ‒ skønt De naturligvis aldrig
+                    erfarer den ‒ sige Dem den. Der kom en norsk Skuespiller, mens vi spiste. Han
+                    hed Tønder<note>Theodor Tønder (1879-1957), norsk skuespiller, debut 1898 på
+                        Centralteatret i Christiania (Oslo)</note>. Jeg kom saa ind og sagde, som De
+                    véd, jeg gør: »Jesus, Manden hed Tønder. Men det var ikke Frk. Pålssons
+                    tidligere Forlovede.« ... Jeg greb mig strax i det. Jeg véd, min
+                        Søster<note>Nini Holst (1853-1922), søster til Herman Bang; efter at være
+                        blevet enke flyttede hun til København og delte 1900-1907 husholdning og
+                        lejlighed med sin bror</note> hørte det ikke.</p>
+                <p>Jeg beder Dem tilgive mig. Men det var tilgiveligt. Ti da jeg hørte Navnet
+                    »Tønder«, troede jeg, at det var den rigtige Hr. T.</p>
+                <p>‒ ‒ Jeg rejser nu<note>Bang gav 26.-28.10.1900 offentlige oplæsninger i Maribo,
+                        Sakskøbing og Nykøbing Falster</note>.</p>
+                <p>Hvorledes skal det dog gaa? Mit Hjerte er meget slet.</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

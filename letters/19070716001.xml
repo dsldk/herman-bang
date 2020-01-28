@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19070716001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-07-16">1907, 16. Juli [tirsdag] <note>Bang var senest
+                        5.7.1907 flyttet ind i havehuset til ejendommen Nürnbergerstrasse 36,
+                        Berlin-Wilmersdorf</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Nürnbergerstrasse 36. Berlin. W.</p>
+                <p><app>
+                        <lem>16.</lem>
+                        <rdg>Tallet har Bang rettet, vistnok fra: 15</rdg>
+                    </app>7.<app>
+                        <lem>1907</lem>
+                        <rdg>Bang har kun skrevet: 190</rdg>
+                    </app></p>
+                <p>Min egen Ven.</p>
+                <p>Tak for Kortene, De sender mig og som viser mig, at, hvor De er, er der trofaste
+                    Tanker, som følger mig.</p>
+                <p>Det kan behøves.</p>
+                <p>Jeg er nu helt paa Benene og arbejder ustanseligt, Men i den fuldkomne Ensomhed
+                    lider mit Hjerte ved alle de frygtelige Erindringer, som vil forfølge det altfor
+                    længe.</p>
+                <p>Mine Billeder og Nipsting er endnu ikke komne, saa min Stue er fæl og nøgen. Men
+                    de maa vel komme en Dag.</p>
+                <p>Til Fru W.<note>Antagelig Agnes Witzansky (1872-1962), gift 1895 med redaktør
+                        Harald Witzansky</note> har jeg skrevet ‒ og til ‒ med et langt Brev. Ogsaa
+                    til Hr. W:<note>Harald Witzansky (1862-1940), redaktør af avisen København fra
+                        1902; Bang var journalistisk medarbejder fra samme år</note>, hvem jeg nu
+                    formelig bombarderer med Artikler.</p>
+                <p>Er der ellers noget Nyt? Har Bladene paany mishandlet mig i Anledning af min
+                    Afrejse? Og naar flytter De? Jeg <app>
+                        <lem>kunde</lem>
+                        <rdg>Det første bogstav er rettet fra: st</rdg>
+                    </app> stille ligesaa mange Spørgsmaal som der er Dage og Nætter i et ondt Aar.
+                    Skriv derfor ‒ ‒</p>
+                <p rend="right">Deres og altid Deres</p>
+                <p rend="right">Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

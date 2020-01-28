@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19071230002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4264, 4to. Det 15. brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Nielsen (fuldmægtig hos
+                                        Gyldendal)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-12-30">1907, 30. December [mandag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">Berlin. W.</p>
+                <p rend="right">30.12.1907.</p>
+                <p>Kære Hr. Nielsen.</p>
+                <p>Tak for hver Tjeneste, De i det sidste Aar har vist mig, og for hver venlig
+                    Tanke, som De har sendt mig.</p>
+                <p>Og et godt og lykkeligt Nytaar for Dem og for dem, som staar Deres Sind nær.</p>
+                <p>For mig var jo det svundne Aar jo et Nederlagets Aar. Ti »Sælsomme
+                        Fortællinger«<note>Bangs novellesamling udkom 2.11.1907 hos Gyldendal i
+                        København</note> blev da sandelig en Fiasko ‒ ‒ og, jeg tilstaar, en lidt
+                    uventet.</p>
+                <p>Nu maa jeg begynde paany. Et Arbejdsaar med to Bøger, som skal skrives. Og hvad
+                    nytter det saa, at jeg skriver ‒ naar Publikum saa afgjort har vendt sig bort
+                    fra mig?</p>
+                <p>Men at klage er urimeligt. Altid paany at forsøge at yde det Yderste er det
+                    eneste, der er en Mand værdigt.</p>
+                <p>Vil De, saasnart De har faaet dette, sende min Gage. Desværre sidst blev der
+                    sendt for meget. Tag dog ikke mere fra end absolut nødvendigt. Ti det er Nytaar
+                    og jeg skal betale <emph>den store Post</emph>: min trofaste Læge<note>Max
+                        Wasbutzki, Berlin</note>. Aa ja, nu skal jeg snart gaa ned i Gage. Hvor jeg
+                    gruer for den nødvendige Dag, da det skal ské.</p>
+                <p rend="right">Mange Hilsener</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

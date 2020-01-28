@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19040700001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4685, 4to; uden blyantsnummer (fejlplaceret under
+                                    1911)</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1904-07-01">[1904, cirka juli] <note>Brevet skal formentlig
+                        dateres i forhold til Frits Holms toårige ophold i Shanghai (oprindeligt for
+                        Ø.K.), hvorfra han rejste til USA og var journalistisk korrespondent under
+                        Verdensudstillingen i St. Louis, der fandt sted 30.4.-1.12.1904. I
+                        juli-august 1904 opholdt Bang sig på Marienlyst; hans ord i brevets
+                        begyndelse: »allerede i Byen saá jeg...«, kan forstås således, at han på
+                        brevskrivningstidspunktet ikke befandt sig i København</note>
+                </date>
+                <placeName cert="low">[Marienlyst, ved Helsingør?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Søndag.</p>
+                <p>Min kære Houmark.</p>
+                <p>Det gør mig saa ondt, at De ikke er rask. Men allerede i Byen saá jeg, at det var
+                    ret skidt, uagtet De intet sagde.</p>
+                <p>Jeg har idag haft Brev fra den døde Fritz ↄ: Fritz Holm<note>Frits Holm
+                        (1881-1930), journalist, forfatter og eventyrer</note>. Han var saa langt
+                    fra at være død, at han ‒ paa Vejen hjem ‒ nu <app>
+                        <lem>er</lem>
+                        <rdg>Bang har øjensynlig glemt at skrive: i</rdg>
+                    </app> St. Louis.</p>
+                <p>Han haaber, at »Turen gennem Amerika maa være lærerig«.</p>
+                <p>Det bliver den utvivlsomt.</p>
+                <p>Naar han har naaet Danmark, vil han aflægge mig et Besøg for at fortælle mig sine
+                    »Oplevelser i Shanghai«. Jeg glæder mig umaadeligt til at sé den Knægt.</p>
+                <p rend="right">Mange Hilsener fra</p>
+                <p rend="right">H. B.</p>
+
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

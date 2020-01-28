@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19080906002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2751, folio; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1908-09-06">1908, 6. September [søndag] <note>Bang rejste få
+                        dage efter denne brevdato via Sassnitz-Trelleborg til Norge, hvor han
+                        12.9.1908 holdt en mindetale over den afdøde forfatter Jonas Lie. ‒ Brevet
+                        sidder indklæbet i veksellerer Johan Levins brevsamling, 3. Bog; Johan Levin
+                        (1877-1959) erhvervede i 1920 et antal breve fra Christian Houmark</note>
+                </date>
+                <placeName cert="high">[Berlin]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right"><app>
+                        <lem>6.</lem>
+                        <rdg>Tallet har Bang rettet fra: 5</rdg>
+                    </app>9.1908.</p>
+                <p>Kære Ven.</p>
+                <p>Saa glæder jeg mig til at sé Dem<note>Christian Houmark besøgte Bang i Kristiania
+                        en af dagene omkring 12.9.1908 for at overtale ham til at deltage i den
+                        store planlagte fest 26.10.1908 i København i anledning af Peter Nansens
+                        25-års forfatterjubilæum; forsøget var forgæves, Bang lod sig ikke overtale
+                        til at komme til København</note>. Jeg boer, hvor jeg altid har boet ‒ i
+                        »Victoria-Hotel«<note>I Kristiania (Oslo)</note>, som er stille og aflaaset
+                    og afsides. Jeg berører paa Vejen ikke Malmö.</p>
+                <p>Desværre er jeg lidet rask ‒ tildels som Følge af en frygtelig Overanstrængelse.
+                    Men syg er jeg jo altid.</p>
+                <p>Paa Gensyn ‒</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

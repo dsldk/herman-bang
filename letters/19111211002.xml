@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19111211002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 941</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi af et
+                                                indgangsparti af Eremitagepaladset, et halvtag båret
+                                                af atlanter , med trykt tekst på russisk og fransk.
+                                                Frimærket er dampet af; første del af poststemplets
+                                                dato kan læses: 28.11.[1911], ifølge russisk
+                                                kalender [dvs. 11.12.1911 ifølge vestlig kalender];
+                                                adressefeltet udfyldt i Bangs håndskrift: Mm Nini
+                                                Holst / Copenhague. V. / Prinsesse Maries Allée <app>
+                                                  <lem>7.</lem>
+                                                  <rdg>Bang har rettet tallet fra: 14. (Olga Dahl
+                                                  boede i nr. 14 i samme gade, og Bang sendte den
+                                                  samme dag også et postkort til hende)</rdg>
+                                                </app>. Dateres efter Bangs angivelse af ugedag i
+                                                kombination med poststemplet; intet dansk
+                                                modtagerstempel</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1911-12-11">[1911, 11. december] Mandag <note>Skal dateres
+                        som et samtidigt afsendt postkort fra Bang til Olga Dahl</note>
+                </date>
+                <placeName cert="high">Sankt Petersborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Mandag.</p>
+                <p>Min kære Nini.</p>
+                <p>Dette er den berømte Eremitage. Imorgen skal jeg endelig optræde. Alt er udsolgt.
+                    Anden Gang paa Onsdag. Saa gaaer Vejen til Moskwa.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

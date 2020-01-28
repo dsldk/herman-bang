@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19080827001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4264, 4to. Det 20. brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Nielsen (fuldmægtig hos
+                                        Gyldendal)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1908-08-27">1908, 27. August [torsdag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">Berlin. W.</p>
+                <p rend="right">27.8.1908.</p>
+                <p>Kære Hr. Nielsen.</p>
+                <p>Vedlagte Brev har jeg skrevet til Overretssagfører Jakobsen for, om muligt, at
+                    blive fritaget for Afdraget for September. Jeg har været saa længe syg, at jeg
+                    ikke <emph>kan</emph> undvære det. Vil De besørge det til <app>
+                        <lem>Mand</lem>
+                        <rdg>Bang har vel ment: Manden</rdg>
+                    </app> send et af Forlagets Bude og faa hans Svar ‒ rettet til Dem.</p>
+                <p>Og vil De saa gøre mig den store Tjeneste omgaaende at sende mig
+                    September-Pengene ‒ men paa en <emph>Postanvisning</emph>. Ti at hæve dem i
+                    Banken tager mig en Formiddag (jeg har jo ikke mere Ernst<note>Knud Ernst, Bangs
+                        danske medhjælp og sekretær, sagde op i juli 1908</note> og min
+                        Tjener<note>Max Hartmann, Bangs tyske tjener og medhjælp, der i 1909 fulgte
+                        med ham til København</note> tiltræder først til September) og jeg maa
+                    anvende hver Formiddag paa »Julefortællingen«.</p>
+                <p>Paa Mandag sender jeg det næste Manuskript.</p>
+                <p>Tilgiv al den Ulejlighed.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

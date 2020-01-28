@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18810105001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 992</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider; det aflange papirstykke er foldet og
+                                                lukket som en kuvert, frankeret med et 8 øres
+                                                frimærke og poststemplet: <emph>Kjøbenhavn 5.1. K 3
+                                                  668</emph>; på brevets første side er i øverste
+                                                venstre hjørne trykt en tegning af lille buket
+                                                liljekonvaller. Den nederste halvdel af brevets side
+                                                2 er afklippet; derfor mangler brevets afsluttende
+                                                hilsen og underskrift ‒ og på papirets anden side
+                                                det meste af Bangs udskrift med Ninis adresse; læses
+                                                kan kun: <emph>[... Hol]st / Horsens</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1881-01-05">[1881, 5. Januar, onsdag] <note>Dateres efter
+                        poststempel og i relation til udgivelsen af <emph>Haabløse
+                        Slægter</emph></note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Man kan høre meget usandt, kære Nini, og at kende min Bog<note>Bangs første roman
+                            <emph>Haabløse Slægter</emph> var udkommet i den sidste uge af november
+                        1880 på I.H. Schubothes forlag; siderne 465-519 gav anledning til, at
+                        forfatteren 29.12.1880 offentligt blev tiltalt for utugtighed i medfør af
+                        Straffelovens § 184 samt at bogens restoplag blev konfiskeret; endelig dom i
+                        sagen faldt 23.7.1881</note> af Omtale er ikke nok for en Søsters Kærlighed,
+                    som vel ej vil nægte mig, hvad jeg beder om som om det eneste: at læse, før man
+                    dømmer. Ikke sandt ‒ det er kun at yde mig Retfærdighed at læse?</p>
+                <p>Tak for dine gode Ønsker ‒ <emph>jeg</emph> haaber det nye Aar maa befri mig for
+                    Lidelser, som er mig uudholdelige, og at man vil tillade mig for bestandig at
+                    forlade dette skønne Land.</p>
+                <p>Din Frygt kan du spare, at skrive »Haabløse Slægter« har været min tungeste Pligt
+                    ‒ <emph>nu</emph> har jeg ikke flere mod et Samfund, som stener Sandheden. Og at
+                    rejse for bestandig er nu mine Velynderes Løfte.</p>
+                <p>Lev vel. For dig og din Mand<note>Herman Bangs søster Nini (døbt Nicoline Sophie
+                        Bang) (22.3.1853-17.12.1922), giftede sig i 1879 med exam.jur. Alfred Peter
+                        Holst (1842-99), fra 1884 godsforvalter ved grevskabet Wedellsborg ved
+                        Lillebælt, syd for Middelfart.</note> al Lykke. For mig fra dig, Nini, den
+                    Medlidenhedsgerning, at du læser ‒ saa ved jeg, <emph>kan</emph> du ikke
+                    dømme.</p>
+                <p rend="right"><emph>[brevets afsluttende hilsen og underskriften er
+                        afklippet]</emph></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

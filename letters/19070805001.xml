@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19070805001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 906</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-08-05">1907, 5. August [mandag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Nürnbergerstrasse 36. Berlin. W.</p>
+                <p rend="right">5.8.1907.</p>
+                <p>Min kære Nini.</p>
+                <p>Tak for dit Brev. Naar man lever saa fuldkomment ene som jeg, bliver man saa
+                    glad, naar Posten har kære Breve....</p>
+                <p>Ja, Lejligheden er smuk, endogsaa meget smuk. Men min »Fräulein« bliver ikke hos
+                    mig. Her i det Fremmede trænger man til at være flere sammen, og, da jeg saá, at
+                    det gik ‒ bad jeg Frøken Thune<note>Magdalene Thune (1872-1957), Bangs
+                        husholderske</note> komme herned og hun er villig. Hun vil nok føje sig
+                    efter den Sparsommelighed, som her er nødvendig..... Men der er tom Plads i
+                    Huset. Og, naar du kommer, lejer jeg et Værelse i Huset til Ernst<note>Knud
+                        Ernst, Bangs sekretær og praktiske medhjælp</note>.... Jeg har lejet
+                    Lejligheden for to Aar. Man fordrede tre. Men det vil jeg ikke.... Jeg haaber
+                    ikke, jeg lever længer end to Aar..... Jeg kommer ingen Steder ud. Derfor har
+                    jeg heller ikke noget at skrive. Albrecht Schmidt<note>Den danske skuespiller
+                        Albrecht Schmidt (1870-1945)</note> er her (og spiser her ‒) og han og Ernst
+                    gaar sammen paa Musæer. Imorgen skal <app>
+                        <lem>de</lem>
+                        <rdg>Bang har skrevet: De</rdg>
+                    </app> til Potsdam. Aa, ja, denne By er saa vældig, at her er nok at sé i et
+                    halvt Aar.... Min første Feuilleton stod i »Berliner Tageblatt«
+                        forleden<note>»Das Gartenhaus«, Berliner Tageblatt, 31.7.1907,
+                        Abend-Ausgabe; på dansk tryktes den samme tekst »Havehuset« i Illustreret
+                        Tidende, 4.8.1907</note>, men fra Danmark har jeg kun smertelige og bitre
+                    Efterretninger. Hellere vilde jeg brændes levende, end jeg nogensinde vilde
+                    vende tilbage ‒ blot for en Dag ‒ til det Land. Mon dieu<note>fr. udbrud: Min
+                        Gud!</note>, hvilke Mennesker og hvilke Forhold..... Her har været saa koldt
+                    som midt om Vinteren. Men idag har paa <emph>en</emph> Gang en brændende Hede
+                    slængt sig ned over Byen.</p>
+                <p>Hils Fru Bauditz<note>Olga Bauditz... ??? ..., Middelfart??</note> saa mange
+                    Gange ‒</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>
