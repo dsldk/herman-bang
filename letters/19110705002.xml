@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19110705002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 588</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et farvet fotografi af
+                                                sneklædte fjelde med sejlbåde i forgrunden og den
+                                                trykte tekst: Lofoten. Fra Stamsund. (Stamsund
+                                                ligger imidlertid langt nordligere i Norge end
+                                                Svanøy, hvorfra kortet er sendt). Kortet er
+                                                frankeret med et 10 øres-frimærke og poststemplet:
+                                                  <emph>Svanø 5.VII.11</emph>. Adressefeltet er
+                                                udfyldt i Bangs håndskrift: <emph>Hrn. Ossip Melnik.
+                                                  / Berlin. Wilmersd. / 54 Motzstrasse</emph>; det
+                                                tyske postvæsen har overstreget navnet Berlin og har
+                                                rettet gadenummeret til: N. 52</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med fremmed håndskrift er ved adressefeltet skrevet:
+                                            <emph>Empf. Motzstr. 54 unbekannt / 30 Fahner
+                                            10/7</emph>; formodentlig er dette skrevet af postbudet
+                                        i Berlin, før det tyske postvæsen har rettet Bangs skrevne
+                                        gadenummer fra 54 til 52</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1911-07-05">1911, 5. Juli [onsdag] <note>Dateres efter
+                        poststemplet. ‒ Svanøy ligger nord for Bergen, omtrent midtvejs mellem
+                        Bergen og Aalesund. Postkortet er skrevet på en udflugt under Bangs ophold
+                        hos familien Frithjof Sundt på øen Skorpen ved Bergen, juli-august 1911, jf.
+                        Harry Jacobsen: Den tragiske Herman Bang, s. 198f.</note>
+                </date>
+                <placeName cert="high">Svanøy, ved Bergen</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Mein lieber, guter Ossip.</p>
+                <p>Ein Gruss aus den Kupfergruben, wo ich heute war ‒ ganz unten.</p>
+                <p rend="right">Immer Ihr</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

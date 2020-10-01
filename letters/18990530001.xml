@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18990530001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
+                                                  <emph>Hotel / Harmonien / Sæby</emph>, trykt i en
+                                                Z-form øverst til venstre på papiret</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær (muligvis tegneren Chr. F. Beck, der ledsagede
+                                            Bang på denne oplæsningsrejse); Bang har selv skrevet
+                                            sit navnetræk som underskrift på brevet</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1899-05-30">1899, 30. maj [tirsdag] <note>Bang havde
+                        22.5.1899 indledt en oplæsningsrejse i Jylland</note>
+                </date>
+                <placeName cert="high">Sæby</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right"><emph>[Hotel Harmonien Sæby]</emph> den 30 Mai 99.</p>
+                <p>Kære Ven.</p>
+                <p>Mange Boghandlere klager over at Forlaget<note>Dvs. Det Schubotheske
+                        Forlag</note> er altfor karrigt med Udsendelse af mine Bøger i denne Tid og
+                    i Gaar i Aalborg forsikrede Schultz<note>Georg Schultz' Boghandel (grundlagt
+                        1874), Bispensgade 7, Aalborg</note> mig om, at de handlede meget uklogt
+                    deri. Kan dette ikke ændres.</p>
+                <p>Min ydre Succes er meget stor men jeg taber en Mængde Penge<note>Bang hentyder
+                        til forløbet af sin aktuelle oplæsningsturné</note>.</p>
+                <p>Hils Lübekker<note>J.L. Lybecker (1862-1923), forlægger; han og Aage Hirschsprung
+                        (1869-1909) ledede 1893-1908 i fællesskab Det Schubotheske Forlag i
+                        København</note>.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman Bang.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

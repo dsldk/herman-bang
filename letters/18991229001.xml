@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18991229001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Dateringen »29/12 99« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1899-12-29">[1899, 29. december] Fredag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag.</p>
+                <p>Min Ven.</p>
+                <p>Ulykkerne vil ikke stanse. Ved Teatret<note>Folketeatret, som Bang siden 1897 var
+                        tilknyttet som sceneinstruktør</note> er alt i Opløsning. Herhjemme
+                    ligeledes. Brummerstedt<note>Valdemar Brummerstedt (1868-1941), praktiserende
+                        læge i København siden 1894; han var Bangs læge i 1890'ernes slutning</note>
+                    erklærer Frk Husum<note>Pauline Husum, Bangs sygeplejerske</note>: »Det kan
+                    være, Bang lever, og det kan være, at han døer. Jeg kan i hvert Fald intet mere
+                    udrette«. Kun har han fordret, at Sofie<note>Bangs husholderske og tjenestepige
+                        indtil udgangen af 1899</note> forlod Huset. Hendes Hysteri er næsten
+                    Sindssyge til Tider og jeg har gaaet meget igennem med hende ‒ mer end nogen
+                    aner. Hvad mit Liv maa rumme og skjule, <emph>det</emph> véd ingen. Sofie skal
+                    afsted imorgen tidlig. En Opsættelse er umulig. Sig intet til hende om at De ved
+                    det. Hendes Bortrejse styrter mig i nye Udgifter. Og De maa ‒ for at faa hende
+                    bort ‒ give mig halvtreds Kr. ... Saa faar jeg kun halvtreds til
+                        Januar<note>Bang hentyder til den ordning, der på dette tidspunkt var
+                        gældende; at hans forlag, Det Schubotheske Forlag, hver måned udbetalte ham
+                        et fast beløb (150 kroner)</note>.</p>
+                <p>Cantor<note>Alexander Cantor (1853-1924), overretssagfører i København 1880-1910;
+                        Bangs advokat</note> sendte jeg Bud efter igaar. Han skal tale med
+                    Rigsdagsmændene om min Statsunderstøttelse<note>Først i april 1903 kom Bang på
+                        finansloven. Se Harry Jacobsen: Den tragiske Herman Bang, s.110</note>. Jeg
+                        <emph>maa</emph> nu have den, hvis jeg lever. Ellers er jo min hele
+                    Eksistens umulig. Til Edvard Brandes<note>Edvard Brandes (1847-1931), redaktør
+                        og medstifter 1884 af dagbladet Politiken, tillige forfatter, dramatiker,
+                        journalist; bror til Georg Brandes</note> har jeg skrevet om at skrive i
+                        »Politiken«<note>Se Bangs brev til Edvard Brandes, 28.12.1899. Fra april
+                        1900 blev Bang påny journalistisk bidragyder ved Politiken, frem til januar
+                        1902</note>, hvis jeg bliver rask... Aa, Gud.</p>
+                <p rend="right">Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18900900002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Anna Feilberg</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1890-09-01">[1890, måske september?] <note>Med afbrydelser
+                        boede Bang i Fredensborg fra slutningen af august 1890 til februar
+                        1891</note>
+                </date>
+                <placeName cert="high">Fredensborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredensborg.</p>
+                <p>Kære Fru Feilberg.</p>
+                <p>Det, at jeg ikke var »tilfreds«, fordi De ikke havde »takket« for Bogen<note>Det
+                        kan dreje sig om Bangs novellesamling Under Aaget, som var udkommet
+                        15.5.1890</note> ‒ er noget Snak, som er rent galt refereret. Men nu
+                    hjertelig Tak for Brevet. De sidste Maaneder har været Tider med skrap Sygdom og
+                    trist Elendighed. Men man skal gaa paa Jorden ogsaa, naar den gløder.</p>
+                <p>Til Byen<note>Dvs. til København</note> kommer jeg vel endelig en Gang, naar jeg
+                    faar Raad til den Extravagance. Saa sér jeg sikkert ud. Uh, ha ‒ overfor Fru
+                        Skram<note>Forfatteren Amalie Skram (1846-1905)</note> har jeg en elendig
+                    Samvittighed.</p>
+                <p>Hils Deres Mand<note>Carl Feilberg (1844-1937), fra 1876 læge ved
+                        Øresundshospitalet i København, gift 1876 med Anna Feilberg (1846-1923),
+                        født Krabbe</note> og Tak for Deres Venskab.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

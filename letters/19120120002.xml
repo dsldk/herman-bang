@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19120120002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 600</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider; skrevet på fortrykt brevpapir med
+                                                billede af hotellet øverst til venstre, og til
+                                                højre: <emph>Hotel Astor / Times Square / New York /
+                                                  Wm. C. Muschenheim / F.A. Muschenheim</emph> – med
+                                                cable address og telephone address trykt øverst. Den
+                                                tilhørende kuvert har øverst til venstre et fortrykt
+                                                våbenskjold og teksten: <emph>Hotel Astor / Times
+                                                  Square / New York.</emph> og er frankeret med tre
+                                                US-5 cents frimærker og et rødt stempel:
+                                                  <emph>Registered</emph>; et ovalt poststempel uden
+                                                dato: <emph>New York / H.7</emph> På kuvertens
+                                                bagside et par røde stempler samt et ovalt
+                                                poststempel: <emph>New York / Reg'D(12)For'Cn / 1-20
+                                                  / 1912</emph>. Det tyske postvæsens
+                                                modtagerstempel: <emph>Wilmersdorf b. Berlin 1 /
+                                                  -1.2.12.1-2N</emph> ‒ Bang har skrevet modtagerens
+                                                adresse på kuvertens forside: <emph>Hrn. Ossip
+                                                  Melnik. / Berlin. W. / Europe / Motzstrasse 52
+                                                  (oder 54)</emph>. Afsenderens adresse har en
+                                                fremmed håndskrift skrevet bag på kuverten:
+                                                  <emph>Mr. Bang. / 149 Bway / c/o N J Serra Cotta
+                                                  Co / New York / USA</emph>
+                                            </ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1912-01-20">1912, 20. Januar [lørdag] <note>empty</note>
+                </date>
+                <placeName cert="high">New York</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">20.1.<app>
+                        <lem>1912</lem>
+                        <rdg>Bang har ikke rettet sin egen skrivefejl: 1911</rdg>
+                    </app>.</p>
+                <p>Lieber, guter Ossip.</p>
+                <p>Zum ersten Mal in meinem Leben bin ich Ihnen ernstlich böse. Sie sind Schuld
+                    daran, dass ich überhaupt diese Reise mache. Leider sind Sie auch Schuld daran
+                    geworden, dass jetzt die ganze Reise mir eine lange Qual wird. Ich habe Sie in
+                    Hamburg gebeten, eine einzige Frage zu stellen: Ist der amerikanische
+                    Sonderausflug ins eingezahlte Geld einbegriffen? Sonst hätte ich nämlich absolut
+                    zu wenig Geld. Entweder haben Sie aber diese einzige Frage nicht gestellt oder
+                    man hat Sie belogen. <emph>Denn der Ausflug ist nicht einbegriffen</emph>.
+                    Selbst soll ich alles zahlen. Und jetzt stehe ich hier ‒ in einem fremden Lande,
+                    einem Lande, wo man wenig Deutsch versteht, ohne Führer, ohne Hilfe, soll selber
+                    reisen, selber alles zahlen (17 Tage) und habe vor mir 4½ Monat mit allzu
+                    wenigem Gelde. Denn was hier alles kostet, davon hat man keinen Begriff.</p>
+                <p>Und ich bat Sie so doch sogar innerlich. Ach, Ossip.</p>
+                <p rend="right">Ihr alter Freund</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

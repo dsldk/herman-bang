@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19000120001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Dateringen »20/1 1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1900-01-20">[1900, 20. januar] Lørdag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Kære Hirschsprung.</p>
+                <p>Jeg har i denne Uge haft Stævningsmænd<note>En stævningsmand er en person, der på
+                        en sagsøgers vegne forkynder en stævning, dvs. et anklageskrift, som en
+                        sagsøger indgiver til retten for at få en sag rejst og få modparten til at
+                        møde i retten. ‒ Hvad Bang konkret hentyder til er uoplyst; se dog hans brev
+                        til Hirschsprung, 26.3.1900, hvor politiet har truet med arrest, hvis Bang
+                        ikke betalte af på en fordring</note> hos mig fire Gange, og jeg er
+                    bogstavelig talt lige ved at blive forrykt over dette »run«.</p>
+                <p>De maa give mit Bud tredive Kr. af de hundrede, jeg skulde have den første.</p>
+                <p>»Tine«<note>Bang tilbød i sit brev til Aage Hirschsprung, 10.1.1900, at gennemse
+                        »Tine« og rette fejl og inkonsekvenser i førsteudgaven. Romanen var udkommet
+                        i 1889 og nu næsten helt udsolgt. En andenudgave af bogen udkom 5.10.1900 på
+                        Det Schubotheske Forlag</note> vil give mig adskilligt Arbejde. Sproget er i
+                    Begyndelsen saa skrækkelig springende.</p>
+                <p rend="right">H. B.</p>
+                <p>Steen<note>Bangs sekretær, cand.phil. Christian Frederik Steen, der på dette
+                        tidspunkt formodentlig har skullet skrive videre på manuskriptet til romanen
+                            <emph>Det graa Hus</emph> efter Bangs diktat; romanen udkom
+                        26.11.1901</note> kommer nu daglig.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

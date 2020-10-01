@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19040612002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 854</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-06-12">1904, 12. Juni [søndag] <note>Uoplyst hvilken
+                        rejse Inger og Oluf Heise netop er vendt hjem til København fra</note>
+                </date>
+                <placeName cert="high">Aalsgaarde, nær Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aalsgaard pr. Hellebæk.</p>
+                <p rend="right">12.6.1904.</p>
+                <p>Kære, kære Venner.</p>
+                <p>Velkommen tilbage. Gid De nu maatte være raske, saa raske ‒ begge to.</p>
+                <p>For mig er det som en Befrielse at vide Dem herhjemme.</p>
+                <p>Tilgiv den sørgelige Overraskelse, min Malmø-Tur<note>Indtil videre haves ingen
+                        oplysninger om, at Bang i juni 1904 var på et kort ophold i Malmø ...</note>
+                    havde beredt Dem ved Hjemkomsten. Det var min Sekretær<note>På dette tidspunkt
+                        muligvis Knud Ernst ...?</note>, som i sin Forvirring søgte op til Dem.</p>
+                <p>Naar kan vi sés?</p>
+                <p>Og kan De ikke bo herude?</p>
+                <p>Eller blot 14 Dage paa Marienlyst? I det gamle Hotel, som jeg elsker saa højt.
+                        <emph>Der</emph> er slet ikke dyrt.</p>
+                <p>Velkommen.</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18991222001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Dateringen »22/12 99« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1899-12-22">[1899, 22. december] Fredag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag.</p>
+                <p>Min Ven.</p>
+                <p>Det er atter lidt bedre med mig ‒ <emph>lidt</emph>. Men jeg maa slet ingen sé
+                    uden Frøken Husum<note>Pauline Husum var Bangs sygeplejerske</note>. Jul faar
+                    jeg ingen. Det er som var jeg død. Jeg er ligesom en Mand, der allerede ligger i
+                    sin Kiste men som endnu kan sé til. Jeg beder Dem som Julegave give mig
+                    halvtreds Kroner ‒ lidt Blomster maa jeg dog sende fra mit Fængsel. Til Frøken
+                    Husum vilde jeg gerne bede om et indbundet Eksemplar af »Stuk«<note>Bangs roman
+                        udkom i 1887, men var i 1899 endnu ikke udsolgt fra Det Schubotheske
+                        Forlag</note> og til mig selv om »Baggesen«<note>Bang anmoder formentlig om
+                        et eksemplar af det nyligt udkomne fjerde bind af Jens Baggesens Værker, som
+                        Det Schubotheske Forlag i 1889-1903 udgav i fem bind. Bind 4 rummer
+                        »Blandede Digte«</note>.</p>
+                <p>Jeg kan jo altsaa ikke sé Dem inden Jul. Men Tak, kære Aage, for dette smerterige
+                    Aar, det smerterigeste i mit Liv og, jeg haaber det, det sidste. Dets Smerter
+                    har dræbt mig. Deres Godhed skal jeg mindes, saa længe jeg kan mindes.</p>
+                <p>Jeg har intet Haab mere, ikke noget menneskeligt og ikke noget kunstnerisk. Men
+                    jeg vilde gerne have »Det graa Hus«<note>Bangs roman udkom 26.11.1901 på Det
+                        Schubotheske Forlag</note> færdigt ‒ som en sidste Afsked til Menneskene.
+                    Denne Verden er uudholdelig, fordi én Slyngel, der ikke kender En, kan tilføje
+                    et Menneske Saar saa dybe, at Tusinders Godhed ikke kan læge dem.</p>
+                <p>Lev vel.</p>
+                <p>Tak ogsaa Lybecker<note>J.L. Lybecker (1862-1923), der 1893-1908 og i fællesskab
+                        med Aage Hirschsprung var direktør for J.H. Schubothes Boghandel og Det
+                        Schubotheske Forlag</note>. Og en inderlig god Jul for Dem begge.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman Bang.</p>
+                <p>Skriv mig to Ord til om, hvordan det gaar med Salget af mine Bøger. Naturligvis
+                    gaar det slet; ti Reaktionen er kommen. Men skriv alligevel Sandheden. Andet
+                    bryder jeg mig dog ikke mere om at høre.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

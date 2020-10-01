@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18890206001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Anna Feilberg</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1889-02-06">1889, 6. Februar [onsdag] <note>Brevet er
+                        skrevet efter Anna Feilbergs (ikke bevarede) svar på Bangs brev til hende,
+                        dateret »Nakskov. Lørdag« [cirka 2.2.1889]</note>
+                </date>
+                <placeName cert="high">[Nakskov]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">6.2.89.</p>
+                <p>Kære Fru Fejlberg.</p>
+                <p>Just fordi jeg véd Dem min Ven, skrev jeg jo, som jeg skrev<note>Bang hentyder
+                        til sit brev til Anna Feilberg fra »Lørdag«, [2.2.1889]</note>. Og saa
+                    skulde jeg blive vred? hvorfor? Jeg trængte til én Gang at tale til et Menneske
+                    om Ting, hvorom jeg til daglig tier, og jeg skrev. Og saa skulde jeg blive vred,
+                    fordi De svarede?</p>
+                <p>Ja ‒ hvad Fremtiden skal blive til? <emph>Det</emph> véd jeg ikke. Jeg vil vel
+                    flytte ud paa Landet, leve af lidt og leve énsom. Hvad andet er der at gøre? Og
+                    ønsker jeg andet? Da <emph>jeg</emph> var ganske ung, havde jeg Magt og
+                    Indtægter. Nu har <emph>andre</emph> dem. Det er blevet deres Tur. Og selv om
+                    det er haardt, naar man endnu er ung, har Forstand, Øje og Tunge, ikke mere at
+                    have noget Sted i den daglige Strid, hvor man kan anvende dem ‒ saa bør man dog
+                    ikke klage.</p>
+                <p>Tro ikke, at jeg ikke ihærdig <emph>forsøger</emph>. Der ligger nu
+                        <emph>seks</emph> Artikler paa »Politiken« ‒ som aldrig bliver trykte og dog
+                    skriver jeg den syvende. Ogsaa til Sverig og Norge skriver jeg ‒ og har ikke sét
+                    Penge derfra et halvt Aar.</p>
+                <p>Mer næste Gang. Mange Hilsener, kære Ven, til Deres Mand<note>Carl Feilberg
+                        (1844-1937), fra 1876 læge ved Øresundshospitalet i København; gift 1876 med
+                        Anna Feilberg (1846-1923), født Krabbe</note> og Børn</p>
+                <p rend="right">fra Deres hengivne</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

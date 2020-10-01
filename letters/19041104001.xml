@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19041104001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 857</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side, erklæring om et nyt pengelån</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær; Bang har selv skrevet under. Ordlyden er
+                                            muligvis i Oluf Heises håndskrift?</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Nederst på papiret har Oluf Heise noteret: <emph>17/1 05 ‒
+                                            200</emph> / <emph>‒ 200</emph> og <emph>21/2 05
+                                            200</emph>, sammenlagt 600, samt: <emph>Betalt
+                                            OHeise.</emph></ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-11-04">1904, 4. November [fredag] <note>empty</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Af Overretssagfører O. Heise har jeg idag modtaget som Laan 600 Kr ‒ Sex Hundrede
+                    Kroner. Beløbet betales tilbage med 200 Kr den 10 Januar 1905, 200 Kr den 20
+                        s.M.<note>Dvs. samme måned</note> og 200 Kr den 30 s.M. Til Sikkerhed for
+                    skadesløs Betaling af Laanet giver jeg herved Hr. Heise, for et Beløb af 600 kr,
+                    Transport paa det Udbytte, som maatte fremkomme under min Oplæsningstourné, som
+                    skal paabegyndes i Januar 1905 i forskjellige Provinsbyer<note>Bangs store
+                        oplæsningsturné rundt i landet indledtes 3.1.1905 og afsluttedes
+                        19.4.1905</note>.</p>
+                <p>Kjøbenhavn den 4' November 1904.</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

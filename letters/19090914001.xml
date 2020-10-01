@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19090914001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2001/76</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Josef Melnik</persName> til <persName
+                                        role="recipient">Herman Bang</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi af den
+                                                albansk-østrigske skuespiller Alexander Moissi
+                                                (1880-1935) i rollen som Hamlet, med den trykte
+                                                tekst: <emph>Alexander Moissi als »Hamlet«</emph>.
+                                                Postkortet er frankeret med to 5-Pfennigs frimærker,
+                                                poststemplet i <emph>Halensee 14.9.09 7-8N</emph>;
+                                                adressefeltet er udfyldt i Melniks håndskrift:
+                                                  <emph>Herrn / Herman Bang / Kopenhagen K. / Lille
+                                                  Strandstraede 20</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med blyant har en fremmed hånd ved adressefeltet skrevet:
+                                            <emph>Maske, Søndag / 3/sp. / Retur til Damkier</emph>.
+                                        Formodentlig har dette postkorts billedside været anvendt
+                                        til en trykt gengivelse i et dansk tidsskrift ‒ måske
+                                        teatertidsskriftet <emph>Masken</emph> og måske på Bangs
+                                        foranledning; i givet fald er det tænkeligt, at dette var
+                                        årsag til, at Bang har bevaret dette postkort</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1909-09-14">1909, 14. September [tirsdag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin-Halensee</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">14 September 09</p>
+                <p>Mein lieber Freund ‒</p>
+                <p>in einer Stunde gehe ich nach Russland. Aus Warschau<note>Det tyske navn for
+                        Warszawa</note> werde ich Ihnen schreiben. Jedesmal, wenn ich Berlin
+                    verlasse, empfinde ich für diese Stadt ein zärtliches Gefühl.</p>
+                <p rend="right">Herzlichst Ihr Ossip</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

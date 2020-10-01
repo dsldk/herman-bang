@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18890301001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Anna Feilberg</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1889-03-01">1889, 1. Marts [fredag] <note>empty</note>
+                </date>
+                <placeName cert="high">Nakskov</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Nakskov. 1.3.89.</p>
+                <p>Kære Fru Feilberg.</p>
+                <p>Jeg har ventet disse Dage paa »Fjeldmenneskene«<note>Forfatterægteparret Amalie
+                        Skram (1846-1905) og Erik Skram (1847-1923) havde i fællesskab skrevet
+                        lystspillet Fjældmennesker (trykt 1889, opført 1892 på Dagmarteatret i
+                        København)</note>, men da de ikke synes at ville arrivere, maa jeg dog takke
+                    Dem. Inderlig Tak, kære Fru Feilberg ‒ men, lad mig dog sige Dem, at saadan var
+                    det ikke mént. Lad mig have Lov til at klage min Nød og forøvrigt ‒ ‒
+                        <emph>skrive løs</emph>, til jeg faar det nødvendige fortjent. Selv sine
+                    Venner tør man ikke ‒ naar man blev gammel som jeg ‒ skylde saameget. Men Tak.
+                    Tak.</p>
+                <p>Jeg kan intet skrive, da jeg er indtil Feber ophidset af min Bog<note>Under sit
+                        ophold på Hotel Skandinavien i Nakskov 13.1.-19.5.1889 skrev Bang sin roman
+                        Tine</note>.</p>
+                <p>Hils alle.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman B.</p>
+                <p>Søndag skal jeg skrive.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

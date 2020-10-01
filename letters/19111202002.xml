@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19111202002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 597</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side; skrevet på brevpapir med et fortrykt
+                                                bomærke i øverste venstre hjørne: Hotel Kamp /
+                                                Helsingfors</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Nederst på brevpapiret er med blæk og i fremmed hånd
+                                        skrevet: <emph>Habe telegraphisch 300 Mk geschickt am Montag
+                                            4 Dez.</emph> Dette er antageligvis skrevet af Josef
+                                        Melnik</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1911-12-02">[1911, 2. december] Lørdag <note>empty</note>
+                </date>
+                <placeName cert="high">Sankt Petersborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">St. Petersbourg. Hotel Dagmar. Sadovaia 9.</p>
+                <p rend="right">Samstag.</p>
+                <p>Lieber, guter Ossip.</p>
+                <p>Ich bin hier ‒ leider Gottes.</p>
+                <p>Was ich in Schweden verdiente, verlor ich durch d: Bankerot meines Impresarios.
+                    In Finland ging es herunter zum Teufel. Und jetzt bin ich hier, wo
+                        <emph>nichts</emph> arrangiert ist ‒ ohne Geld. Zum ersten Mal in meinem
+                    Leben bitte ich Sie. Verschaffen Sie sofort wie möglich, dreihundert Mark und
+                    schicken Sie <app>
+                        <lem>sie</lem>
+                        <rdg>Bang har rettet ordets første bogstav fra et: h</rdg>
+                    </app> hieher ‒ schnell, schnell, denn ich vergehe vor Angst.</p>
+                <p>Thun Sie alles. Aber verschaffen Sie das Geld, bis ich nach Berlin komme.</p>
+                <p rend="right">Immer Ihr</p>
+                <p rend="right">Herman Bang.</p>
+                <p>Und schweigen Sie.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

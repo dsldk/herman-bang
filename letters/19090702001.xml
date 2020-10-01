@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19090702001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 551</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi fra en park
+                                                med en søjle, en statue og vandløb, hvorover en buet
+                                                hvid gangbro, og med den trykte tekst:
+                                                  <emph>Marienlyst Park med Hamlets Statue.
+                                                  Helsingør</emph>. Postkortet er frankeret med et
+                                                10-øres frimærke og poststemplet: <emph>Helsingør
+                                                  2-7.09.3-5E</emph>. Postkortets adressefelt er
+                                                udfyldt i Bangs håndskrift: <emph>Mr: Josef Melnik.
+                                                  / Constantinople / Pera. Poste Allemande. /
+                                                  Restante</emph>; postvæsenet har rettet adressen
+                                                til: <emph>Berlin-Halensee / Johann Georgstr.
+                                                  7</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1909-07-02">1909, 2. Juli [torsdag] <note>Dateres efter
+                        ugedagen, der passer med poststemplets dato. Bangs flytning fra Berlin til
+                        København fandt sted 30.6.1909; et par dage senere tog han ophold på
+                        Marienlyst ved Helsingør, før han senere i juli 1909 flyttede til sin nye
+                        permanente bopæl Lille Strandstræde 20 i København</note>
+                </date>
+                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Jeudi.</p>
+                <p>Mon très cher.</p>
+                <p>Bin eben angekommen. Morgen Brief.</p>
+                <p rend="right">Immer Ihr</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

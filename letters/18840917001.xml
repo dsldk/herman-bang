@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18840917001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Rigsarkivet</repository>
+                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+                                    blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Niels Neergaard</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1884-09-17">1884, 17. September [onsdag] <note>Niels
+                        Neergaard (1854-1936) var 1884-1892 redaktør af tidsskriftet
+                            <emph>Tilskueren</emph></note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">17.9.84</p>
+                <p>Kære Hr. Neergaard.</p>
+                <p>De skal modtage Manuskriptet iovermorgen. Jeg tør ikke modtage <app>
+                        <lem>Tilbuddet</lem>
+                        <rdg>Bang har fejlagtigt skrevet: Tibuddet</rdg>
+                    </app> for <emph>hver</emph> Maaned men skal skrive Kroniken saa ofte ‒ der er
+                    noget at skrive om.</p>
+                <p rend="right">Deres</p>
+                <p rend="right">Herman B.</p>
+                <p>Men jeg vil sige, at jeg for fire Sider Petit<note>Dvs. fire sider trykt med små
+                        typer</note> af den Slags ‒ eller rettere for <app>
+                        <lem>»Kronik«en</lem>
+                        <rdg>Bang har først skrevet: for en »Kronik« ‒ og derpå overstreget ordet en
+                            og i stedet sat ordet Kronik i bestemt form</rdg>
+                    </app> pr. Styk (lidt større eller mindre) maa have <emph>noget</emph> mere end
+                    25 Kr. Arbeidet er nemlig meget stort til at bedømmes absolut efter Sideantal,
+                    og jeg skriver <emph>ikke</emph> om Theater <emph>noget</emph> andet Sted. Var
+                    40 Kr. pr: Kronik for meget?</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

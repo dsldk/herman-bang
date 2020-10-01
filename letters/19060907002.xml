@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19060907002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 524</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1906-09-07">1906, 7. September [fredag] <note>I
+                        september-oktober 1906 opholdt Bang sig i Randers for at færdigskrive sin
+                        roman De uden Fædreland ‒</note>
+                </date>
+                <placeName cert="high">Randers</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Randers. Dänemark.</p>
+                <p rend="right">7.9.1906.</p>
+                <p>Mein guter Freund.</p>
+                <p>Die letzten Wochen waren entsetzlich ‒ von Jammer und Elend überfült. Die
+                    tolsten, die ich überhaupt erlebt habe.</p>
+                <p>Jetzt hocke ich hier ‒ in einem kleinen Nest, wo ich mein neues Buch<note>Romanen
+                        De uden Fædreland ‒, der udkom 4.12.1906 hos Gyldendal</note> fertig haben
+                        <emph>muss</emph> im Laufe von vier Wochen. Denn ich bin noch einmal ‒
+                    Oberregisseur geworden<note>Fra oktober 1905 til maj 1907 var Bang knyttet til
+                        det københavnske teater Casino som sceneinstruktør. I den nye teatersæson
+                        1906/07 fik han formentlig bevilget orlov frem til november 1906, fordi han
+                        i efteråret skulle færdigskrive sin nye roman</note>. Gewiss.</p>
+                <p>Ja, die »Gespenstergeschichte« habe ich erlebt<note>Bang hentyder til en af de
+                        tre noveller, som udgør hans Sælsomme Fortællinger, udgivet 2.11.1907 hos
+                        Gyldendal. Ifølge Herman Bang: Romaner og noveller, bind 8, 2010, s.
+                        421-422, er to af fortællingerne angiveligt baseret på oplevelser tidligere
+                        i Bangs liv</note>. .... Ob Dostojewski Recht hat<note>Fjodor Dostojevskij
+                        (1821-1881), russisk forfatter. Uoplyst, hvad Bang konkret hentyder til
+                        ...</note>, weiss ich nicht...</p>
+                <p>Ich werde in Januar im »Verein für Kunst« auftreten<note>En tilsvarende oplysning
+                        giver Bang i slutningen af sit brev til Betty Nansen, 14.9.1906. En planlagt
+                        offentlig optræden i Berlin i januar 1907 må være blevet aflyst ‒ og udsat
+                        til 28.11.1907, da Bang optrådte i Verein für Kunst i Berlin</note>.
+                        <emph>Jetzt</emph> ist es besser d: Humbug ganz und gar mitzumachen.</p>
+                <p>Adieu.</p>
+                <p rend="right">Tristement.</p>
+                <p rend="right">Herman Bang.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>
