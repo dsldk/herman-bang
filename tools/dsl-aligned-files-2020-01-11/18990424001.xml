@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990424001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »24/4 99« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1899-04-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-04-24">[1899, 24. april] Mandag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Ja ‒ det er frygteligt.</p>
+            <p>Men hvad kom der ind? Fra imorges er <hi rend="italics">alle</hi> faldne over mig i
+                    Anledning af »det udsolgte Hus«<note>Bang må hentyde til en af sine
+                        oplæsningsaftener, ‒ skal eftersøges i samtidens aviser ... ??</note>. I
+                    Løbet af to, tre Dage skal jeg finde Udveje. Men jeg maa ‒ idag betale halvtreds
+                    Kr. til den værste. Send mig dem og imorgen Regnskabet.</p>
+            <p>Igaar laa jeg i Sengen. Saa oversætter jeg Maupassant<note>Sandsynligvis et
+                        opgivet projekt; intet nærmere oplyst. Guy de Maupassant (1850-93), fransk
+                        forfatter</note> og Kl. 10 imorgen Formiddag retter jeg, nede i
+                    Forretningen, Bogen ud<note>Dette må forstås således, at Bang den følgende dag
+                        vil komme til Det Schubotheske Forlags boghandel i Silkegade 13 for dér at
+                        læse den afsluttende korrektur før trykningen af sin bog <hi rend="italics">Liv og
+                            Død</hi>. der udkom 13.5.1899</note>.</p>
+            <p>Giv Bud'et Pengene.</p>
+            <p>Saa skal det være slut.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

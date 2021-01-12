@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19010200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Georg Brandes' Arkiv. Blyantsnummer 1</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Visitkort, 2 sider. Trykt navn: Herman Bang</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1901-02-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Georg Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1901-02-01">[1901, cirka Februar?]<note>Der er tale om bidrag
+                        til hæftet »Det skønne Frankrig ‒«, udgivet 9.4.1901 i forbindelse med
+                        prinsesse Maries velgørenhedsbasar</note>
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>[Herman Bang] sender Dem, kære Dr: Brandes sin hjerteligste Tak for Deres Løfte
+                    og for Deres <hi rend="italics">Forstaaelse</hi>. Iaftes indløb fra Paris Telegram om, at
+                    Frankrigs første Kunstnere ‒ Besnard<note>Albert Besnard (1849-1934), fransk
+                        maler og grafiker</note>, Rafaëlli<note>Jean-François Raffaëlli (1850-1924),
+                        fransk maler og grafiker</note> o:s:v: ‒ sender Tegninger til
+                        Skriftet<note>Det skønne Frankrig, redigeret af Christian Gulmann som en
+                        festbog på 40 sider, solgt til fordel for prinsesse Maries Bazar, København
+                        9.-11.4.1901. Georg Brandes bidrog s.4-6 med sin tekst »Charles af
+                        Orléans«</note>. Fra Norden Edelfelt<note>Albert Edelfelt (1854-1905), finsk
+                        maler</note>, Krøyer<note>P.S. Krøyer (1851-1909), dansk maler</note> og
+                        Thaulow<note>Frits Thaulow (1847-1906), norsk maler</note>. Det synes mig,
+                    at der er noget vist rankt ved denne Tanke.</p>
+            <p>Deres ærbødigst hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

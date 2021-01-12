@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000110001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »10/1 1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-01-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-01-10">[1900, 10. januar] Onsdag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag Aften.</p>
+            <p>Min kære Hirschsprung.</p>
+            <p>Jo ‒ jeg kan jo godt ‒ og det er vel det bedste ‒ gennemgaa »Tine«<note>Bangs
+                        roman var udkommet i 1889 og nu så godt som udsolgt. En andenudgave af bogen
+                        udkom 5.10.1900 på Det Schubotheske Forlag</note>. Meget er der ikke at
+                    rette, men nogle Ordgentagelser i Replik'erne bør dog uden al Tvivl
+                        stryges<note>Bang præciserer behovet for sproglig tilretning, se hans brev
+                        til Aage Hirschsprung, 20.1.1900</note>.</p>
+            <p>Paa Guy de Maupassant har jeg taget fat<note>Ifølge tilsvarende oplysninger i
+                        enkelte andre breve til Aage Hirschsprung arbejdede Bang i 1899-1900 på et
+                        dansk udvalg af Guy de Maupassants noveller; en sådan bog udkom
+                        aldrig</note>. Udvalget er imidlertid vanskeligt paa Grund af den urimelige
+                    embarras de richesse<note>fr.: et vanskeligt valg mellem mange
+                    muligheder</note>. Man synes uvilkaarligt, at alt maa med ‒ parbleu<note>fr.:
+                        minsandten</note>, da jeg gennemlæste mine egne Bind<note>Bang sigter til
+                        sit arbejde med sine egne <hi rend="italics">Udvalgte Fortællinger</hi>, der udkom
+                        1.12.1899 på Det Schubotheske Forlag</note> havde jeg lige den modsatte
+                    Fornemmelse.</p>
+            <p>»Det graa Hus«<note>Bangs roman udkom 26.11.1901 på Det Schubotheske
+                        Forlag</note> skal nok komme. Men med et slet opbygget Hus staar hverken De
+                    eller jeg mig. Det kan ikke nytte.</p>
+            <p>Med Brummerstedt<note>Valdemar Brummerstedt (1868-1941), praktiserende læge i
+                        København siden 1894; han var Bangs læge i 1890'ernes slutning</note> har
+                    jeg nu atter Kvalm. Han skulde jo have hundrede Kr. efter Nytaar.</p>
+            <p>De maa nu uvægerligt <app>
+                  <lem>præsentere</lem>
+                  <rdg><note>Ordets sidste fire bogstaver har en blækklat i brevet gjort
+                      ulæselige</note></rdg>
+               </app> December-Anvisningen for Abrahams<note>Severin Abrahams (1843-1900), fra
+                        1884 direktør for Folketeatret med svingende økonomisk udbytte; han døde
+                        pludseligt 31.3.1900, og hans dødsbo erklæredes fallit. Bang var 1897-1900
+                        sceneinstruktør ved Folketeatret</note>. Nu har alle faaet Gage ‒ undtagen
+                    jeg, der ‒ <hi rend="italics">foruden</hi> Anvisningen til Dem ‒ for December endnu har 150
+                    Kr. til Gode. Men jeg faar dem aldrig. Send mig saa »Tine«<note>Dvs. et
+                        eksemplar af Bangs roman, udkommet i 1889, som han kan indføre de nødvendige
+                        rettelser i</note> samt Hefterne af Shakespeare<note>Det Schubotheske Forlag
+                        udgav i årene 1897-1900 Shakespeares <hi rend="italics">Dramatiske Værker</hi> i Edvard
+                        Lembckes danske oversættelse. De i alt 9 bind udkom hæftevis</note>, som jeg
+                    ikke har sét siden Hefte 32. Det er otte Maaneder siden.</p>
+            <p>Jeg har det nu noget bedre. Dog er mit Hoved endnu saare svagt og Manglen paa
+                    Kloral lader mig hver Nat ligge vaagen, til den længst er slagen tre. Det er en
+                    Smule for langtrukket. Men enfin ‒ la vie est bien triste, soyons gais<note>fr.:
+                        Men altså ‒ livet er sandelig jammerligt, lad os derfor fornøje
+                    os</note>.</p>
+            <p rend="right">Sympathiquement</p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

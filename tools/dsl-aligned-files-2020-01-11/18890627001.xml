@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18890627001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 333</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Brevpapir med monogram HB i blindtryk</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Bergen]</placeName>
+               <date when="1889-06-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1889-06-27"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1889. 27. juni,  torsdag] <note>Sekundær blyantspåskrift
+                  (ikke Peter Nansens): <q>27-6-89</q>. Pålideligheden kan ikke afgøres, men denne
+                  datering strider ikke imod tidspunktet for Bangs foredrag om Amalie Skram</note>
+            </date>
+            <placeName cert="high">[Bergen]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Nansen.</p>
+            <p>Jo, Hr. Redaktør, hvis jeg paa nogen Maade kan, skal De faa Artiklen. At du skal have
+               et Tidsskrift<note>Af Dagens Krønike, redigeret af Peter Nansen, begyndte at udkomme
+                  i juli 1889</note> , – ja, Guds Lykke til.</p>
+            <p>Jeg sendte idag et antikt lille Spænde til <persName key="Brock_Louise">din
+                  Kone</persName>
+               <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note>. Maaske kan hun bruge det til en Kaabe.</p>
+            <p>Jeg har her gjort megen Lykke og mange Kranse smykker mine Vægge. Huset fuldt men
+               Priserne altfor lave. <persName key="Skram_Amalie">"Amalie Skram"</persName>
+               <note>Torsdag 20.6.1889 holdt Bang i Bergen dette foredrag om den norske, dansk gifte forfatter Amalie Skram (1846-1905)</note> blev en
+                  <hi rend="italics">stor</hi> Triumf for hende og mig. Jeg rejser nu paa Landet<note>Måske til
+                  familien Juuhl, jf. brevet 18890910, eller til familien Sundt, der ejede en mondæn
+                  hytte på øen <placeName key="Skorpa">Skorpa</placeName> syd for Bergen, jf. Harry Jacobsen: Den miskendte Herman Bang,
+                  s. 19</note>. Omgaaes her kun Millionærer</p>
+            <p>Hils din Kone.</p>
+            <p rend="right">Herman B</p>
+         </div>
+      </body>
+   </text>
+</TEI>

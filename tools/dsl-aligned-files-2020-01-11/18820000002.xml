@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18820000002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Troensegaard I.1. Blæknummer 14</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1882-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>A.C. Riemenschneider</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1882-01-01">[1882, måske før august?] <note>A.C.
+                        Riemenschneider grundlagde i 1880 sit forlag og boghandel. Fra august 1882
+                        til konkursen i december 1883 var Bang anonym redaktør af ugebladet
+                            <hi rend="italics">Vor Tid</hi>, udgivet af Riemenschneider og Salomon. Ordvalget i
+                        dette brev kan pege i retning af, at Bang endnu ikke er trådt i funktion som
+                        redaktør ved ugebladet</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Hr. Riemenschneider!</p>
+            <p>Jeg <hi rend="italics">tør</hi> ikke oversætte Salammbô<note>Roman af den franske forfatter
+                        Gustave Flaubert, originaludgave 1862</note>, det er umuligt for mig at gøre
+                    det godt ‒ saa maa vi lade være. Jeg er forleden begyndt paa »la
+                        curée«<note>Titlen på den anden roman (fra 1877) i Émile Zolas romanserie
+                        Les Rougon-Macquart</note>, haaber, at vi af den skal faa mere
+                    Fornøjelse.</p>
+            <p>Gør mig den Tjeneste at indlevere vedlagte Manuskript til »Vor Tid« med Anmodning
+                    om Optagelse. Det er et Par mesterlige Skitser fra Paris<note>... det skal
+                        efterses, om denne tekst blev trykt i Vor Tid ...</note>. Noget af det mest
+                    fuldendte, mener jeg, Zola har skrevet.</p>
+            <p>Venlig Hilsen fra</p>
+            <p rend="right">Deres</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

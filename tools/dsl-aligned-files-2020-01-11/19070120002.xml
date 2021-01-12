@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070120002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 21</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Hillerød</placeName>
+               <date when="1907-01-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-01-20"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 20. januar.  [søndag]<note>I dagene ca. 15.-20.1.1907
+                  opholdt Bang sig på et hotel i Hillerød for at få nerverne bragt i ro (se Harry
+                  Jacobsen: Den tragiske Herman Bang, s. 172)</note>
+            </date>
+            <placeName cert="high">Hillerød</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">20.1. 1907.</p>
+            <p rend="right">Hillerød.</p>
+            <p>Min kære Ven.</p>
+            <p>Saaledes kommer Omslaget<note>Bang har øjensynlig vedlagt et billede; i dag er der
+                  ikke bevaret et bilag ved brevet</note> til min næste Bog til at sé ud.</p>
+            <p>Og hvad den handler om? Det skal jeg sige Dem. Viggo Petersen er en
+               Manufakturhandlerkommis, og han har alle Dage haft Pladser i de ganske smaa Byer og
+               han har levet som de andre og "elsket" som de andre – det Hele som de andre. Der er
+               bare det, at hans Fader var Gæstgiver og maaske har været halvfuld, da Grunden blev
+               lagt til Hr. Viggo Petersen. Det er muligvis derfor, at der inden i ham er den lille
+               Orm, som gør ham utilfredsstillet ved det Hele. Og saa en Dag kommer De til den lille
+               By og spiller "<!--start title reference--><title key="Agnete">Agnete</title>
+               <!--end title reference-->"<note>Skuespil af den norske forfatter <persName key="Skram_Amalie">Amalie Skram</persName> (1846-1905). Betty Nansen spillede titelrollen
+                  første gang i maj 1905 på Folketeatret, jf. note til brevet 19050409</note> og
+               saa sér han, Skroget, at der er altsaa Kvinder – Kvinden, som han aldrig skal naa
+               frem til, skønt Livet ikke er andet end Kvinden. Og saa gaar Hr. Viggo Petersen hjem
+               og hænger sig og ingen begriber hvorfor. Og alle undres. Men "Mørkegade-Marie"
+               bestemmer, at hun vil udlægge ham som Barnefader – for "han har da været der næsten
+               ligesaa meget som de andre["].</p>
+            <p>Det er det Hele.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

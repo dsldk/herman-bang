@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18980918001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Datoen »19.9.98« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-09-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-09-18">[1898, 18. september] Søndag <note>Datering:
+                        Bangs angivelse af ugedag i kombination med brevets sekundært anførte
+                        datering</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Nej, kære Ven, jeg kan ikke faa fri nogen Formiddag<note>Bang havde fra november
+                        1897 til februar 1900 en kontraktansættelse som sceneinstruktør ved
+                        Folketeatret, Nørregade i København</note>. Hr. Severin
+                        Abrahams<note>Severin Abrahams (1843-1900), fra 1884 direktør for
+                        Folketeatret med svingende økonomisk udbytte; hans dødsbo erklæredes
+                        fallit</note> er en streng Arbejdsgiver, der, »for at Personalet ikke skal
+                    gaa ledigt«, ansætter Prøver og Prøver paa Stykker, som skal spilles om to
+                    Maaneder. Og det vilde være ham en uudholdelig Tanke, at hans Sceneinstruktør
+                    havde fri en Dag, hvor der kan arbejdes.</p>
+            <p>Vedlagte vil jeg have som Motto paa »Det hvide Hus«<note>Bangs roman, der udkom
+                        26.11.1898 på Det Schubotheske Forlag, har som motto forrest i bogen det
+                        lille digt »Tell me the tales, / that to me were so dear, / long long ago /
+                        long long ago.«</note>.</p>
+            <p>Naar skal vi saa gøre Bogen færdig? Naar De kommer ind fra Landet?</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

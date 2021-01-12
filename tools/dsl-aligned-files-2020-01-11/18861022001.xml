@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861022001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 120</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LVII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-10-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 22. oktober], Fredag<note>Dateringen i Vandreaar s. 230
+                  følges</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Fredag.</p>
+            <p>Idag, kære Peter, udkommer min Bog<note><!--start title reference-->
+                  <title key="Stille_Eksistenser">Stille
+                     Eksistenser</title>
+                  <!--end title reference-->
+               </note> hos Jer. Det er en underlig Tanke – her, hvor man
+               er, helt ukendt og ene; <hi rend="italics">der</hi>, hvor man er fjerntfra, at blive læst –
+               maaske af en enkelt forstaaet. Jeg har læst i min Bog idag. Jeg er bange, at
+               Slutningen af "<!--start title reference--><title key="Ved_Vejen">Ved Veien</title>
+               <!--end title reference-->" er urolig. Dog hører alle
+               Scenerne i Dødsnatten til det betydeligste, jeg har skrevet og synes navnlig Scenen i
+               Præstegaarden mig grebet med rent ud illuderende Kraft.</p>
+            <p>Det gør mig ubeskriveligt ondt, at "<!--start title reference--><title key="Hendes_Høihed">Hendes Høihed</title>
+               <!--end title reference-->"
+               skal tynge og trykke ned en Bog, som ellers vilde – med alle Feil – være mig kær som
+               et Fremskridt er mig kært. "Hendes Høihed" taaler jeg ikke. Barndom og Slutning er
+               gode men indrammer kun et døde Legeme. Hendes Afmagt til at føle er gledet bort under
+               min Pen. Og Indtrykket er penibelt. Maaske vil Interiørets Karakter redde noget. Men
+               Kunstneren i mig pines ved Historien, og de "kære Venner" vil benytte Kritik mod
+               denne Fortælling til at slaa "Ved Veien" ned. "<!--start title reference--><title key="Enkens_Søn">Enkens
+                  Søn</title>
+               <!--end title reference-->" er smuk i al Simpelhed.<note>Bangs novellesamling Stille Eksistenser. Fire Livsbilleder består af forfatterens forord, dateret "Wien i Juni 1886", samt novellerne "Min gamle Kammerat", "Enkens Søn", "Hendes Højhed" og "Ved Vejen"</note>
+            </p>
+            <p>– – Kære Peter, jeg har en Bøn til dig. Sæt <hi rend="italics">altid</hi>
+               <hi rend="italics">Lecteur</hi> under mine "politiske" Artikler. <hi rend="italics">Tre Dage</hi> var de
+               siste Blade "opholdt" paa "Posthuset". Og jeg har for Politiet maattet afgive en
+               Erklæring, at jeg aldrig skrev om Politik. Mig er det altsaa vigtigt ikke at se de
+               velklingende Bogstaver: "Herman Bang" under "Politik" – <hi rend="italics">Jer</hi> kan det være
+               det samme.</p>
+            <p>– – Og vil du ikke paa <hi rend="italics">Mandag</hi> tage <hi rend="italics">Wolter</hi>
+               <note>Bangs artikel om den tysk-østrigske skuespillerinde <persName key="Wolter_Charlotte">Charlotte Wolter</persName> (1834-97) blev først trykt 3.1.1887 i
+                  Politiken</note> eller ialfald i Ugen, som kommer. Det er, fordi man her (i
+               Berlin) venter paa Artiklen til Oversættelse. Og selvom du ikke skulde finde den
+               "yndig", tør <hi rend="italics">jeg</hi> vel paatage mig Ansvaret for de Spalter. Der er desuden
+               sikkert endnu i Krogene nogle enkelte, som gerne hører min Mening om et og andet, jeg
+               forstaar mig paa, og ikke alene ønsker at læse, hvormange Koleratilfælde, man lyver
+               om i <placeName key="Szeged">Szegedin</placeName>
+               <note>Det tyske navn for den
+                  ungarske by Szeged (serbisk Segedin, rumænsk Seghedin) nær den nuværende grænse
+                  til Serbien og Rumænien. I Politiken, 25.10.1886, står Bangs artikel "Koleraen" om
+                  den aktuelle epidemi i <placeName key="Ungarn">Ungarn</placeName>; artiklen bærer
+                  i avisen dateringen "Prag 21.10.86"</note>. – Send mig Kritiker – selv de
+                  <hi rend="italics">værste</hi> – alle.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

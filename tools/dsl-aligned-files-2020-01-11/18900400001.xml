@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900400001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 72</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Larvik, Norge</placeName>
+               <date when="1890-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-04-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890.  april], Torsdag<note>Vinteren, hvor Erika Nissen
+                  har støttet Bang, må være fra og med januar 1890. Se også Harry Jacobsen: Den
+                  miskendte Herman Bang, s. 39</note>
+            </date>
+            <placeName cert="high">Larvik, Norge</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Laurvig. Torsdag.</p>
+            <p>Kære Nansen.</p>
+            <p>Ja – du véd vel, at jeg er her og at jeg er syg. Jeg skal ikke plage dig med
+               Beskrivelser. Min Tilstand er græsselig og vilde maaske nok ængste Jer, som holder af
+               mig. Ti ét Choc bliver jo det sidste.</p>
+            <p>Jeg skriver, fordi jeg har en sær Bøn til dig. Du har et gammelt Billede af mig – et
+               Hoved af det store<note>Et fotografisk portræt, som kan være Livsbilleder, nr. 32-33
+                  eller nr. 49-51 (i så fald fotografier fra ca. 1881 eller ca. 1883)</note>, som
+                  <persName key="Ottesen_Christine_Margrethe">Ottesens</persName>
+               <note>Bangs værtspar Otto Andreas Ottesen (født ca. 1835) og Christine Margrethe Ottesen (født ca. 1843) i ejendommen <persName key="Ottesen_Otto_Andreas">Studiestræde 4</persName>,
+                  København</note> ejer. Vil du, kære Peter, skænke mig det Billede? Du vilde
+               inderlig glæde mig dermed. <persName key="Nissen_Erika">Erika Nissen</persName>
+               <note>Erika Nissen (1845-1903), født Lie, norsk pianist og klaverpædagog, kusine til den norske forfatter Jonas Lie</note>, som
+               hele Vinteren har været min Støtte her, har saa levende ønsket et Billede fra min
+               Ungdom – og det er det eneste, som jeg kunde ønske at give hende. Du har saamange
+               Billeder af mig og vil desuden altid saa godt <app>
+                  <lem>huske</lem>
+                  <rdg>h'et er rettet fra et f</rdg>
+               </app>, at jeg aldrig – var saa køn som mine Billeder. Send mig det derfor.</p>
+            <p>
+               <hi rend="italics">Kommer</hi> I til Norge. <hi rend="italics">Her</hi> er rædsomt.</p>
+            <p>Hils <persName key="Brock_Louise">din Kone</persName>
+               <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> hundrede Gange fra</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+            <p>Laurvig.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

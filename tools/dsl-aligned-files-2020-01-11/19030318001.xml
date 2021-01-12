@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19030318001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4685, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="visitkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Visitkort, trykt: <q>Peter Nansen / Copenhague</q>, beskrevet på begge
+                        sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="peter-nansen">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1903-03-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1903-03-18"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1903. 18. marts.  [onsdag]<note>Indgået i Det Kongelige Bibliotek som del af Acc. 1968/25: breve til
+                Christian Houmark, købt i en københavnsk antikvarboghandel. Dette og to andre breve
+                er fejlagtigt lagt i læg blandt Peter Nansens breve til Christian Houmark (som
+                Nansen var De's med)</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">18/3 1903</p>
+            <p>Kære Ven!</p>
+            <p>I Anledning af <persName key="Nansen_Betty">Betty</persName>
+               <note>Betty
+                                Nansen</note>s Fødselsdag imorgen improviserer vi et Aftenselskab.
+                        Det vilde glæde os meget, om Du vilde komme med.</p>
+            <p>Ved 9 Tiden samles Banden.</p>
+            <p>Har <persName key="Larsen_Karl">Karl Larsen</persName>
+               <note>Forfatteren Karl Larsen (1860-1931)</note> sendt Dig Bud om, at Sagen
+                        med Schubothe gaar i Orden? Jeg synes, baade Du og vi kan være tilfredse med
+                        Arrangementet.</p>
+            <p>Din Artikel idag<note>"Betty Nansen som Folketeatrets Lederske", København,
+                                18.3.1903</note> er i Sandhed straalende.</p>
+            <p rend="right">Din P.N.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

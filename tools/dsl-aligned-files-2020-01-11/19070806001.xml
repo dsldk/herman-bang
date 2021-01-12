@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070806001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 428</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 8 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-08-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-08-06"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 6. august [tirsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nürnbergerstrasse 36. Berlin. W.</p>
+            <p rend="right">6.8.1907.</p>
+            <p>Min kære Nansen.</p>
+            <p>Nej, du maa hjælpe mig og tale med den Mand<note>Chr. Holm, overretssagfører – se
+                                identifikationen længere nede i brevet</note>. Jeg er helt
+                        fortumlet af Angst, der ikke lader mig Ro. Jeg skrev nok til <persName key="Cantor_Alexander">Cantor</persName>
+               <note>Alexander Cantor (1853-1924), cand.jur., 1880-1910 overretssagfører i København</note> igaar. Men det hjælper sagtens ikke. Men
+                        maaske kan det hjælpe, naar du taler med Manden. Du véd at "tage
+                        Menneskene", og det er jo dog kun noget ganske Lidt og Rimeligt, jeg beder
+                        om – – –</p>
+            <p>Altsaa: det er i og for sig en ganske beskidt Gæld. Som jeg skylder en
+                        Pensionatsværtinde i Jylland fra den Gang, jeg skrev
+                        "<!--start title reference--><title key="Ludvigsbakke">Ludvigsbakke</title>
+               <!--end title reference-->"<note>Bang boede på et pensionat i <placeName key="Skørping">Skørping</placeName> syd for Aalborg,
+                                juni-oktober 1896</note>. Naar man ikke kender Forholdene, er det
+                        beskidt og utilgiveligt. Men jeg var hos "Schubothe"<note>Det Schubotheske
+                                Forlag</note> den Gang og havde bogstavelig ikke Brødet ... Men
+                        siden er Pengene aldrig blevet betalt. Alle de sidste Aar, da jeg levede hos
+                                <persName key="Holst_Nini">min Søster</persName>
+               <note>Nini Holst (1853-1922), Herman Bangs søster, enke siden 1899, adoptivmor til Bertha Holst. Enkefru Holst og Herman Bang delte bolig i København 1900 til sommeren 1907</note>, gik al min
+                        Stræben ud paa ingen <hi rend="italics">ny</hi> Gæld at gøre, og saa blev ingen gammel
+                        betalt. Og nu med Renter og Renter af Renter og Omkostninger og hvad véd
+                        jeg, er, skriver Manden, Summen 1300 Kr., som han vil have inden den 9de,
+                        fordi jeg har brudt et Forlig og glemt at betale Afdragene i Juli og August
+                        (200 Kroner betalte jeg i Juni) – men, du gode Gud, selv om Manden
+                        (Overretssagfører <persName key="Holm_Chr.">Chr. Holm</persName>,
+                        Jernbanegade 3)<note>Chr. Holm (1869-1937), cand.jur., fra 1896 overretssagfører i København</note> er aldrig saa meget Prokurator (og han synes at være det i
+                        Superlativ) maa han dog være saa meget Menneske, at han maa kunne fatte, at
+                        jeg i <hi rend="italics">disse</hi> to Maaneder vel kunde glemme Afdrag. Jeg havde ikke
+                        en Gang Kræfter til at sige kære Venner Farvel .... Men nu vil han,
+                                <hi rend="italics">hvis han ikke faar alle Pengene inden den 9</hi> (jeg fik
+                        hans Brev igaar d. 5te!) skrive til den danske Generalkonsul<note>I
+                                Berlin</note> og strax føre mig for Domstol og til Udpantning her.
+                        Men hvis jeg udpantes, ejer jeg jo intet uden mit Cigarette-Etui ... Synes
+                        Manden virkelig ikke, jeg har lidt nok? Og hvorfra skulde jeg i tre Døgn
+                        eller overhovedet tage 1300 Kroner fra paa en Gang?</p>
+            <p>Sig ham dog: at jeg maa have lidt Tid til at skrive de forfaldne Afdrag sammen
+                        (50 Kr. for Juli og 50 Kr. for August) f:Ex: til den 25 August. Og saa skal
+                        jeg hver Maaned den 2 afsende herfra 50 Kr – som Forliget lyder. Manden har
+                        saamæn Snøre nok om mine stakkels Ben med den Generalkonsul. Han kan være
+                        ganske rolig. Men skal vi nu begynde med Pengeskandale og alt det her (og
+                        Sladder i den hele danske Koloni) – da gaar jeg til, saa megen Umage jeg
+                        ogsaa har gjort mig for at ranke mig og holde mig rank. Men det maa Manden
+                        da ogsaa kunne forstaa, naar man taler med ham. Mer end nødvendigt tør man
+                                ikke<note>Dvs. behøver man ikke (jf. ODS bd. 24, sp.1081 n)</note>
+                        vanskeliggøre mig Livet i dette Øjeblik.</p>
+            <p>Aa, tilgiv mig nu, at jeg beder dig tale i denne Sag. Men jeg er saa helt
+                        formørket af Angst. Og jeg, som har saa meget at gøre hver Dag. Og som kun
+                        kan det, naar her er Fred.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Den 9de er paa Fredag.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

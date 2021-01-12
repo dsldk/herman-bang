@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870630001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 429</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-06-30">[1887, 30. juni] Torsdag<note>Torbjörn Nilsson,
+                        s.342, note 21, og s. 291, nr. 24, daterer dette brev til 23.6. eller måske
+                        30.6.; udgiveren foreslår den sidstnævnte mulighed. Det står fast, at det er
+                        skrevet den samme dag som Bangs brev til Julius Schiøtt, ligeledes dateret
+                            <hi rend="italics">Prag Torsdag</hi>
+               </note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Torsdag.</p>
+            <p>»Havende afsendt« Begyndelsen af »Mathilde Stern« og »Erhard«<note>Dvs.
+                        manuskriptet til en del af kapitel I i romanens anden del</note> ‒ maa jeg,
+                    kære Paul, sige et Par Ord.</p>
+            <p>
+               <hi rend="italics">Ikke</hi>, at jeg ikke <hi rend="italics">her</hi> er fuldstændig sikker paa mig
+                    selv. Tværtimod har jeg sjældent haft en lykkeligere Følelse af min
+                    Menneskekundskab ‒ som jeg har, hvorfra? ‒ end under Nedskrivningen af
+                    Begyndelsen til dette Kvindebillede, hvor i en Række fordringsløse og saa ganske
+                    »jævne« Træk en <hi rend="italics">ny</hi> Kvinde fra vort Samfund er givet.....</p>
+            <p>
+               <hi rend="italics">Men</hi> ‒ alligevel beder jeg Dem ikke at dømme om dette Kærlighedspars
+                    Virkning i Bogens Plan, før De har faaet III, hvor Moderfølelsen slaar Lynet ned
+                    i hendes Spurvehjerne.</p>
+            <p>Samtalen mellem Berg og Konferentsraaden synes mig godt lykket. Eller hur?</p>
+            <p>Ytringen om »de levende Vande«, der er Københavns »Opland«, kaster et Blink ind
+                    over Fremtiden.</p>
+            <p>Ja ‒ min egen Ven ‒ hvad jeg har tænkt (for mig og for Jer), hvad jeg oplevet og
+                    sét: i denne Bog vil det sluttes inde. Men naar jeg da sér tilbage paa det
+                    Skrevne fra Side ét til nu, siger jeg mig ogsaa: en Dusin-Bog er det ikke.</p>
+            <p>Og selv om man sikkert vil trampe godt i, trampe den <hi rend="italics">ned</hi> ‒ jeg tror
+                    ikke, man vil kunne det.</p>
+            <p>Jeg har kun ét Ønske ‒ idag som igaar ‒ : at De vilde <app>
+                  <lem>vende</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> hjem, være Abonnent i Tivoli, og ‒ hjælpe mig med Bogen. Ti i
+                        <hi rend="italics">denne</hi> Bog har De ikke blot <hi rend="italics">Penge</hi>-Part.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

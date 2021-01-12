@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840103001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 37</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Side 3 er af Bang beskrevet på skrå, på langs og på
+                                 hovedet</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Kattinge, Sjælland]</placeName>
+               <date when="1884-01-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1884-01-03"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884. 3. januar], Torsdag Aften<note>Brevet kan med
+                  sikkerhed dateres til den dag, da Bangs stilling ved Nationaltidende blev
+                  omordnet</note>
+            </date>
+            <placeName cert="high">[Kattinge, Sjælland]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag Aften.</p>
+            <p>I den yderste Grad udmattet, kære Nansen, skriver jeg kun to Ord. I Hovedsagen er alt
+               ordnet. Jeg fordrede dig og <persName key="Ipsen_Knud">Ipsen</persName>
+               <note>Knud Ipsen (1862-91), forfatter og filosof, elev af Harald Høffding; omkom ved et ulykkestilfælde</note>. Skal selv ei skrive Føljetoner mer; kun til første
+               April.</p>
+            <p>Jeg er saa fortvivlet over dette, at jeg ikke ved, hvorhen jeg skal flygte fra mig
+               selv. Ikke at have kunnet rykke dette over og gaa.</p>
+            <p>Var du her blot for at "grynte" lidt og sige en "rolig" Bemærkning. Men alt her, som
+               minder mig om den Fremtid, der nu er min, er mig saa forhadt, at jeg bliver syg.</p>
+            <p>Nu kun Arbeidet og Velværet. Solgt ved Licitation sin Frihed og sin
+                  Samvittighed<note>Uklart hvorfor Bang anvender udtrykket "ved Licitation" om
+                  nyordningen af sin stilling ved Nationaltidende. Udtrykket bruges om salg efter en
+                  runde med forud indhentede tilbud fra mulige købere. Der foreligger intet om, at
+                  dette skulle være Bangs situation ved nytår 1884</note>. Tror du, at jeg kan
+               udrette nok til at udholde at være saa ulykkelig, som jeg bliver?</p>
+            <p>Havde jeg staaet ene, havde jeg haft Mod til at gaa – men I stod bag, Sagen,
+               alting.</p>
+            <p>Sov vel. Jeg ved En, der ei vil dele Skæbnen med dig, sovende i <placeName key="Næstved">Næstved</placeName> Præstegaard<note>Peter Nansens far, pastor
+                     <persName key="Nansen_Ferdinand_Peter_Nicolai">Ferdinand Peter Nicolai
+                     Nansen</persName>s (1825-99) embedsbolig; her tilbragte Peter Nansen juledagene 1883 og
+                  nytåret 1884</note> – men som vil være nu og altid søvnløs paa <placeName key="Kattinge">Kattinge</placeName>
+               <note>Gård mellem Roskilde og Gevninge, syd for
+                  Roskilde Fjord. Kattinge Værk blev if. Trap: Danmark opført i 1754 og solgt 1891
+                  af Københavns Kommune til etatsråd <persName key="Ferslew_Chr.">Chr.
+                     Ferslew</persName>, Nationaltidendes ejer. If. DBL ejede Ferslew fra 1881 en papirfabrik på
+                  Frederiksberg og "nogle år senere en cellulosefabrik ved Kattinge". Ud fra brevets
+                  formulering må man tro, at Herman Bang opholdt sig som Chr. Ferslews gæst på gården Kattinge,
+                  da han skrev dette brev</note>. Her staar over Porten at læse: Her solgtes den
+               tredie Januar Herman Bang.</p>
+            <p rend="right">Din Herman.</p>
+            <p rend="right">Hils <persName key="Nansen_Immanuel">Immanuel</persName>
+               <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

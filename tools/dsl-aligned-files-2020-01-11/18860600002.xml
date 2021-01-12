@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860600002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-06-01">[1886. juni] Onsdag<note>empty</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Kære Jules.</p>
+            <p>Hermed mér ‒ ét Ark. Jeg beder dig ‒ om Penge ei er sendt, da at sende
+                        <hi rend="italics">strax</hi>. Fra »Politiken« modtog jeg denne Maaned 35 Gylden!</p>
+            <p>Betænk dog, under hvilke Betingelser jeg ulykkelige arbeider. For
+                        <hi rend="italics">Original</hi>bøger faar jeg ‒ naar Schou og Andreasen tager
+                        <hi rend="italics">deres</hi> ‒ saa meget som andre for Oversættelse. Og
+                        <hi rend="italics">de</hi> Penge maa jeg næsten tigge. Dette Manuskript er fyrretyve
+                    Timers Arbeide ‒ paa en uløselig Opgave. Den øvrige Novelle er god, dette
+                    Kapitel er <hi rend="italics">slet</hi>, at skrive <hi rend="italics">det</hi> alene kunde fordre et
+                    Par Maaneder, hvis jeg kunde leve af Luften.</p>
+            <p>Men lad mig saa idetmindste ikke <hi rend="italics">vente</hi> paa Pengene. Fredag Aften
+                    sender jeg Slutningen. Er jeg i Humør ogsaa den meget lange Fortale. »Høiheden«
+                    alene bliver syv Ark.</p>
+            <p>Korrekturen medsendes.</p>
+            <p>Send nu eller, rettere, lad Andreas<note>Andreas Schou</note> sende Pengene strax
+                    ‒ du er den <hi rend="italics">eneste</hi>, jeg kan stole paa. Og jeg skriver og skriver.
+                    Tøi skulde jeg have. Men Gud véd, naar det skal blive, naar jeg maa drikke Vin
+                    hele Dagen for at kunne arbeide.</p>
+            <p>Lev vel.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

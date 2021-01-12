@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18830530001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 160</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1883-05-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1883-05-30"
+                  notBefore="1883-05-30"
+                  notAfter="1883-05-30">[1883. 30. maj,  onsdag]<note>Dateres i forhold til
+                  beneficeforestillingen i Casino for Martinius Nielsen</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Nansen.</p>
+            <p>Vil De benytte denne Billet til <persName key="Nielsen_Martinius">Martinus</persName> Benefice? <note>Den eneste teateraften til benefice for skuespilleren 
+                  Martinius Nielsen (1859-1928) i årene 1881-83, der kan findes oplysning om, fandt sted på
+                  Casino onsdag 30.5.1883. Aftenens indtægter gik til de to skuespillere, frøken
+                     <persName key="Ludvigsen_Louise">Louise Ludvigsen</persName> (1858-1940) og Martinius
+                     Nielsen. Hun spillede Lise i enaktsoperetten <!--start title reference--><title key="Fritz_og_Lise">Fritz og Lise</title>
+                  <!--end title reference--> (med musik af franskmanden <persName key="Offenbach_Jacques">Jacques Offenbach</persName>, 1819-80), mens han spillede
+                  Elimar i <persName key="Andersen_H.C.">H.C. Andersen</persName>s eventyrkomedie
+                     <!--start title reference--><title key="Mer_end_Perler_og_Guld">Mer end Perler og Guld</title>
+                  <!--end title reference-->. Den blandede forestilling bød desuden på den svenske
+                  skuespiller <persName key="Lindberg_August">August Lindberg</persName> (1846-1916), der med
+                     sit selskab opførte enaktskomedien <!--start title reference--><title key="Den_hvita_halsduken">Den hvita halsduken</title>
+                  <!--end title reference--> (af franskmanden <persName key="Gondinet_Edmond">Edmond Gondinet</persName> (1828-88), oversat til svensk af
+                    dramatikeren <persName key="Hedberg_Frans">Frans Hedberg</persName>) til publikums jubel,
+                  samt på solodans af to unge balletdanserinder. Ifølge Nationaltidende 31.5.1883
+                  kunne frøken Ludvigsen og Martinius Nielsen "glæde sig ved ret godt Hus ved deres
+                  Benefice iaftes, og endnu større Leilighed til at glæde sig kunde de finde i det
+                  Bifald og de Blomster, der bleve dem til Deel, da de viste sig paa
+               Scenen"</note>
+            </p>
+            <p>Selskabet er <persName key="Sandorff_Andrea">Frøken Sandorff</persName>
+               <note>I folketællingen 1880 figurerer en ugift syerske Andrea Sophie Dorthea
+                  Sandorff, 25 år gammel, med bopæl i Nyboder, København</note>, <persName key="Salomon_Benedikt">Benedikt</persName>
+               <note>Bogtrykker Benedikt Salomon, kompagnon med forlæggeren August Riemenschneider i København, konkurs i december 1883 som følge af begges arrestation, anklaget for at have trykt falske danske pengesedler</note> og ellers alt det vanlige.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

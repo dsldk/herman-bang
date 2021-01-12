@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860330001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 130</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XLVII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-03-30"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 30. marts], Tirsdag<note>Dateringen i Vandreaar s.
+                  203 følges</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Peter.</p>
+            <p>Hvis du vidste, hvad jeg lider vilde du have megen Medlidenhed med mig. Jeg
+                  <hi rend="italics">kan</hi> ikke falde sammen med Tonen i Eders Blad<note>Dvs.
+                  Politiken</note>. For at være <hi rend="italics">noget</hi>, maa jeg være mig selv. Og hver
+               Gang sætter jeg mig hen og vil være mig selv og – tænker paa alt det fine og literære
+               og <hi rend="italics">tør</hi> ikke; og jeg mister mine Fortrin uden at kunne tilegne mig Eders.
+               Jeg føler mig som en <persName key="Axel">"Axel"</persName>
+               <note>Uklart hvem Bang sigter til; måske forfatteren og kritikeren Axel Henriques (1851-1935)</note> i Eders Selskab, men
+               en Axel, som har Selvkritik og lider.</p>
+            <p>Du véd, hvordan jeg arbeider. Jeg er klistret til mit Bord. Jeg har Ideer, jeg har
+               Indfald, skal <hi rend="italics">jeg</hi> skrive dem til <hi rend="italics">Jer</hi>, bliver de tørre,
+               dumme og spræller som halvdøde Torsk i et Net af idiotiske Ord. Vil jeg være
+               patetisk, siger jeg til mig selv: at det vil I bare le af; forsøger jeg at være
+               morsom, skærer mine Vittigheder Ansigter som den tykke Dronning, der blev trampet paa
+               Maven i <persName key="Hjort_Peder">Hjort</persName>s tyske Læsebog<note>Tydsk
+                  Læsebog for Dansktalende, udgiven af Peder Hjort, bd. 1-2, 2. oplag, København
+                  1840-43, til brug for skoleundervisningen i tysk. I bind 1 står den tysk-baltiske søofficer "<persName key="Kotzebue_Otto_von">Otto von Kotzebue</persName>'s Reise um die Welt in
+                  den Jahren 1823 bis 1826" (s. 20-87), og i omtalen af denne jordomrejses besøg på
+                     <placeName key="Sandwichøerne">Sandwichøerne</placeName> (dvs. Hawaii)
+                  beskrives en lokal dronning udførligt. Hun var tyk og spiselysten, og under en
+                  pause i et omfangsrigt måltid lagde hun sig på ryggen, vinkede en tjener til sig,
+                  som sprang op på livet af hende og med knæ og næver bearbejdede hendes mave til
+                  fremme af fordøjelsen (s. 67). Udtrykket at skære ansigter bruges ikke i teksten,
+                  blot at hendes majestæt havde "unter der unsanften Behandlung eine Weile
+                  gestöhnt", dvs. stønnet lidt under den ublide behandling</note>.</p>
+            <p>Det er græsseligt. Og skrive maa jeg for at leve.</p>
+            <p>Og skriver jeg til et svensk Blad den værste Traver, bliver den dog ialfald
+               naturlig.</p>
+            <p>Jeg sender "I Operaen"<note>Trykt i Politiken, 5.4.1886, signeret: Bernhard
+                  Hoff</note>. Maaske er den ikke ugrinagtig. Men man føler det anvendte Arbeide.
+               Det eneste "frie" som af mig har staaet hos Jer – var "Det unge Sverig"<note>Bangs
+                  tre artikler i Politiken, 28.8., 9.9. og 28.9.1885</note>, der var skrevet til et
+               andet Blad<note>Göteborgs Handels- och Sjöfarts-Tidning</note>. Paa "I Operaen" har
+               jeg skrevet <hi rend="italics">ti</hi> Timer. Saa kender du mig.</p>
+            <p>Imorgen vil jeg forsøge at skrive om en Bog, som levende har interesseret mig<note>Se
+                  brevet 18860416</note>. Maaske finder jeg <hi rend="italics">der</hi> mig selv.</p>
+            <p>Men om ét, min Ven, maa jeg bede dig: at Bladet sendes mig i Korsbaand
+                  <hi rend="italics">hver</hi> Dag. Pengene kan jo tages fra mit Honorar. Og jeg
+                  <hi rend="italics">lærer</hi> af at sé mig selv trykt og læse Jer andre. Nu er det, som jeg
+               skrev med Fingrene i den skønne blaa Luft.</p>
+            <p>"I Operaen" er légert<note>fr.: letfordøjelig, overfladisk, letsindig,
+                  letfærdig</note> . Men i Eders modige og frie Blad kan man jo tale om <persName key="Makart_Hans">Makart</persName>s Modeller<note>Den østrigske maler Hans
+                  Makart (1840-84), hvis pompøst iscenesatte billeder rummer mange smukke kvindelige
+                  modeller</note>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

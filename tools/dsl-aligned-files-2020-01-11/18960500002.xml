@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18960500002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 55</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1896-05-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1896-05-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1896.  maj. ] Onsdag<note>Formentlig skrevet i
+                  København, senest i begyndelsen af maj 1896, før afrejse til herregården Bangsbo ved Frederikshavn og siden
+                  videre til Skørping, syd for Aalborg. At Bang senest fra 11.5.1896 opholdt sig på Bangsbo, fremgår
+                  af dateringen af hans tekst "I Ensomhed", trykt i Bergens Tidende,
+                  26.5.1896</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg skulde til en Artikel i "Samtiden"<note>Tidsskriftet Samtiden, <placeName key="Bergen">Bergen</placeName>. Et gæt er,
+                  at det drejer sig om "Trondhjems Scene" I og II, trykt i Samtiden midt i juli
+                  1896</note> nødvendig gennemlæse <persName key="Ibsen_Henrik">Henrik
+                     Ibsen</persName>s "<!--start title reference--><title key="Digte">Digte</title>
+               <!--end title reference-->" og "<!--start title reference--><title key="Kærlighedens_Komedie">Kærlighedens Komedie</title>
+               <!--end title reference-->", <persName key="Bjørnson_Bjørnstjerne">Bjørnson</persName>s "<!--start title reference--><title key="Maria_Stuart">Maria Stuart</title>
+               <!--end title reference-->" og "<!--start title reference--><title key="Sigurd_Slembe">Sigurd
+                           Slembe</title>
+               <!--end title reference-->". Kunde du – uden Ubehag for dig – overlade mig de Bøger fra Nordens første
+                  Forlag<note>Dvs. Gyldendal</note>? Og vilde du lade <persName key="Petersen">Petersen</persName>
+               <note>Antagelig Bangs bud</note> faa dem med.</p>
+            <p>Jeg skal "læse op" iaften. Uh-ha.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

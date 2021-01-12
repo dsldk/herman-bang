@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19110709001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bergen</placeName>
+               <date when="1911-07-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1911-07-09">[1911, cirka 9. juli, søndag]
+                        <note>Dateringsforslaget skal ses i forhold til Bangs brev til Peter Nansen,
+                        dateret 7.7.1911. ‒ Som journalist var Christian Houmark medarbejder ved
+                        avisen København 1899-1914 (Herman Bang 1902-1911), og Harald Witzansky var
+                        avisens redaktør 1902-1922</note>
+            </date>
+            <placeName cert="high">Bergen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lundegaardsparken. Bergen.</p>
+            <p>Min kære Houmark.</p>
+            <p>Deres Brev gjorde mig inderlig bedrøvet. For det første, fordi De mistænker mig.
+                    For det andet, fordi De har misforstaaet W's<note>Harald Witzansky (1862-1940),
+                        redaktør af avisen København fra 1902</note> Brev.</p>
+            <p>Hvad han vil, er at <hi rend="italics">binde</hi> Dem til »København« ‒ jeg mener, saaledes,
+                    at han véd, De nu bliver hos ham.</p>
+            <p>Dette fremgik af <hi rend="italics">alt</hi>, hvad han sagde.</p>
+            <p>Men De véd, hvormeget anderledes han dikterer Frk: Ponsaing<note>Formodentlig
+                        redaktør Witzanskys sekretær ved avisen København</note> end han taler. Naar
+                    han dikterer, er han jo helt »Maréchal«<note>I andre breve bruger Bang øgenavnet
+                        Marchallen om redaktør Harald Witzansky</note>. Ikke sandt?</p>
+            <p>Naar De nu er helt rask, saa tag til Byen, tal med Manden og begynd Deres
+                    Arbejde. Saa er alt jævnet og i Gænge.</p>
+            <p>Her er dejligt men altid Regn.</p>
+            <p>Tro dog, min kære Houmark, at jeg altid og altid kun vil Deres Vel. De uendeligt
+                    faa Mennesker, der er til for mig, forbliver altid for mig.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

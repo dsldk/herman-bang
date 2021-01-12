@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19021122002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 833</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Heerman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-11-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1902-11-22">1902, 22. November [lørdag] <note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">22.11.1902.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg afsendte altsaa iforgaars Begyndelsen ‒ <hi rend="italics">en</hi> Tredjedel ‒ af
+                        »Ravnene«<note>Udkom 13.12.1902 på forlaget Gyldendal</note> til
+                        Nansen<note>Peter Nansen (1861-1918), fra 1896 litterær direktør i forlaget
+                        Gyldendal</note>. Og <hi rend="italics">igaar</hi> fik jeg følgende Brev: Nansen vil
+                    altsaa have Bogen ud til Jul og jeg maa gøre den færdig paa ‒ ‒ ti Døgn!</p>
+            <p>Det er »Det Graa Hus« om igen.</p>
+            <p>Skal det lykkes, maa jeg imidlertid være fri for at tænke paa Penge. Og jeg beder
+                    Dem derfor give mig et Forskud paa min Oplæsningsindtægt, hvor jo alt, regnskab
+                    og Penge, skal indsendes til Dem. Maa jeg faa 150 Kr? som Hr.
+                        Windfeld<note>Fuldmægtig Windfeld ...??? ...</note> saa paa Torsdag tager
+                    fra, naar han faar Afregning fra Hr. Gleesen?<note>Holger Gleesen (1863-1920),
+                        fra 1902 meddirektør for Nordisk Musikhandel, tidl. Hof-Musikhandlen i
+                        København, sammen med Henrik Hennings</note> Jeg <hi rend="italics">maa</hi> have
+                    Benklæder og mange Ting. Og kan ikke have noget i mit Hoved udover
+                    »Ravnene«.</p>
+            <p>Har De eller Deres Kone<note>Inger Heise (1864-1932), født Groot, gift 1893 med
+                        overretssagfører Oluf Heise, København</note> læst
+                        »Sommerglæder«?<note>Udkom 21.11.1902 på Det Nordiske Forlag,
+                        København</note> Der er, som sædvanlig, aldrig nogen, der siger mig noget om
+                    mine Bøger.</p>
+            <p>Jeg læste iaftes<note>Bang holdt en offentlig oplæsning fredag 21.11.1902; ...
+                        indtil videre er det uvist hvor i København den fandt sted</note> med
+                    overordenlig Kraft ‒ trods min Forkølelse.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

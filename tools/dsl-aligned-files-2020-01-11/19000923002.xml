@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000708001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »22.9.1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Hørsholm</placeName>
+               <date when="1900-07-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-07-08">[1900, 8. juli] Søndag <note>Den sekundært
+                        påførte blyantsdatering: »22.9.1900« er notorisk forkert</note>
+            </date>
+            <placeName cert="high">Hørsholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hørsholm Søndag.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Jeg kan kun skrive kort, da det smerter mig at sidde bøjet. Mit Befindende er
+                    hastigt blevet slettere og slettere. Igaar, da jeg skulde klæde mig om til
+                    Middag, blev Stinget saa heftigt, at jeg maatte gaa tilsengs. Imorges blev der
+                    foretaget en lang Undersøgelse<note>Af Frederik Funch (1870-1940), praktiserende
+                        læge i Hørsholm. I august 1900 indsendte han til Det Schubotheske Forlag sin
+                        regning på 52 kroner for behandling af Herman Bang i tidsrummet
+                        7.7.-14.8.1900 (regningen er bevaret i Det Kongelige Bibliotek, Gyldendals
+                        Arkiv)</note>: mine Lunger gav ikke Anledning til Bekymring, hvorimod
+                    Hjertets Funktioner var meget uregelmæssige. Da enhver Bevægelse volder mig
+                    Smerte, skal jeg foreløbig blive i Sengen. Skrive maa jeg lidt om Dagen og
+                    skriver da »Graat Hus«<note>Bangs roman <hi rend="italics">Det graa Hus</hi> udkom
+                        26.11.1901 på Det Schubotheske Forlag</note>. Frk. Pålsson<note>Astrid
+                        Pålsson (født 1877), Bangs skånskfødte sygeplejerske; hun blev i 1905 gift
+                        med Jens Peter von Scholten</note> har været her men ikke som Sygeplejerske.
+                    Hun har Ferie og er her uden Honorar. Men rejser nu paa Tirsdag. Saa bliver jeg
+                    plejet af Damerne her. Men hvis jeg skal ligge i Sengen, maa De sende mig Penge.
+                    Jeg ved godt, det er græsseligt. Men jeg <hi rend="italics">maa</hi> hvile i fjorten Dage i
+                    min Seng og De maa sende hundrede Kr. herud. Skriv ingenting til, for jeg tør
+                    ikke læse det. Men send dem paa en Postanvisning. Jeg maa ikke mere drikke Kaffe
+                    og ikke mere faa Kloral. Jeg kan ikke skrive mere.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

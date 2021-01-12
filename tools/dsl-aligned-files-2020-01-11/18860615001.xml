@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860615001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 490</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-06-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-06-15">[1886, 15. juni] Tirsdag<note>Torbjörn Nilssons
+                        forslag at datere brevet til 15. eller 22.6.1886 følges; se hans bog s.290,
+                        nr.33, s.336, note 74 og s.337, note 1. Bang flyttede bopæl i Wien midt i
+                        juni fra Universitätsstraße 4, IX Bezirk, til Albachstraße 1, Hernals</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Den hele forrige Uge gik med at skrive om den stakkels Kong Ludvig<note>Ludvig
+                        2., konge af Bayern; Bang hentyder formentlig til sin artikel »Kongedramaet
+                        i Bayern«, trykt i Politiken, 17.6.1886, og af Bang dateret »Wien,
+                        Pinsedag«, dvs. 13.6.1886</note>. Hermed »<hi rend="italics">To Momenter</hi>«.
+                    Korrektur-Arkene haaber jeg, De har faaet <app>
+                  <lem>af »H.Høihed«</lem>
+                  <rdg>Ordene har Bang tilføjet efter først at have sat et punktum efter
+                            ordet: faaet</rdg>
+               </app>.</p>
+            <p>Jeg skifter idag Bopæl. Da man til Dato ikke har sendt mig <hi rend="italics">noget</hi> af
+                    min Fortjeneste for forrige Maaned, blev jeg igaar sagt op til
+                    <hi rend="italics">idag</hi>.</p>
+            <p>Jeg har intet og véd derfor ikke, hvor jeg skal tage hen. Send mig ‒ <hi rend="italics">er det
+                        aldrig saa lidt</hi> ‒ under min gamle Adresse (Universitätsstrasse)
+                        <hi rend="italics">strax efter Modtagelsen af dette</hi>. Jeg vilde have skrevet
+                    Fortalen til »Hendes Høihed« idag, men jeg er for ophidset. Jeg sender den
+                    snarest. Jeg saa »The Angelo Troupe«<note>En international trup af
+                        cirkusartister. Bangs novelle »The Angelo Troupe« blev trykt i Julius
+                        Schiøtts tidsskrift Nordstjernen, 4.7.1886</note> i »Lesehalle«.</p>
+            <p>Send mig for Guds Skyld 40-50 Mark, kære Raad.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. de B.</p>
+            <p>»Momenterne« skal De give Hirsch samtidig med de første Ark af »Hendes
+                    Høihed«.</p>
+            <p>Hvem har: »Lille Mouche«?</p>
+            <p>»Fædra«??</p>
+            <p>Adresse for Svar: Universitätsstrasse 4.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

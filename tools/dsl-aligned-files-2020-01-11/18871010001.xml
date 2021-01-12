@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18871010001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 425</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Lübeck</placeName>
+               <date when="1887-10-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-10-10">[1887, 10. oktober] Mandag <note>Den foreslåede
+                        dato er vistnok den eneste plausible mulighed for en mandag under Bangs
+                        kortvarige ophold med Max Eisfeld i Lübeck</note>
+            </date>
+            <placeName cert="high">Lübeck</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lübeck. Mandag.</p>
+            <p>Kære Paul.</p>
+            <p>Denne Korrektur er <hi rend="italics">ikke</hi> slem og jeg behøver ikke at sé disse Ark
+                    mere.</p>
+            <p>Men 17-18 maa jeg sé igen.</p>
+            <p>Perioden i Butiken har jeg hélt taget ud. Den var det mest, som splittede IV. Nu
+                    holdes Interessen langt lettere sammen.</p>
+            <p>Den »Sætning«, som »Brodersen« siger ‒ ‒ er den <hi rend="italics">her</hi> stærk? Den
+                    udtrykker saa uendelig meget<note>Bang hentyder formentlig til slutningen af
+                        kapitel IV i Stuks anden del, hvor Brodersen og Blom veksler ord; Romaner og
+                        noveller bd. 2, 2008, s.443-444</note>.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">H de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19030330001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 10</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1903-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1903-03-30"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1903. 30. marts. ] Mandag<note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Ven.</p>
+            <p>Tusind Tak. Saa kommer jeg i Morgen. Er det Kl 6?</p>
+            <p>Jeg skulde gerne have Digterværkerne "<!--start title reference--><title key="De_stille_Stuer">De stille Stuer</title>
+               <!--end title reference-->"<note>Skuespil af <persName key="Lange_Sven">Sven Lange</persName> (1868-1930), Gyldendal 1902</note> og "<!--start title reference--><title key="den_gamle___________________Pavillon">den gamle
+                  Pavillon</title>
+               <!--end title reference-->"<note>Skuespil af <persName key="Wied_Gustav">Gustav Wied</persName> (1858-1914),
+                  Gyldendal 1902</note>, da jeg skal skrive om disse dramatiske Digtninge<note>Det
+                  ses ikke, at Bang har offentliggjort noget om disse to skuespil</note>. Det var
+               derhen jeg kørte, da jeg dyppede <persName key="Henningsen_Agnes">Agnes</persName>
+               <note>Forfatteren Agnes Henningsen (1868-1962). Hendes skuespil <!--start title reference--><title key="Moralen">Moralen</title>
+                  <!--end title reference-->, opført ved en
+                  velgørenhedsforestilling på Folketeatret 24.3.1903, blev stærkt kritiseret, også
+                  af Herman Bang ("Det Umulige", København, 26.3.1903)</note> i "Moralens" Fedt. Den Kone
+               har da iøvrigt altid gjort Fiasko i Moralen. Lovet være hun for det.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+            <p>Jeg synes, der er udkommet mange Romaner nu paa Forlaget.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840617001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 140</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. VI</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Ramlösa]</placeName>
+               <date when="1884-06-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1884-06-17"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884. 17. juni], Tirsdag Aften<note>Dateringen i
+                  Vandreaar s. 65 følges</note>
+            </date>
+            <placeName cert="high">[Ramlösa]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag Aften.</p>
+            <p>Skønt jeg skrev til dig igaar, kære Peter, fik jeg Samvittighedsskrupler ved at
+               modtage dit Brev. Thi mit var vistnok meget kort. Men jeg er ikke oplagt til lang
+               Fortrolighed – for mig er atter begyndt en af de Perioder, hvor jeg holder mer af at
+                  <hi rend="italics">høre</hi> om de andres Livsplan – saa lad min være dernede i Kælderen,
+               hvor der er mørkt.</p>
+            <p>Men siden jeg forstaar din Ængstelse, saa skal jeg sige dig, at jeg idag har oversat
+               en Akt af "Roman Parisien"<note>Un Roman parisien, skuespil i fem akter fra 1882 af den franske dramatiker <persName key="Feuillet_Octave">Octave Feuillet</persName> (1821-90); opført i en anonym
+                  oversættelse til dansk: <!--start title reference--><title key="En_Pariserroman">En Pariserroman</title>
+                  <!--end title reference-->,
+                  Dagmarteatret 23.11.-2.12.1885</note>, gymnastiseret i to Timer og tænkt meget
+               paa Dramatiseringen af "Fædra", som en Dag vil tage Iltog ud af mit Hoved ned paa
+               Papiret, hvorfra det tager direkte Billet til Stockholm.</p>
+            <p>Saa bliver dette mit siste navnfulgte Arbeide, indtil den Dag, hvor jeg er blevet
+               Skuespiller. Selv fordrer jeg at spille Vilsac<note>Charles de Vilsac er en vigtig mandlig rolle i Bangs skuespil Ellen Urne</note>.</p>
+            <p>Til <persName key="Eibe_Carl">Eibe</persName>
+               <note>Forlagsboghandler Carl Eibe (1855-1913), København</note> har jeg skrevet om en navnløs Oversættelse af <!--start title reference--><title key="Lise_Fleuron">"Lise Fleuron"</title>
+               <!--end title reference-->
+               <note>Roman af Georges
+                  Ohnet, 1884</note>. Billigt Tilbud, som jeg haaber, han modtager. Desuden skriver
+               jeg tænkeligt imorgen til to svenske Blade om en Korrespondance under Mærke – det er
+               nødvendigt desværre, thi jeg kan selv ikke leve under femtenhundrede og mine
+               Kreditorer maa have 2000 om Aaret.</p>
+            <p>Jeg skrev igaar et Brev til <persName key="Brandes_Edvard">Brandes</persName>
+               <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note>.</p>
+            <p>Ak, du, hvilken Tid der er gaaet: Hvor jeg har lært Menneskene at kende. Og hvor
+               meget jeg har lidt. Ved du hvad <persName key="Cetti_Frederik">Cetti</persName>
+               <note>Skuespilleren Frederik Cetti (1838-1906), leder 1887-88 af Dagmarteatret, kunstnerisk leder af Casino 1889-90 og 1891-92</note> sagde en Dag:</p>
+            <p>– Ser De – selv Deres Hoved passer ikke for en Skuespiller: nu Deres Pande; den er
+               blevet altfor stor – De har <hi rend="italics">tænkt</hi> for meget – det duer ikke for en
+               Skuespiller!</p>
+            <p>En Skuespiller – han, som mer end nogen maa tænke, gennemtrænges, erindre. Bon
+                  dieu<note>fr.: gode gud</note>.</p>
+            <p>Og <persName key="Lerche_Camilla">Frøken Lerche</persName>
+               <note>Skuespillerinden Camilla Lerche (1836-1914), 1858-84 ved Casino, 1884-94 ved Dagmarteatret</note>:</p>
+            <p>Synes De virkelig, det er saa yndigt: at være det hæsliges Repræsentant paa Theatret.
+               Thi andet bliver De aldrig.</p>
+            <p>Bortset fra Komplimenten – saa tror jeg ikke, at det skønne er evigt det samme.
+               Personlighederne, som paatvinger sig Menneskenes Sind, omskaber mægtigt
+               Begreberne.</p>
+            <p>Et inderligt Had har jeg iøvrigt til denne gamle Kokotte<note>Af fr. cocotte: en letlevende eller letfærdig kvinde, en demimonde</note>.</p>
+            <p>Endnu en Morsomhed: Da mit Navn tilfældig blev nævnt paa <persName key="Nielsen_Oda">Oda</persName>s Bryllupsaften<note>Skuespillerinde Oda Petersen (1851-1936), født Larssen,
+                  giftede sig (anden gang) 31.5.1884 med den syv år yngre skuespiller <persName key="Nielsen_Martinius">Martinius Nielsen</persName> (1859-1928)</note>, brast "la Diva"
+               i Graad. Er hun endnu saa lidet sikker paa at have banlyst Erindringen om mig. Det er
+               et miserabelt Resultat....</p>
+            <p>Jeg vilde, kære Peter, alvorligt ønske, at du arbeidede paa dit Drama. <persName key="Björkegren_Olga">Olga</persName>
+               <note>Den svenske skuespillerinde Olga Björkegren (1857-1950), gift 1887 med forfatteren Klas Fåhraeus</note> vilde være storartet som "Donnaen", og for mig vilde
+               det være meget lykkeligt at have to Roller. Hr. de Vilsac er og bliver en Bifigur.
+               Hele min Sjæl bliver i Dramaet nedlagt i Fædra selv.</p>
+            <p>Min Sjæl – Sig mig dog, hvorfor jeg ikke er død? Siden jeg ikke frygter Døden, siden
+               jeg kunde kærtegne den som en Ven. Men jeg <hi rend="italics">vil</hi> ikke dø med et Nederlag,
+               det er Tingen. Jeg vil om fem eller maaske om ti Aar i en eneste Triumf, der skal
+               snævre mit Hjerte sammen i en Fryd saa voldsom, at den smerter, betale tilbage hver
+               Haan, hvert Smil fra disse fjorten Dage, hvor jeg er blevet haanet af disse Folk, der
+               ikke forstaar en Tøddel af mine Sindsbevægelser.</p>
+            <p>Men jeg skal blive ydmyg, og jeg skal vente. Der kommer atter en Række <persName key="Larsen_">"Larsen-Aar"</persName>
+               <note>Ifølge Vandreaar, s. 68, note 1, vistnok navnet på en pengeudlåner; se også
+                  note til brevet 1885, 11.juni</note>, og der bliver ikke <hi rend="italics">en</hi> men mange
+               "Larsener".</p>
+            <p>– – Jeg taler ikke med nogen her. Har idag bogstavelig kun aabnet min Mund for at
+               give Ordres til Kellneren, og da jeg læste Rolle nede i Allèen. Mit Organ trænger
+               sikkert til Øvelser i fri Luft for om muligt at faa mere "Stof".</p>
+            <p>Ved du, hvad der ærgrer mig ved Skuespilkunsten? Det er, at den evindelig maa
+               beskæftige sig med Petitesserne: Tænderne, Fødderne o:s:v: o:s:v: Smaa Aander maa
+               drukne i dette – og de ender som Attrappe<note>Af fr.: en genstand der ikke er, hvad
+                  den ser ud til, en efterligning</note>, der blot <hi rend="italics">er</hi> alle disse
+               Ting.</p>
+            <p>Levvel, très cher<note>fr.: meget kære</note>.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

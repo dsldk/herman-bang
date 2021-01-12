@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Gustav Esmann</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18831128001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="gustav-esmann">
+                              <ab>Herman Bang har egenhændigt tilføjet to sætninger i dette brev fra
+                                 Gustav Esmann (1860-1904) til Peter Nansen</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Gustav Esmann</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1883-11-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1883-11-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1883. 28. november,  Onsdag<note>Forud for brevets dato var
+                  Peter Nansen rejst på familiebesøg i Jylland, se Karin Bang, s. 126</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag d. 28de November 1883</p>
+            <p>Kjære Ven!</p>
+            <p>Skriver Du ikke snart til mig, jeg længes meget efter at høre hvordan Du har det. Jeg
+               har desværre ikke noget <app>
+                  <lem>nydt</lem>
+                  <rdg>Ordet er stavet således af Esmann</rdg>
+               </app> at fortælle Dig men naar jeg først hører fra Dig skal Du nok faa Brev. Du
+               hilses meget fra alle herovre men mest hilses Du fra Din hengivne Ven</p>
+            <p rend="right">Gustav Esmann</p>
+            <p>
+               <persName key="Ottesen_Christine_Margrethe">Fru Ottesen</persName>
+               <note>Christine
+                  Margrethe Ottesen (født ca. 1843), Studiestræde 4, Herman Bangs bopæl fra 1884</note> beder mig hilse Dig hun glæder sig over
+               at 2det Oplag af <!--start title reference--><title key="Unge_Mennesker">Din Bog</title>
+               <!--end title reference-->
+               <note>Morgenudgaven af
+                  Nationaltidende, 28.11.1883, bragte på forsiden følgende notits: "Literært Nyt.
+                  "Unge Mennesker", Studier og Skitser af Peter Nansen, er udkommet i andet Oplag
+                  paa A.C. Riemenschneiders Forlag."</note> er udkommet i Dag, som hun har læst i
+               Avisen</p>
+            <p>
+               <app>
+                  <lem>Esmann er som du ser allerede noget paralyseret af det forestaaende. Han har
+                     underskriftlig "leiet" mit Lokale til Affodring.</lem>
+                  <rdg>Disse to sætninger med underskrift er skrevet med Herman Bangs
+                     håndskrift</rdg>
+               </app>
+               <note>Uklart hvad der sigtes til; muligvis havde ægteparret Ottesen på dette
+                  tidspunkt udlejet et lokale i deres ejendom Studiestræde 4 til Bang. I sommeren
+                  1884 flyttede Bang ind i en lejlighed i Studiestræde 4, 1.sal</note>
+            </p>
+            <p rend="right">Din H.</p>
+            <p>
+               <app>
+                  <lem>En Nyhed har jeg dog at meddele Dig. Herman er begyndt at lære at ride.
+                     Foreløbig øver han sig i at gaa med Stropper i Benklæderne. Han kommer nok
+                     efter det. Det glæder mig at han endelig har bekvemmet sig til at gjøre noget
+                     for sit Legeme.</lem>
+                  <rdg>Resten af brevet er skrevet med Gustav Esmanns håndskrift</rdg>
+               </app>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

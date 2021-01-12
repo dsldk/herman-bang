@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19110613001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 928</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; brevets tilhørende kuvert er
+                                                frankeret med et 5-øres frimærke og poststemplet:
+                                                  <hi rend="italics">Kjøbenhavn K.K.B. 13.6.11.10-11E</hi>, og
+                                                bagsiden bærer modtagerstemplet: <hi rend="italics">Kjøbenhavn V.
+                                                  1.OMB 14.6.11</hi>; ligesom brevet er adressen
+                                                uden på kuverten skrevet af Bangs sekretær:
+                                                  <hi rend="italics">Fru Inger Heise. / Frederiksberg Alle 48 /
+                                                  F.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; underskriften er skrevet af Bang selv</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1911-06-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Inger Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-06-13">[1911, 13. juni] Tirsdag <note>Bang optrådte
+                        offentligt i dagene 7.-16.6.1911 med oplæsning på Sommerlyst ved
+                        Frederiksberg Runddel. Kort derefter læste han op i Berlin og i Wien,
+                        hvorefter han sejlede fra Hamburg til Bergen og tilbragte sommeren frem til
+                        augusts første halvdel i Norge</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Min kære Ven.</p>
+            <p>Jeg maa berede Dem og Deres Mand<note>Overretssagfører Oluf Heise (1862-1935),
+                        der fra ca. 1900 var Bangs advokat; gift 1893 med Inger Heise (1864-1932),
+                        født Groot</note> en Skuffelse, som bedrøver mig selv mest. Jeg kan ikke
+                    komme paa Fredag, fordi jeg kun har den ene Eftermiddag og Aften fri og jeg de
+                    faa Fritimer maa tage til Hanskov<note>... ikke identificeret ... Måske står
+                        der: Hauskov??</note> og bagefter til Witzansky<note>Harald Witzansky
+                        (1862-1940), redaktør af avisen København, hvor både Bang og Christian
+                        Houmark var journalistiske medarbejdere</note> forat ordne
+                        Houmarks<note>Christian Houmark (1869-1950), der som journalist var knyttet
+                        til avisen København</note> syge og forviklede Affairer<note>Se også Bangs
+                        brev til Peter Nansen, dateret 7.7.1911</note>.</p>
+            <p>De kan være vis paa, at jeg er ked af det.</p>
+            <p>Lev vel og vær hjærteligt hilset begge to. Oprigtig talt, mit Hjærte er tungt
+                    foran alle disse Rejser. Jeg føler mig som en stakkels hvileløs Maage over
+                    Vandet; men man maa skyde Hjærtet op i Livet, smile og lade tryg.</p>
+            <p rend="right">Lev vel, lev vel.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

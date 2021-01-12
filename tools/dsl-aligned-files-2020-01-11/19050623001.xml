@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050623001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 26</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev. Kun beskrevet på den ene side af papiret. Uden
+                                 underskrift</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1905-06-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-06-23"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 23. juni [fredag]<note>Dateret i forhold til Bangs
+                  brev til Peter Nansen 1905. 29. juni,  der rummer en tilsvarende oplysning om Bangs
+                  anfald af drikkesyge</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. 23.</p>
+            <p>Min kære Ven.</p>
+            <p>Tak for Deres Brev ... Ja, der er ikke noget overdreven festligt ved Marienlyst. Men
+               alligevel, sammenlignet med <placeName key="Skagen">Skagen</placeName>
+               <note>Betty
+                  Nansen opholdt sig i Skagen, jf. hendes brev nogle få dage senere til Peter
+                  Nansen, citeret i denne udgaves Introduktion</note> ... Jeg har kun Ulykker at
+               melde, egenlig den eneste store Ulykke som der kan hænde mig, hvem intet hænder. Da
+               De var rejst, fik jeg et Anfald af Drikkesyge. Ja, det er frygteligt. Saa er det
+               altsaa noget uudryddeligt i mit Liv. Jeg læste ikke, stod ikke op – laa kun hen og
+               stjal om Natten min egen Vin ... Der var kun et Lyspunkt, at <persName key="Eskildsen">Eskildsen</persName>
+               <note>Bangs tjener, som pr. 1.4.1905 må formodes at havde afløst <persName key="Ernst_Knud">Knud Ernst</persName>, jf. brevet 19050403</note> viste mig
+               megen Hengivenhed i de frygtelige Dage. Men jeg er saa dybt nedbøjet, at jeg inderlig
+               beder <app>
+                  <lem>Dem</lem>
+                  <rdg>Ordet er rettet fra: mig</rdg>
+               </app> skrive mig nogle Ord. Trøst findes der jo ikke – men alligevel. Jeg kan ikke
+               skrive mer. Jeg er altfor træt og bedrøvet –</p>
+            <p>Hils <persName key="Nansen_Esther">Tut</persName>
+               <note>Den otteårige Esther Nansen (1897-1972), datter af Peter og Betty Nansen</note> saa mange Gange –</p>
+         </div>
+      </body>
+   </text>
+</TEI>

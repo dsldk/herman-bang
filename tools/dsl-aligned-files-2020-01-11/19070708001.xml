@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070708001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 425</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-07-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-07-08"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 8. juli [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nürnbergerstrasse 36. Berlin. W.</p>
+            <p rend="right">8.7.1907.</p>
+            <p>Kære Ven.</p>
+            <p>... Jeg har begyndt at arbejde, skønt jeg ikke netop har det godt.</p>
+            <p>Og jeg tænker Dag og Nat paa dette: at faa mit Ny-Liv formet. Jeg vil ikke opsøge
+               nogen, før jeg er helt rask. Men godt var det maaske, om <persName key="Fischer_Samuel">"Hr. S. Fischer"</persName>
+               <note>Den tyske forlægger Samuel Fischer (1859-1934), der i 1886 grundlagde S. Fischer Verlag, Berlin</note> vidste, at jeg var her og hvorom mit første Besøg vilde
+               dreje sig. Og, efter Overvejelse, tror jeg, at Fremkomsten af "<!--start title reference--><title key="Ludvigsbakke">Ludvigsbakke</title>
+               <!--end title reference-->"<note><!--start title reference-->
+                  <title key="Ludwigshöhe">Ludwigshöhe</title>
+                  <!--end title reference-->. Roman einer Krankenpflegerin, oversat af østrigeren <persName key="Franzos_Marie">Marie Franzos</persName> (1870-1941), udkom ca. 1.2.1908 hos S.
+                  Fischer Verlag, Berlin</note> vilde være bedst, nu til Efteraaret, som
+               Introduktion. Vil du derfor ikke melde ham min Ankomst – paa en fiffig Maade og saa
+               skrive, at <hi rend="italics">du</hi> syntes, at mit Berliner-Ophold burde indvies ved en Udgave
+               af "Ludvigsbakke", der, ved Siden af "<!--start title reference--><title key="Ved_Vejen">Ved
+                  Vejen</title>
+               <!--end title reference-->"<note>Som sin første bog af Bang havde S. Fischer Verlag i 1898
+                  udgivet <!--start title reference--><title key="Am_Wege">Am Wege</title>
+                  <!--end title reference-->
+               </note> var den bedste
+                  <hi rend="italics">Salgsvare</hi> blandt mine Romaner? Der er det ved "Ludvigsbakke", at den
+               "vejer til" – næsten som en Bog af selve <persName key="Frenssen_Gustav">Frenssen</persName>
+               <note>Gustav Frenssen (1863-1945), tysk forfatter, født i Ditmarsken</note> .....</p>
+            <p>Ellers er der lidet at skrive. I Orden er jeg endnu ikke, hverken i min Hjerne eller
+               i mine Værelser. Men det kommer vel .... Hver Dag, naar det regner her, tænker jeg:
+               "Gid dog idetmindste Solen skinnede paa <placeName key="Bangsbo">Bangsbo</placeName>." Og gid <persName key="Villadsen_">Villadsen</persName>
+               <note>Fru eller frøken Villadsen, velsagtens husbestyrerinde eller køkkenleder på Johan Knudsens herregård
+                  Bangsbo ved Frederikshavn</note> vil lave Jer nogen god Mad. Hun staar saa stramt paa sit,
+               Villadsen ... Tænk, her fandt jeg igaar i en Skuffe et Nummer af "Nya
+                  Pressen"<note>Svensksproget liberalt dagblad i Helsingfors, udkom 1883-1900 og i
+                  rekonstrueret form 1906-74</note> – en gammel, af en Forgænger i Boligen
+               efterladt Avis, hvori der stod en Lovsang over Fru <persName key="Nansen_Betty">Betty Nansen</persName>. Var det ikke besynderligt? Mange Tanker gik lange Veje,
+               mens jeg sad med det Blad i Haanden.</p>
+            <p>Tusind Hilsner til Jer begge.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

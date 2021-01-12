@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050000001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Vendsyssel?]</placeName>
+               <date when="1905-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1905-01-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1905.  00,] Søndag<note>Et gæt, at brevet her dateres
+                  til Bangs turné rundt i landet i begyndelsen af 1905. Ud fra de nævnte bynavne kan
+                  det formodes, at brevet er skrevet et sted i Vendsyssel. Opførelse af Bjørnsons
+                  skuespil <!--start title reference--><title key="Daglannet">Daglannet</title>
+                  <!--end title reference--> har været aktuel i efterår 1904
+                  og forår 1905, se Kvam, s. 62, og Bang selv i avisen København, 25.10.1904</note>
+            </date>
+            <placeName cert="low">[Vendsyssel?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Kære Nansen.</p>
+            <p>Det er sandt: Kan ikke <persName key="Petersen_Julius">Julius Petersen</persName>s
+               Selskab<note>Julius Petersen (1844-1917), skuespiller, drev fra 1882 sit eget teaterselskab med Aalborg som base</note> – Manden er <hi rend="italics">Ejer</hi> af Aalborg Teater, et af de bedste i Landet –
+               faa Ret til at spille "Daglandet"<note>Daglannet, skuespil af <persName key="Bjørnson_Bjørnstjerne">Bjørnstjerne Bjørnson</persName>. Peter Nansen
+                  administrerede Bjørnsons forfatterrettigheder</note> i blot et Par Byer, f:Ex:
+                  <placeName key="Aalborg">Aalborg</placeName> og <placeName key="Hjørring">Hjørring</placeName> og <placeName key="Frederikshavn">Frederikshavn</placeName>,
+               hvor <persName key="Helsengreen_Albert">Helsengreen</persName>
+               <note>Skuespilleren Albert Helsengreen (1854-1943) var fra 1896 direktør for provinsscenerne</note> dog aldrig kommer?</p>
+            <p>Jeg saá Truppen spille "<!--start title reference--><title key="Tappenstreg">Tappenstreg</title>
+               <!--end title reference-->"<note>Skuespil i
+                  5 akter fra 1903 af den tyske dramatiker <persName key="Beyerlein_Franz_Adam">Franz Adam Beyerlein</persName> (1871-1949),
+                  oversat af <persName key="Jacobsen_Jacob">Jacob Jacobsen</persName>. I København
+                  gik det 33 gange på Dagmarteatret mellem 18.2.1904 og 18.3.1905</note> og det gik
+               saare præcist og i mange Scener endogsaa kønt. Og, oprigtig talt, mig vilde det svært
+               glæde, hvis de kunde spille "Daglandet" blot i de tre Kroge<note>Dvs. afkroge, som
+                  Bang hér ironisk benævner Aalborg, Hjørring og Frederikshavn</note>.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

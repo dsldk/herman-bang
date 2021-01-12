@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18981213001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »13/12 98« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-12-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-12-13">[1898, 13. december] Tirsdag <note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære H.</p>
+            <p>Hvis De vidste, hvor træt jeg er af at være en Tigger ved Vejen.</p>
+            <p>Paa Lørdag og næste Lørdag ‒ aa, det er Juleaften ‒ skal De være befriet for mig.
+                    Men jeg <hi rend="italics">maa</hi> idag betale et Afdrag og forgæves har jeg søgt at faa
+                    Penge andetsteds. Summen er halvtreds Kr. Hermed <app>
+                  <lem>»Posten«</lem>
+                  <rdg>Læsning af dette ord er lidt usikker</rdg>
+               </app>. Jeg haaber fremdeles, min Novelle skal blive færdig inden Jul<note>Bang
+                        sigter til »En Fortælling om Elskov«; som det fremgår af flere senere breve
+                        til Aage Hirschsprung trak det for Bang længere ud end beregnet med at få
+                        skrevet denne novelle til hans novellesamling Liv og Død, der udkom
+                        13.5.1899 hos Det Schubotheske Forlag</note>. Vil De sende »Ved
+                        Vejen«<note>Den første selvstændige bogudgave var udkommet 9.11.1898 på Det
+                        Schubotheske Forlag</note> og »Huset«<note>Bangs roman Det hvide Hus var
+                        udkommet 26.11.1898 på Det Schubotheske Forlag</note> til Hr. Kristian
+                        Dahl<note>Kristian Dahl (1861-1934), journalist, fra 1888 ved Politiken;
+                        1885-87 skuespiller ved Folketeatret; gift 1885 med Olga Dahl, født
+                        Hasselbalch</note> ‒ »Politiken« ‒ som ønsker at skrive om disse Værker.....
+                    i norske Blade.</p>
+            <p rend="right">Deres Ven H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

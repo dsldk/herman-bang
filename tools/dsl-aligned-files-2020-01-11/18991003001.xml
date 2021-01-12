@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18991003001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »3/10 99« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1899-10-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-10-03">[1899, 3. oktober] Tirsdag <note>Skal dateres ud
+                        fra Bangs flytning ‒ samt den angivne ugedag i kombination med brevets
+                        sekundært anførte datering; denne er formentlig skrevet af Aage Hirschsprung
+                        ved modtagelsen af brevet</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag Morgen.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Det er altsaa nødvendigt at bede Dem om en sidste Tjeneste. Jeg skal flytte
+                        idag<note>Bang flyttede 3.10.1899 fra Hotel Hafnia på Vestervold i København
+                        til lejligheden Frederiksborggade 31, 2. sal</note> og <hi rend="italics">der</hi> skal
+                    betales forud og her skal betales bagud. Desuden er der, hvad der hviler paa mig
+                    den første</p>
+            <p>‒ ‒ Og til at betale dette har jeg ‒ da det igaar viste sig, at
+                        Teaterkassen<note>Dvs. Folketeatret i Nørregade, ledet af Severin Abrahams.
+                        I årene 1897-1900 var Bang fast tilknyttet som sceneinstruktør</note> var
+                    tom ‒ kun en Anvisning. Kan De nu vise mig den samme Tjeneste som i
+                        Foraaret<note>Se Bangs brev til Aage Hirschsprung, 9.3.1899, skrevet den
+                        dag, da Bang flyttede fra Østerbro til Hotel Hafnia</note> og forstrække mig
+                    med Pengene til Forfaldsdagen? Kan De det ikke uden Besvær ‒ da sig det. Jeg
+                    gaar da til en Sagfører, naturligvis uden at sige, at jeg har været hos Dem.</p>
+            <p>I hvert Fald falde Dem til Byrde med Penge nu skal jeg ikke. B.<note>Fritz Boesen
+                        (1877-1931), skuespiller og Bangs unge protegé</note>
+               <hi rend="italics">vil</hi> ikke modtage noget og jeg selv har vel, naar jeg kommer i Ro
+                    nok.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

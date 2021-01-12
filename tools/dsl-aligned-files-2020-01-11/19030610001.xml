@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19030610001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 847</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1903-06-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1903-06-10">1903, 10. Juni [onsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. 10.6.1903.</p>
+            <p>Min kære Nini.</p>
+            <p>Tak for dine Breve. Og Tak for Vinteren. Vi to Gamle skal holde sammen. Vi er
+                    lidt sære begge to. Men vi lærer efterhaanden at gaa i Trit som to halvgamle
+                    Heste. Og det er godt.</p>
+            <p>Tilgiv, at jeg ikke har sendt dig Pengene for Juni<note>Se også Bangs brev til
+                        Jacob Hegel, dateret Marienlyst, Tirsdag [måske 26.5.1903]</note>. Men min
+                    mislykkede Turnée<note>I maj 1903 turnerede Bang med Aarhus Teater og
+                        forestillingen <hi rend="italics">Brødre</hi>, hans eget stykke fra 1891; se også
+                        Gustav Albeck i Festskrift til Jens Kruuse, Aarhus 1968, s. 26</note> har
+                    sat mig saa langt tilbage. Jeg skal sende dem, saasnart jeg kan.</p>
+            <p>Marienlyst har paavirket mig udmærket. Jeg tør vel sige, at det er et Par Aar
+                    siden jeg befandt mig saa vel. Og en udmærket Læge har jeg fundet i Fysikus
+                        Tryde<note>Gabriel Tryde (1860-1951), praktiserende læge i Helsingør, hvor
+                        han 1899-1915 tillige var stadsfysikus</note>. Han gaar kun ud paa at
+                    styrke. Fordrer Hvile til bestemte Tider o:s:v: Dagen begynder med Bad og
+                    Massage og Æg. Derpaa følger ½ Pot<note>Pot var et gammelt mål for flydende
+                        varer; en pot svarer cirka til en liter</note> Fløde!</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

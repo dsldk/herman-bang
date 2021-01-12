@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19030316001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4685, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="peter-nansen">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant har Peter Nansen øverst til venstre på brevets første side
+                              skrevet: <q>Dette Brev skulde være sendt iaftes. Dorph-P. ønskede
+                                 imidlertid at vi skulde bevare Tavshed til idag. Og nu til Morgen
+                                 basunerer Dannebrog ved en Indiskretion Nyheden ud</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1903-03-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1903-03-16"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1903. 16. marts.  [mandag]<note>Indgået i Det Kongelige
+                  Bibliotek som del af Acc. 1968/25: breve til Christian Houmark, købt i en
+                  københavnsk antikvarboghandel. Dette og to andre breve er fejlagtigt lagt i læg
+                  blandt Peter Nansens breve til Christian Houmark (som Nansen var De's med)</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">16/3 1903</p>
+            <p rend="right">Eftermiddag.</p>
+            <p>Kære Ven!</p>
+            <p>Jeg sender Dig i Hast følgende Billet –: </p>
+            <p>
+               <persName key="Nansen_Betty">Betty</persName>
+               <note>Betty Nansen</note> har lige nu
+               underskrevet Kontrakt med <persName key="Dorph-Petersen_J.F.S.">Dorph-Petersen</persName>
+               <note>J.F.S. Dorph-Petersen (1845-1927) var 1900-08 direktør for Folketeatret og 1903-05 Betty Nansens meddirektør</note> om at
+               indtræde i Direktionen af Folketeatret fra næste Sæson.</p>
+            <p>Vi var forpligtede til dybeste Diskretion. Derfor kommer dette bag paa Dig. Men Du
+               vil nu forstaa, at min Kone ikke var saa ivrig efter at modtage det kgl. Teaters
+               Tilbud. Der var i det samtidig modtagne Tilbud fra Dorph-Petersen saa meget, som
+               fristede.</p>
+            <p>Dette vil <hi rend="italics">Du</hi> sikkert mere end nogen anden erkende. Der aabner sig,
+               gennem den Stilling, hun nu faar, Muligheder, hun aldrig, selv i den tryggeste
+               Stilling ved det kgl. Teater, kunde have opnaaet.</p>
+            <p>Og: ikke sandt – der er noget charmerende for en ung Energi i <hi rend="italics">det</hi> at
+               vide, at man nu selv har Medbestemmelsesret.</p>
+            <p>Og noget pirrende i den Tanke ogsaa, at blive den første Direktrice i dansk
+               Teaterhistorie.</p>
+            <p>Navnlig naar man kun er 29 Aar.</p>
+            <p>Du, der i alle Forhold beundrer Energi og Vilje, vil vide at vurdere det.</p>
+            <p>Nu maa Du være solidarisk og ikke fortabe Dig i Betragtninger om <hi rend="italics">for</hi> og
+                  <hi rend="italics">imod</hi> det kgl. Teater. Thi dette har intet at gøre med nogen Kamp mod
+               det kgl. Teater. Tværtimod har vi Grund til at haabe paa et overordentlig godt
+               kollegialt Forhold.</p>
+            <p>Og baade Betty og jeg haaber, at Du med Raad og Daad vil være os behjælpelig. Du har
+               jo dog gammel Interesse for Folketeatret. Og for os med.</p>
+            <p rend="right">Din hengivne Peter Nansen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

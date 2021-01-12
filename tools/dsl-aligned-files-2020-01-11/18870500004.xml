@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870500004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 497</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-05-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-05-01">[1887, ca. maj] Lørdag<note>Brevteksten
+                        underforstår Bangs forudgående ulyst til at skrive en bestilt artikel om
+                        Norge til det illustrerede tidsskrift <hi rend="italics">Vom Fels zum Meer</hi>; Bangs
+                        løfter om en sådan artikel strejfes i et par andre af hans breve til Emil
+                        Jonas fra april-maj 1887</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Lørdag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Jeg modtog Deres Brev Kl. 11 idag. Og jeg sender Dem nu Klokken fem denne
+                    Begyndelse til Artiklen. De tager Fejl i, at jeg <hi rend="italics">anden</hi> Gang lader
+                    Lejligheden ubenyttet til at komme ud ved: »V:F:z.M:«<note>Dvs. det tyske
+                        tidsskrift <hi rend="italics">Vom Fels zum Meer</hi>
+               </note> ‒ jeg skrev
+                        <hi rend="italics">ifjor</hi> en lang Artikel, med hvilken <hi rend="italics">jeg</hi> gjorde mig
+                    megen Umage. Og <hi rend="italics">iaar</hi> har kun Besværligheden ved, naar man med
+                        <hi rend="italics">alle</hi> Tanker sidder i en <hi rend="italics">København</hi>-Roman<note>Bang
+                        var på daværende tidspunkt i fuld gang med at skrive romanen Stuk, der udkom
+                        sidst i oktober 1887</note>, saa pludselig at springe til <hi rend="italics">Norge</hi>
+                    ‒ holdt mig saalænge hen, saameget mer som <hi rend="italics">Billederne</hi> er ganske
+                    intetsigende, og jeg maa tage <hi rend="italics">alt</hi> af <hi rend="italics">mine</hi> Norges
+                    Minder.</p>
+            <p>Jeg sender Resten Mandag Morgen.</p>
+            <p>Hvad »Teaterbrevet« angaar, da kender jeg <hi rend="italics">ingen</hi> af disse Herskaber.
+                    Og kan ikke antage, at Hr. Eisfelds<note>Den tyske skuespiller Max Eisfeld
+                        (1863-1935), egl. Gustav Max Appel, der havde indledt sin karriere ved
+                        hofteatret i Meiningen; han boede juni 1886 til april 1887 sammen med Herman
+                        Bang i Wien og Prag</note> Nævnelse (om hvem der stod <hi rend="italics">to</hi> ‒ 2 ‒
+                    Linjer) skal kaldes »en stor Reklame«.</p>
+            <p>Gud give, at nu denne Begyndelse maa behage Dem.</p>
+            <p>God Fornøjelse og hent mange Kræfter ‒ baade De og Deres Frue. Jeg Sjæl véd snart
+                    ikke mer, hvad Penge er og kommer vist aldrig oftere paa Landet.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">H de B.<note>Skrevet næsten som et ornament, hvor Bang har slået en
+                        cirkel omkring signaturen begyndende med B'ets underste del</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850901001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 297</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider. Mørkrødt brevpapir</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XXV</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Itter, Tyrol</placeName>
+               <date when="1885-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-09-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 1. september [tirsdag]<note>Brevets side 4 er Bangs
+                  manuskript til en kort artikel til Politiken</note>
+            </date>
+            <placeName cert="high">Itter, Tyrol</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Itter den 1.9.85.</p>
+            <p>Min kære Don.</p>
+            <p>Nei – dette er ikke til at tro. Jeg kom igaar hertil og er ikke kommet mig af min
+               Overraskelse. Itter er et virkeligt Slot – et Slot halvt i Ruiner med mægtige,
+               favntykke Mure, Kæmpehvælvinger og Søiler, som har smuldret hen i Aarhundreder og
+               midt i disse Ruiner – den genopbyggede Slotsfløi høi som Taarn med hundred Værelser
+               og hundred Gange. Kongelig Pragt veksler med Zigeuneragtighed<note>Sammenlign
+                  beskrivelserne i dette brev med Bangs tekst "<!--start title reference--><title key="Ferie">Ferie</title>
+                  <!--end title reference-->" i
+                  hans bog <!--start title reference--><title key="Ti_Aar">Ti Aar</title>
+                  <!--end title reference--> (DSL 2013, s. 67-82), hvor personen
+                  Fru Simonin er kalkereret over Sophie Menter</note>. Vi spiste idag i den
+               gammeltyske Spisesal – <persName key="Menter_Sophie">Fru Menter</persName>
+               <note>Den tyske pianist Sophie Menter (1846-1918), elev af Franz Liszt, bosat 1877 i Budapest og på slottet Itter i Tyrol, gift 1872-86 med den tjekkiske cellist David Popper</note> bogstavelig indhyllet i Kniplinger – og efter Diner'en
+               sprang Fruen op og spurgte, om vi ikke kunde drikke Kaffe nedenunder. Det var i
+               Strygestuen, det Sted, hun elsker høiest: Ruinmurene lige uden for Døren; lige under
+               os den skummende Flod og mellem Bjergene, Skyer omslører, Dalen, hvor man høster Hø
+               for anden Gang. Der i Strygestuen drak vi Kaffen af Sèvreskopper<note>Porcelænskopper
+                  fremstillet på den kongelige franske porcelænsfabrik, som i 1756 blev flyttet til
+                     <placeName key="Sèvres">Sèvres</placeName>, i dag en forstad til Paris i
+                  retning mod Versailles</note>, paa et bart Træbord, siddende paa
+               Strygebrædterne.</p>
+            <p>Og saaledes er alt. Tømmerfolk allevegne, og dog kan hver af os – Elever af Fru
+               Menter har hun taget hjem paa Besøg, to unge Pianister fra Polen er her (<persName key="Liszt_Franz">
+                  <hi rend="italics">Liszt</hi>
+               </persName>
+               <note>Franz Liszt (1811-86), verdensberømt ungarsk pianist og komponist</note> ventes først, et Par Damer bor her) – finde
+                  <hi rend="italics">sin</hi> Plet, uforstyrret. Jeg sidder i den persiske Sal, helt
+               uforstyrret. Du skulde sé dette Værelse, hvor en syg Fantasi ødslede en Formue. Ved
+               mine Fødder ligger henslængt et gammelt jødisk Dommersværd, som det britiske Musæum
+               vilde veie op med Guld, og udstrækker jeg Haanden til Væggen, føler jeg paa
+               Damascenerklinger, indlagt med Sølv – – Og saa Silketæpperne og de indlagte Sølvkar
+               og de tyrkiske Pragtkaaber, hvis Guldbroderier skinner fra Væggen. Man begraves i
+               Sofaerne, som gemmes bag mørkrøde Silkeportièrer, og man vilde <app>
+                  <lem>trættes</lem>
+                  <rdg>tes er tilføjet på skrå</rdg>
+               </app> af Farvelarmen i de mangfoldige Drapperier, hvis ikke Lyset var dæmpet gennem
+               mørkrøde Atlaskforhæng. Og dog er det russiske Værelse og Musiksalen endnu skønnere.
+               Denne Hob af indlagte Møbler, af Sjældenheder og af Tæpper. Fru Menters Soveværelse
+               er kinesisk. Et Silketæppe, broderet i Aar og Dag af mange Hænder, dækker med
+               phanta[s]tisk Blomsterflor Divaens Seng. Værelset er vidunderlig deiligt. Og mer
+               fristende end alt dette tilsammen, gaar hun selv omkring, ubeskrivelig jomfruelig i
+               sin hvide Kniplingsdragt, saa kaad, saa vemodig, saa gammelklog, saa tøset – her paa
+               sit Slot endogsaa soigneret. Hun leger med et ungt Daadyr, de har fanget til hende,
+               og hun fører lange Konversationer med sine Angorakatte. Naar hun er ked af det, læser
+               hun <persName key="Schopenhauer_Arthur">Shoppenhauer</persName>
+               <note>Den tyske filosof Arthur Schopenhauer (1788-1860)</note>, som hun fanatisk elsker, eller hun synger
+               Gadeviser inde i sit Kapel, der ligger ved Siden af den mindre Spisestue – 1437 blev
+               Kapellet indviet. Nu er det Pulterkammer til daglig, og vore Kufferter staar ved
+               Siden af Altret, men paa de store Høitider læses der endnu Messe. Jeg vil lade
+               Præsten komme en Aften og læse Messe derinde. Fru M. gaar frem og tilbage, mens jeg
+               skriver dette, saa det hele bliver vist meget forstyrret. Hun vil hænge en gylden
+               tyrkisk Lampe op nu strax paa Stedet, og jeg vilde nok ønske, hun vilde vente til
+               imorgen tidlig.</p>
+            <p>Naa – jeg maa holde op at skrive. Om tre Dage faar Du Rest af "<!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->"<note>Dvs. resten af Bangs manuskript til <!--start title reference--><title key="Ellen_Urne">Ellen Urne</title>
+                  <!--end title reference-->
+               </note>. Skriv til mig her. Paa den anden Side for Avisen.
+               "Et Privatbrev" følger Fædra. Mange Hilsener til <persName key="Nansen_Immanuel">"Hvalpen"</persName>
+               <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>
+            </p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Til din Autograf-Samling dette Brev fra Liszt<note>Dette brev (dateret 3.8.1885) fra
+                  Franz Liszt til Sophie Menter, som Bang angiveligt stjal og sendte som foræring
+                  til Peter Nansen, findes i dag bevaret i Det Kongelige Bibliotek, København. Se
+                  Jesper Düring Jørgensen: "Musik og tyveri", Festskrift til Niels Krabbe, Kbh.
+                  2006, s. 211-223</note>.</p>
+            <p>
+               <hi rend="italics">For Bladet</hi>
+               <note>Bangs tekst er forgæves eftersøgt i Politiken i de efterfølgende
+               dage</note>:]</p>
+            <p>Paa Slottet <hi rend="italics">Itter</hi> er der i disse Dage livligt. Fru <hi rend="italics">Sofie
+                  Menter</hi> har mange Gæster, blandt dem Fru <persName key="Wilt_Marie">
+                  <hi rend="italics">Wilt</hi>
+               </persName>, Wiener-Operaens Primadonna<note>Den østrigske sopran Marie Wilt (1833-91)</note>, sin Søster <persName key="Menter_Eugenie">
+                  <hi rend="italics">Eugenie Menter</hi>
+               </persName>, en i Tyskland meget bekendt Pianistinde<note>Eugenie Menter (1853-1934), tysk pianist og klaverpædagog, der efter ægteskab 1887 kaldte sig Eugenie Menter-Schulze; søster til Sophie Menter</note>, <hi rend="italics">Herman Bang</hi> o:s:v:
+               Et Par Elever fra Petersburger Konservatoriet er ogsaa Gæster hos deres berømte
+               Lærer, og "Mesteren" <hi rend="italics">Liszt</hi>, hvis Bolig paa Slottet altid staar beredt,
+               udstyret med fyrstelig Pragt, ventes om otte Dage. Den gamle Mester vil paa Itter
+               lægge siste Haand paa en "tredie Klavérkoncert", som han komponerer for Sofie Menter,
+               og som han for første Gang vil spille paa sin forestaaende Turné. Hvorvidt denne
+               Turné vil gaa til Skandinavien, staaer endnu hen, da <persName key="Wolff_Hermann">Hermann Wolff</persName>
+               <note>Hermann Wolff (1845-1902), tysk koncertagent</note> gør meget store Anstrængelser for at vinde Fru Menter
+               for Tyskland i de seks Uger, Kunstnerinden har Ferie, før hun atter maa være i
+               Petersborg efter Konservatorieferiens Slutning. Herman Bang ledsager i alle Fald Fru
+               Menter.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

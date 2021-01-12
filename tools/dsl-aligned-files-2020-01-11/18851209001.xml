@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851209001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 68</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Berlin]</placeName>
+               <date when="1885-12-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1885-12-09"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 9. december], Onsdag Formiddag<note>Dateringen foreslås
+                  udfra Bangs aktuelle relation til Politiken og sammenhængen i Harry Jacobsen, s.
+                  91f. samt i forhold til brevet 1885. 4. december.  om Peter Nansens midlertidige og
+                  eventuelle flytning til Studiestræde 4</note>
+            </date>
+            <placeName cert="low">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag Formiddag.</p>
+            <p>Siden jeg, kære Peter, nu én Gang har talt, og siden jeg taler for slet om det, som
+               bevæger mig saa dybt, vil jeg skrive disse Par Linier.</p>
+            <p>Jeg har handlet, som jeg har i dette, fordi jeg ikke vilde tillade, at vort gensidige
+               Forhold døde under en klam Haand. Og den klamme Haand, det er alle de Smaa-Tausheder,
+               Smaa-Gaaen-udenom, Smaa-Paavirkninger, smaa Usandheder i vort Forhold til hinanden,
+               som langsomt men sikkert vilde skabes af dit Samarbeide, dit Samvær, dit
+               Interessefællesskab – ti fælles daglig Interesse væver et seigt Væv af Vane, med
+               hvilket Følelser ikke altid tager Kampen op – med disse Mennesker<note>Dvs. dagbladet
+                  Politikens ledelse</note>, hvem jeg ikke dømmer, for der er vel andre, mod hvem
+                  <hi rend="italics">de</hi> er gode, offervillige og hengivne, men fra hvem <hi rend="italics">jeg</hi>
+               er skilt ved tunge og dybe Ydmygelser, beredt Kunstner og Menneske, ved Forskel i
+               Temperament og Aand, ved alt.</p>
+            <p>Er det da ikke meget, meget bedre, min Ven, hos os begge at bevare Erindringen om de
+               enkelte Timer, indfattet af et Par Aars Leven sammen, hvor vi virkelig forstod
+               hinanden, hvor vi ungdommeligt elskede hinandens Arbeide, hvor vi nød den dybe og
+               eneste Lykke at være hinanden uendelig nær – end smerteligt at trivialisere, hvad der
+               er os begge saa kært? Og udsætte for skillende Forholds langsomt lammende Magt en
+               fortrolig Hengivenhed, der for mig ialfald betød saa meget.</p>
+            <p>Lev vel, min kære Peter. Og husk, at naar der kommer selvprøvende Dage og lange
+               Nætter uden Søvn, da er det ikke, hvad vi har <hi rend="italics">naaet</hi>, men
+                  <hi rend="italics">hvordan</hi> vi har <hi rend="italics">handlet</hi> – som kommer og holder os med
+               Selskab.</p>
+            <p>Tilgiv saa dette, hvis du enten finder det sentimentalt eller affektert eller hvad
+               véd jeg. Jeg har kun skrevet det, for at du skulde forstaa mig bedre.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

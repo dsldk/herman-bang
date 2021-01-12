@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840616001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 141</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyantspåskrift af Peter Nansen øverst s. 1: <q>Olga
+                                 Bjørkegren</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. V</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Ramlösa, ved Helsingborg</placeName>
+               <date when="1884-06-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1884-06-16"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884. 16. juni], Mandag<note>Dateringen i Vandreaar s. 63
+                  følges</note>
+            </date>
+            <placeName cert="high">Ramlösa, ved Helsingborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Ramlösa<note>Kurstedet Ramlösa hälsobrunn i Skåne, beliggende et par
+                  kilometer SØ for Helsingborgs bymidte</note>. Mandag.</p>
+            <p>Man gik altsaa til det yderste og aflyste i <placeName key="Helsingør">Helsingør</placeName>. Enfin<note>fr.: kort sagt, altså</note> man var allerede
+               forlængst ophørt at overraske mig.</p>
+            <p>Jeg reiste strax hertil for at komme lidt til Ro. Forinden var jeg i <placeName key="Malmø">Malmö</placeName> at tale med <persName key="Björkegren_Olga">Olga</persName>
+               <note>Den svenske skuespillerinde Olga Björkegren (1857-1950), der var tiltænkt titelrollen i <!--start title reference--><title key="Ellen_Urne">Ellen
+                     Urne</title>
+                  <!--end title reference-->, Bangs egen dramatisering af romanen Fædra</note>. Alt beror nu
+               paa Dramatiseringen af "<!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->", som maa indleveres i
+                  <placeName key="Stockholm">Stokholm</placeName> med den Betingelse, at jeg spiller
+               Vilsac <note>Charles de Vilsac er en vigtig mandlig rolle i Bangs skuespil Ellen Urne</note>. Olga vilde gøre alt, og <persName key="Lindberg_August">Lindberg</persName>
+               <note>Den svenske skuespiller og turnéleder August Lindberg (1846-1916)</note> er Intendant<note>Dvs. administrator med ansvar for
+                  økonomien</note> ved Theatret.</p>
+            <p>Jeg har idag antaget Fægtelærer i <placeName key="Helsingborg">Helsingborg</placeName> og indtegnet mig til Gymnastik her.</p>
+            <p>
+               <persName key="Abrahams_Severin">Abrahams</persName>
+               <note>Severin Abrahams (1843-1900), skuespiller ved Folketeatret, 1879-82 ved Casino, fra 1884 direktør for Folketeatret med svingende økonomisk udbytte; hans dødsbo erklæredes fallit</note> har jeg skrevet til om at faa en Oversættelse –
+               navnløs som alt – ; han har lovet mig den. Det er altid en Hjælp til at leve.</p>
+            <p>Det kun at ville et eneste har det Fortrin at man ikke let beseires. Her er ingen
+               Mennesker og ligesom i <placeName key="Middelfart">Middelfart</placeName>
+               <note>I
+                  juni-juli 1882 opholdt Bang sig i Middelfart, hvor han arbejdede på romanen
+                  Fædra</note> vil jeg kunne leve uden at tale med noget Menneske. Undertiden maa
+               man være ene.</p>
+            <p>Jeg siger nok, at jeg har Mod, men jeg græd inat et Par Timer en dygtig Graad, fordi
+               jeg er saa tosset at være som jeg er – og ikke som andre, der lever behageligt med at
+               elske lidt, forfølge sine Maal lidt, være lidt gift og faa Børn. Jeg, som ellers
+               aldrig misunder, misunder Folk disse "behagelige" Ting, som ikke existerer for
+               mig.</p>
+            <p>Lev vel.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

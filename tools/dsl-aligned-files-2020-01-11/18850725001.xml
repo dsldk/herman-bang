@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850725001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 296</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider. Brevpapir: slyngmonogram HJB (uden krone)</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Marienlyst, ved Helsingør]</placeName>
+               <date when="1885-07-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-07-25"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 25. juli.  [lørdag]<note>Vandreaar, s. 132, note 1,
+                  leverer et indicium for Bangs opholdssted, tillige støttet af udtrykket "kom
+                  herop" i dette brevs slutning samt af brevet 1885. 20. juli. </note>
+            </date>
+            <placeName cert="high">[Marienlyst, ved Helsingør]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">d. 25.7.85.</p>
+            <p>Min nette Don.</p>
+            <p>Jeg var igaar saa ophidset-uoplagt, at jeg intet kunde skrive, nu skal jeg forsøge,
+               om det gaar idag. Maaske er jeg i denne Tid saa nervøs, at jeg kun kan "diktere" mine
+               Værker. (Stakkels <persName key="Eugenia">Eugenia</persName>
+               <note>Ikke identificeret</note>!)</p>
+            <p>
+               <persName key="Esmann_Gustav">Esmann</persName>
+               <note>Vennen og forfatteren Gustav Esmann (1860-1904), 1884-86 journalist ved Politiken</note> gør mig maaske ogsaa lidt nervøs. Han har nu slaaet sig
+               til Ro her for otte Dage og iaften ankommer hans Pige for at bo paa Jernbanehotellet.
+               Han sagde mig, at han ikke kunde undvære hende mere end to Dage. Uden at knytte
+               Kommentarer til noget, vil jeg tilstaa, at det maa være noget generende at være af et
+               saa heftigt Temperament.</p>
+            <p>Hans omarbeidede første Akt<note>Esmanns manuskript til et uidentificeret
+                  skuespil</note> hørte jeg iaftes, Peter, med Forfærdelse. Denne raa Ven fra
+               <placeName key="Ægypten">Ægypten</placeName>, som aldeles umotiveret vælter et Par Skarnbøtter over en Vens
+                  <hi rend="italics">Forlovede</hi>, er noget af det umuligste ɔ: usandeste, jeg kender. Eller
+               har du maaske hørt nogen "Ven" udtale sig, turde udtale sig saaledes til nogen om
+               hans Forlovede? For, saa vidt jeg véd, er Fru Holten <note>Ikke identificeret. Måske
+                  en sammenhæng med cand.jur. et polit. <persName key="Holten_Just">Just Holten</persName> (1831-1916), som i
+                  1876-83 var dommer i Ægyptens østlige provinser, og hans hustru <persName key="Holten_Ida">Ida Holten</persName> (1841-1934), født Sehested</note> jo ingen Ludder. Men naar visse
+               ringe Mennesker bare kan sætte noget sammen, "der kan faa dem til at spjætte paa
+               Bænkene" – bryder de sig Pokker om, hvorvidt det er sandt eller ei.</p>
+            <p>Ellers var Dialogen god – stærkt Edvardsk<note>Dvs. i <persName key="Brandes_Edvard">Edvard Brandes'</persName> stil. Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> i Tonefaldet.</p>
+            <p>Tal ikke til Es om hans Piges Ankomst hertil. Han frygtede selv meget vort forenede
+               Grin paa dette Punkt.</p>
+            <p>– Mor dig nu rigtig godt i din Forsamlingsbygning og kom herop saa snart du bare kan.
+               Esmann og jeg skændes ikke. Vi siger bare forfærdelig lidt.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

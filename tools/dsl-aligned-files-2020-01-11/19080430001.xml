@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19080430001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 454</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1908-04-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1908-04-30"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1908. 30. april [torsdag]<note>Peter Nansen var på et tre-fire ugers hotelophold i Berlin, fra engang
+                i april til et par uger ind i maj 1908, jf. Karin Bang, s.
+                619f</note>
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">30.4.1908</p>
+            <p>Min kære Ven.</p>
+            <p>Du vil ikke blive vred over dette Brev. Du vil vide, at jeg selv overfor dig ikke
+                        plejer at være paatrængende.</p>
+            <p>Men jeg var saa ked af, at du ikke kom herud og spiste iforgaars, og jeg skal
+                        sige dig, hvorfor. Jeg har hele Tiden, mens du har været her, haft en uvis
+                        Følelse af, at du havde noget ganske bestemt, som du gerne vilde tale med
+                        mig om – betro mig, som om jeg var din gamle Broder. Og at du saa alligevel
+                        intet har kunnet faa over din Mund – –</p>
+            <p>Maaske har jeg ganske Uret. Og isaafald er disse <app>
+                  <lem>faa</lem>
+                  <rdg>Vistnok rettet fra: faar</rdg>
+               </app> Ord aldrig skrevne. Men hvis jeg skulde have Ret, ja, da véd du, at
+                        du kan stole paa mig. Vi Mennesker kan aldrig hjælpe hverandre. Men, hvis
+                        man har en virkelig Ven, kan man dog lette sig ved at tale.</p>
+            <p>Tilgiv, kære Peter, disse Linjer, som maaske er det rene Spind af mig.</p>
+            <p>Jeg vil helst komme imorgen Kl. 7.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

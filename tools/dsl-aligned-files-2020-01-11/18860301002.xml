@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860301002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 476</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-03-01">[1886, 1. marts] Mandag<note>Ifølge brevets
+                        ordlyd er Bang netop flyttet til Hotel Hammerand, der er han 3. logi efter
+                        hans ankomt 24.2.1886 til Wien. Såfremt hans angivelse af ugedag er korrekt,
+                        kan brevet kun være skrevet 1.3.1886</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Kammeraraad.</p>
+            <p>Jeg var igaar, da jeg afsendte »det« Brev til Levysohns Avis ‒ saa medtaget, at
+                    jeg ei kunde skrive i Sammenhæng. Nu harjeg sovet og er bedre.</p>
+            <p>Tak, min kære, gode Kammerraad, for al Deres Uro, alle Deres Forsøg, for alle
+                    Deres Breve. Det er stor Synd, at De har skullet gaa alt dette igennem for min
+                    Skyld. Vi, som er unge, maa kæmpe ‒ de ældre, som allerede har baaret en lang
+                    Arbeidsdags Anstrængelser, de bør skaanes.</p>
+            <p>Brevet om »Keiseren« vil være noget for Levysohn at bide i.</p>
+            <p>Indlagt det ønskede Brev<note>Ikke bevaret sammen med dette brev</note> om
+                    Honoraret.</p>
+            <p>Skriver <hi rend="italics">idag</hi> Artiklen til Billederne.</p>
+            <p>Situationen er nu pekuniært denne: <hi rend="italics">Her</hi> er betalt. Idag tager jeg
+                    Bolig og flytter saasnart jeg <hi rend="italics">kan</hi>. <app>
+                  <lem>
+                     <hi rend="italics">Adressér</hi>
+                  </lem>
+                  <rdg>Ordet er tilføjet over de overstregede ord: Det er</rdg>
+               </app> indtil videre: Hotel Hammerand. Karl<note>Formodentlig Bangs tjener, en
+                        tysker fra Westfalen (ifølge et andet af Bangs samtidige breve til Emil
+                        Jonas)</note> reiser uopholdelig, naar jeg er installeret.</p>
+            <p>Dernæst er med »Politiken« og med min Forlægger<note>Andreas Schou ...</note> mit
+                    Honorar <hi rend="italics">fast maanedlig ordnet</hi>.</p>
+            <p>En Betale-Djævel fløi igaar i et Par svenske Blade, saa de sendte mig mit
+                    Honorar.</p>
+            <p>Jeg vil <hi rend="italics">fast</hi> have fra Norden 350 Kroner månedlig<note>Bang staver
+                        ordet således, måske fordi sammenhængen vedrører Norden</note> ‒ hvilket er
+                    meget lidt i Wien. Men det er <hi rend="italics">fast</hi>, og kan jeg med denne Sum dog
+                    altid være saaledes værnet, at jeg kan vente roligere paa mine øvrige, usikkert
+                    faldende Indtægter.</p>
+            <p>Jeg forstod ikke Ret, hvorledes Brevet fra Dem, at Schorer vilde udbetale for det
+                    antagne, og siden Telegrammet ‒ at han <hi rend="italics">ikke</hi> vilde udbetale ‒ kunde
+                    forliges. Men <hi rend="italics">jeg</hi> kender Schorer fra München. Tro ham
+                        <hi rend="italics">aldrig</hi> over et Halmstraa. Han »benytter« kun ‒ og den ene mod
+                    den anden.</p>
+            <p>Hvordan det nu er: »Berlineren« og »Badene« er altsaa antaget. »<hi rend="italics">Hendes
+                        Høihed</hi>« faar De snarest. Jeg har lovet Schorer den, og jeg vil holde
+                    mit Løfte. Da kan min Fjerdedel for »Høiheden« slaaes sammen med de fyrretyve
+                    Mark og sendes mig <hi rend="italics">den første April</hi>. <hi rend="italics">Det</hi> maa »man« vel
+                    kunne indrømme mig: at min Fjerdedel udbetales mig hver Maaned efter Hirsch' og
+                    Deres forenede Overslag.</p>
+            <p>»Elna« har <hi rend="italics">sin</hi> Skæbne: selv mine arge Fjender i Norden beundrer
+                    denne Novelle. Og her refuseres den!</p>
+            <p>Skulde jeg ikke forsøge at give den til <hi rend="italics">Franzos</hi>? Manuskriptet skal
+                    ikke blive borte. Ogsaa her i Wien ønsker jeg, at <hi rend="italics">De</hi> sender mig
+                        <hi rend="italics">tre, fire Erklæringer, hvori jeg overgiver <hi rend="italics">Dem</hi>
+                        udelukkende Ret til at hæve Honoraret. end mig nogle Stykker at udfylde og
+                        da at returnere til Dem.</hi>
+            </p>
+            <p>Jeg haaber, at IV er paa <hi rend="italics">idag</hi>, <app>
+                  <lem>saa</lem>
+                  <rdg>Ordet er rettet fra: at</rdg>
+               </app> at »Keiseren« ogsaa gaar ind denne Maaned.</p>
+            <p>Jeg har foruden det nødvendige til Bolig og Karl<note>Formodentlig Bangs tyske
+                        tjener</note> endnu til denne Maaned ‒ og saa en <hi rend="italics">lille</hi>
+                    Spareskilling. Man lider ikke to Gange dette.</p>
+            <p>Tror Hirsch, man sidder i <hi rend="italics">København</hi> og skriver
+                        »<hi rend="italics">Berlineren</hi>«? Han er fiffig.</p>
+            <p>Hils Deres Kone.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

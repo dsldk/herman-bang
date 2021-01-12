@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870721001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 414</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-07-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-07-21">[1887, 21. juli] Torsdag<note>Torbjörn Nilssons
+                        dateringsforslag s.342 note 22 følges</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Torsdag.</p>
+            <p>Kære Paul.</p>
+            <p>Jeg har modtaget alt Breve, Penge og Korrekturer. Korrekturerne skal jeg sende
+                    imorgen. Hvad det hist og her kommer an paa at indføje er saadanne smaa Træk,
+                    som <app>
+                  <lem>umærkeligt</lem>
+                  <rdg>De første to bogstaver er rettet fra: kan</rdg>
+               </app> (f:Ex: overfor Fru Dunker, som i Korrekt:<note>Bangs forkortelse for:
+                        korrekturen</note> urigtig kaldes Donner) kan fange Sympatien og forberede
+                    det kommende. Det er jo overhovedet denne Bogs store Spørgsmaal:</p>
+            <p>Er der givet nok om de Enkelte, til at de kan fange Interessen, hvad der kun vil
+                    sige det samme som ‒ til at de kan <hi rend="italics">forstaaes</hi>?</p>
+            <p>C'est ça<note>fr.: Nemlig; eller: Det er sagen</note>.</p>
+            <p>Men meget kan her gøres ved ganske smaa Ting. Mést frygter jeg for, at Ægteparret
+                    Gerster ‒ som skal slutte IV med en »stor« Scene ‒ staar uklart og forsvinder.
+                    Men <hi rend="italics">alt kan ikke</hi> lykkes.</p>
+            <p>Levende synes mig det første Kapitel over Forventning. Denne Bog, Paul,
+                        <hi rend="italics">maatte</hi> dog egenlig fange Publikum, blot fordi den er den
+                        <hi rend="italics">første</hi> Københavns Roman.... saa latterligt det end lyder.</p>
+            <p>Jeg ménte ikke, at De ikke <hi rend="italics">vilde</hi> sige Deres Mening, men kun, at De
+                    af Skaansomhed ubevidst søgte om de mildeste Ord for at udtrykke den.</p>
+            <p>
+               <hi rend="italics">Idag</hi> ‒ nu ‒ afsendes de første Afdeling af III: Kredsen Canth.
+                    Begyndelsen er ikke rigtig lykkedes mig, men fra det Øjeblik, hvor Agathe
+                    begynder at spille, gaar det bedre. <hi rend="italics">Mon man nu forstaar
+                    Kredsen</hi>??</p>
+            <p>Det er jo altid kun saadanne Spørgsmaal jeg vil, De skal svare paa: med et Ja ‒
+                    eller: Ikke Rigtig ‒ eller: Nej ‒ det er utydeligt; for at vi kan retouchere
+                    det.</p>
+            <p>Jeg synes, man maa forstaa dette.</p>
+            <p>Tak for Pengene. <hi rend="italics">Søndag</hi> sendes en større Mængde (hvoraf allerede en
+                    Del er skrevet) og Lørdag den siste Juli<note>Dvs. lørdag 30.7.1887</note> er
+                    det mit Haab at slutte III, som vil blive langt (IV langt kortere); Vil De
+                    Mandag sende 50 Mark? Det er mig nu svært at sige, hvormeget jeg sender; da jeg
+                    afleverer et Par Gange om Ugen og slet ikke bestiller andet ‒ gaar det jo ikke
+                    saa langsomt.</p>
+            <p>Da det nu er blevet min <hi rend="italics">eneste</hi> virkelige Indtægt, behøver jeg ikke
+                    at sige Dem, at Penge altid er mig velkomne. Med en Organisme som min og under
+                    disse Anstrængelser lader sig jo ikke <app>
+                  <lem>saa meget</lem>
+                  <rdg>Bang har ved en lodret streg rettet fra ét ord: saameget</rdg>
+               </app> overflødigt leve med 25 fl. om Ugen.</p>
+            <p>Send imidlertid 50 Mark ‒ og bliver III færdigt og fylder, hvad antageligt bliver
+                    tre Ark, vil De næste Uge sende mig mere. Det er mit <hi rend="italics">højeste</hi> Ønske,
+                    at De, kære Paul, qua Forlægger maatte sé, at man ogsaa pekuniært i mig har
+                    faaet en saa rolig Klient, som mine arme Forhold tillader.</p>
+            <p>Det vil De jo efterhaanden tro ‒ ikke sandt.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

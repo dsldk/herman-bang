@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070510001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 419</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1907-05-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-05-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 10. maj.  [fredag]<note>Om Betty Nansens
+               gæsteoptræden i <placeName key="Sankt_Petersborg">Sankt Petersborg</placeName> må Bang have læst i danske aviser</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">10.5.1907.</p>
+            <p>Min kære Ven.</p>
+            <p>Bogstavelig talt med Hjertebanken har jeg læst om <persName key="Nansen_Betty">Betty</persName>s store og dejlige Sejre<note>I Sankt Petersborg spillede Betty
+                  Nansen onsdag 8.5. titelrollen i den norske forfatter <persName key="Skram_Amalie">Amalie
+                     Skram</persName>s skuespil <!--start title reference--><title key="Agnete">Agnete</title>
+                  <!--end title reference-->. "De medvirkende finske Skuespillere var
+                  flinke og Sammenspillet vel sammenstemt. / Efter Forestillingen havde den danske
+                  Gesandt, Kammerherre <persName key="Løvenørn">Løvenørn</persName>, indbudt Fru
+                  Nansen til Souper. / Til imorgen er Kunstnerinden tilsagt til Avdiens hos
+                     <persName key="Maria_Fjodorovna">Enkekejserinden</persName>." (Politiken,
+                  9.5.1907). Betty Nansens indtryk fra audiensen hos den danskfødte enkekejserinde Dagmar (russ.: Maria Fjodorovna) er refereret
+                  i Politiken, 14.5.1907 (sign. Th. K., dvs. billedkunstneren <persName key="Krarup_Theodora">Theodora Krarup</persName> (1862-1941), Politikens korrespondent)</note>. Endnu en Gang
+               til Lykke ....</p>
+            <p>Du kan tro, hun har af Petersborg faaet det samme overvældende og sælsomme Indtryk,
+               som jeg fik for de mange Aar siden<note>Maj 1885 var Bang i Sankt Petersborg</note>.
+               Nu har hun staaet paa den store Verdens Tærskel. Og <hi rend="italics">ud</hi> i den vil hun
+               naa.</p>
+            <p>Naar jeg nu rejser, er et af de Maal – og det, som maaske er mig kærest – jeg sætter
+               mig: at bane, saa vidt jeg kan, en Smule af Vejen for hende i den store germanske
+               Verden. Hvis "Himlen" giver mig Kræfter og Styrke tilbage, skal jeg vel naa det.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

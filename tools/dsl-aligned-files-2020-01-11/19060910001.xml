@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060910001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 11</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Randers</placeName>
+               <date when="1906-09-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-09-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 10. september [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Randers</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Randers. 10.9. 1906.</p>
+            <p>Min kære Ven.</p>
+            <p>Saa er De paa <placeName key="Skovgaard">Skovgaard</placeName>
+               <note>Gyldendaldirektør
+                     <persName key="Hegel_Jacob">Jacob Hegel</persName>s landsted i Ordrup nord for
+                  København</note> .... Gid De nu maa kede Dem helt rask.</p>
+            <p>Jeg sidder her. Det gaar langsomt<note>Dvs. med tilblivelsen af <!--start title reference--><title key="De_uden_Fædreland">De uden Fædreland –</title>
+                  <!--end title reference-->
+               </note>. Jeg taler ikke.
+               Ser ikke. Forsøger kun at sé alle disse Mennesker, som <hi rend="italics">ikke</hi> er.</p>
+            <p>Men undertiden haaber jeg, at det maa blive saa godt, at jeg kan sætte Deres Navn paa
+               det.</p>
+            <p>Hils <persName key="Hegel_Julie">Fru Hegel</persName>
+               <note>Julie Hegel (1857-1924), f. Bagge, gift 1874 med Jacob Hegel</note> saa mange Gange. De og <persName key="Marie_prinsesse">Prinsesse Marie</persName>
+               <note>Prinsesse Marie (1865-1909), franskfødt hertuginde af Orléans, gift 1885 med prins Valdemar af Danmark</note> staar, blandt Kvinder, i en Række for sig i min Tanke.
+               Men saa, bagved, kommer en lille Flok, hvoriblandt Fru Hegel sidder. For der er noget
+               udmærket ved hende.</p>
+            <p>Lev vel.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

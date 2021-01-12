@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860510001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 129</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XLIX</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-05-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-05-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 10. maj], Mandag<note>Vandreaar s. 209 daterer ikke
+                  brevet. Ud fra en af de omtalte Politiken-artikler kan brevet placeres en mandag
+                  efter 4.5.1886</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg har igaar faaet Pengene. Og takker. Da jeg faar Avisen mer end uregelmæssigt –
+               gennem <persName key="Ottesen_Christine_Margrethe">Ottesens</persName>
+               <persName key="Ottesen_Otto_Andreas"> –</persName>
+               <note>Ægteparret Otto Andreas Ottesen (født ca. 1835) og Christine Margrethe Ottesen (født ca. 1843), ejere af ejendommen Studiestræde 4,
+                  Bangs københavnske bopæl siden 1884</note> véd jeg ikke, hvad der har været i og hvad ikke.</p>
+            <p>Jeg var idag hos <persName key="Franzós_Karl_Emil">Franzos</persName>
+               <note>Den tyske forfatter og journalist Karl Emil Franzós (1848-1904)</note> til Middag. Han var meget net men fandt vistnok
+               ligesaa liden Smag i mig som jeg i ham. Hos den danske <persName key="Knuth_J.S.D.">Minister</persName>
+               <note>Dvs. den danske ambassadør i Wien, greve J.S.D. Knuth (1835-1905)</note> spiste jeg forleden i
+               meget fint Selskab. Jeg fandt det morsommere, siden man dog i det mindste ikke talte
+               om <persName key="Ibsen_Henrik">Ibsen</persName>
+               <note>Henrik Ibsen (1828-1906), norsk dramatiker, som på dette tidspunkt var europæisk berømt</note>s "<!--start title reference--><title key="Gengangere">Gengangere</title>
+               <!--end title reference-->" men om det
+               "græske Spørgsmaal"<note>Bangs artikel "Jærnhaanden", Politiken, 4.5.1886</note> og
+                  "Decentralisationen"<note>Artikel af Bang, ikke identificeret</note> – to Ting,
+               som er mig nyere.</p>
+            <p>Det "smertede" mig at sé, at Edvard fandt min Artikel om <persName key="Lindberg_August">Lindberg</persName>
+               <note>"August Lindberg",
+          Tilskueren, April 1886, s. 304-315. August Lindberg (1846-1916), svensk skuespiller og turnéleder</note> saa paafaldende affekteret. Jeg kan nu ikke gøre den Mand
+               tilpas. Og skrive "let humoristisk" om Lindberg er ganske vist fristende – men
+               endda!</p>
+            <p>Naa, hver Gang, jeg skriver om Teater, viser han mig tilrætte – det er den ældres
+               Ret, næsten hans Pligt.</p>
+            <p>Jeg har været meget medtaget igen – saa mine Noveller gaar kun langsomt<note>Bang
+                  sigter til sit igangværende arbejde med novellesamlingen <!--start title reference--><title key="Stille_Eksistenser">Stille Eksistenser</title>
+                  <!--end title reference-->, der udkom i oktober
+                  1886</note>. Og mine "Skriverier" forresten gør mig bestandig mer mismodig. Det
+               synes mig, som om jeg havde mistet min Ungdoms Fortrin, og de bliver ikke erstattet
+               af nyt og andet.</p>
+            <p>Undertiden, naar jeg læser "Politiken" synes jeg ogsaa, jeg er saa langt, langt borte
+               fra alt, hvad der bevæger Jer, at jeg næsten ikke vilde undres, om jeg en Dag
+               vaagnede og talte selv et andet Sprog og forstod slet ikke Eders.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>.</p>
+            <p rend="right">Din Herman.</p>
+            <p>
+               <hi rend="italics">NB</hi> Send mig dog "<!--start title reference--><title key="Unge_Mennesker">Unge
+                  Mennesker</title>
+               <!--end title reference-->"<note>Peter Nansens debutbog, Kbh. 1883</note> og "<!--start title reference--><title key="Gammel_Gæld">Gammel Gæld</title>
+               <!--end title reference-->"<note>Gustav Esmanns debutbog, Kbh.
+                  1885</note> til Oversættelse.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

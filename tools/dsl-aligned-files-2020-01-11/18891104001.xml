@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18891104001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1889-11-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-11-04">[1889, 4. november] Mandag <note>Brevet skal
+                        dateres i forhold til Erik Skrams anmeldelse af Tine, der tryktes i
+                        Politiken, 3.11.1889</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Fru Fejlberg.</p>
+            <p>Tilgiv, at jeg endnu ikke har været hos Dem. Det er saa stor en Uret. Men Dagene
+                    løber mig forbi, og jeg kommer til intet. Det Hele gaar hen i at skrive Breve og
+                    tale med Folk og ærgre sig og komme til ‒ slet ingenting.</p>
+            <p>Jeg kommer dog nu meget snart ud til Dem.</p>
+            <p>Skrams Anmeldelse igaar<note>Forfatteren Erik Skram (der som 17-årig frivillig
+                        havde deltaget i krigen i 1864) anmeldte Bangs nye roman Tine i Politiken,
+                        3.11.1889. Romanen var udkommet 24.10.1889</note> var naturligvis en stor
+                    Sorg for baade Langhoff<note>Forlæggeren Paul Langhoff (1862-94), indtil 1893
+                        indehaver af J.H. Schubothes Forlag</note> og mig. <hi rend="italics">Han sagde alle sine <app>
+                     <lem>Indvendinger</lem>
+                     <rdg>Bang har rettet ordet fra: Indvendigheder</rdg>
+                  </app> bredt og stærkt men om det Gode i Bogen gav han ingen Besked</hi>.
+                    Han kunde dog have nævnt »Dannevirke-Natten« eller Pigen eller Provsten. Naa ‒
+                    Ulykken er skét, og Bogens Salg vil faa det at mærke. Ogsaa Nansen<note>Peter
+                        Nansen (1861-1918), journalist og forfatter, fra 1896 litterær direktør ved
+                        forlaget Gyldendal</note> var særdeles perplex.</p>
+            <p>Mit Humør er ikke det lyseste. Om en Ugestid rejser jeg til Ringsted for at
+                    skrive. København gør mig syg og intetsteds føler jeg mig saa trist og fremmed.
+                    Hvilket koldt Liv med en lang Kamp uden Sejrvinding og en endløs Ensomhed, som
+                    man ikke har Styrke nok til at bære.</p>
+            <p>Hils Deres Mand<note>Carl Feilberg (1844-1937), fra 1876 læge ved
+                        Øresundshospitalet i København; gift 1876 med Anna Feilberg (1846-1923),
+                        født Krabbe</note> saa mange Gange</p>
+            <p rend="right">fra Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

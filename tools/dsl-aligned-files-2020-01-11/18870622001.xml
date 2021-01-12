@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870622001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 410</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-06-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-06-22">1887, 22. Juni [onsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 22.6.87.</p>
+            <p>Jeg vil just ikke paastaa, kære Paul, at Deres Rejse til Jylland i nogen høj Grad
+                    har mægtet at entusiasmere mig. Jeg havde saa sikkert haabet nu hver Uge at høre
+                    fra Dem ‒ Deres Dom, given som den faldt Dem just i Pennen; Deres Betragtninger,
+                    enfin et <hi rend="italics">Samarbejde</hi> havde jeg haabet paa. Og De, cher, rejser til
+                    Jylland.</p>
+            <p>Enfin.</p>
+            <p>Naar De kommer hjem, vil jeg være færdig med anden Déls I. Det indeholder fremfor
+                    alt en Samtale mellem Berg og Konferentsraad Hein og saa Scenerne mellem Lille
+                    Gerster og Fru Stern. Disse siste har gjort mig megen Besvær.</p>
+            <p>Saa vil De da altsaa læse IV, V og I paa én Gang<note>Hermed mener Bang
+                        formentlig manuskriptet til afsnit IV og V af romanens første del samt
+                        afsnit I af romanens anden del</note>. De vil da sé min Arbejdsmaade helt:
+                        <hi rend="italics">gennem</hi> og i de store Scener at give og belyse de Enkeltes Liv.
+                    Min Ven ‒ det er et uhyre Arbejde. Og <hi rend="italics">jeg</hi> staar her kun ved
+                    Begyndelsen af en ny Bane i Fortællekunsten. Vil man takke mig, fordi jeg bryder
+                    den? Vil man overhovedet forstaa mig?</p>
+            <p>Kære Paul ‒ kom nu snart hjem fra Jylland. Uderstøt mig ved Deres Raad, anspor
+                    mig ved Ros og ved Dadel. Det er et <hi rend="italics">stort</hi> Arbejde, og jeg er saa
+                    tidt <hi rend="italics">angst</hi> i min Ensomhed.</p>
+            <p>Er V's Slutning for »voldsom«? Vil De have den ændret? Fremfor alt, kære Paul,
+                    kom nu hjem fra Jylland.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

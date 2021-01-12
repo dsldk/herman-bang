@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900700002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 216</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Fredrikshald, Norge</placeName>
+               <date when="1890-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-07-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890.  juli. ]<note>Brevet er skrevet kort efter brevet
+                  1890.  juli. 001</note>
+            </date>
+            <placeName cert="high">Fredrikshald, Norge</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredrikshald.</p>
+            <p>Kære Nansen.</p>
+            <p>Da jeg ikke stoler meget paa <persName key="Langhoff_Paul">Paul L.</persName>
+               <note>Forlæggeren Paul Langhoff (1862-94), indtil 1893 indehaver af J.H. Schubothes Forlag, København</note> 's Rundhaandethed, havde jeg for
+               fire Dage siden skrevet til <persName key="Bjerring_Emil">Bjerring</persName>
+               <note>Emil Bjerring (1837-96), journalist, fra 1878 redaktionssekretær ved Nationaltidende, 1880 medstifter af Journalistforeningen</note> , om jeg, da jeg var syg, kunde faa den sædvanlige
+               "Sygehjælp" i Journalistforeningen. Ti der <hi rend="italics">maa</hi> gøres et energisk Forsøg
+               paa at blive Menneske igen. Han svarede ved indlagte Brev<note>Ikke bevaret som bilag
+                  til dette brev</note>.</p>
+            <p>Som du sér, er han meget venlig. Men Lovene fordrer en Kautionist. Da nu B. ikke selv
+               kan, men paa den anden Side benævner Kautionen som en ren "Formalitet", der vel
+               aldrig vilde medføre reel Følge – hvis jeg døde, blev det vel eftergivet, og nede i
+               Maribo kan jeg sagtens skrive de Penge sammen – saa vilde jeg bede dig, om du vilde
+               sætte dit Navn.</p>
+            <p>Jeg behøver saa ikke de Langhoffske Penge. Eller hvis Langhoff siger "Ja", kunde du
+               jo gemme dem til en Gang senere.</p>
+            <p>Gaa ialfald op til Bjerring og sig ham, om du kan. Han venter dig. <hi rend="italics">Tal ikke til
+                  ham om Langhoff</hi> – saa endte det med, jeg slet intet fik.</p>
+            <p>Tilgiv dette Sjadsk, men jeg lider uhyre af Ansigtsmerter og Tungsind. Forhaands
+               Tak.</p>
+            <p rend="right">Din H.B.</p>
+            <p>Bj. vilde have Sagen ordnet saa snart som muligt.</p>
+            <p>Brug overfor Bj. ingen overflødige eller udenoms Ord.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18840914001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+                                    blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevets første side har Neergaard skrevet: <hi rend="italics">B
+                                            16/9</hi>, B for: Besvaret</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1884-09-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1884-09-14">[1884, 14. september] Søndag <note>Brevet
+                        dateres ud fra Bangs angivelse af ugedag samt Neergaards påførte dato for
+                        sin besvarelse. Niels Neergaard (1854-1936) var 1884-1892 redaktør af
+                        tidsskriftet <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Det skrevne af min »Bog«, kære Hr. Neergaard, tilfredsstiller mig selv saa lidt.
+                    Men den <hi rend="italics">25</hi> bestemt skal De faa en Novelle: Maria Pitoya som er c: 1
+                    Ark stor<note>En trykt novelle af Bang kan ud fra denne titel ikke
+                        identificeres. ‒ Et ark er en betegnelse for 16 trykte sider, i dette
+                        tilfælde i Neergaards tidsskrift</note>.</p>
+            <p>Sig mig, vilde det ikke være praktisk at faa hos det kongelige Theaters
+                        Chef<note>Edvard Fallesen (1817-1894), officer og politiker; fra 1876
+                        direktør for Det Kongelige Teater i København</note> en Anmelderbillet for
+                        »Tilskueren«<note>Et dansk litterært månedsskrift 1884-1939; Niels Neergaard
+                        var 1884-1892 dets første redaktør</note> ‒ den faaes strax ‒ og saa f.Ex.
+                    hveranden Maaned skrive en Theaterkronik (et Par Sider Petit<note>Dvs. et par
+                        sider trykt med små typer</note>)?</p>
+            <p>Jeg spørger kun og ikke af Paatrængenhed, ti det behøvede slet ikke at være mig,
+                    som skrev Kroniken.</p>
+            <p rend="right">Tout à vous<note>fr.: Deres hengivne</note>
+            </p>
+            <p rend="right">H. de B.</p>
+            <p>Studiestræde 4.</p>
+            <p>Tak for Deres Brev og Heftet<note>Formentlig det nyudkomne Septembernummer af
+                            <hi rend="italics">Tilskueren</hi>, der rummer Bangs artikel om den franske
+                        skuespillerinde »Judics Forestillinger«, se Bangs brev til Neergaard,
+                        19.8.1884</note>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

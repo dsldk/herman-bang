@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19030211001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">empty</placeName>
+               <date when="1905-02-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-02-11"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1903. 11. februar,  Onsdag<note>Brevet er rimeligvis skrevet
+                  på Bangs lille turné januar-februar; opholdssted denne dag er ukendt</note>
+            </date>
+            <placeName cert="low">empty</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag: 11/2. 03.</p>
+            <p>Kære Nansen.</p>
+            <p>Ja, ogsaa jeg vilde ønske, at <persName key="Larsen_Karl">"Karl"</persName>
+               <note>Forfatteren Karl Larsen (1860-1931), jf. note til brevet 19030119</note> nu vilde røre paa sig. Det
+               vilde gøre min Stilling mindre pinlig, at der dog faldt en Afgørelse, og <persName key="Hegel_Jacob">Hegel</persName>
+               <note>Jacob Hegel (1851-1918), fra 1887 eneejer af og direktør for forlaget Gyldendal</note> fik Penge – enten paa den ene Maade eller paa den anden. Nu
+               er det jo helt umuligt. Enden bliver vel, at jeg maa forlade "København"<note>Dvs.
+                  avisen København</note> hvor mit Honorar bogstavelig talt ikke dækker mine
+               Udgifter, medens Velgørenheds-Spektaklet hvori jeg er rodet ind<note>Jf. Breve til
+                  Fritz, s. 219f</note>, daglig skaber mig nye Udgifter. Og saa træt er jeg af at
+               læse her for Intet, at jeg maa sige Nej til Provinserne, hvor man betaler mig, fordi
+               mine Kræfter ikke slaar til. Jeg er Genstand for et Misbrug mod hvilket jeg ikke har
+               Kraft til at værge mig, men som nok kunde faa Taarerne i Øjnene paa et Menneske. Jeg
+               har nu skrevet en Række Artikler til <placeName key="Stockholm">Stockholm</placeName>
+               <note>Ikke oplyst</note>. Men om
+               Betaling er der ikke Tale – hverken hist eller her eller dér.</p>
+            <p>Jeg maa derfor bede Dig om endnu ét Hundrede Kroner for Marts. Himlen ene ved, hvor
+               nødigt jeg gør det. Saa har jeg Intet til Marts. Men jeg skal selv skaffe. Jeg vil
+               ikke komme i et skævt Forhold – ogsaa til Hegel.</p>
+            <p>Dig beder jeg oprigtigt tilgive. Men jeg har ikke brugt Noget hverken til mig selv
+               eller til Andre. Kun betalt Regninger siden Nytaar.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

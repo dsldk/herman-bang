@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18851008001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 385</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1885-10-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1885-10-08">[1885, cirka 8. oktober] Torsdag<note>Øverst på
+                        side 1 et fortrykt monogram HB uden krone. Det kan ikke udelukkes, at der er
+                        tale om en senere torsdag end 8.10.1885..</note>
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>De maa have været meget forbauset ‒ maaske har De været meget vred. Men en
+                    Depeche kaldte mig uopholdelig hjem<note>Dvs. hjem til København fra Berlin,
+                        hvortil Bang var ankommet 23.9.1885; jf. Bangs brev til Emil Jonas
+                        [23.9.1885]</note>; min Veksel solgte jeg med Tab og havde ikke mere, end
+                    jeg akkurat kunde komme hjem.</p>
+            <p>Alle disse Dage har jeg flakket om.</p>
+            <p>Naar faar jeg »Fædra« at læse<note>Antagelig spørger Bang efter Emil Jonas' tyske
+                        oversættelse af Ellen Urne, den dramatiserede version af romanen
+                        Fædra</note>.</p>
+            <p>Mine Noveller og de 30 Mark sender jeg en af Dagene.</p>
+            <p>Mange Hilsener fra</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

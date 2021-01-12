@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860700002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-07-01">[1886. juli] Mandag<note>Ifølge ordlyden er
+                        brevet skrevet kort før Bangs flytning fra Wien til Prag, dvs. før
+                        28.7.1886</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Jules.</p>
+            <p>Jeg vilde allerede have skrevet igaar ‒ men havde ingen Penge til Frimærker.</p>
+            <p>Til Andreasens Brev har jeg at bemærke:</p>
+            <p>Jeg mener at de 425 Kroner, som han fik af dig i Efteraaret maa afskrives
+                    Beløbet, som da er <app>
+                  <lem>2615</lem>
+                  <rdg>Tallet har Bang rettet fra (vistnok) 2600</rdg>
+               </app> Kroner. Denne Gæld anerkender vi, og da jeg vil til det yderste føie
+                    Manden, naar han er rimelig ‒ giver jeg af denne Sum (2615 Kr.) 5 p:C.
+                    Rente.</p>
+            <p>Hvad Kvitteringerne til Bierring angaar ‒ da forholder Sagen sig saaledes. Jeg
+                    udstedte hver Maaned (i flere Aar, men mange af Anvisningerne er tilintetgjort)
+                    en Anvisning stor 100-150 Kroner ‒ <hi rend="italics">at</hi> hæve, <hi rend="italics">hvis</hi> jeg
+                    ikke til bestemt Tid <hi rend="italics">selv</hi> havde betalt. Jeg betalte
+                        <hi rend="italics">altid</hi>, og Anvisningerne (som lyder 1 Decb; 1 Januar <app>
+                  <lem>o:s:v:</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> at hæve) er ifølge <hi rend="italics">Datum</hi> allerede værdiløse, men deres
+                    Tilstedeværelse betyder ikke at <hi rend="italics">jeg</hi>, men <hi rend="italics">Andreasen</hi> har
+                    faaet Pengene (som jeg altid bragte den første omtrent Kl. 2.)</p>
+            <p>De hundrede Kroner var Afdrag og Renter.</p>
+            <p>Hvad nu Midler til at betale anbelanger, da formener jeg, at Andreasen første
+                    Sept: for »I Krogene« kan modtage 300 Kroner foruden et halv Aars Rente altsaa
+                    75 ‒ i det hele 375 Kroner. Bogen bliver ialfald 22 Ark ‒ hvilket giver en
+                    samlet Sum af 1770. Deraf Schou 300 (<hi rend="italics">mer</hi> skal du ikke lade ham
+                    beholde; hvor stor er <hi rend="italics">nu</hi> Gælden?) Andreasen 370. Der vil da ved
+                    Afregningen maaske blive saa stor Rest til mig ‒ foruden det jeg modtager pr:
+                    Ark (<hi rend="italics">nu</hi> for de siste 10 Ark: 40 til mig; 20 lagt hen til Andreasen,
+                    ti til Schou) ‒ at jeg kan faa fjorten Dages Ferie, før jeg tager fat paa
+                    »Bernhard Hoff«. Denne Bog, hvis pekuniære Betingelser jo endnu ikke er afgjort,
+                    paabegynder jeg midt i August.</p>
+            <p>Den vil mindst blive 30 Ark. Heraf Schou ti; Andreasen <hi rend="italics">tyve</hi>.
+                    Saaledes vil han første Februar paany faa <hi rend="italics">300 Kroner</hi> og Gælden er
+                    da 2000.</p>
+            <p>Er dette fornuftigt?</p>
+            <p>Det har kostet mig græsseligt at regne det ud.</p>
+            <p>Men, min egen Ven, for at naa alt dette, er ét nødvendigt. Vis mig den
+                    Vennetjeneste 1) at sørge for, at i disse Uger mine Penge fra Schou sendes
+                        <hi rend="italics">strax</hi>. Ti jeg maa herfra. Og for at naa dette maa man regne med
+                    Dage. Koleraen nærmer sig nu. Den er i Graz. Du ved, jeg frygter ikke Døden. Men
+                    en lang fortvivlet <hi rend="italics">Sygdom</hi> ‒ hvem skulde betale den?</p>
+            <p>Jeg afsender <hi rend="italics">Torsdag</hi> tre Ark. Det er 120 Kroner ↄ: 80 Gylden. Du har
+                    Manuskriptet <hi rend="italics">Lørdag</hi>. Kunde da Pengene afsendes <hi rend="italics">samme</hi>
+                    Dag, vilde jeg have dem Tirsdag Morgen. Om nu til disse 80 nogen sammenskrabet
+                    Mønt fra »Illustreret« ‒ for »Steindl [og-tegn] Søn« ‒ og »Stjernen« (de to
+                    siste Trediedele af »Kolleger« er god) kom til blev det 100-110 (helst 110!) og
+                    jeg kunde <hi rend="italics">da maaske samme Dag reise til Prag</hi>, hvorhen da Pengene
+                    for Manuskriptet fra de siste Dage her (fra Torsdag mener jeg) kunde sendes.</p>
+            <p>
+               <hi rend="italics">Jeg</hi>skal skrive og skrive. Men gør du mig saa den Tjeneste: at
+                    expedere Pengene strax. Dernæst tag i »Stjernen« et Billede af »Boulanger«. En
+                    smuk Dag sætter denne Charlatan Ild paa Europa. Tror du ikke, at en
+                    »Illustrationsrække«: »Fra Verdensstæderne« baade var god for Læserne og billig
+                    at skaffe. Tekst <hi rend="italics">behøvedes</hi> jo ingen. Eller »Fra de store Byer« løb
+                    ved Siden af. For din »Aarsrevy« maa du iaar for at holde fast paa Interessen
+                    finde noget nyt. Jeg vilde raade dig: som ifjor; <hi rend="italics">Men</hi> seks-otte
+                    Artikler <hi rend="italics">til</hi> ‒ objektivt dømmende de store Ting i Aaret; samlende
+                    de største Momenter i let Form:</p>
+            <p>f:Ex I Pasteur af en Kemiker og Læge; II: Ludvig II; III Tyskland tilsøs
+                    (Kanalen, Australsk Dampskib o:s:v:). Det vilde interessere, fordi det vilde
+                    vise Aarets store Begivenheder og Fremskridt under <hi rend="italics">et</hi> ‒ ‒ naar de
+                    allerede var halvt glemt. Tror du ikke?</p>
+            <p rend="right">Din Herman ‒ som hilser alle.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

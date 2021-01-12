@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050409003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 869</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Helsinge, Nordsjælland</placeName>
+               <date when="1905-04-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Inger Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-04-09">[1905, 9. april] Søndag <note>Brevet er skrevet
+                        på Bangs oplæsningsturné januar-april 1905 rundt i landet</note>
+            </date>
+            <placeName cert="high">Helsinge, Nordsjælland</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Helsinge. Søndag.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg vilde bede Dem gøre mig en stor Tjeneste. Min Nièce Bertha Holst<note>Bertha
+                        Holst (1881-1929), lærerinde, forfatter (debut 1908) af børnebøger og især
+                        ungpigebøger; adoptivdatter af A.P. og Nini Holst og dermed Herman Bangs
+                        nièce. Hun blev indlagt i 1905 på tuberkulosesanatorium i Silkeborg</note>
+                    har faaet Tuberkulose. Efter Efterretningerne, jeg har faaet, tror jeg slet
+                    ikke, der er noget Haab. Dette sidste Slag har været lige ved at slaa mig ned ‒
+                    jeg holder saa uendelig meget af hende.</p>
+            <p>Nu vilde jeg gerne bede Dem gaa ud til Vildthandler Møller ‒ ham i Kjælderen paa
+                    Hjørnet af Bredgade og Skt. Annaplads ‒ og sé, om han har nogle blaa Druer. Og
+                    saa over til Salomonsen og købe to Glas henkogte Ferskener. Salomonsen kender
+                    det Mærke, som jeg plejer at faa. Vil De saa sende Druerne og Frugterne til:
+                    »Frøken Bertha Holst. Den gamle Skovriderbolig. Silkeborg.« Saasnart jeg kommer
+                    til Byen, skal jeg sende Tjeneren ud til Dem med Pengene.</p>
+            <p>Tilgiv, jeg ikke skriver mere. Men jeg er meget træt og nedtrykt.</p>
+            <p>Mange Hilsener til Deres Mand<note>Overretssagfører Oluf Heise (1862-1935), der
+                        fra ca. 1900 var Bangs advokat; gift 1893 med Inger Heise (1864-1932), født
+                        Groot</note> og Dem ‒</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19090529001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 36</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1909-05-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1909-05-29"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1909. 29. maj [lørdag]<note>Fra engang i begyndelsen af
+                  juli 1909 var Bang atter bosat i Danmark</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">29.5. 1909.</p>
+            <p>Tak, min Ven, for Deres Brev – saa lidet trøsteligt det ogsaa var. Du gode Gud, hvad
+               maa De have lidt ... Nej, jeg kommer først til Danmark de allersidste Dage af Juni.
+               Og er her den ottende og vilde uendeligt gerne sé Dem<note>Bang skriver i et brev til vennen
+                     <persName key="Melnik_Josef">Josef Melnik</persName>, dateret Berlin 13.6.1909
+                  (Det Kongelige Bibliotek, NKS 2353, fol.): "[...] Frau Nansen war hier – elend und
+                  gealtert. Sie sah scheusslich aus und ging – nach <placeName key="Venedig">Venedig</placeName> [...]" (ty.: Fru Nansen var her – ynkelig og ældet. Hun så
+                  rædsom ud og var på vej – til Venedig)</note> .... Ja "Brødrene"<note>Uvist hvem
+                  Bang sigter til</note>. De kan tro, at jeg har tænkt derpaa. Hvor grusomt et
+                  <hi rend="italics">Net</hi> er dog Livet. Og vi beholder Fødderne i dets Masker overalt og
+               til den Dag, da vi døer .... I Livet ophører intet: Følgerne bliver ... som Masker i
+               Nettet.</p>
+            <p>Saa venter jeg Dem og venter med <hi rend="italics">alle</hi> Spørgsmaal. Telegrafér, hvor De
+               boer. De spiser her, i dyb Ro. Hvem mon der skal ledsage Dem. Ti rejse alene
+                  <hi rend="italics">kan</hi> De da ikke.</p>
+            <p>Paa Gensyn.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

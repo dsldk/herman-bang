@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19110726004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 590</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="postkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Postkort; billedsiden viser et fotografi af et
+                                                damplokomotiv, der pløjer sig gennem høje snemasser,
+                                                og med den trykte tekst: <hi rend="italics">Bergensbanen. Den
+                                                  roterende Sneplog i Arbeide paa Myrdal St.</hi>.
+                                                Bangs tekst på postkortet er skrevet med blyant, og
+                                                kortet er uden frankering; poststemplet [Kristiania]
+                                                27.VII.11.8F; med postvæsenets stempel »T« og
+                                                strafporto »20 [øre]« påskrevet. Adressefeltet
+                                                udfyldt i Bangs håndskrift, ligeledes med blyant:
+                                                  <hi rend="italics">Ossip Melnik. / Berlin. W. / Motzstrasse
+                                                  52</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Jernbanen mellem Bergen og Kristiania, Norge</placeName>
+               <date when="1911-07-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-07-26">[1911, 26. juli, onsdag] <note>Dette udaterede
+                        postkort skal have samme datering som de andre postkort, der kendes fra
+                        Bangs rejse med Bergensbanen i juli 1911; alle er skrevet med blyant, og i
+                        alle kendte tilfælde har Bang glemt at frankere postkortene, før han lagde
+                        dem i postkassen i Kristiania. Poststemplet fortæller, at disse kort er
+                        blevet postbehandlet kl. 8 om morgenen den følgende dag, 27.7.1911</note>
+            </date>
+            <placeName cert="high">Jernbanen mellem Bergen og Kristiania, Norge</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Mit der Bergensbahn ‒</p>
+            <p>
+               <hi rend="italics">Das</hi> müssen Sie mal sehen</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

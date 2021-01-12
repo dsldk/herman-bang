@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990330001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær. Sidste linje og underskrift er egenhændigt
+                                            skrevet</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Nederst på brevets første side har en fremmed hånd (hverken
+                                        Bang eller hans sekretær) skrevet: »n'y«</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1899-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-03-30">[1899, 30. marts] Torsdag<note>Brevet kan
+                        dateres til torsdagen efter premieren 25.3.1899 på Bangs iscenesættelse af
+                        Bjørnstjerne Bjørnsons skuespil Over Evne</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hotel Hâfnia, Vestervold.</p>
+            <p rend="right">Torsdag.</p>
+            <p>Kære Dr. Brandes ‒</p>
+            <p>Skønt jeg endnu ikke kan skrive selv<note>Bang havde siden januar 1899 lidt af en
+                        kloralforgiftning</note>, vil jeg dog ikke længer opsætte at takke Dem for
+                    al den Støtte, De har skænket »Over Evne«<note>Bjørnstjerne Bjørnsons skuespil
+                        Over Evne, som i Bangs iscenesættelse havde premiere på Folketeatret lørdag
+                        25.3.1899. Edvard Brandes anmeldte opførelsen i Politiken,
+                    26.3.1899</note>.</p>
+            <p>Tro mig, denne Tak er helt oprigtig. For Deres Forstaaelse kan jeg jo ikke
+                        <hi rend="italics">takke</hi> Dem, men den har glædet mig meget.</p>
+            <p>Jeg synes selv, at i første Akt af »Over Evne« var noget <hi rend="italics">udrettet</hi>,
+                    og det er jo altid godt. Men uden Dem vilde Publikum næppe have set det
+                    udrettet, og derfor maa vi alle være Dem meget taknemmelige.</p>
+            <p>Med de hjærteligste Hilsener</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

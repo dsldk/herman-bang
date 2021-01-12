@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861022002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 119</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LVIII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-10-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 22. oktober,  fredag] <note>Vandreaar placerer dette
+                  brev umiddelbart efter 22.10.1886. Det kan meget vel være skrevet senere denne
+                  dag</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Kære Peter.</p>
+            <p>Bliv ikke vred over, at jeg endnu en Gang indskærper dig, at mit Navn aldrig sættes
+               under Politik. En for os alle penibel udvisning kan være den umiddelbare Følge.</p>
+            <p>Denne Artikel<note>Måske artiklen "Koleraen", trykt i Politiken, 25.10.1886</note>
+               vil – tagen strax – gøre Europa-Runde!!!</p>
+            <p>Jeg modtog idag fra <persName key="Bojesen_Ernst">Forlæggeren</persName>
+               <note>Ernst Bojesen (1849-1925), fra oktober 1886 udgiver af tidsskriftet Norden</note> et Hefte af – – Norden<note>Norden. Illustreret
+                  skandinavisk Revue, 1.årg., 1.hæfte, afbilder på en dobbeltside en stor skål,
+                  fyldt med visitkort med kendte nordiske forfatteres og kunstneres læselige navne;
+                  Herman Bangs navn er ikke iblandt dem</note>. Mon den Mand har skammet sig et
+               Sekund, da han sendte mig dette Hefte?</p>
+            <p>Naar du en Gang skriver min Historie, da glem ikke at fortælle, at jeg, som har
+               samlet Sverig sammen med os andre efter første fattig Evne; som i "Nationaltidende"
+               førte <hi rend="italics">de</hi> Unge Svenske ind i Danmark, som knap kunde finde Forlag i
+                  Sverig<note>I 1883 var det lykkedes Bang at få Nationaltidendes ledelse med på
+                  ideen om et ugentligt avistillæg, Literaturtidende, der bragtes første gang
+                  torsdag 25.10.1883. Selv havde Bang omhyggeligt forberedt, at dette nummer
+                  indeholdt teksten "<!--start title reference--><title key="Det_Gamle_og_det_Nye">Det Gamle og det Nye</title>
+                  <!--end title reference-->"
+                  af den svenske forfatter <persName key="Strindberg_August">August Strindberg</persName> (1849-1912) (oprindelig
+                  trykt i bogform 1877) samt det første af fire afsnit af <persName key="Geijerstam_Gustaf_af">Gustaf af Geijerstam</persName>s introducerende
+                  essay "August Strindberg" (offentliggjort tidligere i 1883 i Sverige). "Det unge
+                  Sverig" var overskriften over denne føljeton, som fortsattes de følgende tre
+                  torsdage og indledtes af en usigneret, kort programtekst: Den danske læseverden
+                  kendte for lidt til svensk litteratur, og redaktionens hensigt var at introducere
+                  "de bedste indenfor den Kreds, som førende 'det unge Sveriges' Banner pludselig
+                  synes at ville give Sverigs Literatur nyt Liv". Under samme overskrift fulgte
+                  22.11.1883 en introduktion til Gustaf af Geijerstams forfatterskab, skrevet af
+                     <persName key="Levertin_Oscar">Oscar Levertin</persName>, 6.12.1883
+                  prosateksten "<!--start title reference--><title key="Foraar">Foraar</title>
+                  <!--end title reference-->" af Levertin selv, og i den
+                  følgende tid tekster om og af andre unge svenske forfattere. Emnekreds og toneleje
+                  i flere af disse vakte udbredt harme blandt Nationaltidendes
+                  borgerligt-konservative læsere. Se også Harry Jacobsen: Herman Bang.
+                  Resignationens Digter, s. 59</note>; som har bereist det <hi rend="italics">hele</hi> Norden
+               og – skrevet Indbydelserne til et Foretagende, Bojesen aldrig har nægtet var min Idé
+               – – at jeg ikke turde findes paa den berømte "Skaal", hvor saa betydelige, for
+               nordisk Aandsliv <hi rend="italics">saa</hi> afgørende Navne findes, at Gud <hi rend="italics">maaske</hi>
+               kender <app>
+                  <lem>dem</lem>
+                  <rdg>Ordet er tilføjet over linjen.</rdg>
+               </app>, jeg ikke. Idag har jeg tænkt en Smule paa alt dette. Imorgen har jeg begravet
+               det. Men til <hi rend="italics">Schorer</hi>
+               <note>Schorers Familienblatt, Berlin</note> kan jeg
+               dog – som lovet – ikke godt sende det Hefte. Han vilde dog faa et falsk Begreb om,
+               hvad <hi rend="italics">min</hi> Ungdom har betydet i Danmark og Norden.</p>
+            <p>Enfin – mon cher<note>fr.: Kort sagt – min kære</note> – man vil ikke
+                  <hi rend="italics">saa</hi> let slette ud af Literaturhistorien: Haabløse<note><!--start title reference-->
+                  <title key="Haabløse___________________Slægter">Haabløse Slægter</title>
+                  <!--end title reference-->, roman,
+                  1880</note> – <!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->
+               <note>Fædra, roman, 1883</note> –
+               Ved Veien<note>"<!--start title reference--><title key="Ved_Vejen">Ved Vejen</title>
+                  <!--end title reference-->", novelle i <!--start title reference--><title key="Stille_Eksistenser">Stille Eksistenser</title>
+                  <!--end title reference-->, 1886</note> – som man har
+               arrangeret mig ud af dette "Salatfad". Og hvad har <hi rend="italics">jeg</hi> vel at sige, naar
+               Strindberg ikke er der. Gode Gud – en saadan Feighed – – en saadan Dumhed.</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

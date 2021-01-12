@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19071201001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 445</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 1. december [søndag]<note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">1.12.1907.</p>
+            <p>Min kære Ven.</p>
+            <p>Jeg vil kun sige dig, at jeg nu har opfyldt mit Løfte og talt meget indgaaende og
+                        meget indtrængende med <persName key="Fischer_Samuel">Fischer</persName>
+               <note>Den tyske forlægger Samuel Fischer (1859-1934), indehaver af S. Fischer Verlag, Berlin</note> om <persName key="Lie_Jonas">Jonas Lie</persName>
+               <note>Den norske forfatter og dramatiker Jonas Lie (1833-1908)</note>.</p>
+            <p>En af min første Oplæsnings Følger var, at Fischer og <persName key="Fischer_Hedwig">Frue</persName>
+               <note>Hedwig Fischer (1871-1952), født Landshoff, gift 1893 med forlæggeren Samuel Fischer</note>
+                        idag afhentede mig i deres nye og pragtfulde Bil til en lang Tur. Mens vi
+                        saa spadserede i Skoven, talte jeg om Jonas Lie og jeg tror, at <hi rend="italics">det nu
+                                bliver til Alvor</hi>.</p>
+            <p>Manden – Fischer – var idag i sit bedste Lune. Oplæsningen havde overbevist ham
+                        om, sagde han, at der burde "organiseres" en regelbunden Oplæsningsturnée
+                        gennem Tyskland. Turnéen skal i Januar lndledes med Udsendelsen af
+                        "<!--start title reference--><title key="Ludvigsbakke">Ludvigsbakke</title>
+               <!--end title reference-->" og en ny Udgave af "<!--start title reference--><title key="Ved_Vejen">Ved Vejen</title>
+               <!--end title reference-->"<note>Jf. note til brevet
+                           19070708</note>. I Marts udsendes "<!--start title reference--><title key="Sælsomme_Fortællinger">Sælsomme Fortællinger</title>
+               <!--end title reference-->"<note>De
+                                udkom først i 1911 i et bind suppleret med andre af Bangs
+                                fortællinger: <!--start title reference--><title key="Seltsame_und_andere_Geschichten">Seltsame und andere Geschichten</title>
+                  <!--end title reference-->, S. Fischer Verlag,
+                                Berlin</note>. (Fra Rusland har det Forlag, som ledes af <persName key="Gorkij_Maksim">Maxim Gorki</persName>
+               <note>Den russiske forfatter Maksim Gorkij (1868-1936) ledede i årene
+                  1902-12 det systemkritiske forlag Znanie, grundlagt 1898 i <placeName key="Sankt_Petersborg">Sankt
+                     Petersborg</placeName>; fra 1906 boede han i politisk eksil på den italienske ø
+                  <placeName key="Capri">Capri</placeName>
+               </note>, indledet Underhandlinger om Udgivelsen af alle mine
+                        Romaner – efter personlig Ordre fra Gorki paa Capri.). <hi rend="italics">Desuden vil
+                                Fischer udsende "Tekstbøger" til mine Oplæsninger</hi> –</p>
+            <p>– – Naa, alt det er lidet interessant. Mere interessant var det, at Skuespillerne
+                        fra "Deutsches Theater", strax efter Oplæsningen, hæsblæsende styrtede hjem
+                        til Teatret og skreg op: Han er saa stor som <persName key="Kainz_Josef">Kainz</persName>
+               <note>Josef Kainz (1858-1910), østrigsk skuespiller, 1877-80 tilknyttet Hoftheater i Meiningen, derefter i München, 1883-99 i Berlin, derefter ved Burgtheater i Wien</note> .... Dette, som Fischer
+                        ogsaa havde hørt (af Direktøren) havde øjensynlig "grebet" Manden stærkt.
+                        Jeg er saa træt – –</p>
+            <p>Tusind Hilsener til <persName key="Nansen_Betty">Betty</persName>
+               <note>Betty
+                                Nansen</note>.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19020800003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4685, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Rungstedgaard</placeName>
+               <date when="1902-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1902-08-01">[1902, august] Mandag <note>Bang opholdt sig i
+                        anden del af august 1902 dels i sommerpensionatet Rungstedgaard, dels i
+                        Vedbæk Hotel</note>
+            </date>
+            <placeName cert="high">Rungstedgaard</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Rungstedgaard. Mandag.</p>
+            <p>Min Ven.</p>
+            <p>Jeg er sygere end nogensinde. Jeg opgiver det vist snart. Dette Brev fik jeg fra
+                        Boesen<note>Fritz Boesen (1877-1931), skuespiller ved Folketeatret
+                        1898-1900, i Norge 1903-04 med eget selskab, fik ca. 1905 egen
+                        teaterbevilling for danske stationsbyer. Om Herman Bangs ugengældte
+                        kærlighed til ham, se: Breve til Fritz, 1951</note>. Han har ikke én Øre.
+                    Jeg ejer kun 70 Øre<note>Fra Rungstedgaard har Bang i august 1902 sendt 30
+                        kroner og 25 kroner til Fritz Boesen, se Breve til Fritz, 1951, s.
+                        211</note>. Faa paa »København«<note>Dvs. redaktionen af avisen København,
+                        hvortil både Bang og Houmark på denne tid var knyttet som
+                        medarbejdere</note> tyve Kroner og afsend dem <hi rend="italics">strax</hi> i rek:
+                        Brev<note>Rekommanderet brev; et sådant brev blev ved afsendelsen indskrevet
+                        hos postvæsenet (til en væsentlig højere posttakst), og ved udleveringen
+                        skulle modtageren kvittere i postvæsenets bog. Det var den eneste lovlige
+                        måde at sende værdifulde papirer, fx kontante pengesedler, på</note>, uden
+                    Ord.</p>
+            <p>Gør mig denne Venskabstjeneste. Maaske er det den sidste.</p>
+            <p rend="right">Herman B.</p>
+            <p>Telegrafér mig, naar det er sket.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

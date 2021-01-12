@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19011009001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 977</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side. Brevet er sekundært blevet indsat i et
+                                                blåt omslag; et avistrykt foto af Bang er indvendigt
+                                                indklæbet over for brevet, og uden på omslaget er
+                                                påklæbet Herman Bangs trykte navn, klippet ud af en
+                                                avis eller lignende. Indsætningen i dette blå omslag
+                                                er formentlig udført af en privat ejer, der har
+                                                erhvervet brevet efter Oluf Heise</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1901-10-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1901-10-09">[1901, 9. oktober] Onsdag <note>Bang opholdt sig
+                        september-november 1901 i Aalborg og var i oktober patient ved dr. Torrilds
+                        nerveklinik i byen</note>
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Aalborg. Onsdag.</p>
+            <p rend="right">Missionshotellet.</p>
+            <p>Kære Hr. Heise.</p>
+            <p>Hermed Manuskript<note>Bang skrev i disse dage en tredje og sidste del af sin bog
+                        Det graa Hus, der udkom 26.11.1901 hos Det Schubotheske Forlag; han sendte
+                        successivt sit manuskript til forlaget via sin advokat Oluf Heise</note>.
+                    Jeg kunde ikke skrive igaar, da jeg laa til Sengs. Men nu er jeg ogsaa meget
+                    snart færdig.</p>
+            <p>Nu gælder det blot, om Forlaget er ligesaa ordholdende som jeg.</p>
+            <p>Altid med Tak</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang</p>
+         </div>
+      </body>
+   </text>
+</TEI>

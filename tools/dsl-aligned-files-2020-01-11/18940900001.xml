@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18940900001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 188</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1894-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1894-09-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1894.  september.]<note>Bangs håndskrift peger i retning af en datering cirka
+                  1892-95. Brevet er næppe sendt fra Paris. Hvis København, kunne det være fra
+                  august-oktober 1894. Jf. min hypotetiske identifikation af Wittrup</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Peter.</p>
+            <p>Tænk dig – <persName key="Wittrup">Wittrup</persName>
+               <note>Ikke identificeret. Kan måske dreje sig om cand.phil. V.J.F.F. Wittrup, som i
+                  Vejviseren for 1890 er opført med Linnésgade 28 som bopæl. Han er med i Vejviseren
+                  sidste gang 1894, hvor han bor Lipkesgade 19, 3.sal. Det kunne være et
+                  indicium for, at han måske er død i 1894/95. Ifølge Københavns Universitets årbog havde
+                  V.J.F.F. Wittrup bestået sin filosoficum-eksamen 2.6.1880 og dermed fået titel af
+                  cand.phil</note>s Lunger er angrebne <hi rend="italics">begge</hi>. Der er næppe noget
+               Haab.</p>
+            <p>Kan du huske den første Aften vi tre var sammen paa Nørregade<note>Fra midten af
+                  april 1883 til sommeren 1884 delte Herman Bang og Peter Nansen en lejlighed på
+                  Nørregade 45, 1.sal</note>. Du kom, tror jeg, hjem fra Selskab, og du sagde, da
+               han var gaaet, at han havde et "tragisk" Blik.</p>
+            <p>Den ulykkelige. Hans Liv havde vist med Smerte betalt Indsatsen – og nu kommer han
+               ikke til at spille Spillet.</p>
+            <p>Sig mig, om Hensigtsløsheden ikke undertiden kan oprøre.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

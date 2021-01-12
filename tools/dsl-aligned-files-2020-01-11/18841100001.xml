@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18841100001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 80</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1884-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1884-11-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884.  november, cirka]<note>Brevet skal sandsynligvis
+                  dateres til Peter Nansens første tid ved dagbladet Politiken, der blev grundlagt
+                  1.10.1884. Først i maj 1885 blev Bang bidragyder til Politiken, – deraf vel
+                  advarslen mod at røbe hans håndskrift på Politikens redaktion. Den svenske
+                  basbaryton Algot Lange var engageret ved Det Kongelige Teater fra 2.9.1884 (Don
+                  Juan) og blev fast ansat dér 1.7.1885</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Min kære Peter.</p>
+            <p>Jeg gik op i "Athenæum"<note>Et københavnsk læseselskab, dvs. en forening, hvis
+                  medlemmer havde adgang til en omfattende samling af bøger, tidsskrifter og
+                  dagblade. Fra 1876 havde Athenæum til huse i den samme ejendom Hotel Royal som
+                  Nationaltidendes redaktion, Ved Stranden 18, 2.sal</note> for at finde noget til
+               dig; fandt dette mindre kendte og oversatte det, siden du har saa meget andet at
+               gøre.</p>
+            <p>Jeg tror, at denne Rubrik-Titel er god. Men tag ialfald ikke Ordet
+                  "Tema"<note>Antagelig mener Bang, at ordet "Tema" for nemt kunne vække Edvard
+                  Brandes' mistanke om, at Bang var ideens skjulte ophavsmand</note>. Maaske bedst:
+               "Dagens Emne". Det lyder: "Naa – hvad er saa Dagens Emne?"</p>
+            <p>Det er faldet mig ind, at Sangeren <persName key="Lange_Algot">Lange</persName>
+               <note>Algot Lange (1850-1904), svensk operasanger, 1884-95 ansat ved Det Kongelige Teater, København</note> er en dannet Mand. Han vil paa Søndag og Mandag være en af
+               "Nuets Folk". Lad ham skrive en Spalte (Indtryk, hvadsomhelst). Journalistik er
+               Aktualitet.</p>
+            <p rend="right">Din Herman.</p>
+            <p>Hvis du vil saaledes, kommer du og faar en "Clarétie"<note>Uklart hvad Bang mener. Den franske forfatter
+                     <persName key="Clarétie_Jules">Jules Clarétie</persName> (1840-1913) var en beundret
+                  journalist og causeur i samtidens Paris. Måske Bang benytter hans navn som
+                  synonym for et stykke petitstof til avisen</note> hos mig.</p>
+            <p>For Guds Skyld vær forsigtig med min Skrift, at ikke <persName key="Esmann_Gustav">Es</persName>
+               <note>Den fælles ven Gustav Esmann (1860-1904), der var redaktionssekretær ved Politiken oktober-december 1884 og derefter
+                  tilknyttet som journalist</note> eller <persName key="Brandes_Edvard">E.B</persName>
+               <note>Edvard Brandes (1847-1931), medstifter og redaktør af Politiken, oktober 1884</note> ser
+               den.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18880918001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+                                    blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Taarbæk, nord for København</placeName>
+               <date when="1888-09-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1888-09-18">1888, 18. September [tirsdag] <note>Skal
+                        formentlig dateres i sammenhæng med Bangs brev til Niels Neergaard, Taarbæk,
+                        Fredag [måske 14.9.1888]. ‒ Niels Neergaard (1854-1936) var 1884-1892
+                        redaktør af tidsskriftet <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">Taarbæk, nord for København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Taarbæk Hotel. 18.9.88.</p>
+            <p>Kære Neergaard.</p>
+            <p>De vil sandsynligvis have modtaget et Brev<note>Formodentlig dateret Taarbæk,
+                        Fredag [ca. 14.9.1888]</note>, der har undret Dem meget: om at sende
+                    »Honoraret for min Artikel« <hi rend="italics">der</hi> og <hi rend="italics">der</hi> hen. Tingen
+                    var, at jeg ved min Afrejse til Jylland<note>Uoplyst hvilken rejse, Bang
+                        hentyder til ...</note> haabede at faa <hi rend="italics">Fortsættelsen</hi> færdig til
+                    en bestemt Dag og derfor gav et Menneske et Brev at afsende til den Tid.</p>
+            <p>Hvis man nu skulde henvende sig til Dem, gør mig da den Tjeneste at svare, at De
+                    vidste Besked, og at De skulde udfærdige Anvisningen og sende den, saasnart De
+                    havde modtaget <app>
+                  <lem>Mnskptet</lem>
+                  <rdg>Bangs forkortelse for: Manuskriptet</rdg>
+               </app>, som jeg nu daglig skriver paa.</p>
+            <p>Hils Deres Frue<note>Dagmar Neergaard (1860-1955), født Lind, gift 1883 med Niels
+                        Neergaard og skilt ca. 12 år senere; derefter gift Lemming</note>, som nu
+                    forhaabenlig er rask igen. Lev begge vel.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

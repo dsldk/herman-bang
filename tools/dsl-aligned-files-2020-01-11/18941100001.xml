@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18941100001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 186</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Sandviken, Norge</placeName>
+               <date when="1894-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1894-11-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1894.  november], Lørdag<note>Bang opholdt sig i Norge fra oktober 1894 til oktober 1895. En nærmere
+               datering er næppe mulig. – Vedr. Betty Müller og Ellen Hørup i <placeName key="Paris">Paris</placeName>, jf. brevet
+                1894.  maj.  (Bang forlod Paris i august 1894)</note>
+            </date>
+            <placeName cert="high">Sandviken, Norge</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sandviken. Lørdag.</p>
+            <p>Kære Nansen.</p>
+            <p>Der kommer om nogle Dage en fin Franskmand til dig.</p>
+            <p>Jeg skal sige dig hvorfor. Øjeblikket er vel nu kommet for dig og dine Bøger til
+                        at gaa over den franske Grænse. Og her kan denne Mand gøre mere end de
+                        allerfleste. Han er Revue-Ejer af Liebhaveri ("Revue Blanche"<note>Revue
+                                blanche, fransk tidsskrift for litteratur og billedkunst, grundlagt
+                                1891 af brødrene Alexandre og Thadée Natanson; ophørt 1903</note>,
+                        som er blevet meget fin) og paa Grund af hans mange Penge, Position og
+                        Elskværdighed er hans Hus et helt Centrum for Berømtheder. Jeg har fortalt
+                        ham om dig, dit Talent og <app>
+                  <lem>din</lem>
+                  <rdg>rettet fra: han</rdg>
+               </app> Sukces.</p>
+            <p>Ser du, han kan føre dig lige ind i Paris.</p>
+            <p>Han hedder Mr. <persName key="Natanson_Thadée">Thadée
+                                Nathanson</persName>
+               <note>Thadée Natanson (1868-1951), polsk-fransk advokat, journalist, kunstsamler og udgiver 1889-1903 af tidsskriftet La Revue blanche</note> og har boet her i
+                        Sommer med sin skønne og højst elegante <persName key="Natanson_Misia">Frue</persName>
+               <note>Misia Natanson (1872-1950), født Godebska, russisk kvinde, gift 1893-1904 med Thadée Natanson, 3. gang 1920-27 med José Maria Sert</note>.</p>
+            <p>Han vil gerne holde en Conférence i København. Gør for ham, hvad du kan. Har man
+                        gjort noget for en Pariser, gør han altid rig Gengæld og mer end det.</p>
+            <p>Hils <persName key="Nansen_Betty">Frk: Müller</persName>
+               <note>Betty Müller (1873-1943), fra
+                                1896 Betty Nansen</note>. Jeg haaber, hun husker Konditoren paa
+                        Boulevard des Italiens, hvor hun og <persName key="Hørup_Ellen">Frk.
+                                Hørup</persName>
+               <note>Ellen Hørup (1871-1953), tandlæge, journalist og kvindesagsforkæmper, datter af Viggo Hørup</note> efter en Frokost nød for 7
+                        frcs. 50 Cs. Kager.</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">H.B.</p>
+            <p>
+               <hi rend="italics">vend om.</hi>
+            </p>
+            <p>Da jeg skal lukke Brevet, tænker jeg paa, at jeg kunde bede dig optage disse Par
+                                Linjer<note>Ikke identificeret. I Politiken ses mellem oktober 1894
+                                og oktober 1895 ingen tekst, der med sikkerhed kan tilskrives Herman
+                                Bang</note>. Jeg har virkelig ikke tænkt paa det før. Men du kunde
+                        gøre mig en stor Tjeneste derved.</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19021011001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 233</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-10-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1902-10-11"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1902. 11. oktober. ] Lørdag Morgen<note>Sarah Bernhardts
+                  gæstespil på Folketeatret fra 6.10. til 24. eller 25.10.1902</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag Morgen.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg er saa udaset af Novelle, <persName key="Bernhardt_Sarah">"Sarah"</persName>
+               <note>Den verdensberømte franske skuespillerinde Sarah Bernhardt (1844-1923)</note>,
+               Besøg, Nattevaagen, at idag mit iskolde Bad næsten ikke har hjulpet. Men Sarah
+               Bernhardt har bl.a. lært mig, hvad man <hi rend="italics">skal</hi> holde ud.</p>
+            <p>Du maa tilgive mig, at jeg beder dig om et Forskud for November paa halvtreds Kr. Det
+               skal blive det eneste. Ti paa Tirsdag faar jeg Penge fra Tyskland. Men Pengene er
+               rendt i denne Uge til Eau de Cologne, i hvilken jeg om Aftenen før <app>
+                  <lem>Forestillingen,</lem>
+                  <rdg>Bang har glemt at skrive bisætningens verbum, der måske skulle være: bader
+                     mig</rdg>
+               </app> til Skjorter, til Drosker – oh, lala. Og, hvad der er en
+                  <hi rend="italics">Hemmelighed</hi>: "København"<note>Dvs. avisen København</note> kan jo
+               ikke saadan betale mig. Jeg skrev hele September for – 100 Kr. ... Men du véd, at jeg
+               paa det Punkt ikke kunde handle anderledes. <persName key="Witzansky_Harald">Witz:</persName>
+               <note>Harald Witzansky (1862-1940), forretningsfører ved Politiken, fra 1902 redaktør for avisen København</note> havde jo holdt ud med mig under saa mange
+               Omskiftelser. Og der er Ting, man, for sin egen Skyld, ikke maa glemme. Men da min
+               Afskriver disse Nætter arbejder med mig til Kl. 4 om Morgenen à Kr: 1,50 pr. Time,
+               vil du forstaa Resultatet.</p>
+            <p>Paa Tirsdag faar du et Par Novelletter –</p>
+            <p>Mange Hilsener</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

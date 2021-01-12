@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860600010</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 483</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-06-01">[1886, juni]<note>Bang flyttede i juni 1886 fra
+                        Universitätsstrasse 4, IX Bezirk, til Alsbachstrasse 1 i Hernals, jf.
+                        Torbjörn Nilsson, s.336, note 74</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Adresse:</p>
+            <p rend="right">Alsbachstrasse 1 Mezzanin Thür 5.</p>
+            <p rend="right">
+               <hi rend="italics">Hernals</hi>. <hi rend="italics">Wien</hi>.</p>
+            <p>Kære Raad.</p>
+            <p>Min Forlægger<note>Andreas Schou (1829-1889) ...</note> sender mig disse tre
+                    første Anden Korrekturark af min Bog<note>Stille Eksistenser, der udkom sidst i
+                        oktober 1886 på Andreas Schous forlag i København</note>. Jeg har aldrig
+                    givet Dem denne Historie til Oversættelse. Nu ved at læse og stryge i den har
+                    jeg fundet den at høre til mine virksomste. Frøken Fraas, som holder
+                    »Illustreret Tidende« og »Nordstjernen«, lod mig spørge forleden, om
+                        <hi rend="italics">hun</hi> turde oversætte »min gamle Kammerat«. Jeg svarede:
+                        <hi rend="italics">De</hi> havde oversat den.</p>
+            <p>Hun vilde anbringe den her i et Blad, hvor jeg jo ‒ om De synes ‒ kan henbringe
+                    den. Historien gør stærkt Indtryk.</p>
+            <p>
+               <hi rend="italics">Har</hi> De ingen Penge sendt ‒ da send <hi rend="italics">strax</hi>. Jeg fik her ‒
+                    i en Forstad, i en Fattig-Kaserne ‒ igaar et Værelse, fuldt af Væggelus, uden at
+                    betale. <hi rend="italics">Mine</hi> siste Penge gaar til Frimærke og Papir.</p>
+            <p>Selv 30 Mark vilde være mig en foreløbig Hjælp. Jeg bliver saa <hi rend="italics">her</hi> i
+                    Sommer for at spare.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

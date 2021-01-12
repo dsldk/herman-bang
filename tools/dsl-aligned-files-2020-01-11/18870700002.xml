@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870700002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 508</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-07-01">[1887, ca. juli?] Lørdag<note>Brevet refererer
+                        til planer om den store nordiske udstilling i København i 1888 og til en
+                        ønsket samtale herom med Jonas »i Høsten«</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Lørdag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>En hjertelig Tak.</p>
+            <p>Jeg sender hermed: »En kunstnerisk Væddestrid«. Passede det ikke for
+                    »Westermann«.</p>
+            <p>Faar jeg ved Lejlighed de siste Manuskripter tilbage?</p>
+            <p>Tak, kære Kammerr:, for Deres venlige Indbydelse ‒ men Gud hjælpe os for Rejse,
+                    jeg kunde gøre.</p>
+            <p>Hils Deres Kone<note>Hertha Adele Jonas, født Wadskiær (1807-1894), gift 1848 med
+                        Emil Jonas</note>, og Himlen give dog, at Deres Hænder nu snart maatte blive
+                    bedre.</p>
+            <p>Tale med Dem maa jeg i Høsten om en stor Plan i Anledning af den københavnske
+                        Udstilling<note>Den store nordiske Industri-, Landbrugs- og Kunstudstilling
+                        fandt sted i København 18.5.-2.10.1888</note>.</p>
+            <p>Hils Deres Kone saa mange Gange</p>
+            <p rend="right">fra Deres Ven</p>
+            <p rend="right">H de B.</p>
+            <p>»Kejserinden« stod i Berliner »Illustreret«<note>Formentlig Bangs artikel »Hos
+                        Ruslands Kejserinde i Gatschina«, der på dansk tryktes 1.5.1887 i
+                        tidsskriftet <hi rend="italics">Nutiden i Billeder og Text</hi>; en tysk oversættelse
+                        heraf er indtil videre ikke påvist</note> ‒ har De sét det?</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19010816001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 791</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
+                                                  <hi rend="italics">O. Heise / Overretssagfører. / Nørregade 39,
+                                                  1. / Kontortid 9-2. / Telefon 3966. / Kjøbenhavn,
+                                                  d. ...</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; underskriften har Bang selv skrevet</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Hørsholm</placeName>
+               <date when="1901-08-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1901-08-16">1901, 16. august [fredag] <note>Det må formodes,
+                        at Bangs advokat Oluf Heise enten har tilsendt ham denne erklæring til
+                        underskrift eller selv har aflagt ham et besøg i Hørsholm</note>
+            </date>
+            <placeName cert="high">Hørsholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Da Overretssagfører O. Heise<note>Oluf Heise (1862-1935), der fra ca. 1900 var
+                        Bangs advokat</note> for mig har udlagt et Beløb af 250 Kr, giver jeg ham
+                    herved Transport for et tilsvarende Beløb af tilgodehavende Honorar <app>
+                  <lem>paa »Fest.«</lem>
+                  <rdg>Disse to ord er med Herman Bangs håndskrift tilføjet over linjen</rdg>
+               </app> fra Det Schubotheske Forlag<note>
+                  <hi rend="italics">Fest</hi> var Bangs arbejdstitel
+                        for Ravnene, Gyldendal 1902. I november 1902 overgik Bang kontraktligt til
+                        forlaget Gyldendal </note>.</p>
+            <p>Hørsholm d. 16/8 01.</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

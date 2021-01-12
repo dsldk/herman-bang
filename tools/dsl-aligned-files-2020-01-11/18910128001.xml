@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18910128001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 121.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>SKråt over Bangs datering er med fremmed hånd skrevet:
+                                            <hi rend="italics">Fredensborg / Slutningen af Januar 1891</hi>
+                                        (årstallet er rettet fra: 1890), antagelig af Kr. Dahl. På
+                                        side 2 et blyantsnummer: 21</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Fredensborg]</placeName>
+               <date when="1891-01-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Kristian Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1891-01-28">[1891, 28. januar] Onsdag <note>Den sekundært
+                        påførte datering skyldes formentlig brevmodtageren. Dette dateringsforslag
+                        tages til følge</note>
+            </date>
+            <placeName cert="high">[Fredensborg]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Min kære Dahl.</p>
+            <p>Gaa til baade E.B.<note>Edvard Brandes (1847-1931), redaktør og medstifter 1884
+                        af dagbladet Politiken, tillige forfatter, dramatiker, journalist; bror til
+                        Georg Brandes</note> og G.B.<note>Georg Brandes (1842-1927), dr.phil.,
+                        litteraturkritiker og forfatter; bror til Edvard Brandes</note> I al Fald
+                    til E.B.</p>
+            <p>E.B. sér da, at De har »Magt«, og at De kan vise Tjenester ‒ og han er en Mand,
+                    hvis egen Magt beroer ogsaa paa den store Egenskab, at han
+                        <hi rend="italics">gengælder</hi> Tjenester.</p>
+            <p>Til Fru Erika<note>Erika Nissen (1845-1903), norsk pianist og musikpædagog</note>
+                    skriver jeg strax. Hun har <hi rend="italics">intet</hi> direkte sagt til H.<note>Henrik
+                        Hennings (1848-1923), musikforlægger i København; om sagens sammenhæng, se
+                        noten til Bangs brev til Peter Nansen, [december 1890]</note>
+            </p>
+            <p>
+               <hi rend="italics">En</hi> Glæde har jeg haft: et Telegram fra Fru Levy<note>Ludovika Levy,
+                        født Dysten (1856-1922), skuespillerinde, gift 1873 med teaterdirektør
+                        Bernhard Levy</note>, at hun igaar havde sluttet Kontrakt med Kasino. Saa
+                    Gud ske Tak da<note>Bang havde i avisen København, 9.11.1890, skrevet om
+                        Ludovika Levys hidtil forgæves forsøg på at opnå engagement i
+                        København</note>.</p>
+            <p>
+               <hi rend="italics">Slet</hi> staar det med</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

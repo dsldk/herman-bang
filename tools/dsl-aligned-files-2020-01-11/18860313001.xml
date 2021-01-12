@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860313001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 477</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-03-13">[1886, 13. marts] Lørdag<note>Torbjörn Nilssons
+                        forslag, s.332 note 10, til brevets datering følges</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien. Hotel Hammerand. Lørdag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Inderlig Tak for Deres Brev. Og havde jeg dog bare aldrig skrevet
+                        <hi rend="italics">mit</hi> ‒ saa var De ikke gaaet til Schorer.</p>
+            <p>I Torsdags Aftes kom Telegram fra København: at Stillingen ved »Politiken« var
+                    besat. Men <hi rend="italics">herfra</hi> lader man mig ved Boganmeldelse tjene 250 Kroner
+                    (Bøger anmeldt, Korrespondancer o:s:v:). Med <hi rend="italics">min københavnske Forlægger er
+                        der ligeledes truffet Arrangement</hi>, og nogen <hi rend="italics">Mønt er
+                        afsendt</hi> fra København.</p>
+            <p>Jeg behøver saaledes ikke Hr. Schorers Penge. <hi rend="italics">Jeg henholder mig ganske til
+                        det afsluttede Arrangement</hi>. <hi rend="italics">Dem</hi> sender jeg alle
+                    Manuskripter, at De kan afgøre, hvorhen de skal anbringes.</p>
+            <p>Hr. Schorer beder jeg Dem meddele: 1) at jeg altsaa <hi rend="italics">ikke</hi> er anvist
+                    paa at leve <app>
+                  <lem>af hans Blad</lem>
+                  <rdg>Forud for disse ord har Bang på samme linje overstreget ordene: af at
+                            leve</rdg>
+               </app>. 2) <hi rend="italics">At mine Forbindelser i <hi rend="italics">Danmark</hi> er gaaet ind paa
+                        faste og maanedlige Betingelser</hi>. 3) At jeg her i <hi rend="italics">Wien</hi>
+                    endelig har modtaget Anbefalinger fra en Række Mennesker til »Neue freie
+                    Presse«, Franzos <hi rend="italics">»die Presse«; Wiens »Illustrite Zeitung« o:s:v: At Sacher
+                            Masoch<note>Sacher Masoch ...</note> allerede levende har anbefalet mig
+                        til sine Venner, saa at jeg hurtigt vil have et stort Marked i Wien og
+                        Sydtyskland. »Presse« har allerede ønsket mig i sit Ugeskrift!</hi>
+            </p>
+            <p>At jeg som Følge af alt dette henholder mig til det afsluttede Arrangement om 1/4
+                        <hi rend="italics">og haaber ei at skulle falde Hr. Schorer til Uleilighed</hi>.</p>
+            <p>At mine i Norge og Sverig flydende Artikler ei betales, synes man mig ved
+                    »Familienblatt« at maatte kunne forstaa: Artikler trykkes <hi rend="italics">ikke</hi> den
+                    Dag, de skrives.</p>
+            <p>‒ ‒ Dette til Hr. Schorer og hurtigst. Vil Hr. Schorer ikke trykke mig, finder
+                        <hi rend="italics">De</hi>, kære Kammerraad, sikkert andre, som vil. <hi rend="italics">Han skal
+                        ikke »fylde« sit Blad med Artikler af mig</hi>.</p>
+            <p>Er jeg ude af dette Hotel ‒ Pengene fra Danmark er afsendt Torsdag og kommer vel
+                    imorgen, selvom det ikke er <hi rend="italics">nok</hi>, er det noget ‒ og
+                        Karl<note>Formodentlig Bangs tjener, jf. omtale i andre af Bangs samtidige
+                        breve til Emil Jonas</note> hjemme, skal jeg dog vise denne noble
+                        Hollænder<note>Dvs. ... Schorer</note>, at min Situation ikke om fjorten
+                    Dage er den samme.</p>
+            <p>Mit »Jammerbrev« til Hirsch beder jeg Himlen til Vidne paa ikke omtalte Penge med
+                        <hi rend="italics">et</hi> Ord.</p>
+            <p>Saaledes haaber jeg, at Sagen med Hr. Schorer har Ende. Ogsaa <hi rend="italics">De</hi> ved
+                    nu, at han vil tage Fordelene ved at have mig <hi rend="italics">ene</hi> ‒ intet mer end
+                    Fordelene.</p>
+            <p>Dem takker jeg, kære Kammerraad endnu en Gang. Jeg vilde ønske, jeg en Gang kunde
+                    vise min Taknemlighed i Gerninger. Lev vel. Og gaa <hi rend="italics">strax</hi> til
+                    Schorer, at det kan komme i Ro.</p>
+            <p rend="right">Altid Deres Herman de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

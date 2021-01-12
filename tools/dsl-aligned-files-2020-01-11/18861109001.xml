@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861109001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Fortrykt brevpapir: Kronet monogram
+                                                HB (femtakket krone)</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-11-09">1886, 9. november [tirsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p rend="right">November.9.86.</p>
+            <p>Kære Dr. Brandes.</p>
+            <p>Jeg vil ikke forholde Dem dette Brev, som jeg efter tre Maaneders Venten idag
+                    modtog fra Lewinsky<note>Den østrigske skuespiller Joseph Lewinsky (1835-1907),
+                        bosat i Wien. Ifølge Bangs brev til Peter Nansen [Wien, 5.4.1886] nægtede
+                        Lewinsky sig hjemme, da Bang henvendte sig med et brev fra Edvard
+                        Brandes</note>. Det er nu min Agt at indsende Stykket<note>Bang sigter til
+                        den tyske oversættelse af Edvard Brandes' skuespil Et Besøg, omtalt i Bangs
+                        brev til Edvard Brandes, Torsdag [Wien, 18860500]; ifølge dette brev er det
+                        ikke Bang selv, der har oversat dette stykke til tysk, men en skuespiller
+                        fra Meiningen, dvs. Max Eisfeld</note> ‒ eller rettere lade Oversætteren
+                    gøre det, ti mit Navn er slet ikke knyttet til Stykket ‒ til Berlins »Deutsches
+                    Theater«. I alle Fald vil jeg <app>
+                  <lem>ikke</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> opgive Haabet om, at der kan findes den modige Direktør, som spiller
+                    Stykket. Til »den unge Scene« i Augsburg er det indsendt ‒ men hidtil intet
+                    Svar.</p>
+            <p>Naturligvis kunde Deres Broder<note>Georg Brandes (1842-1927)</note> vel finde et
+                    Teater, hvor <hi rend="italics">hans</hi> Navn kunde forskaffe en »Første-Opførelse« ‒ men
+                        <hi rend="italics">jeg</hi> vilde ikke ønske, at isaafald <hi rend="italics">jeg</hi> havde
+                    Oversættelsen <hi rend="italics">i Hænde</hi> ‒ Oversættelsen selv bærer jo et andet Navn,
+                    en andens<note>Dvs. Max Eisfelds navn, jf. Bangs egne antydninger i brevet til
+                        Edvard Brandes, Torsdag [Wien, 18860500]</note> ‒ ti jeg vil ikke tillade
+                    blot Skinnet af, at jeg saaledes gennem en Bagdør skulde ville trænge ind i Ly
+                    af et fremmed Navn. Ikke <hi rend="italics">det</hi> er det, som har ladet mig søge at faa
+                    Stykket frem paa tysk.</p>
+            <p>Forhaabentlig ‒ som sagt ‒ findes en Direktør. Der er vel en trehundrede Hof- og
+                    Stadteatre, hvor man i dette Land<note>Det østrig-ungarske kejserrige</note>
+                    træder dramatiske Forfatteres Tanker flade.</p>
+            <p rend="right">Deres forbundne</p>
+            <p rend="right">Herman B.</p>
+            <p>Giv siden Nansen L's Brev. Han samler paa Breve.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

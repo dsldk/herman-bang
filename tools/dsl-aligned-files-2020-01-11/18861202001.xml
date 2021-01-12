@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861202001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 509</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-12-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-12-02">[1886, ca. 2. december] Torsdag<note>Forslaget
+                        til denne omtrentlige datering bygger på brevets omtale af en mulig
+                        offentlig polemik med ... Brøndsted ...? En sådan polemik kan også være
+                        antydet i Bangs brev til Jonas, dateret »Tirsdag«, forsøgt dateret til
+                        30.11.1886...</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Torsdag.</p>
+            <p>Tak, kære Kammerraad, for Deres gode Brev.</p>
+            <p>Til »Basar« har jeg skrevet. Men jeg synes egenlig ikke, det var eftertrykkeligt
+                    nok. Brøndsted <hi rend="italics">maa</hi> nu høre op efter mit Brev.</p>
+            <p>
+               <app>
+                  <lem>Men</lem>
+                  <rdg>Ordet er rettet fra: Med</rdg>
+               </app>
+               <hi rend="italics">det</hi> er min største Angst: at man naturligvis stjæler »Ved Vejen«.
+                    Forlægger <hi rend="italics">Minden</hi> i <hi rend="italics">Dresden</hi> tog den sikkert. Og jeg
+                    giver <app>
+                  <lem>mig</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app>, hvis <hi rend="italics">De</hi> vil oversætte den, tilfreds med et saare lille
+                    Honorar eller, hvis man byder <hi rend="italics">lidt</hi> ‒ ‒ med slet intet. Ti for at
+                    komme »vorwärts« maa vi give Bøger ud. Som man behandler mig hjemme, behandler
+                    man jo ellers kun Hunde.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H de B.</p>
+            <p>Jeg har knap til Frimærkerne.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

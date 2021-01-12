@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18900300004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5011, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Øverst og nederst på brevet har en fremmed hånd skrevet
+                                        mulige dateringsforslag (1892 og 1899) og overstreget dem
+                                        igen; der er formentlig tale om Anna Levin</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 194. Harry Jacobsen
+                                        bd.3, s.35</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Kristiania, dvs. Oslo</placeName>
+               <date when="1890-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>fru Anna Ferslew</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1890-03-01">1890, Marts<note>Harry Jacobsens dateringsforslag
+                        følges. Den omtalte novellesamling er formodentlig Under Aaget, der udkom i
+                        København i maj 1890</note>
+            </date>
+            <placeName cert="high">Kristiania, dvs. Oslo</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Kristiania.</p>
+            <p>De har, kære Fru Ferslew, en Gang sagt, at jeg, naar det var haardt nødvendigt,
+                    skulde gaa direkte til Hr. Ferslew. Efter en Vinter, hvor jeg vel tør sige, at
+                    jeg ikke har haft en eneste rask Dag, og hvor jeg højst af alt har ønsket at
+                    finde nogen Fred i et Asyl for Syge ‒ skrev jeg forleden. Jeg har i Maaneder et
+                    Par Gange om Ugen lidt af Besvimelser og Kramper. Jeg har ‒ paa Lægernes
+                    Anmodning ‒ skiftet Opholdssted Gang efter Gang. Men det er ikke blevet bedre.
+                    Kun faa er Dagene, hvor jeg kan skrive som før. Da gør jeg det.</p>
+            <p>Og hvis De længst er træt af at hjælpe Mennesket, er De da ogsaa træt af at række
+                    Kunstneren en Hjælp. I dette Aar har nu <hi rend="italics">alle</hi> Understøttelse af
+                        Staten<note>... ???</note> ‒ kun ikke jeg.</p>
+            <p>Jeg skal have en Novellesamling ud<note>Under Aaget udkom 15.5.1890 på J.H.
+                        Schubothes forlag i København</note> ‒ en Novellesamling for Kvinderne, som
+                    Hr. Ferslew sagde sidst ‒ men jeg mangler den sidste Novelle<note>»Frøken Caja«,
+                        som Bang skrev i løbet af foråret 1890, se Romaner og noveller, bd. 7,
+                        s.488</note>. Og hvorledes skal jeg skrive ‒ pint af alle disse Bekymringer?
+                    Jeg véd ikke en Gang, hvordan jeg skal holde mit Hoved klart. Bevæg Hr. Ferslew
+                    til at hjælpe mig.</p>
+            <p rend="right">Deres altid hengivne</p>
+            <p rend="right">Herman Bang</p>
+            <p>Kristiania.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060927001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 405</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Randers</placeName>
+               <date when="1906-09-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-09-27"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 27. september [torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Randers</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">27.9.1906.</p>
+            <p rend="right">Randers.</p>
+            <p>Ja, min Ven, dette er næstsidste Kapitel<note>En portion af manuskriptet til romanen
+                     <!--start title reference--><title key="De_uden_Fædreland">De uden Fædreland –</title>
+                  <!--end title reference-->
+               </note>, som er
+               begyndt. Jeg vilde kunne forstaa, om det, overfor denne Endeløshed, gik dig som det
+               gik salig <persName key="Schou_Andreas">Anders Schou</persName>
+               <note>Andreas Schou (1829-89), boghandler og forlægger i København, indehaver af Andr. Schous Forlag indtil nytår 1889; forlægger for Herman Bang i årene før 1887</note> med "<!--start title reference--><title key="Stuk">Stuk</title>
+               <!--end title reference-->": han gav det op, da
+               han havde faaet de to Tredjedele ... Ja, han gjorde saamæn<note>At Bangs forlægger
+                  Andreas Schou i 1887 til sidst gav op, skyldtes hans gentagne insisteren på at
+                  rette i visse dele af manuskriptet til Stuk, se en kort redegørelse herfor i
+                  Romaner og noveller, bind 2, DSL 2008, s. 548, noten til s. 285</note>.</p>
+            <p>Alligevel tror jeg nu nok ikke, det er helt umuligt. Men det er jo saa vanskeligt
+                  <hi rend="italics">det</hi>, jeg denne Gang har sat mig for, og det er meget svært for mig at
+               holde Anspændelsen ud. De sidste Nætter slaas min Krop med store Vabler og
+               Opkastningerne er begyndt igen.</p>
+            <p>Jeg vilde have begyndt Korrekturen. Men det er bedst, jeg bliver færdig først og
+               begge Dele overkommer jeg ikke –</p>
+            <p>Men med Pengene gaar det ikke. Jeg kan ikke skaffe dem. Men nu, hvor jeg jo efter
+               første December er garderet ved Kasino, vil Forlaget maaske gøre mig den Tjeneste –
+               som I gjorde mig det Aar, jeg var paa Afskedsturnée –: at udbetale mig min Gage for
+               Januar 08 og Februar <app>
+                  <lem>08</lem>
+                  <rdg>Bang må begge steder mene 1907</rdg>
+               </app> nu og til første November. Naar jeg er tiltraadt ved Teatret, skal jeg ikke
+               falde til Byrde, skønt jeg dog vil skrive en "<placeName key="Marienlyst">Marienlyst</placeName>-Bog" (Stemninger) til Sommer.</p>
+            <p>Vil du lade <persName key="Nielsen_Christian">Hr. Nielsen</persName>
+               <note>Christian Nielsen, fuldmægtig, Gyldendal</note> telegrafere mig Pengene imorgen?</p>
+            <p>Til Fru <persName key="Nansen_Betty">Betty Nansen</persName> kan det ikke nytte at
+               skrive. For hun svarer ikke, og det er, som man skrev ud i den graa Luft. Og dog
+               tænker jeg paa hende hver Dag og paa, om min Bog mon bliver god nok til at sætte
+               hendes Navn paa. For paa noget Lort vil jeg s'gu ikke sætte det. Og Prinsessen, der
+               dumpede ned af Giggen<note>Hentydningen uoplyst. Måske prinsesse Marie?</note>.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

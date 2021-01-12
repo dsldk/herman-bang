@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060630001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 400</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1906-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-06-30"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 30. juni.  [lørdag]<note>empty</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">30.6.1906.</p>
+            <p>Kære Direktør.</p>
+            <p>Jeg vilde gerne have min Gage (det er for September!) men, da du var i <placeName key="Paris">Paris</placeName>, laante
+               jeg gennem <persName key="Nielsen_Christian">Hr. Nielsen</persName>
+               <note>Christian Nielsen, fuldmægtig, Gyldendal</note> 125 Kroner. For at betale dem
+               tilbage skrev jeg samvittighedsfuldt "Personlige Erindringer om Henrik
+                  Ibsen"<note>Trykt i Det ny Aarhundrede, hæfterne for juli og august 1906, hhv. s.
+                  237-242 og s. 325-330</note> og sendte til "Det nye Aarhundrede["] (som jeg
+               troede endnu havde Forbindelse med Forlaget). Nu beder jeg Hr: Nielsen hæve mit
+               Honorar <hi rend="italics">der</hi> (det er en lang Historie) saa jeg af "Gagen" faar den fulde
+               Sum .... Jeg maa vist læse op igen. For denne her Armod holder jeg ikke ud. Jeg
+               skylder ogsaa dig 30 Kr:, som jeg ikke kan betale nu.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+            <p>Gud give, Operationen var ovre<note>Sandsynlig sammenhæng med <persName key="Nansen_Betty">Betty Nansen</persName>s indlæggelse på den kendte
+                  københavnske kirurg <persName key="Rovsing_Thorkild">Thorkild Rovsing</persName>s (1862-1927)
+                  klinik i Rosenvænget, København Ø, jf. også Bangs artikel "Hos Betty Nansen" i avisen København,
+               15.7.1906</note>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

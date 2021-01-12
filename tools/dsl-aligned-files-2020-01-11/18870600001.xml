@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870600001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 1003</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-06-01">[1887, Juni ?] Torsdag<note>Brevet må være
+                        skrevet efter Bangs brud med forlægger Andreas Schou i maj 1887 ...</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Torsdag.</p>
+            <p>Kære Jules.</p>
+            <p>Hermed Fortsættelsen af I, hvis Slutning følger Mandag. Send det snarest til
+                    Langhoff med den Meddelelse, at dette <hi rend="italics">alene</hi> er ét Ark. Da jeg nu
+                        <hi rend="italics">slet intet</hi> andet kan tage mig til, maa han ogsaa strikte
+                    opfylde den § i Kontrakten, <hi rend="italics">at jeg for mer end ét ugenligt Ark faar mer
+                        Betaling</hi>.</p>
+            <p>Sandsynligvis vil du i dette langt foretrække Afsnittet med Konferentsraaden. Med
+                    stor Sikkerhed taler <hi rend="italics">der</hi> to betydelige Mennesker???</p>
+            <p>Er det i det hele ikke <hi rend="italics">saa</hi>, kære Gamle, at jeg nu begynder at kunne
+                    give alt det, I hos <hi rend="italics">Mennesket</hi> har skattet, i min Kunst?</p>
+            <p>.... »Mathilde Stern« vil til en Begyndelse maaske »glæde« dig mindre. Men døm
+                    her ikke, før du har læst III. »Sansehidsende« er Fremstillingen ikke, og denne
+                    »Synderinde af Uudviklethed« er ny og frappant i vor Literatur. Moderfølelsen
+                    slaar siden et Lyn ned i hendes Fuglehjerne.</p>
+            <p>Og jeg tror, at »Forargelsen« vil smelte overfor den dejlige Generalinde med Uret
+                    paa Badebroen.</p>
+            <p>Mandag sendes nu Slutn: af I, og saa begynder jeg strax paa II: Gravesens har
+                    Bal! Et humoristisk Kapitel, som skal vise, hvordan det moderne
+                    Kineseri-København tager sig ud i et <app>
+                  <lem>»Gevinsthus« paa</lem>
+                  <rdg>Rettet fra: »Gevinsthus-H</rdg>
+               </app> Østerbro ‒ og som forøvrigt skal lade Folk lé ud, før Lavinen tager Fart
+                    og vi iler mod alle Katastrofernes Optrin.</p>
+            <p>Saadan noget, som, at Fru Stern har sin gamle Barnepige med som Kokkepige, og
+                    Historien med »Skovkilden« ‒ er det, der viser Menneskene, som de gaar og
+                    staar.</p>
+            <p>Hils din Kone og Børnene</p>
+            <p rend="right">fra Din Ven</p>
+            <p rend="right">Herman.</p>
+            <p>Theodor Franz om Pressen!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

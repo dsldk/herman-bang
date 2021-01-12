@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850521001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 292</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XX</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Gävle</placeName>
+               <date when="1885-05-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-05-21"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 21. maj [torsdag]<note>Gävle ligger ca. 75 km nord for Uppsala. De planlagte datoer for
+                  rejser og turneer senere i 1885, der nævnes i brevet, svarer ikke til
+                  realiteterne</note>
+            </date>
+            <placeName cert="high">Gävle</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gefle. 21.5.85.</p>
+            <p>Min kære Peter.</p>
+            <p>Du er jo gal. Jeg kommer til <placeName key="Stockholm">St.</placeName>
+               <note>Stockholm</note>. og sér i "Politiken"<note>Se brevet
+                  1885, 8.maj</note> med store Typer og paa første Side – mit Brev fra <placeName key="Sankt_Petersborg">Petersborg</placeName>. Det var let at kende, og hvis jeg
+               nu de to siste Maaneder ingen Gage faar "ved Stranden"<note>Avisen Nationaltidendes redaktion havde
+                  adresse i Ved Stranden, København</note>, saa idømmer jeg dig en Skadeserstatning – "hvad jo
+               nok vil nytte mig noget."</p>
+            <p>Jeg er nu paa Vei til Norge.</p>
+            <p>Med <persName key="Josephson_Ludvig">Josephson</persName>
+               <note>Ludvig Josephson (1832-99), svensk skuespiller, sceneinstruktør og teaterleder</note> – "Nya Teatern" – har jeg sluttet Kontrakt om
+               Gæstespil fra 20 September til 15 Oktober. Jeg skal spille Osvald<note>Hovedrollen i den norske dramatiker <persName key="Ibsen_Henrik">Henrik Ibsen</persName>s skuespil <!--start title reference--><title key="Gengangere">Gengangere</title>
+                  <!--end title reference-->
+               </note>, Hertugen af Septmonts<note>I den franske dramatiker <persName key="Dumas_den_yngre_Alexandre">Alexandre Dumas</persName> den yngres (1824-95) skuespil
+                     <!--start title reference--><title key="Den_Fremmede">Den Fremmede</title>
+                  <!--end title reference-->
+               </note> og Hovedrollen i en
+               svensk Original. 15 Oktober begynder min <persName key="Menter_Sophie">Menter</persName>-Turnée og varer jo til Jul<note>Bang og den tyske pianist Sophie Menter (1846-1918) optrådte
+                  sammen på en fælles skandinavisk koncertturné fra 29.10. til 28.11.1885, se også
+                  note og bemærkninger til brevene 1885, 25.oktober, og 1885, 29.oktober</note>.</p>
+            <p>Før 15 Juli er jeg ikke færdig i Norge og reiser saa <hi rend="italics">via</hi>
+               <placeName key="Frederikshavn">Fredrikshavn</placeName> til <placeName key="Tyrol">Tyrol</placeName>. Gaar det godt i Norge, haaber jeg, vi kan træffes midt i
+               August i <placeName key="Leipzig">Leipzig</placeName> – min Yndlingsby.</p>
+            <p>Det glædede mig at læse en tyve Numre af "Politiken". Den er ikke blot blevet større
+               men ogsaa meget bedre.</p>
+            <p>Lev vel – min kære Peter, og hils <persName key="Nansen_Immanuel">"Hvalpen"</persName>
+               <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> fra</p>
+            <p rend="right">Din Herman B.</p>
+            <p>Mit Bryst er stærkt angrebet af en ret slem Katharr. Enfin<note>fr.: Altså</note> –
+               tilsist haaber jeg vel, at Livet taber Taalmodigheden med mig og giver mig – Døden.
+               Det er mit eneste Ønske.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

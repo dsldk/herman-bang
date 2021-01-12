@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850303001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 137</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Fortrykt brevpapir: <q> R. Cadier / Prop.re du
+                                Grand-Hôtel et de l'Hôtel Rydberg / Stockholm</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. IX</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Stockholm]</placeName>
+               <date when="1885-03-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-03-03"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 3. marts], Tirsdag<note>Dateringen i Vandreaar s. 74 følges</note>
+            </date>
+            <placeName cert="high">[Stockholm]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg er nu her. <placeName key="Göteborg">Göteborg</placeName> var vild. Bogstavelig ude af sig selv med Blomster,
+                        Kranse og <hi rend="italics">Penge</hi>. Først lokker Nyfigenhed dem, siden kommer de
+                        af Beundring. Jeg forsikrer dig, at en Knappenaal, som faldt, kunde høres i
+                        Salen, saa stille sad de. Jeg talte i G. godt de to Gange, slet den tredie.
+                        Jeg sender dig en Lok af <persName key="Turgenjev_Ivan">Turgenjews</persName>
+               <note>Den russiske forfatter Ivan Turgenjev (1818-83)</note> Haar, som en Dame
+                        gav <app>
+                  <lem>mig</lem>
+                  <rdg>rettet fra: ham</rdg>
+               </app>, en Selskabsdame hos <persName key="Viardot_Pauline">Fru
+                                Viardot</persName>
+               <note>Den franske mezzosopran Pauline Viardot (1821-1910), født García, tillige virksom som pianist og komponist, en nær veninde af Ivan Turgenjev</note>, en svensk Dame, som
+                        var hos T og lukkede hans Øine. Hun sendte mig Lokken med de Ord, at jeg
+                        havde forstaaet T, som om jeg havde levet med ham.</p>
+            <p>Hertil kom jeg Mandag Morgen, havde reist hele Natten.</p>
+            <p>Uagtet "det unge Sverig" havde tiet om mig og "det gamle" gjort Nar af mig, var
+                        der udsolgt allerede igaar morges. Hundreder gik uden Billet. Jeg talte
+                        middelmaadigt. Stor Velvilie hos Publikum. Ingen Begeistring – men det
+                        kommer paa Fredag.</p>
+            <p>Det <hi rend="italics">skal</hi> komme. Om du kendte dette Liv, saa trist, saa tomt.</p>
+            <p>Selvforbitrelsen, Raseriet før man har seiret og saa den kolde Ligegyldighed,
+                        naar man har <hi rend="italics">"tændt"</hi>.</p>
+            <p>Bladene idag "anerkender". Men jeg <hi rend="italics">vil</hi> triumfere over
+                        "Anerkendelse"; jeg vil aftvinge <app>
+                  <lem>dem</lem>
+                  <rdg>rettet fra: Dem</rdg>
+               </app> Beundring.</p>
+            <p>Jeg har tjent 1500 Kr. Naar jeg bliver ved et Fjerdingaar, naar jeg vel de ti
+               tusind. Fra <placeName key="Berlin">Berlin</placeName> har jeg faaet to Tilbud om at tale. 300 Reichsmark for
+                        Aftenen. Maaske tager jeg derimod og taler i Efteraaret efter at have
+                        tilbragt Sommeren i Tyskland.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Immanuel</persName>
+               <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> saa hjerteligt fra mig. Hvis jeg var mindre træt og
+                        grædefærdig, skulde jeg skrive langt, nu faar du kun dette "Hap"<note>Dvs.
+                                bid, stump</note>.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

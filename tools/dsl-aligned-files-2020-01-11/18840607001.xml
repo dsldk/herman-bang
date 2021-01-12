@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840607001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 143</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrift af Peter Nansen: <q>Det maa vel have været 1884 –
+                                 Tourneen med "En Forlovelse" og "Kammerater" før "Politiken"</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. III</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Viborg?]</placeName>
+               <date when="1884-06-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1884-06-07"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884. 7. juni], Lørdag<note>Dateringen i Vandreaar s. 57
+                  følges. Sendt under Herman Bang Tourneen 3.-12.6.1884</note>
+            </date>
+            <placeName cert="low">[Viborg?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg har ikke kunnet skrive til dig, thi jeg har lidt altfor meget. Du spørger mig,
+               hvordan det er gaaet – og beder om, at jeg ikke vil male altfor trist. Nu – vel –
+                  <hi rend="italics">det</hi> er sket, at jeg har tabt et Slag, der enten vilde have været
+               Begyndelsen til Velvære og en Stilling uden Sidestykke eller blive et dræbende
+               Nederlag. Det siste er sket, thi vi har ingen Sukces.</p>
+            <p>Det gik i <placeName key="Randers">Randers</placeName> iaftes godt, Huset var udsolgt
+               – men saa lille et Hus! – og jeg spillede med megen Energi. Men <placeName key="Aalborg">Aalborg</placeName> var Cannæ<note>Hentydning til slaget ved
+                     <placeName key="Cannae">Cannae</placeName> (i Syditalien) under Den 2. puniske
+                  krig 216 f.Kr., hvor Karthagos hærfører <persName key="Hannibal">Hannibal</persName> besejrede
+                  romerne, men ikke formåede at udnytte sin militære fordel, før han selv led
+                  afgørende nederlag</note>. Præget er sat paa det hele og det kan ikke
+               genoprettes.</p>
+            <p>Jeg vil nu gaa lige i Ilden – til <placeName key="Roskilde">Roeskilde</placeName>,
+               thi jeg er for god til at falde for en Folkeblads Kritik. Jeg skriver personlig til
+               saa mange som muligt – private og Kritikere og beder dem gøre <hi rend="italics">alt</hi> for at
+               hale vor Omgangskreds derned. Man vil kunne komme hjem om Aftenen.</p>
+            <p>Dette er en Venskabs<hi rend="italics">pligt</hi> for mange. Man følger dog til Jorden. Hvad jeg
+               nu maa er at forlade Nationaltidende. Jeg <hi rend="italics">vil ikke blive</hi> og udsætte mig
+               for al denne Pinagtighed. Hvad der er mig tungest, min egen Ven, er at vi maa
+               skilles. Jeg havde glædet mig saa meget til, at vi skulde arbeide sammen, blive
+               sammen, indtil du engang blev gift. Nu maa jeg reise bort. Mine Affærer tvinger mig
+               til at leve af intet. Hvad der skal blive af Børnene<note>Enken, jordemoder <persName key="Astrup_Ida_Marie">Ida Marie Astrup</persName>s to døtre Louise og Ida,
+                  jf. Vandreaar s. 58: "To Smaapiger, som var Døtre af Bangs Husbestyrerinde, og som
+                  han interesserede sig meget for"</note>, ved jeg ikke.</p>
+            <p>Naar vi sés, kære Peter, kan vi tale om dig. <persName key="Bjerring_Emil">Bierring</persName>
+               <note>Emil Bjerring (1837-96), journalist, fra 1878 redaktionssekretær ved Nationaltidende, 1880 medstifter af Journalistforeningen</note> vil for min Skyld give dig mere Arbeide, vi skal alle
+               sørge for, at du faar en 4000 at leve af – og derfor kan du nok leve – ikke?</p>
+            <p>Jeg er dum, at jeg igen begynder at græde, men jeg taaler dette mindst at tænke paa,
+               at vi skal skilles, at jeg skal skilles fra saa meget, som var mig kært.</p>
+            <p>Men fortsætte som Forfatter paa den gamle Maade – vil jeg ikke.</p>
+            <p>Kære Peter – arbeid saa for Roeskilde. Jeg har ikke en Skilling. Da der ingen Penge
+               kommer ind, tør jeg ikke bede om noget og véd slet ikke, hvad der skal blive af.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

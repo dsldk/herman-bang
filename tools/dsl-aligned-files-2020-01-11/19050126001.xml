@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050126001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 29</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Horsens</placeName>
+               <date when="1905-01-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-01-26"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 26. januar.  [torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Horsens</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Horsens. 26.1. 1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Det var grumme trist, at De ikke kom. Og dog er jeg saa inderlig glad over det. For
+                  Caroline<note>Rolle i <persName key="Chievitz_Poul">Poul Chievitz</persName> (1817-54) og
+                     <persName key="Recke_Adolph_von_der">Adolph von der Recke</persName>s (1820-67)
+                  vaudeville <!--start title reference--><title key="For_Alvor">For Alvor</title>
+                  <!--end title reference-->, som 22.1.1905 havde
+                  repremiere på Folketeatret. Rollen som Caroline skulle være udført af <persName key="Thorberg-Sommer_Victoria">Victoria Thorberg-Sommer</persName> (1842-1928), men hun
+                  blev syg, og Betty Nansen måtte med kort varsel springe ind. Anmeldelsen dagen
+                  efter i Politiken roste hende for overlegen sikkerhed i at udtrykke den unge piges
+                  vekslende sindsstemning. Avisen København mente derimod, at "Fru Nansen sang
+                  nydeligt og førte sig kønt, men hun gjorde Rollen lidt tungere end den er, og det
+                  taaler den ikke" og refererede mistanken på tilskuerpladsen om, at de "faa Timers
+                  Varsel" blot kunne have været "et godt udspekuleret Clou", arrangeret af teatrets
+                  ledelse</note> er en Sejr, som man overfor <hi rend="italics">Publikum</hi> ikke maa
+               undervurdere, og god for <hi rend="italics">Dem</hi> var Anstrængelsen og Spændingen. Kun
+               "København" gød Malurt i Glædesbægret<note>At hælde malurt i bægret: talemåde for at
+                  ødelægge en glad stemning ved at blande bitterhed og negativitet i den. Malurt
+                  (artemisia absinthium) er en plante med bitter smag</note> – det er saa rart at
+               være "ansat" ved Blade. De skriver altid, hvad de ved vil ærgre En mest ... Naar sés
+               vi nu? Gid det var snart.</p>
+            <p>Jeg tænker hver Dag paa Dem.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

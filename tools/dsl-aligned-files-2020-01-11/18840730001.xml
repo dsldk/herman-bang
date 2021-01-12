@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18840730001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer »ad 189«</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 150</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1884-07-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>fru Anna Ferslew</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1884-07-30">1884, 30. Juli [onsdag]<note>I Anna Levins bog
+                        er dette brev blevet fejldateret, jf. Torbjörn Nilsson, s.314, note
+                        44</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">d. 30.7.84.</p>
+            <p>Kære Fru Ferslew.</p>
+            <p>De har noget misforstaaet mit Brev<note>Bangs brev til fru Anna Ferslew,
+                        24.7.1884</note>. Pengene er ikke Hovedsagen i denne Ting. Men jeg
+                        <hi rend="italics">kan</hi> ikke vende tilbage til »Nationaltidende« uden i min gamle
+                    Plads, og <hi rend="italics">den</hi> kan jeg kun faa enten ved en Fraværelse, som kan for
+                    Publikum forklare min Uvirksomhed eller ved en Seir, som kan danne min Rentrée.
+                        Andersen<note>Theodor Andersen (1835-1909), teaterdirektør 1869-1884 for
+                        Casino (i Amaliegade, København) har, som jeg ventede, forkastet
+                            »Fædra«<!--<note>Bangs egen dramatisering af romanen Fædra udkom i bogform i
+                            december 1885 med titlen Ellen Urne</note>-->
+               </note>. Men i en af mig <app>
+                  <lem>nu</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> ændret Form mener Hr. Bierring<note>Emil Bjerring</note> nu, at Stykket
+                    vilde »gøre sig« i Udlandet. Men det er nødvendigt at være der for selv at
+                    bevæge og overtale.</p>
+            <p>Saa mente jeg, at om jeg i nogen Tid tjente for mindre Gage, vilde dette kunne
+                    ordnes. Men det kan saa ei ské.</p>
+            <p>Lidt bedre har jeg det, skønt jeg ofte ‒ som idag ‒ maa sove af Kloral om
+                        <hi rend="italics">Dagen</hi>, fordi jeg flere Døgn ei har faaet Søvn. Jeg glæder mig
+                    meget til, at min Læge kommer hjem fra Sveits.</p>
+            <p>Mange Hilsener fra</p>
+            <p rend="right">Deres altid hengivne</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

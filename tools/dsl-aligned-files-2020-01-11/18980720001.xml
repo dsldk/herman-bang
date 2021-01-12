@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18980720001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Datoen »20/7 98« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung (eller J.L. Lybecker)</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-07-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung (dvs. J.L.
+                                        Lybecker)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-07-20">[1898, 20. juli] Onsdag <note>Brevet er stilet
+                        til J.L. Lybecker (Aage Hirschsprungs kompagnon i ledelsen af Det
+                        Schubotheske Forlag); det indgik i den store samling breve fra Bang, som
+                        frem til auktionssalget i 2011 ejedes af Aage Hirschsprungs efterkommere. ‒
+                        Samtidens avisomtale af episoden med Bangs tjenestepige i Sortedamssøen
+                        bekræfter rigtigheden af brevets sekundære blyantsdatering</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Kære Hr. Lybecker.</p>
+            <p>Mig hænder altid det utænkelige.</p>
+            <p>Igaar blev Sofie<note>Bangs husholderske</note> gal og kastede sig i
+                        Søen<note>Bang boede i en stuelejlighed i Slagelsegade 22. Efter en
+                        uoverensstemmelse løb Sofie ud på gaden med Bang i hælene, løb over
+                        Østerbrogade og ville drukne sig i Sortedamssøen. Bang vadede ud i søen
+                        efter hende, og med en politibetjents hjælp blev hun bjerget i land.
+                        Episoden gav anledning til humoristisk omtale i flere aviser, bl.a. i
+                            <hi rend="italics">København</hi> og i <hi rend="italics">Politiken</hi>, begge 21.7.1898. Se
+                        også Stoppet i farten, 2007, s. 86</note>.</p>
+            <p>Hun maatte bringes paa Hospitalet<note>Kommunehospitalet, se Bangs brev til
+                        Lybecker, dateret »Torsdag«, dvs. 28.7.1898</note> og jeg skal nu
+                        <hi rend="italics">der</hi> deponere hundrede Kroner. Naturligvis har jeg dem ikke. Vil
+                    De med Bud'et deponere dem? Det drejer sig kun om et Depot.</p>
+            <p>Vil De give Budet yderligere ti Kroner. Ti Sofie har taget alt, hvad Penge hedder
+                    med sig.</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

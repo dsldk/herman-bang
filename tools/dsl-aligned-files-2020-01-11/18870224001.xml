@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870224001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2906, 4to (acc. 1956/214). Stort blyantsnummer »401« samt
+                                    »a« med blyant i fremmed hånd</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-02-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peder Jørgensen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-02-24">1887, 24. Februar [torsdag] <note>Brevet var
+                        vedlagt Bangs håndskrevne selvbiografi, 4 sider, der er bevaret under samme
+                        arkivsignatur på KB [ ‒ bør ordlyden måske publiceres sammen med dette brev
+                        ??/GP]. Denne selvbiografi er formentlig bestilt hos Bang af Soransk
+                        Samfund, der i april 1887 kunne fejre sit 25 års jubilæum</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 24.2.87.</p>
+            <p>Kære Hr. Jørgensen.</p>
+            <p>Jeg véd sandelig ikke, om De vil kunne benytte medfølgende. Men hver Gang, jeg
+                    skal skrive noget, der skulde være Biografi, skriver jeg regelmæssigt de
+                    græsseligste Ting.</p>
+            <p>Ialfald har jeg nu skrevet dette sammen. Vil De hilse Deres Fader<note>... ???
+                        ...</note> og Fætter Thorvald<note>Thorvald Jørgensen (1857-1916),
+                        cand.theol., klassekammerat med Herman Bang på Sorø Akademi, hvorfra de
+                        begge i 1875 blev studenter</note> saa mange Gange ‒ for De maa da vist være
+                    »den« Jørgensen.</p>
+            <p>Hils »Samfundet«<note>Dvs. Soransk Samfund, en forening stiftet 14.4.1862 for
+                        gamle elever fra Sorø Akademi</note> fra en landflygtig Søn ‒</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

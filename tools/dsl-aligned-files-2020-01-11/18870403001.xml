@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870403001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 498</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-04-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-04-03">1887, 3. April, Søndag<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Søndag 3.4.87.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Hermed »Hertuginde Tyra«<note>Bangs tre artikler om »Hertuginden af Cumberland«
+                        og hendes aktuelle helbredstilstand blev trykt i Politiken, 3.4., 5.4. og
+                        3.6.1887. Tysk oversættelse af en eller flere af disse artikler har ikke
+                        ladet sig verificere</note> til Hirsch. <hi rend="italics">Men</hi>: jeg regner paa, at
+                    De siger Schorer, at alt sligt Arbejde gør jeg for <hi rend="italics">hans</hi> Skyld, i
+                    Haab om, at Redaktion: da vil ansé det for sin Pligt ogsaa at gøre noget for
+                        <hi rend="italics">min</hi>: f:Ex trykke noget snart: »das Ballkleid«.</p>
+            <p>Hvad er det med <hi rend="italics">Fædra</hi>? Er det atter opsat?? Jeg har
+                        <hi rend="italics">intet</hi> Numer af »Romanzeitung« faaet<note>Bangs roman Fædra blev
+                        i tysk oversættelse »Gräfin Urne« trykt i april 1887 som føljeton i fire
+                        dele i Deutsche Roman-Zeitung; den første del i ugebladets nr. 27, der udkom
+                        ca. 6.4.1887</note>.</p>
+            <p>»Hertuginde Tyra« haster sikkert.</p>
+            <p>Jeg er ret syg af bestandige Nervelidelser, som hindrer mit Arbejde. To Uger har
+                        Schou<note>Andreas Schou (1829-1889), Bangs forlægger i København</note>
+                    intet sendt. <hi rend="italics">Det</hi> er Grunden til at jeg spørger Dem, om det var Dem
+                    muligt at hjælpe mig med <hi rend="italics">50 Mark</hi>. De maa tro, det er kun
+                    Nødvendigheden, som tvinger mig til at bede Dem: Husleje staar for Døren. Kan
+                    De, da <app>
+                  <lem>send</lem>
+                  <rdg>Bang har skrevet: sende ‒ og derpå overstreget det sidste bogstav</rdg>
+               </app> mig Pengene. kære Raad. Jeg skal saa i lang Tid ikke plage Dem.</p>
+            <p>Den norske Artikel skal de faa snarest.</p>
+            <p>Send mig paa et Kort Besked om »Fædra«.</p>
+            <p>Hils Deres Kone<note>Hertha Adele Jonas, født Wadskiær (1807-1894), gift 1848 med
+                        Emil Jonas</note> fra Deres hengivne</p>
+            <p rend="right">H de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

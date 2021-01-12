@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19030825001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+                                    31</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1903-08-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Jacob Hegel</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1903-08-25">[1903, 25. august ?]<note>Datoforslaget er
+                        omtrentligt og bygger på brevets oplysning om, at Bang er rejst fra
+                        Marienlyst til København</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gamle Kongevej 25.</p>
+            <p>Kære Hr. Hegel.</p>
+            <p>Tak for Deres Brev.</p>
+            <p>Jeg er ‒ for at mindske mine Udgifter ‒ vendt tilbage fra Marienlyst ved Hjælp af
+                    et Laan af min Søster, hvad der var mig meget bittert.</p>
+            <p>Jeg forstaar saa inderlig vel alle de Hensyn, De har at tage. Men jeg tror ikke
+                    fuldkommen, De forstaar mig. Jeg er rede til enhver Opofrelse for Forlaget og
+                    skal, hvis Tiden undes mig dertil, vise det.</p>
+            <p>Hver Dag er nu kostbar. Jeg beder Dem derfor <hi rend="italics">selv</hi> bestemme,
+                    hvormeget De vil ofre paa mig til Dagen, hvor »Mikaël« er færdig. Men bestem det
+                    hurtigt. Ti under disse Forhold <hi rend="italics">kan</hi> jeg ikke arbejde. Jeg vilde
+                    gerne have 1/3 af, hvad De bestemte mig, <hi rend="italics">nu</hi> og Resten delt til hver
+                    fjortende Dag, saa jeg akkurat véd, jeg har dog lidt.</p>
+            <p>Tidligere formaaede jeg, for at faa mine store Romaner færdige, saa mange Ting.
+                    Nu er jeg for svag dertil.</p>
+            <p>Med mange Hilsener og Tak til Fru Hegel</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+            <p>»Mikaël« skal være færdig 20 November.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

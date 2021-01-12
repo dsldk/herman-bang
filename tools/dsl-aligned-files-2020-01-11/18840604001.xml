@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840604001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 259</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="telegram">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Telegram, indleveret kl. 10.44 fra Aalborg. Stilet til: <q>Peter
+                                    Nansen / Nørregade 45 / Kbhavn</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1884-06-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1884-06-04"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1884. 4. juni [onsdag]<note>Aftenen før havde Bang
+                  optrådt i Aalborg sammen med skuespillerne <persName key="Lerche_Camilla">Camilla
+                     Lerche</persName> (1836-1914), <persName key="Secher_Julie">Julie Secher</persName> (1860-92),
+                     <persName key="Cetti_Frederik">Frederik Cetti</persName> (1838-1906) og <persName key="Marer_Johannes">Johannes Marer</persName> (1861-1922): tilsammen dannede de <hi rend="italics">Herman Bang
+                  Tourneen</hi>, 3.-12. juni 1884</note>
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>
+               <hi rend="italics">Jeg akcepteredes ikke</hi>. For "en Forlovelse"<note>Skuespil i to akter af
+                     <persName key="Brandes_Edvard">Edvard Brandes</persName>
+                  <!--Edvard Brandes (1847-1931), forfatter, dramatiker, journalist, redaktør og medstifter 1884 af dagbladet Politiken-->, udkom 1884 i
+                  bogform</note> Sukces. Slet Hus. "<!--start title reference--><title key="Kammerater">Kammerater</title>
+               <!--end title reference-->"<note>Lystspil af Peter Nansen,
+                  udkom 1884 i bogform</note> reddede Aftenen. Hilsen til Alle</p>
+            <p rend="right">Din Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

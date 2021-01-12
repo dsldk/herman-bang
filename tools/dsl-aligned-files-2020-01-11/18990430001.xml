@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990430001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær (Christian Frederik Steen); et par navne midt i
+                                            brevet samt brevets underskrift og initialer har Bang
+                                            selv skrevet</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »1-5-99« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1899-04-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-04-30">[1899, 30. april] Søndag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet. ‒ Den
+                        franske teaterdirektør Aurélien Lugné-Poe opholdt sig i København i dagene
+                        omkring 1.5.1899</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hôtel Hafnia ‒ Vestervold.</p>
+            <p rend="right">Søndag Aften.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Som De véd, skal Lugné<note>Aurélien Lugné-Poe (1869-1940), fransk skuespiller og
+                        teaterdirektør; i Paris havde han i 1893 grundlagt Théâtre de l'Oeuvre, hvor
+                        Bang i 1893-94 udfoldede sin franske virksomhed som sceneinstruktør</note>
+                    paa Tirsdag spille Sang<note>Den mandlige hovedrolle i Bjørnstjerne Bjørnsons
+                        skuespil <hi rend="italics">Over evne, I</hi>. Lugné-Poe gæstespillede 2.5.1899 i
+                        rollen på Folketeatret, som 25.3.1899 havde haft premiere på stykket,
+                        instrueret af Herman Bang</note>. Jeg vil af mange Grunde, at Aftenen skal
+                    formes som en Fest, og jeg beder Dem derfor, min Ven, lade Forlaget<note>Det
+                        Schubotheske Forlag</note> tilsende Lugné en Lavrbærkrans med lyseblaa og
+                    hvide Silkebaand med Forlagets og Lugnés Navne i Sølv, hvilket er Farverne i mit
+                        Vaaben<note>Bang hentyder til slægten de Bangs våbenskjold. I form af en
+                        lille vignettegning lod Bang det trykke forrest i to af sine bøger,
+                            <hi rend="italics">Det hvide Hus</hi>, 1898, og <hi rend="italics">Det graa Hus</hi>,
+                        1901</note>.</p>
+            <p>Inskriptionen vilde da se saaledes ud:</p>
+            <p>
+               <app>
+                  <lem>À Lugné-Poë</lem>
+                  <rdg>Denne linje i brevet og den efterfølgende er skrevet i Bangs
+                            håndskrift</rdg>
+               </app>
+            </p>
+            <p>»Det Schubotheske Forlag.«</p>
+            <p>Jeg véd meget vel, at dette er Dem inderlig imod. Men jeg beder Dem alligevel
+                    gøre det for <hi rend="italics">min</hi> Skyld. Jeg véd vel, hvad jeg gjør, og denne ene
+                    Lavrbærkrans bør ikke fattes mellem de andre.</p>
+            <p>Naar jeg ejer noget, der ligner et Verdensnavn, da skyldes det jo dog for en stor
+                    Del dette Menneske. De og Lybecker<note>J.L. Lybecker (1862-1923) var Aage
+                        Hirschsprungs meddirektør for J.H. Schubothes Boghandel og Det Schubotheske
+                        Forlag 1893-1908</note> vil derfor ikke unddrage Dem at vise mig denne
+                    Godhed.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+            <p>Opførelsen af »Barnet«<note>Bang havde instrueret en opsætning af komedien
+                            <hi rend="italics">Barnet</hi> [oversat fra <hi rend="italics">Le berceau</hi>], en komedie
+                        fra 1898 af den franske dramatiker Eugène Brieux (1858-1932). Denne
+                        opførelse på Folketeatret 4.5.1899 havde form af en privatforestilling til
+                        fordel for Hjemmet for Blinde. I den følgende måned rejste forestillingen på
+                        turné rundt i Danmark som Betty Hennings Tournéen</note> vil blive en Triumf
+                    for Fru Hennings<note>Skuespillerinden Betty Hennings (1850-1939)</note>.
+                        Christiansen<note>Forfatteren Einar Christiansen (1861-1939), der 1899-1909
+                        var kunstnerisk direktør for Det Kongelige Teater</note>, som var paa Prøven
+                    i Dag, var ganske »paf«.</p>
+            <p>Efter Forestillingen paa Tirsdag, vil Prof. Nyrop<note>Kristoffer Nyrop
+                        (1858-1931), fra 1894 professor i romanske sprog ved Københavns
+                        Universitet</note> i Foyeren takke Lugné for hans Arbejde for nordisk
+                    Literatur.</p>
+            <p>Bjørnstjerne<note>Bjørnstjerne Bjørnson (1832-1910), norsk forfatter og
+                        dramatiker; forfatter til skuespillet <hi rend="italics">Over evne</hi>
+               </note> ventes
+                    hertil paa Lørdag.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

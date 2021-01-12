@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19051005001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 885</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1905-10-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Bertha Holst (Bangs nièce)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-10-05">1905, 5. Oktober [torsdag] <note>Siden marts
+                        1905 var den 23-årige Bertha Holst indlagt på tuberkulosesanatoriet
+                        Marienlund i Silkeborg</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">5.10.1905.</p>
+            <p>Min kære, min egen Bertha.</p>
+            <p>Du maa have været meget bedrøvet og meget bitter ved min <app>
+                  <lem>Taushed</lem>
+                  <rdg>Ordets to første bogstaver har hullemaskinens perforering af papiret
+                            fjernet</rdg>
+               </app>. Og ikke kan jeg forklare dig, hvorfor jeg taug. Eller dog ‒ maaske kan
+                    jeg forklare det, naar jeg siger dig, det er, fordi jeg er blevet gammel. Ti man
+                    er <hi rend="italics">ældet</hi>, naar man er blevet uvis overfor Afgørelser, naar man
+                    vakler overfor det: at tage Beslutninger. Og det er netop <hi rend="italics">det</hi>, som
+                    jeg har gjort og det er dig, min egen Ven, som har lidt derunder, og som jeg har
+                    gjort bedrøvet.... Hvad skal jeg skrive? At jeg tænker paa dig hver Dag, og at
+                    jeg er saa inderlig bekymret for hver Dag, hvor du er syg og lider? Det ved du
+                    vel dog.... Men gid du, kære Bertha, vilde være saa forsigtig, saa forsigtig, at
+                    hver Time blev et lille Skridt hen mod det at blive helt, helt rask igen. Men
+                    jeg véd jo selv, at der gaar saa lang, lang Tid, inden man bliver ganske frisk
+                    igen ‒ ‒ Her er det koldt og Storm. Ude over Søerne<note>Dvs. søerne i
+                        København. Forrest i Bangs udsigt fra vinduerne i lejligheden Gammel
+                        Kongevej 25, 4. sal, lå Sankt Jørgens Sø</note> ser jeg nu de hvide Maager
+                    flyve. De kommer altid, naar Stormen tager de allersidste Blade...
+                        Sofie<note>Uoplyst, - måske Bangs og Nini Holsts yngste søster Sophie
+                        Gøtsche (1868-1912) ??</note> er paa »Diakonissen« og meget syg. Fru
+                        Holst<note>Nini Holst (1853-1922), søster til Herman Bang, (adoptiv)mor til
+                        Bertha Holst; hun delte 1900-07 lejlighed i København med sin bror</note>
+                    gaar hver Dag til Læge og bliver ikke bedre. Jeg er naturligvis rask ‒ som
+                    altid.... Jeg skulde skrive dig noget muntert. Men jeg ved ikke noget. Med
+                    mindre det skulde være, at selve Livet er <hi rend="italics">saa</hi> muntert, at man nu
+                    har opdaget, at selv Elefanterne græder derover. Og de er dog ellers
+                    tykhudede.</p>
+            <p>Tusind Hilsener ‒</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

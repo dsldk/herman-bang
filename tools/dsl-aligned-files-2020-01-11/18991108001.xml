@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18991108001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »8/11 99« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1899-11-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-11-08">[1899, 8. november] Onsdag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Nej, min egen Ven, der kan ikke blive noget »Graat Hus«<note>Bangs roman Det graa
+                        Hus udkom 26.11.1901 på Det Schubotheske Forlag</note> færdigt til Jul. Jeg
+                    er <hi rend="italics">for</hi> elendig. Opgive Bogen kan jeg ikke ‒ men det vil gaa
+                    langsomt... Og saa faar »de Udvalgte«<note>Bangs »Udvalgte Fortællinger« udkom
+                        1.12.1899 på Det Schubotheske Forlag</note> at repræsentere Digteren nu.
+                    Bogen bliver da tyk nok til det.</p>
+            <p>Og atter maa jeg bede Dem vise mig en Tjeneste. At laane mig vedlagte Penge. Det
+                    er ikke det, kære Hirschsprung, at jeg bruger meget. Men jeg er en Maaned
+                    tilbage ved Teatret<note>Folketeatret, hvor Bang siden 1897 var
+                        sceneinstruktør</note>, Abrahams<note>Severin Abrahams (1843-1900), fra 1884
+                        direktør for Folketeatret med svingende økonomisk udbytte; hans dødsbo
+                        erklæredes fallit</note> ejer ingen Hvid<note>Den laveste møntværdi i dansk
+                        møntvæsen; som mønt blev den for sidste gang præget i 1602, men i sproget
+                        forblev den i århundreder et gængs udtryk for 'ikke at eje spor'</note> og
+                    jeg skal jo dog leve. Dette er ‒ 185 til Pensionatet<note>Frederiksborggade 31,
+                        2.sal, Bangs bopæl siden 3.10.1899</note>, Sofie<note>Bangs husholderske og
+                        tjenestepige</note>, mine Klæder... Og jeg skriver jo ikke i Blade mere.
+                    Naar jeg blot kunde det. Men det kommer maaske.</p>
+            <p>»Gennem Rosenborg Have«<note>Den afsluttende lille novelle i Bangs <hi rend="italics">Udvalgte
+                            Fortællinger</hi>; den blev første gang trykt i
+                            <hi rend="italics">Aftenbladet</hi>, ... ??? ...</note> følger.</p>
+            <p>Saa er den færdig.</p>
+            <p>Smerterne i mit Bryst og i min Ryg er meget heftige.</p>
+            <p>Jeg vilde saa gerne en Aften ud til Dem.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

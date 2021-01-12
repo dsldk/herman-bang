@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050201001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4685, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Fotografiet af den unge kroatiske skuespiller Ivo Raić fra
+                                        Lonja (i rollen som Romeo, ifølge en dansk blyantstilskrift
+                                        på bagsiden) er bevaret sammen med brevet. På bagsiden af
+                                        fotografiet har Ivo Raić skrevet en dedikation til Bang:
+                                            <hi rend="italics">Herrn Herman von Bang. Zur Erinnerung an Ivo
+                                            Raić-Lonja. Prag 18/XI.04.</hi> For- og bagside er
+                                        afbildet i Vivian Greene-Gantzberg: Herman Bang og det
+                                        fremmede, Gyldendal 1992, s.32-33</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Fredericia</placeName>
+               <date when="1905-02-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-02-01">1905, 1. Februar [onsdag] <note>Som bilag til
+                        dette brev har Bang sendt en 10-kroneseddel, sit manuskript til en
+                        annoncetekst beregnet for Berlingske Tidende samt det fotografiske portræt
+                        af Ivo Raić til Christian Houmark; fotografiet ligger endnu ved siden af
+                        brevet, mens manuskriptet og kuverten ikke er bevaret</note>
+            </date>
+            <placeName cert="high">Fredericia</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredericia 1.2.1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Dette er Iwo<note>Ivo Raić (1881-1931), østrigsk-kroatisk skuespiller fra Lonja
+                        sydøst for Zagreb; i årene 1902-1905 gæsteoptrådte han på Nationalteatret i
+                        Prag efter i et års tid at have samarbejdet med Max Reinhardt i
+                        Berlin</note> ‒ den »Kroater«. Han nægter sig intet<note>I Prag traf Bang i
+                        november 1904 Ivo Raić; se Harald Jepsen: »Herman Bang i Prag«, Danske
+                        Studier 1993, s.117</note>.</p>
+            <p>Vil De for disse ti Kroner sætte vedlagte Avertissement i
+                        »Berlingske«?<note>...[.. denne annonce skal eftersøges i Berlingske Tidende
+                        ... !] Bang har formentlig annonceret efter en ny privat tjener. ‒ Skal man
+                        tro Bangs brev 7.2.1905 til Houmark, har annoncen da endnu ikke stået i
+                        avisen ...</note> Og saa sende Billetterne til »Grand Hotel« i
+                        Odense?<note>På sin oplæsningsturné »rundt i landet« rejste Bang få dage
+                        efter dette brevs datering til Odense, hvor han boede på Grand Hotel</note>
+                    Jeg har det elendigt.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

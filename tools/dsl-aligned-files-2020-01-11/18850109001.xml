@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850109001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 59</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider. Brevet er foldet og lukket til en lille kuvert,
+                                 frankeret med et 4-øresfrimærke, poststempel <q>Kiøben[havn]
+                                    9/1</q> og med Bangs udskrift: <q>Hr. Peter Nansen / "Politiken"
+                                    / Østergade / K.</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1885-01-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-01-09"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 9. januar], Fredag<note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Naturligvis – jeg glemte igaar fuldstændig (tænk, at en Forfatter, som debuterer paa
+               hollandsk Papir, kan glemmes saa komplet<note>Sammenhængen ikke oplyst; hollandsk
+                  papir er en type fint håndgjort bøttepapir</note>) at der kunde være andre til
+                  "Diane"<note>Dagmarteatret havde fredag 9.1.1885 kl. 7½ première på den franske dramatiker <persName key="Dumas_den_yngre_Alexandre">Alexandre Dumas den yngre</persName>s (1824-95) skuespil
+                     <!--start title reference--><title key="Diane_de_Lys">Diane de Lys</title>
+                  <!--end title reference--> (oversat af <persName key="Hansen_P.">P. Hansen</persName>) med
+                     <persName key="Nielsen_Oda">Oda Nielsen</persName> (1851-1936) i titelrollen</note> end
+                  <persName key="Brandes_Edvard">Dr.</persName>
+               <note>Dr. Edvard Brandes. Kryptisk, eftersom Edvard Brandes (1847-1931) netop ikke kunne befinde
+                  sig i Dagmarteatret den aften</note> og du. Jeg vilde forfærdelig gerne høre det
+                  Foredrag<note>I Politiken, 9.1.1885: "Folketingsmand Edvard Brandes vil som
+                  tidligere meddelt iaften holde et Foredrag <q>Om Nationalfølelse</q> ved de
+                  forenede liberale Vælgerforeninger paa Frederiksberg's fjerde Møde i denne Sæson.
+                  Tiden er 8½, Stedet Sommerlysts Lokaler. Ikke-Medlemmer har Adgang mod at betale
+                  25 Øre." Foredraget blev dagen efter trykt på forsiden og s. 2 af Politiken, og
+                  andetsteds i avisen står et referat af den efterfølgende debat i den fyldte sal
+                  mellem folketingsmedlem <persName key="Holm_Harald">Harald Holm</persName>
+                  <!--<note>Harald Holm (1848-1903), politiker, fra 1876 medlem af Folketinget (Venstre)</note>-->,
+                  maskinfabrikant <persName key="Schrøder">Schrøder</persName> og Edvard
+                  Brandes</note> – men netop <hi rend="italics">nu</hi> for første Gang at høre en af de
+                  Brødre<note>Brødrene <persName key="Brandes_Georg">Georg</persName> og Edvard
+                  Brandes</note> – vilde vistnok være for "mycket".</p>
+            <p>Lad ham nu vække "Sympati" og sky Irritation. Han kan være <hi rend="italics">saa</hi>
+               irriterende.</p>
+            <p>Tal iaften efter Foredraget om en Aktualitet: <persName key="Bille_C.St.A.">Bille</persName>
+               <note>Velsagtens C.St.A. Bille (1828-98), redaktør 1852-72 af det liberale Dagbladet, politiker, 1880-84 dansk generalkonsul i Washington</note> som "kendt Ansigt". <persName key="Topsøe_Vilhelm">Topsøe</persName>
+               <note>Vilhelm Topsøe (1840-81), cand.jur., forfatter og journalist</note> har sagt mig mangt og meget, som jeg, naar du ei angiver
+               Kilderne, skal fortælle dig. Du kan jo lade, som du har hittet paa det.</p>
+            <p rend="right">H.B.</p>
+            <p>
+               <persName key="Cantor_Alexander">Cantor</persName>
+               <note>Alexander Cantor (1853-1924), cand.jur., 1880-1910 overretssagfører i København</note> har været her i en Time for at
+               bevæge mig – han sagde meget, som jeg maa tale med dig om. Jeg kan komme hen Søndag
+               Morgen. Lad <persName key="Esmann_Gustav">Esmann</persName>
+               <note>Gustav Esmann (1860-1904), ven med Bang og Nansen</note> læse igennem, hvad jeg har skrevet i "R og R"<note><!--start title reference-->
+                  <title key="Realisme_og_Realister">Realisme og Realister</title>
+                  <!--end title reference-->, 1879</note> og "Studierne"<note><!--start title reference-->
+                  <title key="Kritiske_Studier_og_Udkast">Kritiske Studier og
+                     Udkast</title>
+                  <!--end title reference-->, 1880</note> om Dumas<note>Gustav Esmann anmeldte Dagmarteatrets
+                  opførelse, Politiken, 11.1.1885</note>.</p>
+            <p>Au revoir<note>fr.: Farvel</note>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

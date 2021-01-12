@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000729001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »29/9 1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Hørsholm</placeName>
+               <date when="1900-07-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-07-29">[1900, 29. juli] Søndag <note>Den sekundært
+                        påførte blyantsdatering: »29/9 1900« er notorisk forkert</note>
+            </date>
+            <placeName cert="high">Hørsholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hørsholm. Søndag.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Jeg er staaet op af Sengen for at skrive dette Brev. Hvis Lægen<note>Frederik
+                        Funch (1870-1940), praktiserende læge i Hørsholm</note> vidste det, vilde
+                    han tro, jeg var gal. Mit Hjertes Tilstand er en saadan, at den mindste
+                    Tildragelse kan gøre det <hi rend="italics">meget</hi> slemt i Løbet af en Time. Dette er
+                    Lægens Ord.</p>
+            <p>Der er imidlertid intet andet at gøre end at tage hjem. Det er ikke min Skyld, at
+                    det er gaaet som det er. Min Tilstand blev i Byen<note>Dvs. i København</note>
+                    værre og værre og et Ophold paa Landet maatte forsøges. Jeg tog herud<note>Se
+                        Bangs brev til Aage Hirschsprung, 29.6.1900</note>. Nu, hvor jeg ikke kan
+                    arbejde, maa jeg naturligvis tage hjem igen. Ved Hjælp af Morfinindsprøjtninger
+                    gaar det vel. Men jeg maa først betale Lægen og her. Det er gjort med
+                    halvandethundrede Kr. Men dem maa De sende, saa jeg kan vende hjem<note>Dr.
+                        Funch sendte i august 1900 til Det Schubotheske Forlag sin regning på 52
+                        kroner for behandling af Herman Bang i tidsrummet 7.7.-14.8.1900 (regningen
+                        er bevaret i Det Kongelige Bibliotek, Gyldendals Arkiv)</note>. Min
+                        Søster<note>Nini Holst (1853-1922), som Bang siden 4.5.1900 delte bolig i
+                        København med, Gammel Kongevej 25, 4.sal</note> er i Holte men hun maa jo
+                    komme hjem. Jeg kommer vel paa Benene igen, uagtet Smerterne og Aandenøden er
+                    frygtelige.</p>
+            <p>Hvis De vidste, hvor liden Skyld jeg har i alt dette, vilde De have Medlidenhed
+                    med</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Jeg har idag sagt til Lægen, at jeg havde ikke Raad til at være her. Han svarede
+                    mig: De kan jo ogsaa ligesaa godt være i Byen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

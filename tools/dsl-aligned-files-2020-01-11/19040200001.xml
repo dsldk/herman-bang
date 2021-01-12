@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 58</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">empty</placeName>
+               <date when="1904-02-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1904-02-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1904.  februar. ] Mandag Nat<note>Usikker datering:
+                  Oplysningen om <!--start title reference--><title key="Arbejdersken">Arbejdersken</title>
+                  <!--end title reference--> peger i retning af
+                  de første måneder af 1904, jf. Frans Lasson (red.): Sophus Claussen og hans kreds.
+                  Breve, bd. 2, s. 48. Dog ser brevet ud til at være skrevet i København (budet skal
+                  bringe ham to bøger fra Gyldendal) og ikke under en turné. Skriften udelukker
+                  næppe, at brevet snarere er fra fx april-maj 1898 (forud for Arbejderskens eneste
+                  opførelse 17.5.1898)</note>
+            </date>
+            <placeName cert="low">empty</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag Nat.</p>
+            <p>Kære Nansen.</p>
+            <p>Naar jeg kommer til dig, uagtet jeg skylder dig halvfjerds Kr., saa er det, fordi jeg
+               bogstavelig ikke véd, hvordan jeg skal skaffe Brød i Huset og
+                  "Arbejdersken"<note>Skuespil af <persName key="Claussen_Sophus">Sophus
+                     Claussen</persName> (1865-1931), opført én gang på Folketeatret i 1898 i Bangs instruktion.
+                  Tanken om en genopsætning i 1904 blev ikke realiseret</note> maa dog op. Hjælp
+               mig med endnu tredive Kr. Jeg <hi rend="italics">beder</hi> dig. Vedlagte vil engang, naar du og
+                  <persName key="Knudsen_Johan">Johan</persName>
+               <note>Johan Knudsen (1865-1942), medredaktør af avisen København 1890-92, ejer 1891-1909 af godset Bangsbo ved Frederikshavn, bror til Dagmarteatrets direktør C. Riis-Knudsen</note> ordner mine Bøger og Sager, skaffe dig dine Penge igen.
+               Da jeg, naar jeg er færdig med Teatret, gerne vil skrive om <persName key="Drachmann_Holger">Drachmann</persName>
+               <note>Forfatteren, lyrikeren og dramatikeren Holger Drachmann (1846-1908)</note> i Kristiania Aftenposten<note>I René Herring: Herman
+                  Bangs forfatterskab. En annoteret bibliografi er en sådan artikel ikke
+                  fundet</note>, beder jeg dig give Budet "Vølund"<note><!--start title reference-->
+                  <title key="Vølund_Smed">Vølund Smed</title>
+                  <!--end title reference-->. Melodrama, Gyldendal 1894, 3.oplag 1898</note> og
+                     "Forskrevet"<note><!--start title reference-->
+                  <title key="Forskrevet">Forskrevet –</title>
+                  <!--end title reference-->, roman i to
+                  dele, Gyldendal 1890, 2. udgave 1899</note>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

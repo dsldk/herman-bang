@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18821224002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5011, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 117-118 samt en
+                                        facsimile ved s.204-205</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1882-12-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>fru Anna Ferslew</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1882-12-24">1882, 24. December [søndag]<note>Samme dato
+                        sendte Bang det samme håndskrevne digt (med små afvigelser) til sin unge ven
+                        Peter Nansen</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">24.12.82.</p>
+            <p>Idag de siger, <hi rend="italics">han</hi> blev født, som døde</p>
+            <p>‒ At redde Mennesket og skabe Verden Glæde ‒</p>
+            <p>Men vi som altfor sent fik Jordens Støv betræde</p>
+            <p>Til jublende om Krybben frem at møde</p>
+            <p>I Kor af Englene og alle Markens Hyrder....</p>
+            <p>
+               <hi rend="italics">Vi</hi> samle kun idag vort Jordlivs bedste Minder</p>
+            <p>Det sandeste, det kæreste, vi finder.</p>
+            <p>Til Klang af Klokker vi vor Tanke sender</p>
+            <p>Med Tak til alle vore <hi rend="italics">ægte</hi> Venner.</p>
+            <p>Og denne Tak, som ‒ tro mig ‒ rig, fremtræder</p>
+            <p>Saa fattig her i Dumheds Almuklæder ‒</p>
+            <p>Modtag den venligt, som den <hi rend="italics">Tanken</hi> bringer,</p>
+            <p>Selvom mit Vers med altfor mange Fødder</p>
+            <p>‒ fik altfor lidt af Vinger.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

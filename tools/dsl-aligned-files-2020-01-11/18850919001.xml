@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850919001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 133</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrift af Peter Nansen: <q>Ida = Ida Aalberg</q> og på
+                              brevets sidste side: <q>Christina Nilsson?</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XXVII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Itter, Tyrol</placeName>
+               <date when="1885-09-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-09-19"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 19. september], Lørdag<note>Dateringen i Vandreaar, s.
+                  144, er fejlagtig, idet 20.9.1885 var en søndag. Antagelig menes lørdag
+                  19.9</note>
+            </date>
+            <placeName cert="high">Itter, Tyrol</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Itter. Lørdag.</p>
+            <p>Kære Don.</p>
+            <p>Tak for Numrene. Jeg læste Bladene paa en Bjergfart inat, og jeg lod de læste Numre
+               flagre ud over Tyrols Alper. Vi var 7000 Fod over Havet – saa høiere er "den høieste
+               Oplysnings" vidunderlige Lampe<note>Den stiftende kreds bag Politiken havde i 1884
+                  kaldt den nye avis for "Organet for den højeste Oplysning i det danske Folk". Den
+                  vidunderlige lampe er en allusion til <persName key="Oehlenschläger_Adam">Adam
+                     Oehlenschläger</persName>s skuespil <!--start title reference--><title key="Aladdin">Aladdin</title>
+                  <!--end title reference-->
+                  (1805), hvor lampens ånd kan påkaldes for at opfylde de ønsker, som ejeren af lampen måtte
+                  nære</note> vel aldrig naaet. Tak for den overordenlig smigrende Plads, som du
+               gav min Artikel II<note>Politiken, onsdag 9.9.1885, hvor 2. del af Bangs artikelserie
+                  "Det unge Sverig. Iagttagelser og Aforismer" blev trykt, så den fylder det meste
+                  af avisens forside. Kort forinden var en svensk oversættelse af disse artikler
+                  blevet trykt i Göteborgs Handels- och Sjöfarts-Tidning</note> – meget
+                  <hi rend="italics">velskrevne</hi> Artikler, forstaar sig, men dog, entre nous<note>fr.:
+                  mellem os</note>, mest for Sverig, da jeg i Danmark <hi rend="italics">har</hi> sagt alle de
+               Ting, maaske ikke saa samlet kun, men enfin, Folk finder dem jo gode –
+                  <hi rend="italics">men</hi> jeg beder dig dog og <hi rend="italics">meget bestemt</hi> for Fremtiden at
+               angive "G.H.T"<note>Göteborgs Handels- och Sjöfarts-Tidning</note> som
+                  <hi rend="italics">Kilde</hi>. Jeg gaar overfor dig til det yderste af Indrømmelser. Gaa du
+               saa heller ikke videre – hvad? – end du véd, jeg ønsker. Med min Artikel om <persName key="Aalberg_Ida">Ida</persName>
+               <note>Se brevet 1885, 6.september</note> var jeg tilfreds. Den var paa sine Steder
+               veltalende i sin Stil som paa <hi rend="italics">den</hi> Maade kun jeg kan være det. Det vil
+               sige, at der fandtes fire-fem Steder med en stolt, cæsarisk Rytme, som vuggede paa
+               sine klingende Ord en ikke altfor dum Tanke.</p>
+            <p>Med to Ting var jeg utilfreds. Haanskheden overfor Fredensborg<note>Bang hentyder til
+                  satiriserende omtaler i Politiken af et aktuelt besøg på Fredensborg Slot, som to
+                  døtre og to svigersønner aflagde hos det danske kongepar: det russiske kejserpar
+                     <persName key="Aleksander_3.">Aleksander 3.</persName> og <persName key="Maria_Fjodorovna">Maria Fjodorovna</persName>, gift 1866, og den britiske prins
+                     <persName key="Edward">Edward</persName> (7.) og prinsesse <persName key="Alexandra">Alexandra</persName>, gift 1863</note> – den er ufornuftig og Tausheden om
+                  Cirkus<note>Velsagtens en aktuel cirkusforestilling</note>. Dybest smertede det
+               siste mig.</p>
+            <p>Naa, men det var alt ikke det, jeg vilde fortælle.</p>
+            <p>I Sverig sætter mine "Aforismer" de mest ondartede Lus i Peltsene. <hi rend="italics">Der</hi>
+               er imidlertid disse Breve nødvendige, og jeg er den eneste, som kunde skrive dem. Ti
+               hvem Fanden bryde sig ellers om Sverig?</p>
+            <p>Enfin – første Salve arriverer fra <persName key="Geijerstam_Gustaf_af">G. af
+                  G.</persName>
+               <note>Den svenske forfatter Gustaf af Geijerstam (1858-1909)</note>, som efter at have læst Stumpen om sin
+               Journalistik – bittert opsiger mig Huldskab og Tro. Jeg har faret med Usandhed. Han
+               har i Virkeligheden skrevet meget lidt i Pressen – og naar "han <hi rend="italics">ikke</hi> har
+               skrevet er Grunden dertil en eiendommelig: han har ladet sig advare ved visse
+               Artikler underskrevet H.B og Herman Bang, Artikler, som ikke blot kompromitterede en
+               Forfatter men – (o, dybe Skræk) en hvilkensomhelst Journalist".</p>
+            <p>Dette skrev denne Mand. Iøvrigt var Brevet – dette var jo kun Vennens Værdsættelse af
+               min literære Betydning – smertelig fyldt af personlige Spidser og Uartigheder. Jeg
+               returnerede dette Aktstykke med nogle Linier, som min Harme maaske udstyrede med en
+               vis Værdighed. Mit Værd som Journalist og Dommen over det – er mig jo
+                  <hi rend="italics">saa</hi> revnende ligegyldigt, men som Menneske synes jeg G. af G. havde
+               Grund til ikke strax at stene mig.</p>
+            <p>Paa Tirsdag reiser jeg til Berlin, hvor jeg bliver et Par Dage. Derfra maaske
+               hjem.</p>
+            <p>De første Dages Tid, da jeg indsaa, at "Fædra" igen var paa Grund<note>Bang sigter
+                  til sine udarbejdelse af skuespillet <!--start title reference--><title key="Ellen_Urne">Ellen Urne</title>
+                  <!--end title reference-->,
+                  se også brevet 1885, 6.september</note>, gjorde det mig meget ondt. Jeg tror saa
+               vist, at der nu er <hi rend="italics">en</hi> stor Rolle, tre spillelige ditto, og et
+               virkningsfuldt Teaterstykke kommet ud deraf. En vis Regissørdygtighed hviler nu –
+               over Vandene og forgylder dem. Med en <hi rend="italics">stor</hi> Skuespillerinde vil en
+               Direktør gøre et Kup. Og jeg fatter ikke, at dette ikke bliver forstaaet. Om
+                  <hi rend="italics">Kunst</hi>værdi kan der kun være Tale i anden Akt og siste Akts Scene med
+               Karl. Efter at jeg har gjort denne Sjæl mindre dydig tilsist, har jeg faaet en
+               vanvittig Lyst efter at spille. Send, beder jeg, Stykket til Afskriver i tre
+               Exemplarer, ti maaske dog <persName key="Josephson_Ludvig">Josephson</persName>
+               <note>Ludvig Josephson (1832-99), svensk skuespiller, sceneinstruktør og teaterleder</note> vil spille det med <persName key="Aalberg_Ida">"Ida"</persName>
+               <note>Den finske skuespillerinde Ida Aalberg (1857-1915)</note>. Meget begærlig er jeg efter at vide, hvordan du har fundet
+               "la diva Ida". Men den Nysgerrighed maa jeg vist tæmme, for du med dit "Schreibe
+                  bald"<note>ty.: jeg skriver snart</note> er lidt sén i Vendingen.</p>
+            <p>Bjergfarten var vidunderlig. Natfart paa Muldyr<note>Bangs muldyrridning foregik på
+                  det 1.828 m høje bjerg <placeName key="Hohe_Salve">Hohe Salve</placeName> i Tyrol, se brevet
+                  1886, 1.marts</note> – Gletschere i Maanelys – naa – alt det interesserer dig jo
+               mindre end at nikke til "Hesten"<note>Gængs københavnsk betegnelse for rytterstatuen
+                  på Kongens Nytorv</note>, saa jeg vil forskaane dig.</p>
+            <p>Menter-Turnéen<note>Pianistinden <persName key="Menter_Sophie">Sophie
+                     Menter</persName>s anden skandinaviske turné, hvor hun havde Bang som
+                  partner</note> slutter den 26. i <placeName key="Stockholm">Stockholm</placeName>
+               – det hele er kun en Geschichte<note>ty.: historie, her snarere: et
+                  foretagende</note> paa fire Uger. Efter det tror jeg, jeg tager til Paris og
+               Firenze og kommer hjem til Juleaften, hvor du er indbudt. Jeg vil til Italien nu. Alt
+               dette kender man – Tyskland, Norden – store Byer og mindre Byer. Italiens Bjerge har
+               andre Linier, Himlen er klarere – nuvel lad mig da forsøge Italien. Saasnart jeg
+               kommer hjem nu, reiser jeg paa Landet for at blive færdig med min Bog<note><!--start title reference-->
+                  <title key="Excentriske_Noveller">Excentriske Noveller</title>
+                  <!--end title reference-->, som udkom ca.
+                  1.12.1885</note>. En Novellette deraf vil gøre megen Lykke.
+               Petersborg-Silhuetterne bringer mig i Armene paa den vilde Fortvivlelse. Det er ret
+               skralt. Naar jeg blot havde Ro til Bernhard Hoff<note>Bangs arbejdstitel på romanen
+                     <!--start title reference--><title key="Stuk">Stuk</title>
+                  <!--end title reference-->
+               </note> – men i Paris og Firenze skal jeg
+               arbeide mægtigt paa den Mand. Gid det saa kunde være min siste Bog. <!--start title reference--><title key="Hamlet">Hamlet</title>
+               <!--end title reference-->
+               <note>Skuespil af <persName key="Shakespeare_William">William Shakespeare</persName> (1564-1616)</note>, Hertugen af Septmonts<note>Person i
+                     <persName key="Dumas_den_yngre_Alexandre">Alexandre Dumas</persName> den
+                  yngres (1824-95) skuespil Den Fremmede</note>
+               <hi rend="italics">er</hi> skrevet.</p>
+            <p>Det med <persName key="Nilsson_Christina">Nilssons</persName>
+               <note>Den svenske sopran Christina Nilsson (1843-1921) optrådte 9. og 10.10.1885 i Casino i
+                  København, anmeldt af Bang i Politiken, 9. og 11.10.1885</note> mange Hyl ængster
+               mig lidt. For <hi rend="italics">otte</hi> Aar siden – nei – min Sandten – ni, skrev alle
+               Bladene, hun var gammel – naa, vi bliver jo alle yngre med Aarene.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

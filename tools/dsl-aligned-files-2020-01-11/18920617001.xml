@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18920617001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4508, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Brevets kuvert er bevaret sammen med brevet. Kuverten er
+                                        frankeret med et 8 Øre-frimærke, poststemplet »Sæby / 17 /
+                                        6« og bærer et modtagerstempel i København på bagsiden,
+                                        5.ombæring. Bangs udskrift på kuvertens forside: »Hr.
+                                            <hi rend="italics">Julius Schiøtt.</hi> / <hi rend="italics">København.</hi> /
+                                        »Nordstjernen«. <hi rend="italics">Nielsen [et-tegn] Lydiche.</hi> /
+                                        Industriudstillingsbygningen.«</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Sæby</placeName>
+               <date when="1892-06-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1892-06-17">[1892, 17. juni] Fredag<note>Dateringen bygger
+                        på poststemplet og ugedag</note>
+            </date>
+            <placeName cert="high">Sæby</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sæby. Fredag.</p>
+            <p>Kære Ven.</p>
+            <p>Du bevarer din »gyldne« Taushed. Ganske vist ‒ at tale var kun »Sølv«; men vidste
+                    du, hvormeget jeg trænger til en Seddel<note>Bangs eufemisme for:
+                        pengeseddel</note>, vilde du sende den. Eller ialfald svare: om du vil have
+                    »Artisterne fortæller«<note>Bangs artikel i to dele blev trykt i Nordstjernen,
+                        men først i 1896 (20. og 27.9.1896)</note>. De kan saa let anvendes
+                    andetsteds.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050517001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 519</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; fortrykt brevpapir: <hi rend="italics">Hotel /
+                                                  Kongen af Danmark / Telgr.Adr. Kongehotel</hi>
+                                                under rigsvåbnets tre løver, samt <hi rend="italics">København,
+                                                  d.....</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1905-05-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-05-17">1905, 17. Maj [onsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">17.5.1905.</p>
+            <p>Mein lieber Freund.</p>
+            <p>Tausendmal sage ich Ihnen Dank für Ihren Brief. Tausendmal. Denn ich bin krank ‒
+                    nur eine heftige Erkältung. Mein Organismus aber duldet keine Störung. Ich muss
+                    immer meine ganze Kraft(!) besitzen um überhaupt mich selbst besitzen zu
+                    können.... Gott sei Dank, dass Sie »Mikaël«<note>Originaludgaven af Bangs roman
+                        Mikaël var udkommet 30.3.1904. Først i februar 1906 udkom en tysk
+                        oversættelse, Michael, hos S. Fischer Verlag, Berlin</note> recht gut
+                    finden. Begreifen Sie, ich kümmere mich ja nicht darum in der Litteratur eine
+                    »nette« Stellung einzunehmen. Entweder-oder. Und wenn ich mit »Mikaël« den Sieg
+                    nicht davontrage, werde ich nie siegen können ‒ ‒ denn Grösseres kann ich nicht
+                    leisten. Und doch ist dies noch nicht »das Grosse«. Mir fehlt etwas ‒ was aber?
+                    Na ‒ fragen wir nicht.</p>
+            <p>Ich habe jetzt das gewaltige Buch »<app>
+                  <lem>Vom</lem>
+                  <rdg>Bang har først skrevet: wom</rdg>
+               </app> Zorn«<note>A.L. Wolynski: Das Buch vom grossen Zorn, oversat fra russisk
+                        af Josef Melnik, Berlin 1905. Akim Volynskij (1861 eller 1863-1926),
+                        pseudonym for Chaim Lejbovitsj Flexer, russisk litteraturkritiker og
+                        kunsthistoriker; hans bog om Dostojevskij var oprindelig udkommet i Skt.
+                        Petersborg i 1901</note> gelesen. Bin aber heute zu müde. Muss später
+                    darüber schreiben.</p>
+            <p>Adieu, mon très cher.</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

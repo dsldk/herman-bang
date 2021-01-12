@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111211001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 81.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="postkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Postkort; billedsiden viser et fotografi af
+                                                monumentet for generalguvernør Aleksander Suvoroff i
+                                                Sankt Petersborg, ifølge den trykte tekst på russisk
+                                                og fransk</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant i fremmed hånd på postkortets tekstside:
+                                            <hi rend="italics">28-11-11</hi>, formentlig skrevet af Olga
+                                        Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Sankt Petersborg</placeName>
+               <date when="1911-12-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-12-11">1911, 11. December, Mandag <note>Postkort,
+                        frankeret med et 4 kopeks frimærke, poststemplet i Skt. Petersborg <hi rend="italics">
+                            28.11.1911</hi> ifølge russisk kalender [dvs. 11.12.1911 ifølge
+                        vestlig kalender]; adressefeltet udfyldt i Bangs håndskrift: <hi rend="italics">Mm Olga
+                            Dahl / Copenhague. V. / Prinsesse Maries Allée 14.</hi> Dateres efter
+                        Bangs angivelse af ugedag i kombination med poststemplet</note>
+            </date>
+            <placeName cert="high">Sankt Petersborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Igaar var det lidt anstrengende</p>
+            <p>Kl. 2 Frokost</p>
+            <p>Kl. 4 Skandinavisk Forening</p>
+            <p>Kl. 6 <app>
+                  <lem>Fem-Thé</lem>
+                  <rdg>Usikker læsning af de første bogstaver. Begrebet »Fem-Thé« (dvs. at
+                            drikke te kl. 5 om eftermiddagen) anvender Bang fx på postkortet til
+                            Olga Dahl, 11.1.1912</rdg>
+               </app>
+            </p>
+            <p>
+               <app>
+                  <lem>Kl. 8</lem>
+                  <rdg>Tallet er rettet, måske fra: 5</rdg>
+               </app> Operaen.</p>
+            <p>Idag skal jeg læse til imorgen. Alt er udsolgt.</p>
+            <p>Tusinde Hilsener til Dem, min egen Ven, og til Søster.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040819001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 54</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1904-08-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1904-08-19"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1904. 19. august], Fredag<note>empty</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. Fredag.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg skriver dette til dig, skønt det egenlig burde være til <persName key="Bojesen_Ernst">Bojesen</persName>
+               <note>Ernst Bojesen (1849-1925), forlægger, chef for Det Nordiske Forlag, der i 1903 indgik i Gyldendalske Boghandel Nordisk Forlag, med Peter Nansen og Ernst Bojesen som ledende direktører</note>. Men jeg ved ikke om Manden er hjemme.</p>
+            <p>Voilà:</p>
+            <p>Der har været en umaadelig Sludder om et Bidrag til Almanak'en "Danmark". Jeg skulde
+               levere en Novelle paa 16 Sider, og derfor forlangte jeg 300 Kr. Men det var for meget
+               – og saa vilde jeg ikke.</p>
+            <p>Men saa skrev en Ven til mig for et Par Uger siden, at det var dumt ikke at skrive i
+               "Danmark". Og saa tænkte jeg over det og fik en udmærket Idé: Det er en munter
+               Middagsscene, hvor <persName key="Bang_Thora">min Moder</persName>
+               <note>Thora Bang (1829-71), født Blach, gift med Frederik Ludvig Bang, fra 1863 bosat i Horsens, mor til Herman Bang</note> ved Desserten faar <persName key="Brammer_G.P.">Biskop
+                  Brammer</persName>
+               <note>Sognepræst G.P. Brammer (1801-84) var fra 1845 til sin død biskop over Aarhus stift, hvortil Horsens hørte</note> til at
+               danse. Det bliver vel 8 Sider. Det halve har jeg skrevet. Men jeg var igaar saa træt,
+               at jeg ikke kunde skrive videre; jeg vil saa nødig ødelægge det brillante Stof. Men
+               jeg beder nu om Honoraret kan være 150 Kroner – hvad dog ikke er for meget. Og om du
+               vil give <persName key="Ernst_Knud">Ernst</persName>
+               <note>Knud Ernst</note> de Penge med, da jeg skal rejse imorgen. "Danmark" skal have
+               Manuskriptet inden en Uge:</p>
+            <p>"Da Bispen dansede –"<note>"<!--start title reference--><title key="Da_Hans_Højærværdighed_dansede">Da Hans
+                     Højærværdighed dansede –</title>
+                  <!--end title reference-->", trykt før 24.11.1904 i Danmark. Illustreret
+                  Familie-Almanak for 1905, s. 40-43; optrykt i Romaner og noveller, bind 10, s.
+                  262-271</note>.</p>
+            <p>Du vil nok gøre mig den Tjeneste?</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">Herman B.</p>
+            <p>
+               <persName key="Esmann_Gustav">Esmann</persName> talte her igaar med meget Held<note>Efter i sommerens løb
+                  at have holdt en række "konferencer" (causerier) på Sommerlyst på Frederiksberg
+                  optrådte forfatteren Gustav Esmann (1860-1904) på lignende vis torsdag 18.8. på Marienlyst. Bang skrev en rosende
+                  anmeldelse, "Gustav Esmann paa Marienlyst", København, 20.8.1904, der diskuterer
+                  Esmanns charmerende form og virkemidler uden at antyde hvilke emner, han den aften
+                  havde underholdt sit henrykte og eksklusive publikum med</note>. Gud ske Lov, du,
+               at han har faaet det at leve af.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

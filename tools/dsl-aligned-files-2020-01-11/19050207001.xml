@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050207001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 51</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider. Fortrykt brevpapir: <q>Grand Hotel. James
+                                    Perrot</q> med et stort tegnet billede af hotellet og ranker med
+                                 fligede blade til venstre, samt: <q>Odense, den ... 190.. / Telefon
+                                    587-1041-1042. / 3 Minutters Vej fra Banegaarden</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1905-02-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-02-07"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 7. februar [tirsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">7.2. 1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Hvis De er fortumlet, blev jeg det ved Deres Brev ikke mindre. Men jeg
+                  <hi rend="italics">tror</hi> det, oprigtig talt, ikke. Det maa være Løgn og
+                  Digt<note>Sammenhængen drejer sig om aktuelle københavnske teaterforhold.
+                  Udtrykket er en association til den norske dramatiker <persName key="Ibsen_Henrik">Henrik
+                     Ibsen</persName>s skuespil <!--start title reference--><title key="Peer_Gynt">Peer Gynt</title>
+                  <!--end title reference-->, 2. akt,
+                  hvor hovedpersonens mor Aase siger om ham: "[...] Han som stødt foer med løgn og
+                  digt; – han, som bare i munden er stærk; [...]", og Peer selv i en monolog taler
+                  om "Digt og forbandet løgn!", lidt senere varieret til: "løgn og forbandet
+                  digt!"</note>. Saadan noget er umuligt. Hr. <persName key="Poulsen_Adam">Adam
+                  Poulsen</persName> kan dog ikke rende til det Teater. Men ellers er det maaske
+               sandt, at de andre kan faa en Bevilling. Men hvor faar de et Teater? Medmindre det er
+               Dagmarteatrets Bevilling, som de faar? Hvad i al Verden er der nu at gøre? Naar
+                  <persName key="Petersen_Fritz">Fritz Petersen</persName>
+               <note>Fritz Petersen (1877-1911), 1903-05 ejer af Sommerlyst, 1905-10 direktør for Casino og meddirektør for Dagmarteatret; gift 1899 med skuespillerinden Johanne Fritz-Petersen</note> har faaet Kasino – hvad
+               han igaar telegraferede – saa kan han jo ikke lede Turnéer. Og hvad saa? I hvert Fald
+               – gaa til <placeName key="Bergen">Bergen</placeName>. For at spille, for at tjene –
+               og for at puste. Og dernæst til <placeName key="Stockholm">Stockholm</placeName> og
+                  <placeName key="Helsingfors">
+                  <hi rend="italics">Helsingfors</hi>
+               </placeName>. I Helsingfors
+               kan meget tjenes og – meget vindes.</p>
+            <p>Ja – jeg skriver ikke mere. Ti udover det praktiske véd jeg intet at
+                  <hi rend="italics">sige</hi>. Jeg véd saagar ikke en Gang, hvad jeg skal tænke ..... Men
+               Livet er virkelig smukt og fuldt af Troskab og Højsind og alt, hvad ædelt er.
+                  Prosit<note>lat.: Gid det må gøre gavn!, et udbrud som Bang hér bruger
+                  ironisk</note>.</p>
+            <p>Hvad mig angaar, har jeg nu kun halvtredsindstyve Byer tilbage – –</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

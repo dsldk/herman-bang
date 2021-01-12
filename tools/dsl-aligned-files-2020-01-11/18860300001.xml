@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860300001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio.</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-03-01">[1886. marts; Torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien</p>
+            <p>Kæreste Ven.</p>
+            <p>I <hi rend="italics">Lørdags</hi> fik jeg din Depeche: »Penge afsendt. Poste restante«. Og
+                    nu gaar Torsdag til Ende og endnu ingen Penge og fra dig, min Ven, intet
+                    forklarende Brev.</p>
+            <p>Hvordan gaar det til?</p>
+            <p>Ankommet er intet. Jeg har været paa tre Posthuse hver Dag.</p>
+            <p>Har du maaske hørt, at »Politiken« havde sendt og saa fundet, at det hastede
+                    ikke?</p>
+            <p>Men, min Ven, naar man har lidt som jeg, trænger man til ikke lidet for at blot
+                        <hi rend="italics">lidt</hi> Orden og <hi rend="italics">lidt</hi> Ro. Blot det at vide, du
+                        <hi rend="italics">har</hi> i denne fremmede By, saa langt fra Hjemmet 100 Kroner!</p>
+            <p>Og Korrektur ikke ‒ og Brev ikke!</p>
+            <p>Var Galschiøtts Penge<note>Bang sigter til sit honorar for novellen »Enkens Søn«,
+                        der tryktes 7.3.1886 i Illustreret Tidende, redigeret af Martinus
+                        Galschiøt</note> imellem dem i Lørdags Depeschen <hi rend="italics">omtalte</hi>?</p>
+            <p>Send ialfald <hi rend="italics">dem</hi> strax, hvis de ikke <hi rend="italics">er</hi> afsendte.</p>
+            <p>At det ikke skal gentage sig ‒ disse Rædsler.</p>
+            <p>Tøi har jeg nu hjemme. En ny Udvandring var saa græsselig.</p>
+            <p>Men i hvert Fald skriv: Naar, hvordan, hvor meget du har afsendt? Af hvem du har
+                    modtaget Beløbene? Og under hvilken Adresse? Jeg <app>
+                  <lem>mener</lem>
+                  <rdg>Ordet har Bang rettet fra: menener</rdg>
+               </app>, om du har skrevet: Poste restante. Haupt-Post.</p>
+            <p>Hvis du <hi rend="italics">intet</hi>havde afsendt, vilde du jo dog sikkert have skrevet mig
+                    Grunden.</p>
+            <p rend="right">Hils derhjemme ‒ din Kone ‒ og Ungerne.</p>
+            <p rend="right">Herman.</p>
+            <p>Svar <hi rend="italics">telegrafisk</hi> efter Modtagelsen af Brevet og tag Telegram-Gebyret
+                    af »Nordstjerne Honoraret«.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870726001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 376</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-07-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-07-26">[1887, 26. juli] Tirsdag<note>Dateringsforslaget
+                        hos Torbjörn Nilsson, s.147 note 54 og s.291 nr. 36, følges</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Tirsdag.</p>
+            <p>Min kære Kammerraad.</p>
+            <p>Maaske har De slet ikke modtaget mit Brev fra i Søndag, otte Dage<note>Bang
+                        sigter antagelig til det brev til Emil Jonas, som Bang har dateret
+                        12.7.1887; denne dag var en tirsdag</note>, hvor jeg bad Dem, mens de var i
+                    Berlin, hvis det paa nogen Maade var muligt, at inddrage hos Schorer eller, hvor
+                    vi ellers maatte have noget til Gode, 50 Mark til mig.</p>
+            <p>Det er den haarde Nødvendighed, som tvinger mig til at gentage min Bøn. Jeg er
+                    ganske og aldeles »blank« og om nogle meget faa Dage har jeg Husleje at betale ‒
+                    100 fl!</p>
+            <p>Altsaa, bedste Raad, gør alt, hvad De kan.</p>
+            <p>Ja ‒ naar Vinteren kommer, maa jeg vel opgive denne Kamp. Jeg havde haabet, ‒ en
+                    Gang haabet ‒ at vi to Stakler kunde trænge saaledes ind i Tyskland, at
+                        <hi rend="italics">det</hi>, som jeg ved Blade fik <hi rend="italics">mindre</hi> i Norden paa
+                    Grund af mit Ophold ude ‒ at dette Minus kunde opvejes af Indtægter i
+                    Tyskland.</p>
+            <p>Men dette viser sig jo mer og mer umuligt.</p>
+            <p>Naar vi maa give mine Bøger gratis ‒ Gud hjælpe os, Arme ‒ og Artiklerne skal
+                    brødføde os, da er det for trist en Revenue. Tænk dog, hvor lidt egenlig min
+                    hele Novelle-»Skat« har indbragt os! Ja ‒ de ottehundrede Mark ‒ som Schorer
+                    vist aldrig glemmer mig, og hvis Halvdél jeg endnu efter saa lang Tids Forløb
+                    ikke en Gang har kunnet naa at afdrage....</p>
+            <p>Det er én af mit Livs betydeligste Drømme, jeg begraver: <hi rend="italics">den</hi> i
+                    Berlin at virke efter Evne for Sammenslutning og Forstaaelse af Danmark og
+                    Norden ‒ naar jeg nu rejser hjem til Oktober.</p>
+            <p>Men hvoraf skal jeg leve. Fra <hi rend="italics">alle</hi> nordiske Blade havde jeg i
+                    forrige Maaned ‒ 50 Kr:, og mine Indtægter i Tyskland i dette Aar kender De.</p>
+            <p>Jeg har endnu bestandig intet Korrekturark modtaget af min store Roman<note>Dvs,
+                        Stuk</note>. Naar der kommer, sendes det. Jeg skriver nu paa <app>
+                  <lem>det</lem>
+                  <rdg>Ordet er rettet fra: dett</rdg>
+               </app> ottende Kapitel af ti, og haaber at have dette Kapitel færdigt den
+                    første.</p>
+            <p>Lev vel ‒ hils Deres Frue<note>Hertha Adele Jonas, født Wadskiær (1807-1894),
+                        gift 1848 med Emil Jonas</note>.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

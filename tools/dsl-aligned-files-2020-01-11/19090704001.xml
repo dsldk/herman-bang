@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19090704001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 214</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1909-07-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1909-07-04"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1909. 4. juli, cirka], Søndag<note>Forudsat at den omtalte "i Onsdags" sigter til flytningen fra Berlin
+                til Danmark 30.6. (jf. brevet 1909. 14. juni. ), er den foreslåede datering
+                sandsynlig</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. Søndag.</p>
+            <p>Tak for din Hilsen, min Ven. Ja, det var paa høje Tid, vi taler sammen. Men jeg
+                        var i Onsdags saa træt, at jeg intet overkom og jeg er det endnu. Med Hensyn
+                        til Legatet<note>Det Anckerske Legat</note> er jeg rede til enhver
+                        "Aktion". Men jeg frygter, <persName key="Larsen_Karl">"Professor
+                                Karl"</persName>
+               <note>Forfatteren Karl Larsen (1860-1931), titulær professor 1899</note>
+               <hi rend="italics">har</hi> været rede, saa at alt vil lidet nytte. I Løbet af Ugen
+                        kommer jeg ind.</p>
+            <p>
+               <persName key="Bondy_Hans">Hans Bondy</persName>
+               <note>Hans Bondy (1881-1917), tysk forlægger, Berlin</note> har sendt <persName key="Réjane_Gabrielle">Réjane</persName> og Halvdelen af <persName key="Nansen_Betty">Betty</persName>
+               <note>Dvs. manuskript til Bangs
+                  tekster om disse to skuespillerinder, som indgår i bogen <!--start title reference--><title key="Menschen______________________und_Masken">Menschen
+                     und Masken</title>
+                  <!--end title reference-->, Berlin 1909</note> – kan I ikke straks begynde at sætte
+               løs paa Værket<note><!--start title reference-->
+                  <title key="Masker_og_Mennesker">Masker og Mennesker</title>
+                  <!--end title reference--> –, Gyldendal 1910</note>. Jeg
+                        bringer Resten af Betty Nansen med, naar jeg kommer ind. Jeg vilde jo saa
+                        gerne, at det om hende skulde lykkes mig. Men det er saa ofte saadan, at
+                        hvor man vilde mest, naar man mindst.</p>
+            <p>Mit Humør er meget nedtrykt.</p>
+            <p rend="right">Din Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

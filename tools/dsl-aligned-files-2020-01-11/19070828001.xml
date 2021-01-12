@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070828001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>empty</settlement>
+                        <repository>Privateje</repository>
+                        <idno>empty</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-08-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Svend Gade</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-08-28">1907, 28. August [onsdag] <note>På Kleines
+                        Theater, Unter den Linden 44 i Berlin, havde den danske dramatiker Sven
+                        Langes komedie <hi rend="italics">Die Stimme der Unmündigen</hi> (originaltitel:
+                            <hi rend="italics">De umyndiges Røst</hi>) premiere onsdag 28.8.1907; »Skuespillet
+                        gives med Teatrets Første-Kræfter i Hovedrollerne og i Dekorationer af Hr.
+                        Svend Gade« (Politiken, 27.8.1907). At Bang og hans unge ven Josef Melnik
+                        (1881-1931) overværede den tyske premiere fremgår af Melniks notits på det
+                        trykte teaterprogram og på teaterbilletten (Parquet rechts, Reihe 8, Sitz
+                        No. 183), som i dag begge findes i Det Kongelige Bibliotek blandt Bangs
+                        breve til Melnik: NKS 2353, folio</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nürnbergerstrasse 36. Berlin. W.</p>
+            <p rend="right">28.8.1907.</p>
+            <p>Kære Hr. Gade.</p>
+            <p>Tak for Billetterne, som det iøvrigt er urimeligt, De har sendt<note>Scenografen
+                        Svend Gade (1877-1952), der siden 1904 havde boet i Berlin og arbejdet på
+                        Kleines Theater, havde sat Sven Langes komedie <hi rend="italics">Die Stimme der
+                            Unmündigen</hi> i scene. Premieren fandt sted samme aften som brevet
+                        er skrevet</note>. Jeg var jo i hvert Fald kommet. Jeg skylder Sven
+                        Lange<note>Sven Lange (1868-1930), forfatter og dramatiker</note> en saa
+                    uendelig Taknemmelighed, at hver, selv den allermindste Tjeneste, jeg kan gøre
+                    ham, er mig en, snart sagt, hellig Pligt.</p>
+            <p>Nu spytter jeg tre Gange paa Dem for at bringe Lykke. Og tre Gange paa Lange, som
+                    De maa hilse.</p>
+            <p>Og saa vil jeg spørge Dem: Kan De ikke omgaaende sende mig et Billede af Dem og
+                    hurtigst faa taget et Par Scenebilleder af Stykket? Saa skulde jeg skrive
+                    Teksten og saa satte vi det i »Illustreret Tidende?«<note>Bang skrev om den
+                        tyske premiere i avisen København, 31.8.1907. I Illustreret Tidende,
+                        6.10.1907, findes Bangs tekst: »'De Umyndiges Røst' i Berlin« ledsaget af
+                        oplysningen: »(Scenebilledet fotograferet for »Sport im Bild«)«</note>
+            </p>
+            <p>Naar man er ung, glæder saadan Noget dog altid.</p>
+            <p rend="right">Bien à vous.</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850306001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 283</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider. Fortrykt brevpapir: <q> R. Cadier / Prop.re du
+                                    Grand-Hôtel et de l'Hôtel Rydberg / Stockholm</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. X</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Stockholm]</placeName>
+               <date when="1885-03-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-03-06"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 6. marts [fredag]<note>Dateringen i Vandreaar s. 76
+                  følges</note>
+            </date>
+            <placeName cert="high">[Stockholm]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">d. <app>
+                  <lem>6.2.</lem>
+                  <rdg>skrivefejl for: 6.3</rdg>
+               </app> 85.</p>
+            <p>Kære Peter.</p>
+            <p>Tak for dit Brev i to Ord kun, ti jeg er meget angst til iaften, hvor jeg skal tale
+               paa Teatret og erobre Stockholm. Seiren venter mig, forstaar du, men den er ikke
+               endnu vunden her som i <placeName key="Göteborg">Göteborg</placeName>. Iaften maa det
+               ske.</p>
+            <p>En stor Penge-Sukces er det. Jeg har allerede 1500 Kroner staaende i Banken og 200
+               hos Portier her. Jeg haaber at tjene en otte-ti tusind. Ved du, at jeg fra iaften af
+               skal tale hver Dag lige til jeg gaar til Finland? Saa du kan ingen Fornøielse have af
+               at komme nu; men den første Juni tager jeg, hvis alt gaar vel fra <placeName key="Kristiania">Kristiania</placeName>
+               <note>Oslo, Norge</note> til <placeName key="Stettin">Stetin</placeName>
+               <note>Stettin, Tyskland; i nutiden Szczecin, Polen</note> og du gaar ombord i K. og er en Uge hos mig i <placeName key="Berlin">Berlin</placeName>-<placeName key="Dresden">Dresden</placeName>. Vil
+               du det?</p>
+            <p>Jeg kunde fortælle dig, kære Peter, mange mærkelige Ting om vore Bekendte her, men
+               "jag låter bli' det", da jeg skal tale iaften.</p>
+            <p>Kritiken her er kold men skriver dog: Hr. <persName key="Brandes_Georg">Georg
+                  B.</persName>
+               <note>Georg Brandes (1842-1927), dr.phil., litteraturkritiker og forfatter, bror til Edvard Brandes</note> taaler ingen Sammenligning med H.B.</p>
+            <p>Det samme skreves i Göteborg. Til næste Efteraar taler jeg i Berlin.</p>
+            <p>Lev vel, kære Peter, og tusind Hilsener til <persName key="Nansen_Immanuel">"Barnet"</persName>
+               <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>. Lad ham dog skrive mig til.</p>
+            <p>Jeg skrev dig til i Tirsdags – har du ei faaet det Brev? Det glæder mig for din Skyld
+               ret hjerteligt, at Bladet<note>Dvs. Politiken</note> gaar saa godt. Jeg har ligget
+               syg i to Dage, er saa svag, at alle her ængstes derover. Men jeg maa holde ud.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

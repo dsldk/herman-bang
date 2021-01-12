@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19020320001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 360</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Frederikssund</placeName>
+               <date when="1902-03-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1902-03-20"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1902. 20. marts.  [torsdag]<note>Rekreationsophold i Frederikssund marts(-april?)
+                1902</note>
+            </date>
+            <placeName cert="high">Frederikssund</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Frederikssund.</p>
+            <p rend="right">20.3.1902.</p>
+            <p>Kære Ven.</p>
+            <p>Du ved nu – efter hvad man skriver mig til – at min Læge har beordret mig herhen
+                        for at have en fuldstændig Ro. Jeg er dog allerede nu saa meget bedre, at
+                        jeg haaber, jeg snart igen kan begynde at skrive for <app>
+                  <lem>Alvor</lem>
+                  <rdg>Ordet er efterfulgt af et overstreget: igen</rdg>
+               </app>.</p>
+            <p>Jeg sender dig i Korsbaand en lille Historie<note>Formodentlig "<!--start title reference--><title key="Livets_Gang">Livets Gang</title>
+                  <!--end title reference--> –",
+                                trykt i Illustreret Familie-Journal, 2.3.1902, s. 67-70. Ikke siden
+                                optrykt. Eftersom Bang fremsender historien i korsbånd, må det være
+                                det pågældende nummer af bladet, han sender til Nansen, og ikke sit
+                                manuskript</note>, hvis Personer er gamle og det hele, og som, højt
+                        regnet, kan være Vidne om min Virtuositet. Men maaske kan den bruges en Gang
+                        i Fremtiden. I alt Fald er det bedst, du har den. To andre smaa Noveller
+                        følger efter. Saa kan du gemme dem alle i Bunke.</p>
+            <p>Hvor det dog er godt, at <persName key="Nansen_Betty">din
+                                Kone</persName>
+               <note>Betty Nansen</note> er rask igen.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

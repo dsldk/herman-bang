@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040822001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 252</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Rønne</placeName>
+               <date when="1904-08-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-08-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 22. august.  [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Rønne</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Rønne. <app>
+                  <lem>22.8.190</lem>
+                  <rdg>Bang har glemt at skrive det sidste ciffer i datoens årstal.</rdg>
+               </app>
+            </p>
+            <p>Kære Nansen.</p>
+            <p>Tak. Novellen<note>"<!--start title reference--><title key="Da_Hans_Højærværdighed_dansede">Da Hans Højærværdighed dansede –</title>
+                  <!--end title reference-->", se note til brevet
+                  19040819</note> skal du faa i de første Dage af September.</p>
+            <p>Jeg sender her et Eksemplar af "<!--start title reference--><title key="Mikaël">Mikaël</title>
+               <!--end title reference-->", som det nye Oplag skal trykkes efter. Der er
+               rettet lidt hist og her. Side 231<note>Svarer til Romaner og noveller, bind 5, s.
+                  150. Oplysning om denne tilføjelse i bogens 2.oplag ser ikke ud til at være
+                  medtaget i DSL-udgaven, jf. også Bangs berigtigelse af romanens motto, trykt i
+                  avisen København, 21.10.1904</note> er Tilføjelsen <hi rend="italics">meget</hi> vigtig. Jeg
+               kan ikke udholde at læse Korrektur igen. Lad en paalidelig Person gøre det.</p>
+            <p>Oplaget skal vel være paa 1000 Ekspl:? I skulde sé, at I kunde faa det saa hurtigt
+                  færdigt<note>Mikaël, 2.oplag, udkom ca. 6.10.1904 i 1200 ekspl</note>, at det
+               udkom samtidig med, at jeg begynder mine Oplæsninger af "Mestrens Død". Det bliver i
+               første Tredjedel af Oktober. Det er underligt, men jeg tror, at der vil komme et
+               tredje Oplag til Jul eller lige efter Jul.</p>
+            <p>Mange Hilsener.</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

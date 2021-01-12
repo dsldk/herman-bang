@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18810716001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5011, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 6 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blæk er der øverst på brevets side 1 med fremmed hånd
+                                        (sandsynligvis Anna Levin) skrevet: »Topsøe døde 11 Juli
+                                        1881« og: »Schandau 16 Juli 1881«</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 79-82, en næsten
+                                        fuldstændig gengivelse af brevets ordlyd</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Bad Schandau, Sachsen: Villa Quisisana]</placeName>
+               <date when="1881-07-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Ferslew</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1881-07-16">[1881, 16. Juli, lørdag]<note>Bang har ikke selv
+                        datereret brevet. Anna Levins forslag 16.7.1881 tages til følge. Ifølge
+                        brevets egne oplysninger skrev Bang sin mindeartikel om Vilhelm Topsøe den
+                        samme dag som dette brev, og den trykte artikel bærer i Nationaltidende
+                        dateringen: »Schandau, den 16. Juli«</note>
+            </date>
+            <placeName cert="high">[Bad Schandau, Sachsen: Villa Quisisana]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Hr. Ferslev!</p>
+            <p>De havde Ret: Schandau er noget af en Drøm. Om Dagen skinnende Solskin over den
+                    glidende Flod, Flimmer og Glands over spillende Vand, blaalig Dunkelhed over
+                    Høiderne. Og saa om Natten. Time efter Time sidder jeg her paa min Altan og
+                    stirrer paa Floden som en dunkel Slange mellem mørke Sider ‒ jeg kalder det selv
+                    at sætte min Melankoli i Drivhus. Stilheden, Flodens evige Hvidsken, Vindpustene
+                    i Naaletræerne paa Høiden ‒ alt gemmer det Hemmeligheder, alt hvidsker det
+                    hemmelige Længsler, om Sorger, om Dagen, som svandt. Oftest er det Morgen, naar
+                    jeg <app>
+                  <lem>ruller</lem>
+                  <rdg>Ordets første bogstav er rettet, vistnok fra: t</rdg>
+               </app> Persiennerne op og gaar i Seng. De vil vistnok sige, at det er usundt, og
+                    at det ikke er derfor De har sendt mig afsted ‒ kæreste Hr. Ferslev ‒ hver maa
+                    blive rask paa sin Maade, og Skønheden her har kun vakt hos mig et brændende
+                    Begær efter blot én Gang at kunne skrive om lidt af Herligheden, Verden eier.
+                    Digterne, tror jeg, gjøre Tjeneste som Briller: mange Folk ere svagsynede, og de
+                    maa have Brillerne paa for at blive opmærksomme paa noget af det skønne.</p>
+            <p>Bierrings<note>Emil Bierring (18...-...), journalist og redaktionssekretær ved
+                        Nationaltidende .....</note> Brev fortæller mig idag ganske kort, at alle
+                    ere bedøvede over Topsøes Død, som jeg ikke anede, og som jeg intet havde hørt
+                    om. Jeg kan ikke sige Dem<note>Forfatteren Vilhelm Topsøe døde 11.7.1881 i
+                        Skodsborg, ... år gammel</note>, hvor forbauset jeg blev, jeg vilde ikke tro
+                    mine Øine, da jeg læste og læste om igjen. Ingen dansk Forfatter har haft saa
+                    megen Indflydelse paa mig, ingen har i meget staaet mig saa nær. Hvor mærkeligt,
+                    at vi den siste Dag vi saaes, skulde tale saa venligt sammen, at han med saa
+                    megen Følelse skulde ønske mig en lykkelig Reise! Der bliver en tom Plads, hvor
+                    han ikke mere er tilstede. Et stort, men altfor lidet hengivende Talent er med
+                    ham tabt for os.</p>
+            <p>For <hi rend="italics">Dem</hi>, Hr. Ferslev, er nu Øieblikket kommet til at udrette store
+                    Ting. Jeg véd jo her ikke, hvem der skal være »Dagbladets« Leder, men en Topsøe
+                    erstattes ikke. Var <hi rend="italics">jeg</hi> blot hos Dem ‒ eller kunde <hi rend="italics">De</hi>
+                    blot være her i <hi rend="italics">en</hi> Time, vi forstaar saa godt hinanden. De
+                        <hi rend="italics">maa</hi> nu bemægtige Dem en politisk »Opfattelse« i Bladets
+                    Ledelse, en større Selvstændighed, en bevidst Følelse af, at nu <hi rend="italics">De</hi>
+                    og <hi rend="italics">Deres</hi> ikke blot besidder Udbredelsen men ogsaa Indflydelsen.
+                    Tiden bør nu være kommet, hvor ogsaa vi dødsdømmer Ministre men en »politisk
+                    Stilling« er dertil nødvendig, en hensynsløsere Kraft paa enkelte Punkter.</p>
+            <p>Men ‒ meget af dette ligger udenfor mit Felt. Andet forstaar jeg bedre, og det er
+                    dette: <hi rend="italics">Hvem der end bliver Leder af »Dagbladet«, vil altid nogle af
+                        Bladets Medarbeidere, enten af Misundelse eller af forskellig Overbevisning
+                        blive uenig med den nye Ledelse ‒ disse maa</hi> De<hi rend="italics"> erhverve. Jeg
+                        mener da Medarbeidere som Matzen<note>..... Matzen (18.......),
+                            ........</note>, Goos<note>.......... Goos (18.......),
+                            ............</note> o:s:v:</hi> som skrev en Gang imellem, men som
+                        <hi rend="italics">var</hi> »Dagbladet«. Var jeg blot hjemme, at jeg kunde tale med
+                    Dem.</p>
+            <p>Dernæst bør »Nationaltidende« saa tidt, saa ofte, saa veltalende som muligt <app>
+                  <lem>dvæle</lem>
+                  <rdg>Ordet ser ud som om det er stavet med et stort D, måske som følge af en
+                            rettelse, som Bang har foretaget</rdg>
+               </app> ved det uerstattelige Tab, vi alle have lidt. Intet er klogere. Ikke
+                    sandt?</p>
+            <p>I.P. Jakobsen<note>J.P. Jacobsen (1847-85), forfatter</note> og Alexander
+                        Kjelland<note>Alexander Kielland (18.........), norsk forfatter</note>
+                    haaber jeg at kunne erhverve for Nationaltidende, med Jakobsen har jeg allerede
+                    indledet Underhandlinger. Men for at vi ogsaa der med ét kan slaa os fuldt op,
+                    maa <hi rend="italics">Føljetonen</hi> som i tyske og franske Blade have sin egen
+                    Underredaktør som drager Omsorg for alt, hvad der kommer: baade æstetisk og
+                    videnskabeligt. I denne Føljeton skulde saa ogsaa den udførlige Kritik. Tro mig,
+                    De vilde vinde derved.</p>
+            <p>Jeg har overtænkt dette meget nøie ‒ De ved om <hi rend="italics">Literaturtidenden</hi> har
+                    vi ofte talt, og Organisation og Navne skal jeg bringe Dem, naar jeg kommer
+                    hjem. Er De endnu i København og endnu ikke reist ‒ hvorfor da ikke strax lægge
+                    Veien over Deres deilige Schandau? Det er saa svært for mig at tale og ordne en
+                    Smule, det er saa let for <hi rend="italics">Dem</hi>, en enkelt Idé kunde jeg maaske være
+                    med til at give, og <hi rend="italics">nu</hi> skal »Slaget« leveres.</p>
+            <p>I alt har De haft Ret, kære Hr. Ferslev, kun ikke i, at her er billigt, her er
+                    blevet meget dyrt. Jeg skrev til Hr. Bierring og bad ham sende mig foruden de
+                    200 ‒ siste Halvdel ‒ 100 Kroner som Forskud den femtende, men da jeg jo altid
+                    faar min Gage forud ‒ den første August for August ‒ svarede han, at jeg maatte
+                    henvende mig direkte til <app>
+                  <lem>[...]</lem>
+                  <rdg>Ordet er ulæseligt i min kopi ...</rdg>
+               </app> hvis det var »nødvendigt«. Om det var nødvendigt ‒ store Himmel. De maa
+                    ikke blive vred, men jeg <hi rend="italics">maa</hi> blive her fjorten Dage endnu,
+                        <hi rend="italics">nu</hi> først kan jeg skrive, have det deiligt, arbeide, sende gode
+                    Ting hjem. Dette Forskud paa 100 Kroner skulde jeg jo dog have den første August
+                    som Gage foruden 50 Kroner. Desuden skriver jeg idag en Artikel om
+                        »Topsøe«<note>Bangs mindeartikel »Vilhelm Topsøe« er trykt i
+                        Nationaltidendes morgenudgave 24.7.1881. Teksten er dateret: »Schandau, den
+                        16. Juli«</note> som maa i strax, naar den kommer ‒ den giver mig vel en 40
+                    Kroner. Ialt 200. Lad mig faa dem ‒ ialfald.</p>
+            <p>Men alt dette hjælper dog ikke ‒ thi saa har jeg jo intet til den første. At
+                    tilstaa mig endnu 200 Kroner ligesom de 400 ‒ véd jeg ikke om gaar an. Men kan
+                    jeg <hi rend="italics">haabe</hi> det?</p>
+            <p>Under alle Omstændigheder, kære Hr Ferslev, <app>
+                  <lem>bliv ikke fortørnet</lem>
+                  <rdg>Ordene er tilføjet over linjen</rdg>
+               </app> fordi jeg beder saa aabent, og giv ialfald Hr. Bierring Lov til strax at
+                    sende mig Forskuddet paa de 100 Kroner ‒ hvis det er Formen. Uden
+                        <hi rend="italics">det</hi> kan jeg ikke blive her længer og maa strax tage hjem.</p>
+            <p>
+               <app>
+                  <lem>Bliv</lem>
+                  <rdg>Ordet kan ikke læses i min kopi ......</rdg>
+               </app> nu ikke vred, men vær saa elskværdig, kære Hr. <app>
+                  <lem>Ferslev</lem>
+                  <rdg>Navnets sidste led er ulæseligt</rdg>
+               </app>, strax at svare, thi jeg ved ikke, hvor jeg ellers skal tage Pengene fra
+                    til at blive længere paa dette Sted. Kan jeg faa 200 lagt til Reiselaanet, saa
+                    jeg ialt havde 600 Kroner ligesom ifjor ‒ vilde jeg, som sagt, være vild af
+                    Glæde.</p>
+            <p>Men til det vigtigste: altsaa Øiet henvendt paa »de Misfornøiede« ved Dagbladet,
+                    tænk paa Redaktionen af Føljetonen, der kan danne Bro til at forsone alle og
+                    forbered en »Literaturtidende«. Vi <hi rend="italics">maa</hi> kunne udrette noget
+                    tilsammen.</p>
+            <p>Vær ikke vred over den maaske altfor uærbødige Tone i dette Brev, men jeg har
+                    Hovedet saa fuldt af Topsøe og »Nationaltidendes« Fremtid. Men alt, hvad jeg
+                    herom har skrevet, maa blive <hi rend="italics">mellem mig, Dem og Deres Frue<note>Anna
+                            Ferslew, født Lindholm (1837-1904), gift 1858 med Christian
+                            Ferslew</note>
+               </hi>, som vist giver mig Ret. Angaaende Pengene, da
+                    beder jeg altsaa om, hvis jeg ikke kan opnaa et Tilskud i Laanet, da at modtage
+                    de 100 Kroner i Forskud, men Guderne vide, hvordan de skal række. Svar mig
+                    imidlertid <hi rend="italics">strax</hi> enten direkte med et Par Ord eller gjennem Hr.
+                        B.<note>Dvs. Emil Bierring (18........), .........</note>
+            </p>
+            <p>Mange Hilsener fra</p>
+            <p rend="right">
+               <app>
+                  <lem>Dr</lem>
+                  <rdg>Bang har utvivlsomt ment: Deres</rdg>
+               </app> Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

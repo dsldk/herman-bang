@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900300001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 73</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Norge?]</placeName>
+               <date when="1890-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-03-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890.  marts. ] Lørdag<note>Bogen er Korte Veje, som udkom
+                  i marts 1890</note>
+            </date>
+            <placeName cert="high">[Norge?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Peter.</p>
+            <p>Tak for din Bog<note>Peter Nansens <!--start title reference--><title key="Korte_Veje">Korte Veje</title>
+                  <!--end title reference-->. Scener og Smaahistorier udkom hos Schubothes forlag i ugen 21.-27.3.1890</note>, som
+               jeg læste iaftes.</p>
+            <p>Hvor mange Minder dog dens Sider vakte.</p>
+            <p>Hvor er det længe siden – synes jeg – dens første Fortælling<note>Den første
+               fortælling i Korte Veje hedder "<!--start title reference--><title key="En_Sejltur">En Sejltur</title>
+                  <!--end title reference-->"</note> blev til og du læste den for
+               mig oppe i vor Stue på Royal<note> Dvs. Nationaltidendes redaktion, Ved Stranden,
+                  København</note>. Hvormeget er der siden skét – hvor lidet glædeligt, hvor meget
+               trist.</p>
+            <p>Behøver jeg at sige dig, at jeg synes, at din Bog er mer talentfuld end de aller,
+               allerfleste? Du gode Gud – her <hi rend="italics">staar</hi> dog noget paa hvert Blad (naa –
+               "<!--start title reference--><title key="Skyer">Skyer</title>
+               <!--end title reference-->"<note> Formodentlig forfatteren <persName key="Pontoppidan_Henrik">Henrik
+                     Pontoppidan</persName>s (1857-1943) novellesamling, som udkom ca. 7.-13.3.1890. Jf. også
+                  Bangs artikel "Endnu er Mesterværk" i avisen København, 17.10.1890, hvori han
+                  refererer kritikernes dom, at Pontoppidans bog hører til årets
+                  mesterværker</note> er saamæn et net Værk) og hvor fint det saa er
+                  <hi rend="italics">skrevet</hi>. Jeg lærer saamæn aldrig at skrive dansk.</p>
+            <p>Til Lykke, min Ven.</p>
+            <p>Sjælen H.B. har det miserabelt.</p>
+            <p>Mange gode Hilsener til <persName key="Brock_Louise">din Kone</persName>
+               <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

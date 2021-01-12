@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19090712002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 930</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1909-07-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1909-07-12">[1909, 12. juli] Mandag <note>Dateringsforslaget
+                        støttes af ordlyden i Bangs to breve til Peter Nansen, 12.7. og
+                        16.7.1909</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. Mandag.</p>
+            <p>Min kære Nini.</p>
+            <p>Inderlig Tak for dit Brev. Det var saamæn den eneste Hilsen, som modtog mig her.
+                    Forresten bliver mit Ophold her kun kort. Allerede idag otte Dage maa jeg til
+                    Byen og begynde<note>Bang hentyder til sit nye engagement som sceneinstruktør
+                        ved det københavnske teater Casino; de to første opsætninger på Casino, som
+                        han instruerede efter sin hjemkomst fra Berlin, var operetten <hi rend="italics">Prins
+                            Incognito (Kattekongen)</hi>, premiere 14.8.1909, og lystspillet
+                            <hi rend="italics">Gurli</hi>, premiere 29.8.1909</note>. Det bliver et utroligt
+                    Slid for mig den første Tid. Derfor maa jeg have lidt Stunder til at finde mig
+                    tilrette i det nye Hus<note>Bangs nye lejlighed, Lille Strandstræde 20,
+                        1.sal</note>. Lejligheden er gammel men god. Det maa ogsaa være gamle Stuer.
+                    Ellers passer mine Møbler altfor daarligt. Men jeg har faaet mange skønne Ting
+                    foræret i Berlin. Masser af Billeder og meget kostbart Nips. Det pynter altid
+                    lidt. Og store Palmer har jeg. De har holdt sig godt paa Rejsen, sagde
+                        Tjeneren<note>Tyskeren Max Hartmann, Bangs tjener siden 1.9.1908; han fulgte
+                        Bang til København og var tjener og praktisk medhjælp for ham i Lille
+                        Strandstræde 20 fra 1909 til 1911</note>, som var inde, da Møblerne kom ‒
+                    ‒</p>
+            <p>Ja, ja, det gaar vel, skønt mit Humør er meget tungt. Lev vel og hils alle.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18831209001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 144</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrift af Peter Nansen: <q>V.M. – Vilhelm Møller</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. II</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1883-12-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1883-12-09"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1883. 9. december], Søndag<note>Dateringen i Vandreaar s. 54
+                  følges. – Vilhelm Møllers angivelige anmeldelse af Fædra er ikke blevet
+                  identificeret i Romaner og noveller, bd. 2 (s. 499), hvor Bangs oplysninger i
+                  dette brev om Vilhelm Møllers rolle omtales som gådefulde (s. 496)</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Tak, min Ven, for dit Brev. Maaske træffer dette Svar dig ikke, men jeg skriver det
+               for at være sanddru. Thi "<!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->s" Sukces – c'est si
+                  drôle<note>fr.: det er så løjerligt</note>. De første Dages Stemning var for en
+               Sukces – nu er alt "glaceret"<note>Dvs. isnet</note>. Det hele har – og jeg tager
+               ikke Feil – gestaltet sig til "<!--start title reference--><title key="Haabløse_Slægter">Haabløse</title>
+               <!--end title reference-->" om
+               igen. Kort skal du altsaa høre disse Dages Historie. Onsdag Middag arriverer fra
+                  <persName key="Møller_Vilhelm">V.M.</persName>
+               <note>Vilhelm Møller (1846-1904), forfatter, litteraturkritiker og tidsskriftredaktør. V.M. er også således identificeret i Vandreaar, s. 54</note> en
+               Anmeldelse, af hvilken jeg skal citere dig Begyndelsen: ["]Altfor mange Gentagelser,
+               altfor stor Ordrigdom, en Del ganske døde Pletter. Alt ialt dog ret underholdende.
+               Fra en Riddersal fyldt med Ligstank og gammel Lystenhed føres man gennem plat
+               Drukkenskab og religiøse Kramper forbi romanagtig sværmerisk Kærlighed, akkompagneret
+               af Zigeunermusik til en haabløs Lidenskab, der hulker og hulker sig frem, indtil den
+               raller ud i ækel Drukkenskab og hviner sig træt i Morfinist-Forfjottelse! Plaudite
+                  cives<note>lat.: Klap, borgere</note> – ikke sandt? her er nok at klappe af." ...
+               Hvor det er dumt, jeg græder, men det er <hi rend="italics">presset</hi> ud af mig i disse Dages
+               Sorg. Jeg mødte <persName key="Henriques_Axel">Henriques</persName>
+               <note>Axel Henriques (1851-1935), forfatter, dramatiker og teaterkritiker</note>. "Saa siger han: Det er <app>
+                  <lem>en</lem>
+                  <rdg>Ordet er skrevet to gang, men ikke rettet af Bang</rdg>
+               </app> daarlig Bog <hi rend="italics">Deres</hi>. De er ikke noget Menneske. De vil aldrig kunne
+               skrive en god Bog." For første og siste Gang tabte jeg Taalmodigheden. Jeg svarede
+               ham lidt bittert. Det var dumt. Ellers er Stillingen denne: alle Høireaviserne vil
+               betragte Bogen som en Skandale og <hi rend="italics">tie</hi>; Venstre vil beklage den ɔ:
+               "Morgenbladet" skal anonymt rose den og saaledes kalde <persName key="Brandes_Georg">G.B.</persName>
+               <note>Georg Brandes (1842-1927), dr.phil., litteraturkritiker og forfatter, bror til Edvard Brandes</note> frem for i en Artikel "Gevækster i Literaturen" at bryde
+               Staven over min Formastelighed<note>At bryde staven over nogen eller noget: et
+                  gammelt udtryk, hvis oprindelse menes at være dommeren, der efter afsagt dom
+                  brækker sin stav over den dømtes hoved som tegn til, at bødlen nu kunne tage
+                  over</note>. Det er <persName key="Jacobsen_J.P.">I.P.</persName>
+               <note>Forfatteren J.P. Jacobsen (1847-85)</note> som har dikteret V.M. hans ædle Artikel – V.M. som har
+               gennemrettet Bogen.</p>
+            <p>Enfin<note>fr.: kort sagt, altså</note> – naar du kommer hjem, vil du træffe mig som
+               sædvanlig. Du véd, hvilken Afsky jeg har for Rollefaget "miskendt Geni" – jeg tier
+               derfor. Men det er dog en ny Isnat over min Sjæl. Og havde jeg ikke Overbevisningen
+               om, at dog et og andet ("Morfinhistorien, som De har taget fra <persName key="Pontoppidan_Knud">Pontoppidan",</persName>
+               <note>Læge Knud Pontoppidan (1853-1916), 1882-86 reservelæge ved Københavns Kommunehospitals 6. afdeling, bror til forfatteren Henrik Pontoppidan. I 1883 skrev han sin medicinske disputats <!--start title reference--><title key="Den_kroniske_Morfinisme">Den
+                     kroniske Morfinisme</title>
+                  <!--end title reference-->
+               </note> sagde Axel H<note>Axel
+                       Henriques (1851-1935), forfatter, dramatiker og teaterkritiker</note>) <hi rend="italics">var</hi> godt, vilde det være mig endnu tungere.
+               Taushed og Angreb besvarer jeg ved paa Søndag at <hi rend="italics">tale</hi> i Kasino om
+               Instruktion (lille Sal, Matinèe og ved af al Magt at tage fat paa at dramatisere<app>
+                  <lem>)</lem>
+                  <rdg>Parentesen burde være lukket efter ordet: Matinèe</rdg>
+               </app>. Ellers ved jeg intet nyt. "Arvesynd" er hos Bogbinderen<note>
+                  <persName key="Iversen_Iver">Iver Iversen</persName>s novelle "Arvesynd" udkom ikke i
+                  bogform. Bang må forveksle titlen med Iversens
+                     <!--start title reference--><title key="Unge_Piger">Unge Piger</title>
+                  <!--end title reference-->. Situationer og Scener, som udkom i
+                 december 1883. Forfatteren Iver Iversen (1862-92) blev student 1880, cand.med. 1887, reservelæge på Garnisonssygehuset i København, fra december 1887 læge i Nørre Nebel, Jylland</note>. Nu kommer <persName key="Esmann_Gustav">Esmann</persName>
+               <note>Den fælles ven Gustav Esmann (1860-1904)</note> og forstyrrer.</p>
+            <p rend="right">Adieu</p>
+            <p rend="right">Din Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

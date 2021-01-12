@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900105001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 336</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Brevpapir med trykte initialer: H B. øverst til
+                                 venstre, begge bogstaver med lang nedstreg</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Odense?]</placeName>
+               <date when="1890-01-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1890-01-05"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1890. 5. januar [søndag]<note>empty</note>
+            </date>
+            <placeName cert="low">[Odense?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">d. 5.1.90.</p>
+            <p>Kære Nansen.</p>
+            <p>Et glædeligt Nytaar. Tænkt det baade for dig og <persName key="Brock_Louise">Kone</persName>
+               <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> og Hus og Krønike<note>Dvs. tidsskriftet <!--start title reference--><title key="Af_Dagens_Krønike">Af Dagens Krønike</title>
+                  <!--end title reference-->
+               </note> – har jeg saagu, og
+               det baade godt og mange Gange. Men skrive det gør jeg jo først nu. Et lykkeligt Aar
+               hjemme og ude, kære Peter N. og Redaktør.</p>
+            <p>Sér du: paa <persName key="Heidenstam_Verner_von">Heidenstam</persName>
+               <note>Bangs artikel "Verner von Heidenstam" tryktes i februarnummeret af Af Dagens
+                  Krønike, s. 145-159. Verner von Heidenstam (1859-1940) var svensk forfatter og lyriker</note> var jeg allerede begyndt før Jul. Her er han.
+               Naturligvis maa jeg nu uopholdelig have Pengene. Dette bliver nok en fjorten Sider.
+               Kan du lade <persName key="Langhoff_Paul">Langhoff</persName>
+               <note>Forlæggeren Paul Langhoff (1862-94), indtil 1893 indehaver af J.H. Schubothes Forlag, København</note> sende 70 Kr.? Men helst Mandag, da jeg skulde rejse til
+                  Eiby<note>Uvist om Bang mener <placeName key="Ejby">Ejby</placeName> på Fyn eller
+                  på Sjælland</note> Tirsdag Aften. Onsdag Aften kommer jeg saa til København paa
+               tre Dage.</p>
+            <p>Jeg vedlægger et <app>
+                  <lem>Mnskrpt</lem>
+                  <rdg>Forkortelse for: Manuskript</rdg>
+               </app>. Véd du, at det er meget mærkeligt i al sin Forskruethed. Og <persName key="Kühnel_Arnold">"Samuel Weller"</persName>
+               <note>Pseudonym for Arnold Kühnel (1850-1908), officer ved Generalstaben, fortaler for Københavns landbefæstning; under diverse pseudonymer skrev han noveller til københavnske dag- og ugeblade. Formentlig drejer dette sig om manuskript til en
+                  ugebladsnovelle; hvilken lader sig ikke afgøre. Sam(uel) Weller er iøvrigt navnet
+                  på en person i <persName key="Dickens_Charles">Charles Dickens'</persName> roman
+                     <!--start title reference--><title key="Pickwick_Papers_The">The Pickwick Papers</title>
+                  <!--end title reference--> (1836)</note> –
+               dets Forfatter – er vor eneste virkelige Humorist. Navnet tør jeg ikke sige dig.
+               Manden er Kaptejn i Generalstaben. Lad saa Pengene strax afgaa, for at jeg kan komme
+               afsted.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

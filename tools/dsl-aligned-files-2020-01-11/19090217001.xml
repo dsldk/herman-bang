@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19090217001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 552</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1909-02-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1909-02-17">1909, 17. Februar [onsdag] <note>Brevets
+                        modtager Josef Melnik synes at opholde sig i Sankt Petersborg, ifølge
+                        brevets ordlyd</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">17.2.1909.</p>
+            <p>Mein guter Ossip.</p>
+            <p>Verzeihen Sie, dass ich nicht geschrieben habe. Nicht, dass ich nicht an Sie
+                    denke. Denn das thue ich und jeden Tag. Aber ich schreibe so schlechte Briefe.
+                    Und ich habe auch nichts zu schreiben. Sie kennen ja das Leben hier. Es ist wie
+                    immer. Und auch in Petersburg können Sie sich sagen: Jetzt geht Bang spazieren;
+                    jetzt geht er zu Tisch; jetzt geht er schlafen. Nur eins hat sich ein wenig
+                    geändert: ich habe wieder angefangen zu arbeiten und »die Liste« ist recht
+                    schön.... Ach, lieber Ossip, wie ist das doch alles langweilig... Na. Und
+                        <hi rend="italics">Ihre Arbeit</hi>? Sind Sie ebenso faul wie gewöhnlich? Es scheint
+                    beinahe so. Sie haben in der Beziehung kein Gewissen ‒ nicht Ihnen selbst
+                    gegenüber, nicht dem Vaterlande. Oh, hätte ich Ihre Jugend <app>
+                  <lem>og</lem>
+                  <rdg>Bang har skrevet ordet på dansk</rdg>
+               </app> Ihre Kräfte, und wäre ich ein Russe, wie würde ich darauf los stürmen ‒ ‒
+                    Sie aber. Ist das ein Elend. Ein solches Gehirn zu haben und dann eine solche
+                    Lust das alles zu »verplaudern« ‒ Na, wird dies eine Predigt und noch dazu eine
+                    nutzlose.... Schmied<note>... ikke identificeret ...</note> war bei mir. Es geht
+                    ihm ‒ <hi rend="italics">glaube</hi> ich ‒ besser. Magnussen<note>... ikke identificeret;
+                        måske Erik Magnussen (1884-1961), sølvsmed og tegner; i 1907-1909 opholdt
+                        han sig ved Kunstgewerbeschule i Berlin</note> hat sich verlobt ‒ mit einer
+                    Dänin ‒ und ist noch krank..... Sonst weiss ich gar nichts. Nur, dass ich mich
+                    sehr nach Ihnen sehne.</p>
+            <p rend="right">Auf Wiedersehen, très cher.</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Ich möchte gern die russische Revue sehen, in welcher über mich etwas stand ‒
+                    weil es in Rusland ist</p>
+         </div>
+      </body>
+   </text>
+</TEI>

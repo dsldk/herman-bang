@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19021122001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 30</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-11-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1902-11-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1902. 22. november. ] Lørdag<note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Ven.</p>
+            <p>Halløj – her er Manuskript<note>En delaflevering af Bangs manuskript til <!--start title reference--><title key="Ravnene">Ravnene</title>
+                  <!--end title reference-->
+               </note>.</p>
+            <p>Nu har du det Halve.</p>
+            <p>Paa Tirsdag faar du det næste.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+            <p>Har du set, at jeg idag hyler for <persName key="Collett_Camilla">Fru
+                  Collett</persName>
+               <note>Den norske forfatter og kvindesagsforkæmper Camilla Collett (1813-95), født Wergeland. I avisen København, 22.11.1902, har Bang anmeldt <persName key="Bergsøe_Clara">Clara Bergsøe</persName>s (1837-1905) bog: <!--start title reference--><title key="Camilla_Collett">Camilla Collett</title>
+                  <!--end title reference-->. Et Livsbillede, Gyldendal
+                  1902</note>? Og igaar skraalede jeg for de "To Løver"<note>Ikke identificeret ud
+                  fra René Herrings bibliografi. Kan måske have forbindelse med et aktuelt forslag
+                  til en talerstol på Skamlingsbanken, Jylland. Billedkunstneren <persName key="Frølich_Lorenz">Lorenz Frølich</persName> (1820-1908) havde tegnet et forslag med Slesvigs to løver (denne
+                  tegning er afbildet i <persName key="Jessen_Franz_von">Franz von
+                     Jessen</persName>s artikel "<!--start title reference--><title key="Skamlingsbanken">Skamlingsbanken</title>
+                  <!--end title reference-->", Illustreret Tidende, 16.11.1902, s. 114). </note>.
+               Jeg svage Menneske faar dog Tid til en Del.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

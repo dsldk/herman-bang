@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060100001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 204</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1906-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1906-01-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1906.  januar. ] Torsdag<note>En datering til januar 1906
+                  er usikker, jf. Breve til Fritz, s. 225</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Kære Ven.</p>
+            <p>
+               <persName key="Boesen_Fritz">Boesen</persName>
+               <note>Fritz Boesen (1877-1931), skuespiller ved Folketeatret 1898-1900, i Norge 1903-04 med eget selskab, fik ca. 1905 egen teaterbevilling for danske stationsbyer. Om Herman Bangs ulykkelige kærlighed til ham, se: Breve til Fritz, 1951</note>, der nu har faaet "kongelig Bevilling", vilde gerne opføre
+                  "<!--start title reference--><title key="En_Fallit">En Fallit</title>
+               <!--end title reference-->" og "<!--start title reference--><title key="Renæssance">Renæssance</title>
+               <!--end title reference-->"<note>Skuespil af hhv. nordmanden <persName key="Bjørnson_Bjørnstjerne">Bjørnstjerne Bjørnson</persName> (1832-1910) og danskeren <persName key="Drachmann_Holger">Holger
+                     Drachmann</persName> (1846-1908)</note> til næste Sæson. Han betaler ligesom de andre og
+               hans Selskab staaer jo under min Opsigt.</p>
+            <p>Men hvorhen skal han vende sig for retsligt at erhverve de to Digterværker? Vil du
+               sige mig det i et Par Ord? Det var jo gamle <persName key="Lindberg_August">August
+                  L.</persName>
+               <note>August Lindberg (1846-1916), svensk skuespiller og teaterleder, nordisk banebryder for Henrik Ibsens
+                  værker</note>, der solgte ham "<!--start title reference--><title key="Rosmersholm">Rosmersholm</title>
+               <!--end title reference-->"<note>Skuespil af den norske dramatiker <persName key="Ibsen_Henrik">Henrik
+                     Ibsen</persName> (1828-1906)</note> og nu kan han jo ikke mere "gøre Forretning".</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+            <p>Men det haster.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

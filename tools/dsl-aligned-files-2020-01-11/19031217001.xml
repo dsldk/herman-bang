@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19031217001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1903-12-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1903-12-17"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1903. 17. december.  Torsdag<note>empty</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag d. 17/12 1903.</p>
+            <p>Kære Nansen.</p>
+            <p>Hermed <!--start title reference--><title key="Mikaël">Mikaël</title>
+               <!--end title reference-->-Manuskript. Det er en besynderlig Følelse i en stor Bog at
+                        nedskrive de Ting, der i <app>
+                  <lem>mange</lem>
+                  <rdg>Ordets første bogstav er rettet fra et: A</rdg>
+               </app> Aar har hvilet i Ens Hjærne og Hjærte.</p>
+            <p>Hermed følger ogsaa en lille Fortælling<note>"<!--start title reference--><title key="Kroner_3300">Kroner: 33,00</title>
+                  <!--end title reference-->", trykt i Julelys,
+                                1903, s. 4-6; optrykt i Romaner og noveller, bd. 10, DSL 2010, s.
+                                246-251</note> fra "Julelys", som <app>
+                  <lem>vil</lem>
+                  <rdg>Ordet "jeg" synes at mangle i sætningen</rdg>
+               </app> indlemme i mit Repertoire som Oplæser, og som skal være Led i den
+                        Novellesamling, som jeg, under Titlen "Mappen"<note>En sådan novellesamling
+                                blev ikke realiseret, men at dømme efter en række af Bangs breve tog
+                                Nansen i disse år vare på et voksende antal mindre tekster af Bang,
+                                trykt mange spredte steder, med henblik på at samle de bedste sammen
+                                i bogform. Om dette formål bruger Bang tit ordet "Mappen" i brevene
+                                til Peter Nansen. Jf. også titlen på den tyske antologi <!--start title reference--><title key="Aus_der_Mappe">Aus der Mappe</title>
+                  <!--end title reference-->, Berlin 1908</note>, vil sanke sammen til næste Jul. Der er
+                        Stof nok.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

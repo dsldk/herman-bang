@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18980301001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Datoen »1.III.98« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-03-01">[1898, 1. marts] Tirsdag <note>Brevet er skrevet
+                        på Folketeatret, Nørregade i København, hvor Bang siden november 1897 var
+                        sceneinstruktør. Bang nævner selv i brevet, at "det er idag den
+                        første"</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Ja ‒ det er mange Dage siden De fik Manuskript<note>Formentlig afleverer Bang
+                        portionsvis manuskript til bogen Det hvide Hus, som udkom 25.11.1898 hos Det
+                        Schubotheske Forlag</note> ‒ jeg ved det nok. Men jeg slider Dag og Nat og
+                    jeg kan ikke faa nedskrevet alt, hvad jeg har i mit Hoved. Men det er idag den
+                    første, al min Gage er optaget og jeg har ingenting. Lidt maa jeg have. Ellers
+                    tager de Sengeklæder og det Hele. Send mig treds Kr. her op paa Folketeatret ‒
+                    Indgang ved Volden ‒ inden Kl. tre ‒ for Himlens Skyld. Og, kære Hirschsprung,
+                    en Bøn har jeg til Dem. Mine Hjælpekilder er udtømte efter denne frygtelige
+                    Sommer og Vinter. <hi rend="italics">De</hi> kender Mennesker og rige Mennesker. Andre
+                    Kunstnere hjælpes. Kan De ikke gaa til en Mand og bede for mig. At han gav mig
+                    de trehundrede Kr. som skænkede mig Fred i en Maaned. Jeg er saa udslidt, saa
+                    forpint, sa udtraadt, at jeg segner ‒ ‒ og jeg har ingen Udveje mere. Tænk Dem
+                    om. Det var dog muligt, at Deres Godhed fandt Raad, hvor jeg ingen Sti sér. Og,
+                    som sagt, det gøres nødigt<note>Dvs. det bliver nødvendigt</note>. Her ved
+                        Teatret<note>Folketeatret, hvor Bang siden november 1897 havde kontrakt som
+                        sceneinstruktør</note> har jeg faaet, hvad jeg <hi rend="italics">kan</hi> men
+                        <hi rend="italics">nu</hi> vilde de Penge <hi rend="italics">hjælpe</hi>.</p>
+            <p>Paa Torsdag skal De faa Manuskript. Men send mig de treds Kr. inden tre herind
+                    paa Teatret og aflever Konvoluten til Portneren. Ellers gaar det Hele galt. Og
+                    ikke ‒ derom beder jeg ‒ et Ord til nogen om dette stakkels Brev:</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

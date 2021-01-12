@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19110518001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1911-05-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1911-05-18"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1911. 18. maj [torsdag]<note>Brevet er sendt til
+                     Stockholm. I maj 1911 gæstespillede
+                  Betty Nansen på Svenska Teatern i Stockholm, jf. Kvam, s. 107</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">18.5. 1911.</p>
+            <p>Min kære Ven.</p>
+            <p>Deres Brev gjorde mig saa bedrøvet, at jeg ikke kan sige det. Ikke, fordi De ikke
+               kunde tale med <persName key="Ranft_Albert">Ranft</persName>
+               <note>Albert Ranft (1858-1938), svensk skuespiller og teaterleder</note>. Ti det faaer nu gaa, som det kan (og gaar jo nok ad
+               Helvede til). Men fordi De er syg. Og ene, mens De er syg. Jeg hørte saa meget om, at
+               De foer saa livligt om her i Staden, inden De rejste. Og det gjorde mig lidt bange.
+               For <hi rend="italics">vi</hi> spræller mest, naar vi véd, at vi skal hænges ... Ak, du store
+               Intet, hvad er det for en Verden og et Liv. <persName key="Poulsen_Karen">Karen
+                  P.</persName>
+               <note>Skuespillerinden Karen Poulsen (1881-1953), datter af <persName key="Poulsen_Olaf">Olaf Poulsen</persName>, kusine til Adam og Johannes Poulsen</note> har sejret. "Familien" laver nu Aktieselskab med tre
+               Teatre og <persName key="Nielsen_Johannes">Johannes Nielsen</persName> i Toppen som
+               "Overdirektør".<note>Skuespilleren Johannes Nielsen (1870-1935) var 1908-12 direktør for Folketeatret, 1911-12 i forening med Dagmarteatret</note> (Denne Titel ønsker Manden selv – eh bien<note>fr.: nuvel!</note>,
+               han er jo sukkersyg.) <persName key="Poulsen_Adam">Adam</persName>
+               <note>Skuespilleren Adam Poulsen (1879-1969), som 1911-14 var meddirektør for Dagmarteatret</note> – "Dagmars" Underdirektør; <persName key="Christiansen_Einar">Einer Christiansen</persName>
+               <note>Einar Christiansen (1861-1939)</note> – Nørregades<note>Dvs. Folketeatret</note>
+               Underdirektør; <persName key="Schmidt_Ivar">Ivar Schmidt</persName>
+               <note>Skuespiller Ivar Schmidt (1869-1940), fra 1911 direktør for Det Ny Teater, København</note> – økonomisk
+               Direktør; Fire Sceneinstruktører – ???? – – – en Hær af Embedsmænd og over hele Hæren
+               Karen Poulsen hængende i en Snor som Skytsenglen. <persName key="Liebmann_August">Liebman</persName>
+               <note>Skuespilleren August Liebmann (1864-1952), direktør 1910-11 for Dagmarteatret</note> er en Lordt. Undskyld .... Ja, nu stop. Og hold dog
+               Modet oppe – ellers er for Alvor alting tabt.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

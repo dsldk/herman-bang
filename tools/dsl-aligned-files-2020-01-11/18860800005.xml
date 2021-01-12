@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860800005</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-08-01">[1886. august] Mandag<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Mandag.</p>
+            <p>Kære Jules.</p>
+            <p>Tak for <hi rend="italics">to</hi> Breve.</p>
+            <p>Ret i Fortalen som du vil. En i en Fortale udtalt Privatmening skal ikke støde
+                    nogen.</p>
+            <p>Mest interesserer mig Ordene: de, du endnu har <hi rend="italics">trods al Bagvaskelse</hi>.
+                    Er man endnu ikke træt af at »pynte paa mig«. Hvad betyder dine Ord? Lever jeg
+                    nu ikke saa fjernt og saa stille, at man end slet ikke kan finde mig? Jeg ligger
+                    jo ikke mere som den glemte Top paa Veien, hvilken hver Veifarende kan pidske
+                        til<note>Hentydning til H.C. Andersens eventyr »Toppen og Bolden«,
+                        18xx</note>.</p>
+            <p>Regnskabet er godkendt.</p>
+            <p>For min Part altsaa ‒ 730.</p>
+            <p>Hvoraf naar du modtager dette, vel allerede afsendt ‒ 180.</p>
+            <p>Andreasen skal da have ‒ ‒ ‒ 480.</p>
+            <p>
+               <hi rend="italics">(mer faar han ikke, naar Schou tager 400) i alt ‒ 300</hi>
+            </p>
+            <p>730 ‒ 480 er altsaa endnu tilbage til mig [efter at du har betalt Andreasen og
+                    jeg har faaet de alt afsendte 180] = 250.</p>
+            <p>Da det ganske sikkert bliver 26½ Ark, bliver det endnu 40 til for det Halvark;
+                    ialt = 290.</p>
+            <p>»Krogen«, kære Ven, skal du faa. Men mit Hoved var ikke til noget
+                        <hi rend="italics">godt</hi>. Og slet vilde jeg ikke sende. Fra Tysklands illustrerede
+                    Blade strømmer nu Bestillingerne ind. Om du tror det gavnligt ‒ da benyt, som du
+                    vil, mit Navn i dine Kvartalsannoncer.</p>
+            <p>Tusind Hilsener.</p>
+            <p rend="right">Din Herman.</p>
+            <p>2080</p>
+            <p>‒ modtaget 950</p>
+            <p>Rest 1130</p>
+            <p>Schou 400</p>
+            <p>
+               <hi rend="italics">730.</hi>
+            </p>
+            <p>
+               <hi rend="italics">deraf</hi>: Andreasen <hi rend="italics">ialt</hi> 300</p>
+            <p>allerede afsendt 180</p>
+            <p>
+               <hi rend="italics">480</hi>
+            </p>
+            <p>Rest <hi rend="italics">250 +</hi> Overskud fra hvad det bliver mer end 26 Ark</p>
+            <p>Disse 250 med Plusset beder jeg dig sende saasnart det fast kan sés (i Korr:)
+                    hvormeget det bestemt er.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

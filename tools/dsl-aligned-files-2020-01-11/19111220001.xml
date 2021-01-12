@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111220001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 94.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="postkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Postkort; billedsiden viser et fotografi af
+                                                Spasskaja-tårnet med den hellige port til Kreml,
+                                                Moskva, ifølge den trykte tekst på russisk og
+                                                fransk</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant i fremmed hånd på postkortets tekstside:
+                                            <hi rend="italics">20-12-11</hi>, formentlig skrevet af Olga
+                                        Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Moskva</placeName>
+               <date when="1911-12-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-12-20">1911, 20. December [onsdag] <note>Postkort,
+                        frankeret med et 4 kopeks frimærke, poststemplet i Moskva <hi rend="italics">
+                            7.XII.1911</hi> ifølge russisk kalender [dvs. 20.12.1911 ifølge
+                        vestlig kalender]; adressefeltet udfyldt i Bangs håndskrift: <hi rend="italics">Mme Olga
+                            Dahl / Copenhague. V. / Danemark / Prinsesse Maries Allée 14</hi>
+                        Dateres efter poststemplet</note>
+            </date>
+            <placeName cert="high">Moskva</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">20.12.</p>
+            <p>Min egen Ven.</p>
+            <p>Altsaa læste jeg igaar under den største Entusiasme, jeg har sét. Det var
+                    virkelig rørende. Jeg maa være meget elsket i dette besynderlige Land.</p>
+            <p>Tusinde Hilsener til Søster<note>Signe Dahl (født ca. 1890), kaldet Søster,
+                        yngste datter af Olga og Kristian Dahl</note>.</p>
+            <p rend="right">Altid Deres</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18970716001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 53</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1897-07-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1897-07-16"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1897. 16. juli, cirka, fredag]<note>Brevet er antagelig
+                  skrevet fredagen efter avisartiklen om togulykken i Gentofte</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Ven.</p>
+            <p>Jeg er paany saa daarlig som sjældent og al min Tid maa jeg ligge i Sengen paa Grund
+               af Smerterne i mit Hjerte. Tænk dig forleden, da jeg var halvt bevidstløs, blev jeg
+               uafladelig ved at spørge: Hvordan har <persName key="Nansen_Betty">Fru
+                  Nansen</persName>
+               <note>Betty Nansen</note> det? Uafladelig og glemte saa Svaret igen .... Det var vel
+               de ti Spalter Mandag Morgen om Gentofte<note>"Forfærdende Ulykke paa Nordbanen",
+                  Aftenbladet, mandag 12.7.1897</note>, som var for meget for mig.</p>
+            <p>Vil du ikke lade mig faa Jeres to "Sommerpakker"<note>Bang sigter formentlig til
+                  Gyldendals nyeste bogudgivelser</note>, saa jeg har noget at læse? og var der et
+               Manuskript – eller flere – som du ønskede gennemlæst, da staar jeg helt til din
+               Tjeneste.</p>
+            <p>Sig mig med to Ord, hvordan Betty har det. Tusind Hilsener til hende.</p>
+            <p>
+               <persName key="Henriques_Axel">Axel Henriques</persName>
+               <note>Axel Henriques (1851-1935), forfatter, dramatiker og teaterkritiker</note> beskyldte mig forleden ret
+               tydeligt for at være betalt af Gylden-Bladet<note>Formentlig Gyldendals blad om ny
+                  litteratur</note> for mine Angreb paa <persName key="Bojesen_Ernst">"Geniet
+                  Bojesen"</persName>
+               <note>Ernst Bojesen (1849-1925), forlægger, skaber af bl.a. årsskriftet Blæksprutten 1889, chef for Det Nordiske Forlag, der i 1903 indgik i Gyldendal</note>. Voyons.<note>fr.: Det må jeg sige!</note>
+            </p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

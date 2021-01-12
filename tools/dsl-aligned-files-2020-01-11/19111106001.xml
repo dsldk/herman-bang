@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111106001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 71.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side. Den tilhørende kuvert er frankeret med
+                                                to svenske 5 öres frimærker, poststemplet
+                                                  <hi rend="italics">PLK.212A. 7.11.1911</hi> og med det danske
+                                                postvæsens modtagerstempel på bagsiden:
+                                                  <hi rend="italics">Kjøbenhavn V. 1.OMB.-8.11.11</hi>;
+                                                udskrift i Bangs håndskrift: <hi rend="italics">Fru Olga Dahl. /
+                                                  København. V. / Prinsesse Maries Allée 14.</hi>
+                                                Dateres i forhold til poststemplet</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blæk i fremmed hånd på kuverten: <hi rend="italics">7/11 1911</hi>,
+                                        formentlig skrevet af Olga Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Jönköping</placeName>
+               <date when="1911-11-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-11-06">[1911, 6. november] Mandag <note>empty</note>
+            </date>
+            <placeName cert="high">Jönköping</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Jønkøbing. Mandag.</p>
+            <p>Min egen Ven.</p>
+            <p>Nu sidder jeg her og venter ‒ paa iaften. Men her kommer vist ingen Folk, for det
+                    er »De Gamles Dag« eller hvad det nu er for noget.</p>
+            <p>Her er underskønt med Vennern (eller Vettern) ‒ en Sø, saa stor som Havet. Og
+                    lave Bjerge rundtom. Jeg skal imorgen tidlig besé de store Papirfabrik'er ‒ og
+                    saa rejse videre.</p>
+            <p>Tusind Hilsener til Søster<note>Signe Dahl (født ca. 1890), kaldet Søster, yngste
+                        datter af Olga og Kristian Dahl</note> ‒</p>
+            <p rend="right">Deres gamle Ven</p>
+            <p rend="right">Herman B.</p>
+            <p>
+               <hi rend="italics">Hvordan mon De har det?</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

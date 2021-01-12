@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19081005001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 539</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1908-10-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1908-10-05">1908, 5. Oktober [mandag] <note>Efter brevets
+                        ordlyd at dømme synes Josef Melnik på dette tidspunkt at have befundet sig
+                        på rejse i Bulgarien og tilstødende lande</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">5.10.1908.</p>
+            <p>Mein lieber, guter Ossip.</p>
+            <p>Auch ich sehne mich sehr nach Ihnen. Und ich möchte so gern schreiben. Kann es
+                    aber nicht. Denn ich bin sehr leidend ‒ mehr und viel mehr als es die Menschen
+                    wissen und wissen dürfen ‒ ‒ Heute waren alle meine Gedanken bei Ihnen. Man
+                    spricht und despeschiert hier vom nahen Kriege und Sie sind auf dem ‒
+                    Kriegsschauplatz. Parole d'honneur, mon très cher, Sie scheinen mir in
+                        <hi rend="italics">medias res</hi>
+               <note>lat.: midt i begivenhederne, i orkanens
+                        øje</note> hineingerathen zu sein.</p>
+            <p>Schreiben Sie auch schnell ein Paar Artikel für »Köbenhavn«<note>Avisen
+                        København</note> ‒ »Augenblicksbilder« aus Sofia<note>Sofia er hovedstaden i
+                        Bulgarien. Fyrstendømmet Bulgarien proklamerede sig som selvstændigt zarrige
+                        mandag 5.10.1908, altså den samme dag som dette brev er dateret</note> von
+                    »unserem Special-Korrespondent« und schicken Sie sie <hi rend="italics">sofort</hi> direkt
+                    nach der Adresse:</p>
+            <p>Redaktör Witzansky<note>Harald Witzansky (1862-1940), redaktør af avisen
+                        København, hvor Bang var journalistisk medarbejder i årene
+                    1902-1911</note>.</p>
+            <p>Köbenhavn.</p>
+            <p>
+               <hi rend="italics">Kopenhagen. K.</hi>
+            </p>
+            <p>Tausend Grüsse.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

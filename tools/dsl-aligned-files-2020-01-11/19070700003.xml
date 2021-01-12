@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070700003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1907-07-01">[1907, juli] <note>Skal formentlig dateres
+                        forholdsvis tidligt i Bangs opholdstid i lejligheden Nürnbergerstrasse 36,
+                        5.7.-9.9.1907</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nürnbergerstrasse 36. Berlin. W.</p>
+            <p>Min kære og tro Ven.</p>
+            <p>Vær ikke urolig. Det gaar jo nok, fordi det <hi rend="italics">skal</hi> gaa. Huset er endnu
+                    ikke i Orden. Men det kommer vel. Og jeg selv <hi rend="italics">har</hi> taget mig
+                    sammen.</p>
+            <p>Kun med Pengene er det umuligt. Ikke fordi jeg ikke <hi rend="italics">har</hi> dem ↄ: har
+                    tjent dem. Men fordi jeg rejste saa pludselig ‒ for at gøre en Ende paa det ‒ at
+                    jeg ikke havde alle mine Penge <hi rend="italics">i Hænderne</hi>.</p>
+            <p>Jeg tænkte naturligvis, de vilde blive sendt efter. Men nu er de ikke kommet og ‒
+                    jeg har ikke flere.</p>
+            <p>Tale derom tør vi naturligvis ikke. For saa vil alle sige: »Naa, allerede ‒ ja,
+                    det havde vi nok ventet«. Og, hvad der er sket, kunde netop ingen vente ‒
+                    hverken Opbrud'ets Hast eller Forvirringen, da jeg kom hertil.</p>
+            <p>Det er</p>
+            <p>1) ‒ naturligvis ‒ Fritz Petersen<note>Fritz Petersen (1877-1911), direktør for
+                        Casino 1905-10 og meddirektør for Dagmarteatret</note>, som skulde sende min
+                    Gage for Juli-August. Han har intet sendt. Sum: Kr: 150</p>
+            <p>2) Aller Honoraret for en stor Fortælling<note>Muligvis Bangs novelle »Souvenir«,
+                        trykt i Hjemmets Noveller, august 1907, s. 460-464, illustreret af Sophus
+                        Jürgensen</note>. Sum: Kr: 150.</p>
+            <p>3) »Gads Magazin«, der sendte mig en Kvittering, som jeg underskrev og
+                    tilbagesendte uden at man til Svar har sendt mig Pengene<note>Formentlig
+                        honoraret for Bangs artikel »Om dansk Skuespilkunst. Et Par Betragtninger«,
+                        trykt i Gads danske Magasin, juli 1907, s. 876-880</note>. Det er kun Kr:
+                    40. <hi rend="italics">Gaa derind og spørg, om de er afsendte</hi>.</p>
+            <p>Paa de andre to maa jeg jo vente.</p>
+            <p>Tusind Hilsener.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

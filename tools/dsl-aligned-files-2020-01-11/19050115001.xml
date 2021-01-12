@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050115001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 382</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aarhus</placeName>
+               <date when="1905-01-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-01-15"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 15. januar.  [søndag]<note>Turnéen rundt i
+                  landet</note>
+            </date>
+            <placeName cert="high">Aarhus</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">15.1.1905.</p>
+            <p rend="right">Aarhus.</p>
+            <p>Kære Ven.</p>
+            <p>Der maa være gaaet Bræk paa visse Maskindele i Forlaget. Imorges fik jeg et Brev –
+               med vedlagt Kvittering – at "vi idag telegrafisk har afsendt Deres Januar-Gage" ....
+               Denne "Gage" har jeg jo faaet og ydermere Gagen for Februar, som du ovenikøbet maatte
+               "kreditere" for .... Alligevel sendte jeg Bud paa Posthuset for at spørge, om der var
+               kommet Penge. Men der var ingen kommet. Saa Fejltagelsen blev vel opdaget i Tide.</p>
+            <p>Jeg tænker meget paa Jer og paa Teatret<note>Folketeatret, hvor Betty Nansen var
+                  meddirektør og fra 8.1.1905 spillede titelrollen i <!--start title reference--><title key="Maria_Theresia">Maria Theresia</title>
+                  <!--end title reference-->, jf. brevet 19050109</note>. Gid jeg vidste helt,
+               hvordan det stod. Men, paa den anden Side, hvad kan jeg vel raade eller hjælpe –
+               –?</p>
+            <p rend="right">Din Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

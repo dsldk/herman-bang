@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19080225001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 918</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1908-02-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1908-02-25">1908, 25. Februar [tirsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">25.2.1908.</p>
+            <p>Min kære Nini.</p>
+            <p>Tilgiv, at jeg saa meget længe ikke har skrevet. Men dels har jeg, siden jeg kom
+                    hjem fra Wien<note>I januar-april 1908 foretog Bang flere oplæsningsrejser til
+                        Breslau, Wien, Prag mv. og var ind imellem hjemme i sin bolig i
+                        Berlin</note>, maattet arbejde saa urimeligt meget. Dels havde jeg haabet,
+                    at jeg vilde kunne skrive til dig, om du nu ikke vilde komme herned hos mig. Og
+                    atter gaar det ikke. Saalænge en udebleven Anvisning, et ventet Honorar skaber
+                    huslig Bekymring, vil jeg ikke, du skal være her. Vi tre, som er i det<note>Dvs.
+                        Bang selv, hans husholderske Magdalene Thune og hans sekretær Knud
+                        Ernst</note>, er snart vante til det. Dig vilde det kun pine. Ja,
+                    Begyndelsen er vanskelig, naar man er gammel og staar med de tomme Hænder. Men
+                    en Dag lysner det vel. Og vi kan sés. Naar blot da ikke du maa blive ligesaa
+                    skrækslagen som Houmark<note>Christian Houmark (1869-1950), journalist, fra 1899
+                        ved avisen København og fra 1899 lejlighedsvis sekretær for Herman Bang; i
+                        julen 1907 havde han aflagt Bang nogle dages besøg i Berlin</note> over
+                    dette Hus, hvor vi har atten Haandklæder og otte Vidskestykker. Men det er jo
+                    nok for os. Og kun unødigt køber jeg mere. Den Dag, man er død, behøver man kun
+                    ét Lagen.... Godt i hvert Fald, at jeg drog bort. Hjemme bliver man jo ikke mat
+                    af at fornærme mig. Snart skal jeg atter paa Rejse. Og denne Gang bliver det
+                    frygteligt, da jeg ikke anden Gang kan sige Nej til alle Indbydelser. Desuden
+                    arrangeres der (paa et Slot i Nærheden) danske Tableauer til min Ære. Til
+                        <hi rend="italics">min</hi> Ære. Den Slags Glæder har man berøvet mig ‒ for al Tid....
+                    Men Livet skal jo leves. At Bertas Bog<note>Bertha Holst (1881-1929),
+                        (adoptiv)datter af A.P. og Nini Holst og nièce til Herman Bang, debuterede i
+                        maj 1908 med romanen <hi rend="italics">Vingeslag</hi>
+               </note> kommer ud, ved du vel.
+                    Hos Gyldendal. Bogen er god og har ingen mindste Hentydning til nogen af os.
+                    Hils Sofie<note>... ??? ...</note> og alle.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

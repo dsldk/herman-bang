@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861121001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 118</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LIX</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-11-21"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 21. november], Søndag<note>Dateringen er skønsmæssig. –
+                  Vandreaar placerer dette brev som nummer to efter 22.10.1886</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Søndag.</p>
+            <p>Kære Don.</p>
+            <p>Jeg er idag blevet uendelig glædet ved en Kritik i et norsk Blad som – <persName key="Jæger_Henrik">
+                  <hi rend="italics">Hans Jæger</hi>
+               </persName>
+               <note>Måske en fejl for den norske litterat Henrik Jæger (1854-95), jf. formodningen i Vandreaar, s. 234. På
+                  tidspunktet for dette brevs datering var den norske forfatter <persName key="Jæger_Hans">Hans
+                     Jæger</persName> (1854-1910) for anden gang blevet idømt straf for et "pornografisk" afsnit i sin roman
+                     <!--start title reference--><title key="Fra_Kristiania-Bohêmen">Fra Kristiania-Bohêmen</title>
+                  <!--end title reference--> og var i
+                  hast rejst fra Norge til Paris</note> er Forfatteren – skriver, at jeg er den
+               danske Mellemting af <persName key="Dilling_Lars">Dilling</persName>
+               <note>Lars Dilling (1848-87), en humoristisk norsk forfatter, som i lighed med nordmanden John Paulsen (1851-1924) skuffede
+                  de kvalitative forventninger, der i offentligheden blev næret efter deres første
+                  bøger i den litterære realismes præg og udtryk. John Paulsen gled over i
+                  sentimental romantik, men både han og Lars Dilling nød fortsat popularitet hos læsere i både Norge og Danmark</note> og <persName key="Paulsen_John">John Paulsen</persName>. Jeg er saa
+               nedslaaet som jeg var efter <persName key="Salomon_Benedikt">Salomon</persName>s
+                  Ulykke<note>Benedikt Salomon drev i København et forlag og trykkeri sammen med
+                  A.C. Riemenschneider; begge blev i december 1883 arresteret for at have trykt
+                  falske pengesedler</note>. Jeg havde saa lykkeligt Mod paa "Bernhard
+                  H"<note>Bangs arbejdstitel på romanen <!--start title reference--><title key="Stuk">Stuk</title>
+                  <!--end title reference--> var Bernhard
+                  Hoff</note> – i Følelse af "<!--start title reference--><title key="Ved_Vejen">Ved Veien</title>
+               <!--end title reference-->s"
+               Fremskridt. Men den Jord, jeg igen har fundet, har gjort det af med mig. Hvorfor skal
+               jeg leve, jeg som altid er lige "kraftløs og usund". Et Menneske, der "maaske vil
+                  <hi rend="italics">noget</hi> mere end Dilling". Jeg vilde være <hi rend="italics">den</hi> taknemlig,
+               som slog mig for Panden, saa jeg laa der – uendelig taknemlig. Saa kunde man da
+               ialfald blive glemt og havde ikke nødigt hvert Aar at skrive en Bog og vække
+                  <persName key="Falkman_Adolf">Falkman</persName>
+               <note>Adolf Falkman (1837-1903), journalist, fra 1876 ved Nationaltidende</note>s og Avisens "Medfølelse".</p>
+            <p>Naa – hvorfor plage dig med min Lidelse? Det er saavist ikke Nytte til.</p>
+            <p>Hils. Spørg <persName key="Esmann_Gustav">Esmann</persName>
+               <note>Vennen og forfatteren Gustav Esmann (1860-1904), 1884-86 journalist ved Politiken</note>, om han ikke kunde skrive en Kritik og sende <persName key="Warburg_Karl">Varburg</persName>
+               <note>Karl Warburg (1852-1918), svensk journalist, bosat og virksom i Göteborg, fra 1909 professor i litteraturhistorie i Stockholm; gift med Betty Warburg</note> i <placeName key="Göteborg">Göteborg</placeName>. Han tog
+               den vist. Og Esmann kunde gerne gøre mig den Tjeneste – <hi rend="italics">af Hensyn til
+                  Salget</hi>. Ti det vilde være meget slemt, om jeg <hi rend="italics">sank</hi> pr Ark – og
+               det er der Udsigt til. Saa hjælper dog alle Bække til at <hi rend="italics">afsætte</hi>. Jeg
+               skal saa gerne gøre Gengæld, kan du sige. Jeg vil jo ikke, han skal skrive noget op i
+               Himlen. Han kan jo læse lidt i "Haabløse"<note><!--start title reference-->
+                  <title key="Haabløse_Slægter">Haabløse
+                     Slægter</title>
+                  <!--end title reference-->, 1880</note> og "Fædras" siste Del<note>Romanen <!--start title reference--><title key="Fædra">Fædra</title>
+                  <!--end title reference-->, 1883, er delt i to dele; den anden del bærer titlen
+                  "Historien", i modsætning til første del: "Forhistorien"</note> og
+                     "Excentriske"<note><!--start title reference-->
+                  <title key="Excentriske_Noveller">Excentriske
+                     Noveller</title>
+                  <!--end title reference-->, 1885</note> og "Stille"<note><!--start title reference-->
+                  <title key="Stille_Eksistenser">Stille Eksistenser</title>
+                  <!--end title reference-->, 1886</note> og saa skrive, hvad der falder ham
+               ind – om den danske John Paulsen.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
