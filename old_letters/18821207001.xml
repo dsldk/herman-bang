@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18821207001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NBD 2.rk. Blyantsnummer 446</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Theodor Andersen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1882-12-06">[1882, 7. december, torsdag] <note>Brevet bærer
+                        foroven dateringen: <emph>7/12.82</emph>, der sandsynligvis er modtagerens
+                        påskrift. I brevet oplyser Bang, at det er sendt med bud, der venter at få
+                        penge med tilbage til Bang, og derfor må det være modtaget den samme dag,
+                        som det er afsendt</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Direktør Andersen.</p>
+                <p>I den yderste Forlegenhed ‒ indespærret som jeg er af Brystsmerter for Resten af
+                    Vinteren ‒ ved jeg ikke, hvad jeg skal gribe til og beder Dem give mit Bud 40
+                    Kr. Maa jeg ikke nu, hvor jeg skal blive her i Stuen oversætte »en
+                            Pariserroman«<note><emph>Un roman parisien</emph>, skuespil i fem akter
+                        af Octave Feuillet. Det fik dansk première på Dagmarteatret 23.11.1885 ‒ og
+                        blev ikke oversat af Herman Bang</note> for at betale min Gæld.
+                            »Venuspassagen«<note><emph>Le passage de Vénus</emph>, farce i én akt,
+                        skrevet af Meilhac og Halévy, oversat til dansk af Herman Bang. Dansk
+                        première i Casino, 31.12.1882</note> er morsom. <app>
+                        <lem>Fredag</lem>
+                        <rdg>Ordet er rettet, muligvis fra: Torsdag</rdg>
+                    </app> Aften kan den være oversat ‒ om De vil have den? Men er det
+                        Neumann<note>Sophus Neumann (1846-1912), skuespiller, komiker</note>, som
+                    skal spille?</p>
+                <p>Giv saa <app>
+                        <lem>Buddet</lem>
+                        <rdg>Ordets første bogstav er rettet fra: A</rdg>
+                    </app> Pengene ‒ der kommer en Mand, som slaar mig ihjel, om jeg ingen har. Og
+                    igaar var jeg saa syg, at jeg kunde tænke paa slet intet</p>
+                <p rend="right">Deres</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

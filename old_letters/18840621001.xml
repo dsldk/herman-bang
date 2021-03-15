@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18840621001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 139</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Blyantspåskrift af Peter Nansen: <q>Jeg boede paa Klampenborg
+                                 Sommeren 1884, skrev dér
+                                 "Lægekongres-Heroer"</q>
+                                        <note>Lægekongressens Heroer. Tolv
+                                 Billeder. Nutidens Forlag 1884 (udgivet under pseudonymet Dr.
+                                 Bonifacius); oprindeligt trykt som artikler i
+                                 Nationaltidende</note>
+                                    </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. VII</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1884-06-21" notBefore="9999-99-99" notAfter="9999-99-99">[1884. 21. juni], Lørdag<note>Dateringen i Vandreaar s. 69
+                  følges</note>
+                </date>
+                <placeName cert="high">[Ramlösa]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Min kære Peter.</p>
+                <p>Jeg gør mig alvorlige Samvittighedsskrupler af en Sag, som du dog vel maa have
+               forstaaet, uden at jeg behøvede at sige det.</p>
+                <p>Det følger af sig selv, min Ven, at du saasnart du ikke bor mer paa <placeName key="Klampenborg">Klampenborg</placeName>, flytter tilbage til Nørregade. Du ved
+               dog, at Leiligheden er der, og leve skal vi jo alle til Efteraaret.</p>
+                <p>Og dermed den Sag endt.</p>
+                <p>Med "<title key="En Pariserroman">Roman</title>"<note>Oversættelsen af en akt af Un
+                  Roman parisien, skuespil i fem akter af Octave Feuillet, 1882; opført i en anonym dansk oversættelse: En Pariserroman, Dagmarteatret, 23.11.-2.12.1885</note> er jeg længst tilende, som
+               jeg maaske skrev. <title key="Fædra">"Fædras"</title>
+                    <note>Dvs. skuespillet <title key="Ellen Urne">Ellen Urne</title>
+                    </note> første Akt haaber jeg ialfald
+               bliver færdig imorgen. Hr. Vilsac bliver en ubetydelig Rolle – hele dette Drama er og
+               bliver "Fædra", som under Udarbeidelsen stadig maler sig for mig i <persName key="Björkegren, Olga">Olgas</persName>
+                    <note>Olga Björkegren (1857-1950), svensk skuespillerinde, gift 1887 med forfatteren Klas Fåhraeus</note> Træk.</p>
+                <p> Jeg har haft to Fægtetimer. Det anstrænger mig meget. Jeg gør hver Dag Gymnastik og
+               gør gode Fremskridt. Hvis det var muligt – men desværre – blev jeg her hele Sommeren,
+               for fuldstændig at komme mig, forsone mig med Fremtiden og meget andet.</p>
+                <p>Jeg drikker fire Potter sød Mælk og <emph>fire</emph> Flasker Porter om Dagen. "Det
+               hæsliges Repræsentant paa Theatret"<note>Hentydning til skuespillerinden <persName key="Lerche, Camilla">Camilla Lerche</persName>s udsagn, jf. brevet
+                  1884, 17.juni</note> maa fremfor alt se at blive mindre spids og se mindre sygelig ud.
+               Jeg taler hver Dag en Timestid foran Speilet.</p>
+                <p>Og under alt dette – længes jeg, og ved ikke hvorefter – længes, saa min hele Sjæl
+               kan sønderslides ved det.</p>
+                <p>Enfin – du courage og en avant<note>fr.: Altså – frisk mod og fremad</note>.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+                <p>Vil du à propos om "En avant" sige mig, om du er meget flittig. Om du vidste, hvor
+               jeg ønsker det. Mest, fordi den, der har lært at arbeide, aldrig kan blive
+               fuldstændig ulykkelig – og Sorger truer os saa let fra saa mange Kanter. Om ikke
+               andet, saa truer Indholdsløshedens valne Bekymring.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

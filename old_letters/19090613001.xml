@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19090613001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 553</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1909-06-13">1909, 13. Juni [søndag] <note>Bang flytning fra
+                        Berlin til Danmark fandt sted sidst i juni 1909. Ifølge brevets ordlyd
+                        opholdt journalisten Josef Melnik sig på dette tidspunkt i Orienten; af
+                        Bangs postkort til ham, 2.7.1909, fremgår det, at Melnik er i Konstantinopel
+                        (Istanbul) i Det Osmanniske Rige</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">13.6.1909.</p>
+                <p>Mein lieber, guter Ossip.</p>
+                <p>Ach, mein Freund, wie es <emph>mir</emph> geht? Ich schreibe, schreibe, schreibe
+                    ‒ um den Umzug zu zahlen, um die Miethe zu zahlen, um den Schneider zu zahlen.
+                    Gedanken habe ich nicht mehr, Gefühle gewiss nicht. Doch, nach Ihnen sehne ich
+                    mich. Und Gedanken auch, ich muss sie doch haben. Denn ich sende sie nach dem
+                    Orient. Wie ist denn das? Im »Börsen-Courier«<note>Börsen-Courier, et
+                        venstreliberalt dagblad i Berlin, udgivet siden 1868</note> steht ja nichts.
+                    Schreiben Sie denn nicht? Wenn Sie es nicht thun, wird es doch ein trauriges
+                    Ende nehmen. Ich begreife nichts davon, habe aber solche Angst ‒ ‒</p>
+                <p>Hier ist nichts neues oder jedenfalls ich weiss nichts. Schmied<note>... ikke
+                        identificeret ...</note> sieht entsetzlich aus und belibt noch hier, obschon
+                    seine Mama abgereist ist. Ihn nimmt gewiss der Teufel. In dieser Woche werde ich
+                    seine »Vorrede« schreiben. Gott, was ich alles schreiben muss. Eine solche
+                    »Liste« sahen Sie noch nie. Frau Nansen<note>Skuespillerinden Betty Nansen
+                        (1873-1943), gift 1896 med Peter Nansen</note> war hier ‒ elend und
+                    gealtert. Sie sah scheusslich aus und ging ‒ nach Venedig. »Venedig« kann Ihnen
+                    alles sagen. Nach dieser Stadt der Gondolen geht man nur, wenn man nicht allein
+                    geht... Passen Sie <app>
+                        <lem>auf</lem>
+                        <rdg>Bang har først skrevet: af</rdg>
+                    </app>, die Frage: »Kreta« wird bald losbrennen<note>Siden 1898 havde Kreta haft
+                        selvstyre under en højkommissær udpeget af de europæiske stormagter; i 1913
+                        blev øen en del af kongeriget Grækenland</note>. Es scheint mir so. Ich kann
+                    nicht mehr schreiben. Ich bin zu müde. Schreiben <emph>Sie</emph> aber ‒
+                    wenigstens dem »Börsen-Courier«..... Nein, ich habe kein Besuch und bin Abends
+                    ganz verlassen.</p>
+                <p rend="right">Immer Ihr</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19050329002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4685, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi fra havnen
+                                                og med den trykte tekst: <emph>Hilsen fra
+                                                  Marstal</emph>. Bang har skrevet sin brevtekst på
+                                                kortets billedside. Postkortet er frankeret med et 5
+                                                Øres-frimærke, poststemplet: <emph>Marstal
+                                                  [29.3.05]</emph> og med modtagerstempel
+                                                  <emph>Kjøbenhavn V. 30.3.05.OMB 1</emph>.
+                                                Adressefeltet er udfyldt i Bangs håndskrift:
+                                                  <emph>Hr. Christian Lilje Houmark. / København. F.
+                                                  / Haveselskabets Vej 1.</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1905-03-29">1905, 29. Marts [onsdag] <note>Dateres efter
+                        poststemplet</note>
+                </date>
+                <placeName cert="high">Marstal, Ærø</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Lilje.</p>
+                <p>Hilsener fra</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

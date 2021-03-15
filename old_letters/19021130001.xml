@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19021130001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 230</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1902-11-30" notBefore="9999-99-99" notAfter="9999-99-99">[1902. 30. november. ] Søndag<note>empty</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Søndag.</p>
+                <p>Kære Nansen.</p>
+                <p>Ja, saa bliver alle Korrekturene færdige fra min Haand, færdige til i Aften. Hvis Du
+               synes, at Begyndelsen til "<title key="Ravnene">Ravnene</title>" er græsselig, saa
+               troer jeg nok, at jeg mod Slutningen har taget mig sammen efter Evne. Og desuden er
+               det jo nu Sæd i Danmark<note>Dvs. sædvane. Bangs ordvalg er måske en allusion til folkevisen fra ca. 1580 om den danske nationalhelt
+                     <persName key="Niels Ebbesen">Niels Ebbesen</persName> (død 1340), hvor det i
+                  strofe 21 i moderne ortografi hedder: "Det er så' sæd i Danmark / har været af
+                  gamle dage: / når en svend ikke længer tjene vil, / da må han orlov have"</note>
+               at prise mit Mesterskab. Vil Du sige til <persName key="Nansen, Betty">Din
+                  Kone</persName>
+                    <note>Betty Nansen</note>, at det kun er "Ravnene", der hidtil har hindret mig i at
+               hellige mig mine Studier i Dagmarteatret<note>På Dagmarteatret spillede Betty Nansen
+                  Rose i <persName key="Brandes, Edvard">Edvard Brandes</persName>: <title key="Udenfor Loven">Udenfor Loven</title>, opført 13 gange mellem 16.11. og
+                  12.12.1902</note>. Nu begynder de – under megen Skyldfølelse.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19011004001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 800</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
+                                                  <emph>Dr.med. Torrild.</emph> og <emph>Aalborg d.
+                                                  ...</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær; brevet er dikteret til lægen Johannes Torrild
+                                            (1870-1908), der også har skrevet Bangs navn i brevets
+                                            underskrift. Fra juli 1901 havde Torrild privatklinik i
+                                            Aalborg; Bang har muligvis været hans patient, da han
+                                            1898-1900 havde privat praksis i København</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-10-04">1901, 4. Oktober [fredag] <note>Bang opholdt sig
+                        september-november 1901 i Aalborg og var i oktober patient ved dr. Torrilds
+                        nerveklinik i byen</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">[Aalborg d.] 4-X-1901.</p>
+                <p>Kære Hr. Heise.</p>
+                <p>Hermed afgaar altsaa den tredje Dags Resultat<note>Dvs. nyskrevet manuskript til
+                        den tredje og sidste del af Bangs bog Det graa Hus, der udkom
+                        26.11.1901</note>. Men jeg synes, jeg maatte snart erfare, hvorvidt
+                        Forlaget<note>Det Schubotheske Forlag</note> er gaaet ind paa min Fordring
+                    fra i Tirsdags<note>Se Bangs brev til Oluf Heise, 1.10.1901</note>, thi ellers
+                    staar jeg jo, naar jeg har afleveret alt Manuskriptet og sandsynligvis atter
+                    falder ganske sammen, igen paa den bare Bakke. Foreløbig véd jeg jo intet andet,
+                    end at Forlaget eller De, kære Hr. Heise har sendt mig 250 Kr. samt at Forlaget
+                    har opsagt min Lejlighed<note>Se Bangs brev til Oluf Heise,
+                    3.10.1901</note>.</p>
+                <p>Med de venligste Hilsener</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

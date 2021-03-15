@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19080605001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2009/148. Det 46.brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Olga Dahl</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider, med tilhørende kuvert frankeret med
+                                                to 10 Pfennigs frimærker, poststemplet <emph>Berlin
+                                                  W -5.6.08.5-6N</emph>; udskrift i Bangs
+                                                håndskrift: <emph>Fru Olga Dahl. / Kopenhagen. K. /
+                                                  Frederiksborggade.</emph>, sidste to linjer
+                                                overstreget af det danske postvæsen og rettet til:
+                                                  <emph>Bulbjerg Badehotel / Frøstrup St.</emph>. På
+                                                kuvertens bagside det danske postvæsens
+                                                modtagerstempler: <emph>Kjøbenhavn
+                                                  3.OMB.6.6.08</emph> og <emph>Frøstrup -7.6.08.
+                                                  10-1E</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med blyant i fremmed hånd øverst på brevets kuvert:
+                                            <emph>5-6-08</emph>, rimeligvis skrevet af Olga Dahl,
+                                        samt en vedlagt seddel med oplysningen: »Pup opereret paa
+                                        Freederiks Hospital for Blindtarmsbetændelse (Pup og Aage
+                                        forlovet 25 Marts 1908)«</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1908-06-05">1908, 5. Juni [fredag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">Berlin. W.</p>
+                <p rend="right">5.6.1908.</p>
+                <p>Min egen kære Ven.</p>
+                <p>Tak Erna<note>Erna Dahl (1886-1918), kaldet Pup, ældste datter af Olga og
+                        Kristian Dahl. Ifølge Bangs brev til Olga Dahl, dateret 4.4.1908, var Erna
+                        Dahl nyligt blevet opereret for blindtarmsbetændelse</note> saa mange Gange
+                    for Brevet.... Hvilken vidunderlig Lykke, at hun reddedes for Livet.</p>
+                <p>Naar jeg slet intet har skrevet, er det, fordi jeg har været syg ‒ egenlig lige
+                    siden Paaske. Og tilsidst maatte jeg gaa i Seng og laa næsten tre Uger. Det var
+                    Tarmbetændelse og jeg er saa svag endnu. Altid er der trist i et fremmed Land,
+                    men naar man er syg, er alting ti Gange trist. Og megen Modgang har jeg ogsaa
+                    haft i den senere Tid. Med alt Muligt. Men hvortil er man sat her i Verden ‒ i
+                    alle Fald vi to Stakler ‒ om ikke for at tømme Bægret til dets bedske Bund.</p>
+                <p>.... Jeg skulde have været en Nordlandsrejse i Sommer. Men nu bliver den ikke til
+                    noget. Og jeg tror, jeg rejser til Holland. De siger, at der er saa billigt. Og
+                        <emph>der</emph> kan jeg jo ogsaa sé Havet og der er Klitter, fortæller de,
+                    ligesom ved Vestkysten. Og De? Hvorhen drager De? Aa, hvorhen man rejser, er
+                    egenlig saa ligegyldigt. Sine Kufferter (sine Sorger) skal man dog slæbe med
+                    allevegne.</p>
+                <p>Jeg er saa træt. Derfor slutter jeg.</p>
+                <p rend="right">Altid Deres Ven</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

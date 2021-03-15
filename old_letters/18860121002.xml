@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860121002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 308</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. XXXIX</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-01-21" notBefore="9999-99-99" notAfter="9999-99-99">1886. 21. januar.  [torsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">[Meiningen]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">21.1.86. Aften.</p>
+                <p>Nu faaet dit Brev af Tirsdag. I Guds Navn – gør som du vil, kære, lige meget vil det
+               vel <emph>nu</emph> hjælpe.</p>
+                <p>Men du maa for at dømme ret vide: at min første Handling var en Depeche til
+                  <placeName key="Bergen">Bergen</placeName>, hvori jeg <emph>bad</emph> intet Numer
+               af hin Artikel at udlevere eller bortsende. Jeg haabede saaledes at have
+               "lokaliseret" Ondet. Imidlertid vandt jeg Tid.</p>
+                <p>Nu vil vel den "slemme" Artikel – <emph>der</emph> har du Ret, min Søn, og burde
+               hænges – fra de forbandede danske Blade gaa europæisk Runde og – ade, mein Land,
+                  Deutschland<note>ty.: farvel, mit land, Tyskland</note>! Jeg havde haabet at den
+               kunde <emph>forblive</emph> i Bergen; og ud fra denne Forudsætning var min Artikel
+               til "Polit." skrevet.</p>
+                <p>Afventende Begivenhederne tog jeg herhen. Det saa alt ret vel ud. Blade bad om Bidrag
+               o:s:v: Og <emph>Regeringen</emph> bevarede Tausheden. Men nu vil vel Ballonen revne
+               idag eller imorgen.</p>
+                <p>Hvis jeg maa ansé alt for tabt her ɔ: hvis jeg mister min Stilling hos Schorer og i
+               "Tageblatt" – maa jeg skrabe Penge sammen og <emph>reise strax</emph>. Til København
+               kommer jeg ikke. Hvad skal jeg <emph>der</emph>? og jeg bliver jo altid syg af mine
+               Kreditorers evige Stormløb.</p>
+                <p>
+                    <placeName key="Kristiania">Kristiania</placeName>
+                    <note>Oslo</note> tænker jeg, jeg vælger. Det er en
+               smertelig Landflygtighed uden Haab – men, det er én Gang saadan. Jeg har i alle
+               Forhold med dyre Lidelser betalt smaa Synder.</p>
+                <p>Adieu – mon ami. Hils <persName key="Nansen, Immanuel">Hvalpen</persName>
+                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> og tak for Brevet. Naar jeg bliver <emph>lidt</emph> i
+               Humør, skriver jeg ham til.</p>
+                <p>Det var jo <emph>dog</emph> igaar de <emph>21</emph>
+                    <note>20.1.1886 var Peter Nansen fyldt 25 år. 19.2.1886 fyldte hans lillebror
+                  Immanuel Nansen 19 år</note>.</p>
+                <p rend="right">Herman.</p>
+                <p>Hvis Artiklen om <persName key="Sarauw, Christian">Sar.</persName>
+                    <note>Den danske officer Christian Sarauw (1824-1900), som ved tysk rigsret i <placeName key="Leipzig">Leipzig</placeName> i 1886 blev idømt 12 års fængsel for spionage til fordel
+                  for det franske militær; han blev benådet 1887 og virkede derefter som journalist ved Politiken. Processen mod Sarauw omtales af Bang i artiklen "Fra
+                  Meiningen", Politiken, 18.2.1886</note> ei <emph>er</emph> kommen paa, naar du
+               modtager dette – da lad det være. Jeg vil <emph>nu</emph> helst lade Tingene gaa – og
+               falde.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

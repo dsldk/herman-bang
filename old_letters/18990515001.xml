@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18990515001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5159, 4to. Uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Margarethe Jørgensen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær (Christian Frederik Steen); brevets underskrift
+                                            er skrevet af Bang selv</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1899-05-15">[1899, cirka 15. maj] [mandag] <note>Brevet er
+                        skrevet nogle dage eller højst en uge før den oplæsningsturné, som Bang
+                        22.5.1899 påbegyndte i Kolding. Siden ca. 1891 var Margarethe og Peder
+                        Jørgensen bosat i Kolding</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Hôtel Hafnia, Vestervold. Kjøbenhavn K.</p>
+                <p>Kære Ven ‒</p>
+                <p>Tak for Deres Brev, som jeg modtog imorges. Nej, jeg er ikke bleven anderledes og
+                    er helt den Gamle. Ogsaa uden at jeg havde faaet Deres Brev, vilde De imidlertid
+                    have hørt fra mig i Dag.</p>
+                <p>Jeg skulde have skrevet længe, men, som De ved, har jeg været og er da for den
+                    Sags Skyld endnu meget syg. Nu maa jeg diktere disse Linjer.</p>
+                <p>Thi naar jeg begynder min Tourné just i Kolding er det stolende paa Deres Venskab
+                    og Deres Mands<note>Peder Jørgensen (1854-1919), arkitekt og branddirektør i
+                        Maribo, gift med Margarethe Jørgensen, født Dreyer; fra ca. 1891 var de
+                        bosat i Kolding</note>. Jeg maa i disse 19 Byer tjene saa meget, at jeg kan
+                    naa ud paa den Rekreationsrejse, som Lægen nu anser for absolut nødvendig. Men
+                    alt afhænger af Starten, som skal telegraferes Landet over. Der maa derfor i
+                    Kolding gøres al den Humbug, som kan opdrives. Og De maa for gammelt Venskabs
+                    Skyld ‒ nu kan De gøre det uden at blive latterlig, thi jeg er nu berømt nok ‒
+                    sætte Dem i Spidsen for Humbugen. <app>
+                        <lem>Salen</lem>
+                        <rdg>Ordet er rettet fra: Sagen</rdg>
+                    </app> maa pyntes med Guirlander og med mit Navnetræk. Der findes vel ogsaa i
+                    Kolding Damer, som har læst »Ved Vejen«, og som De paa en lumsk Maade kan bevæge
+                    til at deltage i dette Arbejde. Hvis der ikke sælges Billetter nok, maa Salen
+                    fyldes til sidste Plads, paafyldes med Fribilletter.</p>
+                <p>Men derom kan vi tales ved, da jeg allerede Søndag Aften<note>I disse rejseplaner
+                        hentyder Bang efter al sandsynlighed til søndag 21.5.1899, pinsedag. Se også
+                        Harry Jacobsen IV, s. 54</note> rejser herfra til Ribe for der at forberede
+                    alt og ankommer til Kolding med sidste Tog fra Ribe Mandag Aften.</p>
+                <p>Jeg vedlægger to Føljetoner, som jeg beder Deres Mand faa optagne i de stedlige
+                        Blade<note>Nærmere oplysning om disse avisartikler af Bang savnes
+                    ...</note>.</p>
+                <p>Min Impresario forsikrer, at hele min Rejses Resultat afhænger af den Modtagelse,
+                    den første By giver mig.</p>
+                <p>Saml nu nogle trofaste Damer om Dem og faa arrangeret det Meste, De kan.</p>
+                <p>Med mange Hilsener til Deres Mand, er jeg som altid Deres Ven</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

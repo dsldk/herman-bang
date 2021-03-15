@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19030103001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Georg Brandes' Arkiv. Blyantsnummer 8</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Georg Brandes</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær. Den sidste linje og underskriften er
+                                            egenhændige</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1903-01-03">1903, 3. Januar [lørdag]<note>empty</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Gl. Kongevej 25 IV d. 3.1.03.</p>
+                <p>Kære Dr. Georg Brandes.</p>
+                <p>Jeg skulde forlængst have takket Dem for Bogen<note>Bogtitlen er ikke
+                        oplyst</note>, som De var saa elskværdig at sende mig. Jeg har nu læst den
+                    baade to og tre Gange ‒ med stigende Beundring for Forelæsningernes Mod og
+                    Styrke. Det er i højeste Grad Udtryk for mine egneste Tanker, hvilke De her har
+                    givet os alle. Kun tror jeg, maaske endnu mindre end De, at store Mænd som Regel
+                    overhovedet <app>
+                        <lem>ikke</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> faar Lov at være til. Thi Menneskenes brede Mængde stanser ikke, før den
+                    har faaet lagt dem øde. Og Mængdens Herredømme, som understøttes af alle de
+                    middelmaadige og misundelige, vokser bestandigt, medens dens Stormløb mod de
+                    store Villier bliver alt voldsommere. Undertiden synes det mig, som om Døden var
+                    at foretrække for et Liv midt i Pøbelen.</p>
+                <p>Med de hjerteligste Hilsener</p>
+                <p rend="right">Deres ærbødigst hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

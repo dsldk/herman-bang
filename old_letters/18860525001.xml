@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860525001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 40</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-05-25" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 25. maj], Tirsdag<note>Brevets datering må ligge
+                  forud for den tidligst trykte af de nævnte avisartikler. – Bang er ironisk over
+                  for Politikens redaktion og mængden af hans afsendte og endnu utrykte manuskripter
+                  dér</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Kære Peter.</p>
+                <p>Tak for dit Brev. Jeg bliver altid i lysere Humør, naar jeg sér et Par Linier fra
+               dig.</p>
+                <p>Men – for Guds Skyld – udfør ikke din Trusel at bringe mine gamle Artikler. Lad
+                  <emph>dem</emph> sove, som kun er Nu-Korrespondancer. Marie
+                  Geistinger<note>"Sangen om Svanen", Politiken, 21.6.1886</note> – Hos Stella
+                  Hohenfels<note>"En Primadonna", Politiken, 23.6.1886</note> –
+                  Nordling<note>"Johan Nordling", Politiken, 15.6.1886</note> – Hos
+                  Franzos<note>"Hos Karl Emil Franzos", Politiken, 31.5.1886</note> –
+               <placeName key="Berlin">Berlin</placeName>-Wien<note>"Berlin-Wien", Politiken, 14.6.1886</note> – <emph>de</emph>
+                    <emph>kan</emph> jo bruges, Men for Himlens Skyld – "gamle" "brændte Byer"! Politiken
+               er jo ingen <emph>Antikvitetsbutik</emph>.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

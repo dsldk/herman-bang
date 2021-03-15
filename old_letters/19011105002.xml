@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19011105002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 822</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær [ikke dr. Torrild], der også har skrevet Bangs
+                                            navn som brevets underskrift</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-11-05">1901, 5. November [tirsdag] <note>Bang opholdt
+                        sig september-november 1901 i Aalborg og var i oktober patient ved dr.
+                        Torrilds nerveklinik i byen</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aalborg den 5' November 1901.</p>
+                <p>Kære Ven!</p>
+                <p>Hermed paany <app>
+                        <lem>Korekture</lem>
+                        <rdg>Ordet er stavet således af brevets skriver</rdg>
+                    </app>. Men, som sagt, jeg behøver dem ikke. De kan gaa <app>
+                        <lem>lige</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> fra Hr Nansen<note>Peter Nansen (1861-1918), der som vennetjeneste læste
+                        tredjekorrekturen af Det graa Hus; siden 1896 var han litterær direktør for
+                        forlaget Gyldendal</note>
+                    <app>
+                        <lem>lige</lem>
+                        <rdg>Ordet er overstreget af brevets skriver</rdg>
+                    </app> til Forlaget<note>Det Schubotheske Forlag, der 26.11.1901 udgav bogen Det
+                        graa Hus</note> igen.</p>
+                <p>Med de hjærteligste Hilsener</p>
+                <p>Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

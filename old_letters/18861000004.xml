@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18861000004</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-10-01">[1886, oktober?] Onsdag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag Onsdag.</p>
+                <p>Kære Ven.</p>
+                <p>Tak, tusind Tak for dit Brev. Det lettede en Stén fra mit Hjerte.</p>
+                <p>Hermed: »Mæt os«<note>Bangs novelle »Mæt os!« blev tilsyneladende første gang
+                        trykt i Nordstjernen 25.1.1891 ...</note>. Hvis Forlagsbureauet vilde lade
+                    denne Artikel være sig Anledning til at udsende et »Hungerhefte«, hvis Indtægt
+                    tilfaldt de Nødlidende ‒ Pris for Abonnenterne 35 Øre ‒ melder jeg mig strax til
+                    Tjeneste og forpligter mig til at skrive fire Spalter, og sikkert vilde alle
+                    »Stjernens« Medarbejdere gøre det samme.</p>
+                <p>Naar der da kun var Udgifter til Papir og Tryk, blev der altid noget til
+                    Bespisningsforeningerne. Lie og Bjørnson hav sikkert en lille Bidragsskærv....
+                    Men maaske gaar det ikke. <emph>Jeg</emph> er, som sagt, parat. Heftet kunde
+                    hedde: »Vintren 87«. Og annonceres i det Numer ‒ eller i et andet! ‒ hvor »Mæt
+                    os« var trykt.....</p>
+                <p>Du kender jo Fr: Bajer. Kan du ikke bede ham, naar han skriver igen i »die
+                    Nation«, da at indflette en Frase om min bestandige Bladagitation for Venskab og
+                    Fred med Tyskland.</p>
+                <p>Mange Hilsener.</p>
+                <p rend="right">Din Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

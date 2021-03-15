@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19041206001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 864</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider; fortrykt brevpapir: <emph>Grand Hôtel
+                                                  Hungaria Budapest</emph> og trykt tegning af
+                                                hotellet og af udsigt over de to bydele delt af
+                                                floden</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-12-06">1904, 6. December [fredag] <note>empty</note>
+                </date>
+                <placeName cert="high">Budapest</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">[Budapest,] 6.12.1904.</p>
+                <p>Min kære Ven.</p>
+                <p>Naar jeg løfter Øjnene, sér jeg Donauen ‒ grøn som Havet. Og hinsides Floden
+                    løfter »Burg« sine femten Kupler over Bjergene.... Det er altsammen skønt og jeg
+                    vilde nyde det altsammen, hvis jeg var blot lidt raskere. Nu er Sandheden, at
+                    jeg kun længes efter at komme hjem. Men alligevel er det vel godt, jeg kom ud.
+                    Maaske gaar det med denne Rejse som med Badekure. Deres Virkning viser sig
+                    bagefter.</p>
+                <p>‒ ‒ ‒ Imorgen gaar Vejen til Bukarest. Enfin, jeg havde lovet mig selv, at jeg
+                    vilde gennemflyve Ungarn og det kommer jeg saavist til. Toget gaar herfra
+                    imorgen Nat Kl. 12 og vi kommer ikke ud af det igen, før paa Torsdag Aften Kl.
+                    8: Min Herre, sagde en Herre paa Rejsebureauet, De er i Bukarest lige til
+                    Dineren..... Pest er iøvrigt vidunderlig. En By af Paladser, skabt og skudt af
+                    Jorden i Løbet af fyrretyve Aar. Og i ingen By i Verden tændes der om Aftenen
+                    saa mange Lys. Det er et Lysvæld over Huse og Mennesker og Gader ‒ ‒</p>
+                <p>Smerterne i mit Hoved er saa stærke, at jeg maa holde op at skrive... Maaske vil
+                    »Postillonen i Longjumeau«<note>Le Postillon de Lonjuneau (Postillonen i
+                        Lonjumeau), et syngespil i tre akter af Adolphe Adam. I dansk oversættelse
+                        ved Thomas Overskou har det været opført talrige gange på Det Kongelige
+                        Teater, første gang i 1837 ‒ og i Bangs levetid senest syv gange i
+                        1893</note> (Paa Ære, den Opera spiller de her iaften ‒ den er da ikke fra
+                    idag) hjælpe en Smule paa de forbistrede Smerter ‒ ‒</p>
+                <p>Tusind Hilsener til Fru Heise<note>Inger Heise (1864-1932), født Groot, gift 1893
+                        med overretssagfører Oluf Heise, København</note> og Dem</p>
+                <p rend="right">fra Deres Ven</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18990619001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær; Bang har selv skrevet sit navnetræk som
+                                            underskrift på brevet</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1899-06-19">1899, 19. Juni [mandag] <note>empty</note>
+                </date>
+                <placeName cert="high">Klampenborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Klampenborg Badehotel 19/6 99</p>
+                <p>Kære <app>
+                        <lem>Hirschsprung</lem>
+                        <rdg>Sekretæren har ved en fejl skrevet: Hirschprung</rdg>
+                    </app>.</p>
+                <p>Efter min Triumf i Fredags<note>Om aftenen fredag 16.6.1899 optrådte Bang med en
+                        offentlig oplæsning i Tivoli i København</note> brød mine Creditorer og Hr
+                        Schou<note>Efter Andreas Schous død i 1889 var Andr. Schous Forlag overtaget
+                        af andre, som i en årrække førte det videre under det gamle navn ...</note>
+                    i Forening ind og tog det hele, saaledes at der til mig blev, siger og skriver
+                    10 Kroner.</p>
+                <p>Nu sidder jeg her og maa rejse til Nyborg<note>Bang, der med sit ophold i
+                        Helsingør og siden i Klampenborg havde afbrudt sin oplæsningsturné i
+                        Jylland, genoptog den på Fyn fra 21.6.1899</note> i Aften, da dette Sted er
+                    altfor dyrt og jeg i Nyborg lever for tre Kroner om Dagen.</p>
+                <p>De maa derfor overgive Overbringeren heraf 100 Kroner saa at jeg kan rejse.</p>
+                <p>Af ren Fortvivlelse har jeg maattet ligge i Sengen i to Dage.</p>
+                <p>Jeg vilde være meget glad, hvis jeg kunde se Dem i Nyborg i Overmorgen da jeg saa
+                    har Tid to, tre Dage og virkelig trænger til at være sammen med et Menneske</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman Bang.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

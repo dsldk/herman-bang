@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19000317001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 447</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Edvard Brandes</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1900-03-17">[1900, 17. marts] Lørdag<note>Brevet kan dateres
+                        til den første lørdag i de 14 dage i marts 1900, da Edvard Brandes efter
+                        domsafsigelse afsonede sin fængselsstraf i Blegdamsvejens Arresthus,
+                        København, for at have været part i en duel på liv og død. ‒ Fra april 1900
+                        var Bang på ny bidragyder til Politiken, frem til 1902</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Frederiksborggade 31.I<note>Dvs. Frederiksborggade 31, 1.sal</note>
+                    Lørdag.</p>
+                <p>Kære Dr. Brandes.</p>
+                <p>Undskyld, at jeg tramper ind til Dem i selve Fængslet men at vente fjorten Dage
+                    vilde være mig vanskeligt ‒ ogsaa paa Grund af min Helbredstilstand, der gør
+                    Uvished uheldig.</p>
+                <p>Efter at det endelig er lykkedes at drive mig ud af min Stilling ved
+                        »Folketeatret«<note>Bangs afskedsansøgning til Folketeatret stod trykt
+                        7.3.1900 i avisen Vort Land. Folketeatrets direktør Severin Abrahams var syg
+                        og døde 31.3.1900</note>, maa jeg jo ‒ saalænge jeg nogenlunde kan ‒ atter
+                    vende tilbage til mit Blækhus og jeg ønskede da ganske oprigtigt at stille
+                    »Politiken« et Spørgsmaal.</p>
+                <p>Jeg har en instinktmæssig Fornemmelse af, at »Politiken« for Øjeblikket ikke
+                    kerer sig synderligt om at modtage Artikler fra mig og det kan jeg saa inderlig
+                    vel forstaa: ti hvis jeg skriver i »Politiken«, vil vel alle de Pøbelagtigheder,
+                    for hvilke jeg i den sidste Tid har været Genstand i »Pressen« kun alt for let
+                    blive fortsat.</p>
+                <p>Jeg vil imidlertid ikke henvende mig til noget andet Blad, førend jeg har faaet
+                    et oprigtigt Svar paa mit oprigtige Spørgsmaal.</p>
+                <p><emph>Det</emph> er sikkert. Svaret vil i hvert Fald være mig fuldt
+                    forstaaeligt.</p>
+                <p>Idet jeg haaber, at Fængselsopholdet ikke maa falde Dem altfor svært, er jeg</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

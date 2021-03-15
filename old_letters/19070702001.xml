@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19070702001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 529</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="telegram">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Telegram, indleveret i Frederikshavn 2.7.1907,
+                                                modtaget 3.7.1907 kl. 7.20, adresseret til:
+                                                  <emph>hrn josef melnik berlin /
+                                                  holtzendorffstrasse 37 / verzogen nach
+                                                  huernbergerstr 36 / garten part +?+</emph>. Øverst
+                                                til højre på telegramblanketten er sat et
+                                                poststempel før blankettens udbringning til
+                                                modtageren: <emph>Berlin.W. / 3.7.07.
+                                                7.30V</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-07-02">1907, 2. Juli [tirsdag] <note>Bang flyttede
+                        3.7.1907 fra Frederikshavn til Berlin</note>
+                </date>
+                <placeName cert="high">Frederikshavn</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>komme morgen 12,56 = herman bang +</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

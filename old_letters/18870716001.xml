@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870716001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 987</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>På brevets bagside har Julius Schiøtt skrevet følgende
+                                        besked til forlæggeren Poul Langhoff: »Kjære Hr. Langhoff, /
+                                        Hermed mere Manuskript ‒ bl.a. to Stykker, der skal
+                                        indskydes. Send [ham ?] paa Lørdag Extra-Penge. / i Hast.
+                                        Deres Jul. S.«</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1887-07-16">1887, 16. juli, lørdag<note>empty</note>
+                </date>
+                <placeName cert="high">[Prag]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Lørdag. 16.7.87.</p>
+                <p>Kære Ven.</p>
+                <p>Jeg sender her Slutningen af II samt et større Stykke, der skal indskydes i V ‒
+                    paa Manuskrpt. er angivet <emph>hvor</emph>.</p>
+                <p>Jeg skriver nu uden Ophold løs paa III ‒ skønt jeg er meget, meget træt. Men »ham
+                    fattes Midlerne« ‒ han »kan ej raste«. At være »Daglejer« og Poet er en grumme
+                    Ting.</p>
+                <p>Heden er her frygtelig. Og Ensomheden undertiden tung.</p>
+                <p>Hils Kone og Børn.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

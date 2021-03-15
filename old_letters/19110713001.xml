@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19110713001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 964</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi af et
+                                                fjordparti set fra et udsigtsplateau med et par
+                                                personer i forgrunden, og med den trykte tekst:
+                                                  <emph>Norge. Flyvandsdjupet Merok</emph>. På
+                                                postkortet er trykt Det norden-fjeldske
+                                                Dampskibsrederis logo. Frimærket er dampet af;
+                                                adressen i Bangs håndskrift: <emph>Fru Nini Holst. /
+                                                  København. V. / 7. Prinsesse Maries Allée</emph>,
+                                                af det danske postvæsen overstreget og rettet til:
+                                                  <emph>Lyngballegaard / Mundelstrup.</emph>.
+                                                Poststemplet i Aalesund, vistnok 13.[7.]11.9-10F;
+                                                dansk modtagerstempel: Kjøbenhavn V. 16.7.11</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1911-07-13">[1911, 13. juli, torsdag] <note>Lille usikkerhed
+                        om læsningen af poststemplernes datoer. Merok ligger i bunden af
+                        Geirangerfjord; kortet er poststemplet i Aalesund, der ligger ved fjordens
+                        udløb i Atlanterhavet</note>
+                </date>
+                <placeName cert="high">Aalesund</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Mange Hilsener, skrevne paa et Dampskib langt mod Nord.</p>
+                <p rend="right">Din Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

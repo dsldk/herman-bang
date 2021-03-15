@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19070824003</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 533</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Josef Melnik</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, dvs. et stykke papir uden dato og
+                                                underskrift</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Nederst på det lille stykke papir har Josef Melnik skrevet:
+                                            <emph>24 August 1907. / I Brief aus Breslau. II das
+                                            »Berliner Tageblatt« ‒ Aufforderung sich über
+                                            »Menschendarstellung« zu äussern. / Haben das Feuilleton
+                                            geschrieben</emph></ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1907-08-24">[1907, cirka 24. august, lørdag] <note>Den lille
+                        papirlap må Bangs tjener formodentlig have bragt til Melniks bolig i Berlin.
+                        Den eneste mulighed for datering består i at stole på rigtigheden af Melniks
+                        tilskrift. Se også en bemærkning i Bangs brev til Peter Nansen, 24.8.1907,
+                        om »noget, jeg i Norge havde skrevet om Menneskefremstilling og
+                        Skuespilleres Studier i Zoologiske Haver«, og henvisning til Bangs artikel
+                        "Om Menneskefremstillere" i Verdens-Spejlet, 25.8.1907. ‒ Melniks
+                        slutbemærkning lader ane, at den nævnte Feuilleton måske blev skrevet af
+                        Bang og Melnik i fællesskab, og at det var anledningen til, at Bang kaldte
+                        Melnik over til sig</note>
+                </date>
+                <placeName cert="high">[Berlin]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Lieber Freund ‒</p>
+                <p>Kommen Sie sofort herauf</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

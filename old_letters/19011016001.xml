@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19011016001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 814</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær; brevet er dikteret til lægen Johannes Torrild
+                                            (1870-1908), der også har skrevet Bangs navn i brevets
+                                            underskrift. Fra juli 1901 havde Torrild privatklinik i
+                                            Aalborg; Bang har muligvis været hans patient, da han
+                                            1898-1900 havde privat praksis i København</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-10-16">1901, 16. Oktober [onsdag] <note>Bang opholdt
+                        sig september-november 1901 i Aalborg og var i oktober patient ved dr.
+                        Torrilds nerveklinik i byen</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aalborg, 16-X-1901.</p>
+                <p>Kære Hr. Heise.</p>
+                <p>De havde glemt at lægge det omtalte Brev i Konvoluten.</p>
+                <p>Hermed en Korrektur<note>Bang læste korrektur på den første del af sin bog Det
+                        graa Hus; ifølge sit brev til Oluf Heise, 23.10.1901, afsluttede Bang denne
+                        dato sin korrekturlæsning. Bogen udkom 26.11.1901 hos Det Schubotheske
+                        Forlag</note>. Jeg beder indstændig Forlaget<note>Det Schubotheske
+                        Forlag</note> nu at fremskynde Korrekturen. Jeg afsender nu 4 Ark af 1ste
+                    Korrektur og har endnu ikke modtaget nogen 2den Korrektur, ikke engang af 1ste
+                    Ark. Dette er der ingen Mening i. Det maa dog ligge i Forlagets egen Interesse
+                    nu at fremskynde Udgivelsen ‒ saa meget mere som ingen kan vide, hvorlænge mit
+                    Helbred holder og 2den Korrekturerne maa og skal jeg selv læse. Den 3die
+                    Korrektur, som bliver ren Bogstavkorrektur har Hr. Peter Nansen<note>Peter
+                        Nansen (1861-1918), nær ven af Bang, fra 1896 litterær direktør for forlaget
+                        Gyldendal, København</note> lovet at besørge.</p>
+                <p>De venligske Hilsener fra</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+                <p>Vedlagt Kvitteringen, der som altid lyder paa »Forskud«.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

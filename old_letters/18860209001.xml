@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860209001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 313</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-02-09" notBefore="9999-99-99" notAfter="9999-99-99">1886. 9. februar [tirsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">[Meiningen]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">9.2.86.</p>
+                <p>Kære Peter.</p>
+                <p>Gør mig den Tjeneste <emph>strax</emph> at spørge <persName key="Brandes, Edvard">Edvard Brandes</persName>
+                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note>, om han ikke kender <persName key="Possart, Ernst">
+                        <emph>Possart</emph>
+                    </persName>
+                    <note>Den tyske skuespiller og teaterleder Ernst
+                                Possart (1841-1921)</note> fra München. Mig foresvæver noget saadant. Bed ham
+                        isaafald skrive et Par anbefalende(!) Ord om mig som dramatisk Kritiker og
+                        strax sende hid adresseret til mig men i Kuvert med Udskrift Possart. Det er
+                        mig meget vigtigt at lære Manden at kende. Han kommer hertil paa
+                                <emph>Lørdag</emph>, saa det har yderste Hast.</p>
+                <p>Mandag danser han af igen.</p>
+                <p>
+                    <persName key="Brandes, Georg">G.B.</persName>
+                    <note>Georg Brandes (1842-1927), dr.phil., litteraturkritiker og forfatter, bror til Edvard Brandes</note> kender
+                        ham <emph>ialfald</emph>. Kan du da – du er jo saa fiffig – ikke spille den
+                        Komedie at sige til Edv: Br:: "Det lader til at være Bang meget vigtigt –
+                        Gud ved, om Deres Broder ikke skulde kende ham o:s:v:["] Og saa skaffe
+                        Ordene fra ham.</p>
+                <p>Af <emph>meget</emph> stor Vigtighed er Sagen mig <emph>hvor</emph> stor en anden
+                        Gang. Jeg har <emph>for</emph> travlt idag.</p>
+                <p>Jeg véd, du strax vil gøre det muligste.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

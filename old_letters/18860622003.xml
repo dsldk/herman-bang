@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860622003</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 161</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-06-22" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 22. juni], Tirsdag<note>Dateringen følger Torbjörn
+                  Nilssons forslag, s. 336: "troligen från den 22.6., möjligen den 15.6." – Indtil
+                  videre må dette brev følge samme datering som brevet 1886. 22. juni. 002</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Kære Peter.</p>
+                <p>Du maa ikke blive vred – men det er rént forfærdeligt. I otte Dage havde jeg været
+               syg – og da jeg nu fik Pengene – de 100 Gylden – tog Doktor og Værtinde det hele – og
+               sagde mig op med det samme til Flytning i næste Uge: nu havde hun jo faaet sit!</p>
+                <p>Jeg skriver nu igen Dag og Nat paa "Høiheden"<note>"<title key="Hendes Høihed">Hendes
+                     Høihed</title>", novelle i <title key="Stille Eksistenser">Stille
+                     Eksistenser</title>, Kbh. 1886</note> men <persName key="Schou, Andreas">Schou</persName>
+                    <note>Andreas Schou (1829-89), boghandler og forlægger i København, indehaver af Andr. Schous Forlag indtil nytår 1889; forlægger for Herman Bang</note> giver intet, før den er færdig. Jeg har bogstavelig
+               intet. Vil du gøre mig den Tjeneste at gaa ud til <persName key="Salomon, Julius">Salomon</persName>
+                    <note>Ifølge Vejviseren: grosserer Julius Salomon (født 1838)</note> i Nørrefarimagsgade 62 og
+               sige ham, at du skulde tage 50 Kroner af, af mit "Politik" Honorar den første – men
+               Pengene maatte sendes mig strax, at jeg dog kan faa en ny Leilighed.</p>
+                <p>Du har vel dette Brev Torsdag – saa gør det <emph>strax</emph> – Lørdag er det den
+                  femtende<note>Fejlagtigt, såfremt Bang med "Tirsdag" har dateret dette brev
+                  korrekt</note>, hvor jeg egenlig skulde jages ud – men jeg har faaet Opsættelse.
+               Men Pengene maa jeg have her Søndag –</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman</p>
+                <p>Jeg er halvt forrykt.</p>
+                <p>Overtal endelig Jøden – men faa selv Pengene af ham og send dem, at man er sikker
+               paa, at det sker.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

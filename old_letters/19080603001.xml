@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19080603001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2751, folio; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1908-06-03">1908, 3. Juni [onsdag] <note>Brevet sidder
+                        indklæbet i veksellerer Johan Levins brevsamling, 3. Bog; Johan Levin
+                        (1877-1959) erhvervede i 1920 et antal breve fra Christian Houmark</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">Berlin. W.</p>
+                <p rend="right">3.6.1908.</p>
+                <p>Min kære Houmark.</p>
+                <p>Inderligt til Lykke<note>Christian Houmark havde fødselsdag 4. juni; i 1908
+                        fyldte han 39 år</note>.</p>
+                <p>Iaar bliver De altsaa seks og tyve, for ifjor blev De jo syv og tyve og saadan er
+                    hos Dem Naturens Orden. Om otte Aar, naar jeg bliver ni og halvtreds, bliver De
+                    altsaa atten.</p>
+                <p>Men hvor ung De saa bliver, gid Livet i det nye Aar maa bringe Dem alt, hvad der
+                    for Dem er Tilfredshed og Glæde. Er der ikke en gammel Vise om »Glædens Roser«,
+                    som man plukke maa, ti snart de forgaa? Pluk altsaa og stik ikke Fingrene.</p>
+                <p>Det er underligt, at W.<note>Harald Witzansky (1862-1940), redaktør af avisen
+                        København, hvor Chr. Houmark siden 1899 var journalist</note> ikke har sagt
+                    Dem, at jeg har ligget over fjorten Dage af Tarmbetændelse. Og endnu er jeg
+                    meget svag. Jeg har haft næsten uudholdelige Smerter. Og er endnu mer end mat og
+                    medtaget.</p>
+                <p>Endnu en Gang et sollyst Aar.</p>
+                <p rend="right">Deres gamle Ven</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

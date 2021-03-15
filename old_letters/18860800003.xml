@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860800003</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-08-01">[1886. august] Torsdag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag. Torsdag.</p>
+                <p>Kære Jules.</p>
+                <p>Jeg hører intet fra nogen. Rimeligvis holder <emph>Politiet mine Breve
+                        tilbage</emph>. Jeg er her under streng Opsigt og tages for socialistisk
+                    Agitator, som lever af et hemmeligt Fond!</p>
+                <p>Hermed 1½ Ark. Med det sist sendte regner vi det for <emph>to</emph> Ark ‒
+                        <emph>send strax</emph> disse Penge. Jeg har ikke flere, kan du forstaa. Og
+                    lad Schou paa Bagsiden af <app>
+                        <lem>Postanvisningen</lem>
+                        <rdg>De to første bogstaver har Bang rettet fra: An</rdg>
+                    </app> skrive paa tysk: For Ark det og det af Novellerne ‒ 75 Kroner.</p>
+                <p>Du har dette Lørdag. Lad Pengene sendes <emph>strax</emph>, da de holdes tilbage
+                    her saa længe. <emph>De maa afsendes Lørdag</emph>.</p>
+                <p>Jeg skriver og skriver nu, saa jeg kan sende Manuskript hver anden Dag.</p>
+                <p>Jeg har <emph>intet</emph> modtaget.</p>
+                <p>Ikke Aftryk.</p>
+                <p>Ikke Korrekturer.</p>
+                <p>Ikke Psalmebog.</p>
+                <p>Ikke Breve.</p>
+                <p>Intet.</p>
+                <p>Min Adresse ‒ (nøie at skrive):</p>
+                <p>Herman <emph>de</emph> Bang.</p>
+                <p>Balbingasse 192 I</p>
+                <p>(<emph>Weinberge</emph>.) <emph>Prag</emph>.</p>
+                <p>Balbingasse.</p>
+                <p rend="right">Hils din Kone og svar strax.</p>
+                <p rend="right">Din Herman.</p>
+                <p>Altsaa det sist sendte + dette = 2 Ark = 75 Kroner ‒ strax at sende.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

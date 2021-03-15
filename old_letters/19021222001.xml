@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19021222001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Gyldendals arkiv B4c</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1902-12-22" notBefore="9999-99-99" notAfter="9999-99-99">[1902. 22. december. ] Mandag<note>Brevet er skrevet af en sekretær (måske frøken Ville Kristiansen?).
+                Underskriften er egenhændig</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Mandag.</p>
+                <p>Kære Ven.</p>
+                <p>Du kender mit Juleskrabsammen. Desværre maa jeg have den <emph>hele</emph> Rest
+                        af min Januar Gage nu (250 Kr), thi det er lille Juleaften i Morgen og Tiden
+                        rinder hastigt, mens min Formue er 1 Kr 17 Øre.</p>
+                <p>
+                    <persName key="Houmark, Christian">Houmark</persName> havde skrevet en udmærket
+               Anmeldelse i "Aalborg Amst"<note>Journalisten Christian Houmark (1869-1950), der lejlighedsvis var sekretær for Bang, skrev den anmeldelse af <title key="Ravnene">Ravnene</title>, der
+                                står trykt i Aalborg Amtstidende, lørdag 20.12.1902</note>. Den er
+                        blevet borte mellem de andre Laurbærdynger. (<persName key="Gnudtzmann, Albert">Gnudtsmann</persName>
+                    <note>Litteraturkritikeren Albert
+                 Gnudtzmann (1865-1912), der ifølge Romaner og noveller, bind 8, s. 408, skrev anmeldelse af Ravnene i Nationaltidende, Dagbladet og Dagens Nyheder – samt tilsyneladende i endnu en avis</note> har nu dynget 4 Gange<app>
+                        <lem>.</lem>
+                        <rdg>Slutparentes mangler</rdg>
+                    </app>
+                </p>
+                <p>Naar Du sér Houmark, maa Du imidlertid sige, at Du har læst hans Skamroes med
+                        Glæde.</p>
+                <p>
+                    <persName key="Rasmussen, Otto K.">Rasmussen</persName>
+                    <note>Bangs daværende sekretær og medhjælp Otto K. Rasmussen 
+                                (1878-1968), senere skovfoged</note> er fuldt bemyndiget til at kvittere for
+                        Pengene, for, som sagt, Tiden iler.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

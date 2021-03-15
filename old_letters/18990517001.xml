@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18990517001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Dateringen »17/5 99« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1899-05-17">[1899, 17. maj] Onsdag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag.</p>
+                <p>Tak, min Ven.</p>
+                <p>Vi har glemt tre Bøger<note>Dvs. tre eksemplarer af Bangs nye novellesamling
+                            <emph>Liv og Død</emph>, som var udkommet 13.5.1899 på Det Schubotheske
+                        Forlag</note>, som <emph>maa</emph> sendes.</p>
+                <p>Godsejer Johan Knudsen<note>Johan Knudsen (1865-1942), ejer 1891-1909 af godset
+                        Bangsbo ved Frederikshavn</note>. Bangsbo. Frederikshavn.</p>
+                <p>Redaktør Korsgaard<note>Kristen P. Korsgaard (1846-1904), medudgiver af
+                        Aftenbladet (hvor Bang 1892-1897 var journalistisk medarbejder), indvalgt i
+                        Folketinget 1889 (Venstre), radikal løsgænger fra 1891</note>. Ordrup.
+                    Charlottenlund.</p>
+                <p>Fru Albert Berendsen<note>Gustava Berendsen (1868-1946), født Nyholm, enke efter
+                        Albert Berendsen (1860-1897), der i 1884 havde overtaget sin fars firma,
+                        stål- og glasagenturet Sophus Berendsen. Albert Berendsen havde alsidige
+                        kulturelle interesser og var blandt andet medstifter i 1884 af Alliance
+                        Française i København. Senere, i 1901, blev Gustava Berendsen gift med
+                        journalisten Christian Gulmann (1869-1934), der var knyttet til
+                        Nationaltidende</note>. <app>
+                        <lem>Sølvgade</lem>
+                        <rdg>Bang havde første skrevet: Sølg, men har selv rettet g til et v</rdg>
+                    </app> 26.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman Bang.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860800004</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>På brevpapirets bagside har Bang gentaget brevkuvertens
+                                        udskrift: »Hrn. Julius Schiøtt / <emph>Kopenhagen N</emph> /
+                                            <emph>Sortedamsgade 5</emph>« og i øverste venstre
+                                        hjørne på skrå: »<emph>Rekommand.</emph>«, dvs. afsendt som
+                                        rekommanderet post til en højere portosats</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-08-01">[1886. august] Torsdag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag. Torsdag.</p>
+                <p>Min Ven.</p>
+                <p>Dette har taget mig lang Tid, da »Scenen« skulde skiftes. Men den siste Halvdel
+                    deraf er saa ogsaa noget af det <emph>bedste</emph> det er blevet mig givet at
+                    skrive. N'est-ce-pas?<note>fr.: Ikke sandt?</note></p>
+                <p>Send det <emph>strax</emph> til Schou, at han ikke tager Lejligheden iagt til at
+                    skyde en Uge over med Pengene. Ti 25 fl.<note>Floriner, vistnok = samme møntfod
+                        som gylden??</note> om Ugen med mit Slid ‒ da er der intet at give bort!</p>
+                <p rend="right">Hils din Kone og Børn.</p>
+                <p rend="right">Din Herman.</p>
+                <p>VII's maa med igen:</p>
+                <p>ti da døde vore Fædres Danmark.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

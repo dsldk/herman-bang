@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850610001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 294</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider. Brevpapir med trykt slyngmonogram HJB (uden
+                                 krone)</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. XXII</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-06-10" notBefore="9999-99-99" notAfter="9999-99-99">1885. 10. juni [onsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">Bergen</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Bergen den 10/6 85</p>
+                <p>Kjære Ven!</p>
+                <p>Da jeg er syg<note>Nemlig efter fiaskoen på Bergens Teater mandag 8. juni, i rollen
+                  som Osvald i 3. akt af den norske dramatiker <persName key="Ibsen, Henrik">Henrik Ibsen</persName>s
+                  skuespil <title key="Gengangere">Gengangere</title>
+                    </note> må jeg lade en anden
+               skrive. Jeg sender i korsbånd aviser. Benyt dem snildt og aftryk med villighed det <app>
+                        <lem>
+                            <emph>medst</emph>
+                        </lem>
+                        <rdg>I en afvigende håndskrift er over dette ord skrevet: mest</rdg>
+                    </app> uforskammede, omtalende hele den finske præsses enstemmige jubel.<note>I
+                  Politiken lørdag 13.6.1885 står følgende notits: "Herman Bang og <persName key="Poulsen, Olaf">Olaf Poulsen</persName> i Bergen. Som allerede pr. Telegraf
+                  meddelt igaar var Olaf Poulsens 1ste Optræden i Bergen i Onsdags en stormende
+                  Sukces. / Et Par Dage iforvejen var Herman Bang, der havde fejret Triumfer i
+                     <placeName key="Trondhjem">Trondhjem</placeName>, optraadt baade som
+                  Foredragsholder (Om <persName key="Bjørnson, Bjørnstjerne">Bjørnson</persName>) og
+                  Skuespiller (som Osvald i Gengangeres 3dje Akt). Ifølge Privattelegram og Brev var
+                  Modtagelsen i Begyndelsen kølig; Huset jævnt fyldt, Bifaldet livligt, men Pressens
+                  Dom temmelig haard. Senere er der indtraadt et fuldstændigt Omslag, og Hr. Bang
+                  var ifølge et igaar modtaget Telegram ved sin Optræden i Torsdags Genstand for
+                  megen Ovation. / Olaf Poulsen optraadte atter iaftes – det synes, som om Hr. Bang
+                  og han har delt Dagene imellem sig – i <title key="Soldaterløjer">Soldaterløjer</title> [af <persName key="Hostrup, J.C.">J.C.
+                     Hostrup</persName>] og <title key="De Usynlige">De Usynlige</title> [af
+                     <persName key="Holberg, Ludvig">Ludvig Holberg</persName>]. ...". Olaf Poulsen (1849-1923), skuespiller ved Det Kongelige Teater, halvbror til Emil Poulsen. Se tillige
+                  note til brevet 1885, 24.juni</note> Så snart jeg kommer op skal jeg skrive selv.
+               Du vil måske undres en smule over tonen i Bladene, jeg undres ikke mere.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

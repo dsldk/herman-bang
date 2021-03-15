@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18900900001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 1007</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1890-09-01">[1890, september]<note>Dateringsforslaget
+                        forholder sig til Bangs brev til Peter Nansen, 3.9.1890</note>
+                </date>
+                <placeName cert="high">Fredensborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredensborg.</p>
+                <p>Kære Langhoff.</p>
+                <p>De vilde allerede nu have modtaget det første Kapitel af min Roman<note>Bangs
+                        ufuldførte romanprojekt Den sidste Dansker</note>, om ikke Fru
+                        Nansen<note>Skuespillerinden Louise Brock (1864-1900), gift 1887 med Peter
+                        Nansen, ægteskabet opløst ca. 1891, skilsmisse 1896</note>, der boer her,
+                    havde taget, snart sagt, Livet af mig. Jeg kan i et Brev ikke skrive om alt
+                    dette. Men send mig strax 20 Kr. saa jeg ‒ som nu Lægen, Gud ske Tak vil ‒ kan
+                    faa hende til København.</p>
+                <p rend="right">H.B.</p>
+                <p>Absolut Taushed om dette. Men send de 20 Kr: strax.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

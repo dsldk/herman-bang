@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18820700001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Troensegaard I.1. Blæknummer 13</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">A.C. Riemenschneider</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>En senere ejer har øverst på brevets første side påklistret
+                                        et udateret udklip af en avisartikel, der omtaler
+                                        Riemenschneider og Salomons fremstilling af falske danske
+                                        pengesedler i 1883, straffesagen og firmaets konkurs</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1882-07-01">[1882, juli] Lørdag<note>Forslaget til datering
+                        støtter sig til Bangs brev til Jacob Hegel, dateret 17.7.1882, der rummer
+                        hans skitse til en tilsvarende skuespillerantologi. Planen blev ikke
+                        realiseret</note>
+                </date>
+                <placeName cert="low">[Middelfart]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Bedste Hr. Riemenschneider.</p>
+                <p>Tingen er et Konkurrencearbeide til »Dansk Skuespilkunst«<note>Edvard Brandes:
+                            <emph>Dansk Skuespilkunst. Portrætstudier</emph> var i 1880 udgivet på
+                        P.G. Philipsens Forlag</note>. En Række <app>
+                        <lem>Skuespillerkarakterisker</lem>
+                        <rdg>Skrivefejl for: Skuespillerkarakteristiker</rdg>
+                    </app> samlede, trykte og <emph>utrykte</emph>. Jeg tror meget paa en saadan
+                    Samling, men Langhoff<note>Emil Langhoff (18...........), leder (sammen med
+                        ...??) af I.H. Schubothes forlag</note>, som har Romanen<note>Haabløse
+                        Slægter, der udkom i november 1880 på I.H. Schubothes forlag</note>, vil ei
+                    have den.</p>
+                <p>Emil Poulsen</p>
+                <p>Jerndorf</p>
+                <p>Abrahams. (ny)</p>
+                <p>Coquelin. (ny)</p>
+                <p>Oda (ny)</p>
+                <p>Fru Hennings (ny)</p>
+                <p>Pasca<note>.... Pasca (18.....), ... skuespillerinde; se Bang: Vekslende Themaer,
+                        12.6.1881</note> (ny)</p>
+                <p>Dramaturgien i Aforismer<note>Bang tænkte sig vel at genoptrykke det sidste
+                        afsnit af sin bog Realisme og Realister, 1879, der har titlen: Dramaturgiske
+                        Aforismer</note>.</p>
+                <p>En tysk »Dora« (ny.) o:s:v:</p>
+                <p>Seksten Ark à 25 Kroner trykt og utrykt. Mener De, det var for meget. Udstyrelsen
+                    maatte være smuk.</p>
+                <p>Vil De ikke sende mig af Honoraret strax blot saameget De kan ‒ det meste har jeg
+                    jo faaet, men noget er vel tilbage. Blot ialfald 70 Kroner <emph>strax</emph>
+                    efter Modtagelsen. Thi jeg sidder her bogstavelig <emph>uden en Skilling i min
+                        Lomme og skal paa Tirsdag Middag til Horsens</emph>. Send mig strax blot
+                        <emph>20 Kroner</emph>.</p>
+                <p rend="right">Deres</p>
+                <p rend="right">H. de B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

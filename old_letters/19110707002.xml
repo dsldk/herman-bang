@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19110707002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1911-07-07">1911, 7. Juli [fredag] <note>Det samme emne
+                        optager Bang i brevet til Peter Nansen fra den samme dag, 7.7.1911</note>
+                </date>
+                <placeName cert="high">Bergen</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Bergen 7.7.11.</p>
+                <p>Min kære Houmark.</p>
+                <p>Deres Breve piner mig mere end De kan tro.</p>
+                <p>Paa hvad B: har sagt til G:<note>Hvem der sigtes til med bogstaverne B. og G., er
+                        indtil videre ikke afklaret ... ...</note> og jeg til B: og G: til en femte
+                    skal jeg ikke gaa ind. Det er den københavnske Sladder. At Deres Interviews var
+                    »forbi«, har jeg <emph>aldrig</emph> sagt.</p>
+                <p>Men hvad »W«<note>Harald Witzansky (1862-1940), redaktør af avisen København,
+                        hvor Christian Houmark var medarbejder ‒ og Bang selv indtil 1911</note>
+                    angaar, hvor kan De da tænke eller tro, blot et Nu, at <emph>jeg</emph> har
+                    sagt, <emph>De</emph> var en »Dranker« ‒ hvor er saadan noget muligt? Under hele
+                    mit Besøg hos W. var Grundlaget det, at De skulde begynde igen i Deres gamle
+                    Stilling og paa de gamle Vilkaar. Hr. Locher<note>Jens Locher (1889-1952),
+                        journalist, fra 1909 ved avisen København</note>
+                    <emph>er ikke ansat</emph>, sagde W. Og vilde ikke blive det, naar De
+                    tiltraadte.</p>
+                <p>Der er noget bitterlig tragikomisk i dette, at det nu skal sé ud, som om jeg har
+                    lagt Deres Stilling øde. Men det faaer vel ikke hjælpe. Naar jeg kommer hjem,
+                    vil det vel vise sig, at jeg ikke har villet andet end det Bedste ‒ ‒</p>
+                <p>Jeg giver Dem ét Raad:</p>
+                <p><emph>Begynd</emph>. Vis Folk, hvad De kan. Og alt er klart igen.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

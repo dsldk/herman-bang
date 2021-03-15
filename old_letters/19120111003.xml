@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19120111003</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 953</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser ordene: Hamburg-Amerika
+                                                Line og rederiets flag i farver, i hvis midte et
+                                                anker og et våbenskjold med bogstaverne: H.A.P.A.G.
+                                                (forkortelse for: Hamburg Amerika Paketfahrt
+                                                Aktien-Gesellschaft). Postkortets adressefelt er
+                                                udfyldt i Bangs håndskrift: <emph>Mm Nini Holst /
+                                                  Prinsesse Maries Allée 7. / Copenhague. V. /
+                                                  Europe.</emph>, og med tilføjelse i fremmed hånd:
+                                                  <emph>Denmark</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1912-01-11">1912, 11. Januar [torsdag] <note>Postkortet er
+                        frankeret med et US-2 cents frimærke, poststemplet <emph>New York, N.Y.STA.O
+                            / JAN20 12-M 1912</emph>. Intet dansk modtagerstempel</note>
+                </date>
+                <placeName cert="high">S/S Moltke, Atlanterhavet</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Moltke 11.1.1912.</p>
+                <p>Min kære Nini.</p>
+                <p>Vi har haft en vældig Storm. Himlen ské Tak ‒ for nu har jeg <emph>set</emph> en
+                    Oceanstorm. Tusinde Hilsener.</p>
+                <p rend="right">Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19021127001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 363</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1902-11-27" notBefore="9999-99-99" notAfter="9999-99-99">1902. 27. november.  [torsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Gml. Kongevej 25, 27-11-02.</p>
+                <p rend="right">B.<note>Dvs. postdistrikt København B</note>
+                </p>
+                <p>Kære Nansen.</p>
+                <p>Ja, det med Uroen er naturligvis rigtigt, naar Du siger det. Men maa man ikke gøre en
+               Bog akkurat som den er tænkt? Og denne<note>
+                        <title key="Sommerglæder">Sommerglæder</title>, jf. brevet 19021126</note> er tænkt som skullende virke
+               i et éneste Aandedræt.</p>
+                <p>Hermed slutter "<title key="Ravnene">Ravnene</title>". Jeg kan jo ikke vide, om den
+               er lykkedes. Men ét er der i den – som ikke findes i "Sommerglæder" – et Par
+                  <emph>nye</emph> Mennesker. Hvor den hist og her synes forsvovlstikket<note>Dette
+                  udtryk er formentlig en allusion til H.C. Andersens "<title key="Den lille Pige med Svovlstikkerne">Den lille Pige med
+                     Svovlstikkerne</title>" i betydningen: fattig, mager, forhutlet</note>, gør
+               jeg den altid fyldigere ved et Par Streger under Korrekturen.</p>
+                <p>Vil Du have Manuskriptet? Jeg mener til Erindring.</p>
+                <p>Vist er det, at jeg for Din Skyld har underkastet mig disse Døgns Strabadser. Jeg
+               forstod vel, at det kunde berede Dig Ubehag, naar der hos <persName key="Hegel, Jacob">Hegel</persName>
+                    <note>Jacob Hegel (1851-1918), fra 1887 eneejer af og direktør for forlaget Gyldendal</note> ingen Bog udkom i Aar. Men sikkert skriver jeg nu ikke
+               flere af den Slags Bøger.</p>
+                <p>Nu maa "<title key="Mikaël">Michaël</title>" skrives. Lægen sagde forleden, at saa
+               blev jeg syg igen. Men det faar ikke hjælpe. Den, som ikke yder sit yderste, yder
+               intet.</p>
+                <p>I Anledning af mit hurtige Arbejde maa Forlaget tilstaa mig en Hædersgave, stor 30
+               Kr, som bedes medgivet <persName key="Rasmussen, Otto K.">Rasmussen</persName>
+                    <note>Bangs daværende sekretær og medhjælp Otto K. Rasmussen (1878-1968), der som bud for Bang har bragt dette brev til Peter Nansen;
+            Bang forventede, at Rasmussen fik det ønskede beløb med tilbage</note>.</p>
+                <p>Korrekturene skal Du nu have inden Søndag<note>Dvs. 30.11.1902</note>.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

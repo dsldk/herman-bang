@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860300002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio.</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-03-01">[1886. marts; Fredag]<note>empty</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p>Kære Ven.</p>
+                <p><emph>Nu ‒ Fredag</emph> Aften ‒ fik jeg dit Brevkort, hvor du pludselig skriver:
+                    et <emph>R</emph> istedetfor IX Bezirk.<note>I Wien boede Bang kortvarigt i
+                        Alsterstrasse 8 og noget længerevarende i Universitätsstrasse 4; begge
+                        adresser ligger i byens IX Bezirk</note></p>
+                <p>Pengene har jeg ikke øinet. Er Adressen ogsaa paa dem forkert? At saadant noget
+                    dog altid skal ske. Ingen Penge gaar fra Tirsdag til Lørdag. Jeg har slet intet.
+                    Forhaabentlig kommer Pengene. <emph>Igaar morges</emph> atter afsendt
+                    Manuskript. <emph>Nu igen</emph>. Atter imorgen Aften. For disse tre Sendinger
+                    bedes mig Penge sendt <emph>Mandag</emph> (den tredie Port faar <emph>du</emph>
+                    Mandag Formiddag.) Det er græsseligt, at der altid er Vrøvl. At jeg
+                        <emph>altid</emph> skal tigge og tigge.</p>
+                <p>Vil du sende <emph>to</emph> Aftryk af <emph>anden</emph> Korrekturerne, og et af
+                    »min gamle Kammerat«.<note>Bangs novelle »Min gamle Kammerat« var dog allerede i
+                        oktober-november 1885 blevet trykt i Nordstjernen, som Julius Schøtt
+                        redigerede ...?</note></p>
+                <p>Gud véd, <emph>om</emph> Andreas Schou har sendt Penge og under hvilken
+                        <emph>Adresse</emph>? <emph>Telegrafér</emph> mig det og tag Penge derfor
+                    fra.</p>
+                <p rend="right">Din Herman.</p>
+                <p>Hils.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

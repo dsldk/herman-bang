@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860310002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NBD 2.rk. Blyantsnummer 485</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Vilhelm Greibe (dansk vicekonsul i
+                                        Hamburg)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-03-10">[1886, ca. 10. marts, onsdag]<note>Datering er
+                        skønnet i forhold til 14 dage efter udvisningen af Meiningen og få dage før
+                        Bang flytter fra Hotel Hammerand til Universitätsstrasse 4 i Wiens IX
+                        Bezirk</note>
+                </date>
+                <placeName cert="high">Wien</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Hotel Hammerand. VIII Bezirk. Wien.</p>
+                <p>Kære Greibe.</p>
+                <p>Det er ude af mig selv, at jeg skriver dette Brev. De fjorten Dage, jeg efter min
+                    Udvisning af Meiningen har tilbragt her, har været de skrækkeligste i mit Liv.
+                    Dødssyg blev jeg jaget ud af min <app>
+                        <lem>Lejlighed</lem>
+                        <rdg>Det første bogstav er rettet fra et andet...?</rdg>
+                    </app><note>Formentlig i Alsterstrasse 8, IX Bezirk, Wien, hvor Bang boede i
+                        ganske få dage sidst i februar og først i marts 1886</note>, fordi jeg ikke
+                    kunde betale Leien, og atter maatte jeg tage paa Hotel<note>Dvs. Hotel
+                        Hammerand, VIII Bezirk</note> ... Værten har nu betydet mig at gaa. Han har
+                    givet et Par Dages Frist. Hjemme i København er alt i Forvirring. Ingen svarer
+                    paa mine Breve.</p>
+                <p>De skaffede mig en Gang nogle Penge, og jeg véd, De led meget derfor. Men jeg er
+                    ikke mere saa uordenlig som den Gang. Jeg skulde betale dem tilbage i smaa
+                    Rater, hvis De kunde skaffe mig noget. Skal man ikke maale et Menneske efter de
+                    Ulykker, som rammer ham?</p>
+                <p>Der findes i Hamburg en Fiskehandler Jensen ‒ tal med ham. Men handl strax. Ti
+                    her er ingen Tid at spilde. Jeg kan knap tænke og i fem Dage har jeg skrevet
+                        <emph>tolv</emph> Artikler. Men <emph>naar</emph> betales man. Om <app>
+                        <lem>Nætterne</lem>
+                        <rdg>Ordet er rettet fra: Hjerte</rdg>
+                    </app> sover jeg ikke men maa sidde op i Sengen af Hjertebanken.</p>
+                <p>Skynd Dem, Greibe ‒ ti Himlen ved, hvor jeg er om otte Dage. Saa ene og saa
+                    forladt. Kunde jeg faa <emph>150 Mark</emph>, kunde jeg slippe herfra og leie et
+                    Værelse og skrive min Bog. Men i et Par Maaneder kunde jeg intet betale, ti mit
+                    Tøi er ude. Husk først bort fra Berlin ‒ saa fra Meiningen ‒ med 2 Døgns
+                    Varsel!</p>
+                <p>Gør alt, hvad De kan. <emph>Jeg</emph> er træt. Og selv om det er mindre send det
+                    til</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

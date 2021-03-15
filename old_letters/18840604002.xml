@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18840604002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 447</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Edvard Brandes</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Telegram, indleveret kl. 10.44 fra Aalborg. Stilet
+                                                til: <emph>Dr: Edvard Brandes / Tordenskjoldsgade /
+                                                  Kbhavn</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Citeret i Kristian Hvidt: Edvard Brandes. Portræt af en
+                                        radikal blæksprutte, 3.udg. Gyldendal 2005, s. 234</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1884-06-04">1884, 4. juni [onsdag]<note>Aftenen før havde
+                        Bang optrådt i Aalborg sammen med skuespillerne Camilla Lerche (1836-1914),
+                        Julie Secher (1860-92), Frederik Cetti (1838-1906) og Johannes Marer
+                        (1861-1922): tilsammen udgjorde de <emph>Herman Bang Tourneen</emph>, 3.-12.
+                        juni 1884</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+
+                <p>Stigende Sukces for »en Forlovelse«. Stærkt Bifald. Jeg akcepteredes
+                        <emph>ikke</emph>. Vil nu hurtigt gaa til Roskilde.</p>
+                <p>Hilsen</p>
+                <p rend="right">Herman Bang</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

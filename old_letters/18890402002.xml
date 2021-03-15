@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18890402002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5159, 4to. Blyantsnummer 1</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Margarethe Jørgensen, født
+                                        Dreyer</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1889-04-02">[1889, 2. april] Tirsdag <note>Antagelig skrevet
+                        tirsdagen efter Bangs første takkebrev, dateret 27.3.1889. Margarethe
+                        Jørgensen var bosat i Maribo sammen med sin mand, arkitekt og branddirektør
+                        Peder Jørgensen</note>
+                </date>
+                <placeName cert="high">[Nakskov]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Kære Fru Jørgensen.</p>
+                <p>Jeg vil endnu en Gang takke Dem for Deres Venlighed imod mig, og jeg beder Dem
+                    takke alle dem, som gjorde mig Opholdet i Maribo saa kært.</p>
+                <p>Det var mig en virkelig Glæde at træffe Dem igen og at forny Erindringen om en
+                    Tid, da man ikke var hverken Forfatter eller Dit eller Dat men kun ung,
+                    forhaabningsfuld og atten eller tyve Aar.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman B.</p>
+                <p>Hils Deres Mand saa <emph>mange</emph> Gange.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

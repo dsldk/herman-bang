@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19090701001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>privateje</repository>
+                                <idno>empty</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Brevet har den nuværende ejer købt på net-auktion 1423 hos
+                                        Bruun Rasmussen, 3.6.2014. Intet vides om tidligere
+                                        ejerforhold</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1909-07-01">[1909, 1. juli] Torsdag <note>Bangs flytning fra
+                        Berlin til København fandt sted 30.6.1909; nogle dage senere tog han ophold
+                        på Marienlyst ved Helsingør, før han senere i juli 1909 flyttede til sin nye
+                        permanente bopæl Lille Strandstræde 20 i København. Brevets slutbemærkning
+                        tyder på, at han og Bertha Holst i lang tid ikke har set hinanden; dette
+                        kunne stemme med, at hun 1905-07 opholdt sig på tuberkulosesanatoriet i
+                        Silkeborg, og han 1907-09 havde boet i Berlin</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">»Hotel Kongen af Danmark«.</p>
+                <p rend="right">Torsdag.</p>
+                <p>Min egen Bertha.</p>
+                <p>Tusind Tak for dit Brev, som inderligt glædede mig. Hvor vidunderligt, at
+                        <emph>Livet</emph> begynder for dig igen ‒ og <emph>Livsglæden</emph>.</p>
+                <p>Saasnart jeg kommer til Marienlyst, skal jeg skrive et langt Brev til dig.</p>
+                <p rend="right">Din gamle</p>
+                <p rend="right">Herman.</p>
+                <p>Nu er jeg hvidhaaret.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

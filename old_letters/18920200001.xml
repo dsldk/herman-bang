@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18920200001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 1594</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1892-02-01">[1892, februar-april?]
+                        Torsdag<note>Dateringsforslaget bygger på Bangs lange ophold i byen. Men han
+                        var i Kristiansand både i 1885 og senere, så dateringen er indtil videre
+                        usikker</note>
+                </date>
+                <placeName cert="high">Kristiansand</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Christianssand. Torsdag.</p>
+                <p>Kære Ven.</p>
+                <p>Jeg sendte dig forleden et Brev ‒ med nogle Raad ‒ og en »Krog«<note>Dvs.
+                        manuskript til en af Bangs artikler i Nordstjernen under rubrikken »Fra
+                        Samfundets Kroge«. Såfremt dateringsforslaget februar-april 1892 holder
+                        stik, kan det måske dreje sig om Bangs artikel »Fædrelandet«, trykt i
+                        Nordstjernen 10.4.1892</note>. Nu sér jeg, du har ikke samme Adresse ↄ:
+                    »Stjernen«, men jeg haaber dog, du har faaet dem.</p>
+                <p>Her er en Novelle, som jeg faldt over i »Sur L'eau«. Den er sikkert aldrig
+                    oversat og er af dem, som Publikum elsker.</p>
+                <p>Det er en fransk Variant paa »Marie Grubbe«.</p>
+                <p>Er der ikke nogle Billeder, jeg skal skaffe dig?</p>
+                <p>Norsk »Folkebladet« bringer i et af sine næste Numre mit Billede.</p>
+                <p rend="right">Din Herman.</p>
+                <p>Hils alle derhjemme.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

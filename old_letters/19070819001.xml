@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19070819001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5152, 4to. Det 3. brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Astrid von Scholten, født
+                                        Pålsson</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi af en
+                                                bygning i klassisk tempelstil bag en monumental
+                                                rytterstatue, med den trykte tekst: <emph>Berlin
+                                                  National-Galerie</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Øverst på tekstsiden med blyant og i fremmed hånd:
+                                            <emph>[19/8-1907]</emph>, formodentlig skrevet af en
+                                        ansat på Det Kgl. Bibliotek som en afskrift af
+                                        poststemplerne. </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-08-19">[1907, 19. august, mandag] <note>Postkort,
+                        frankeret med to 5-Pfennigs frimærker og poststemplet i Berlin W. med dato
+                        19.8.1907; udskrift i Bangs håndskrift: <emph>Fru Astrid Scholten /
+                            Prinsesse Maries Allée 5 / Kopenhagen V.</emph> ‒ På adressen boede Nini
+                        Holst, Bangs søster</note>
+                </date>
+                <placeName cert="high">[Berlin]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Astrid.</p>
+                <p>Mange Hilsener til Jer. Skriv en Gang til</p>
+                <p rend="right">den gamle Mand.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

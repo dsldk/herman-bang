@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19070120003</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2751, folio; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-01-20">1907, 20. Januar [søndag] <note>I dagene ca.
+                        15.-20.1.1907 opholdt Bang sig på et hotel i Hillerød for at få nerverne
+                        bragt i ro (i kølvandet på Johannes V. Jensens aviskronik 30.11.1906; se
+                        også Harry Jacobsen: Den tragiske Herman Bang, s. 172). ‒ Brevet sidder
+                        indklæbet i veksellerer Johan Levins brevsamling, 3. Bog; Johan Levin
+                        (1877-1959) erhvervede i 1920 et antal breve fra Christian Houmark</note>
+                </date>
+                <placeName cert="high">Hillerød</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Hillerød. 20.1.1907.</p>
+                <p>Kære Houmark.</p>
+                <p>Jeg maatte tage bort et Par Dage, fordi det var altfor slemt med mit Humør. Her
+                    er Humøret vel ikke blevet bedre. Men jeg er idetmindste begyndt at spise. Og
+                    naturligvis maa jeg gøre mig klart, at der venter mig lange Maaneders dulgte
+                    Lidelser, før jeg igen kan kaldes rask... Kun én Ting staar mig ganske tydelig:
+                    i dette Land vil jeg ikke blive. Her har man saaledes faaet for
+                        <emph>Vane</emph> at mishandle mig, at det aldrig vil ophøre. Hver Dag giver
+                    mig et nyt Eksempel:</p>
+                <p>Iforgaars meldte sig en Journalist fra en stedlig Avis. Jeg sagde ham, at jeg
+                    havde intet at sige ham. Han bad mig <emph>privat</emph> om nogle Oplysninger.
+                    Jeg bød ham en Cigaret, talte høfligt med ham ‒ og læste næste Dag en Artikel...
+                    af de vanlige.</p>
+                <p>Forleden i København kom en norsk Herre for at tigge. Jeg gav ham, hvad jeg
+                    havde. Han navngav sig som Hr: Winsnes ‒ og var hos mig et Minut. Tre Dage <app>
+                        <lem>efter</lem>
+                        <rdg>Bang har tilføjet ordet over linjen</rdg>
+                    </app> sendte han til »Ørebladet« en artikel om Herman Bang og de andre
+                    Sædelighedsforbrydere.</p>
+                <p>.... I et saadant Samfund <emph>vil</emph> jeg ikke leve. Og dette Samfund ændres
+                    ikke. Ti der er Kræft i det, saa den ene smitter den anden. Vi gaar alle
+                    smittede omkring og véd det ikke selv..... Jeg vil foretrække enhver Løsning for
+                    den at blive her i Landet, hvor mit Liv i tredive Aar har været en ustanset Kamp
+                    mod Smæderiet og tilsist mod Forsmædelsen.... Jeg har tænkt adskilligt paa Deres
+                    Gjæld til Hotellet. Jeg finder denne Sag ret betænkelig og først og fremmest maa
+                    og skal De søge Rede paa, hvor<emph>meget</emph> De skylder. Saa maa vi bagefter
+                    overlægge, hvordan det kan blive betalt..... Men der er kun <emph>en</emph> Vej:
+                    De maa øge Deres maanedlige Indtægter. Skriv under et <emph>Pseudonym</emph>
+                    nogle Skuespillererindringer fra Provinserne: »Med Kærren ‒« og lad dem ‒
+                    harmløse og muntre ‒ komme i »Familje-Journalen«. Det giver Penge.</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

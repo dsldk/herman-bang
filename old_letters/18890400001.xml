@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18890400001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5159, 4to. Med blyant: »1)« og »april 89«</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Peder Jørgensen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1889-04-01">[1889, cirka april] Onsdag <note>Indtil videre er
+                        det uoplyst, hvem der er død i Peder Jørgensens familie (måske faderens
+                        anden hustru??). Blyantsdateringen »april 89« er formentlig skrevet af
+                        ægteparret Jørgensens søn, arkitekt Carl Jørgensen (1888-1973), der i 1967
+                        indleverede de breve, som Bang skrev til hans forældre, til Det Kgl.
+                        Bibliotek</note>
+                </date>
+                <placeName cert="high">[Nakskov]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag.</p>
+                <p>Kære Ven.</p>
+                <p>Tro ikke, at min Taushed betød Mangel paa Deltagelse ‒ aa nej, saa langt, saa
+                    langt fra. Havde det været Deres <emph>Moder</emph>, som var død, havde maaske
+                    mit Brev <app>
+                        <lem>været</lem>
+                        <rdg>Ordets første bogstav er rettet fra et bogstav med en lang
+                            opstreg</rdg>
+                    </app> det første. Nu ser jeg det Skete som en Lykke. Det vil helt nærme Deres
+                    Fader til Dem og Deres, og <emph>De</emph> vil nu faa meget at gøre for hélt at
+                    tage den gamle Forretning paa Deres Skuldre og slaa et ægte Slag for det gamle
+                    Firma. Min Ven, jeg venter nu saa meget af Fremtiden for Dem og Deres.</p>
+                <p>Jeg kommer til Begravelsen med Krog-Jensen<note>Niels Sophus Johannes Krog-Jensen
+                        (1843-????), cand.jur., sagfører i Nakskov</note>.</p>
+                <p>Hils Deres Kone<note>Margarethe Jørgensen, født Dreyer (1858-1928), gift 18?? med
+                        arkitekt, branddirektør Peder Jørgensen, Maribo</note> tusinde Gange. Og
+                    alle de andre.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

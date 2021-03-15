@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18990723001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Dateringen »23/7 99« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1899-07-23">[1899, 23. juli] Søndag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet. ‒ Bang
+                        blev 30.6.1899 indlagt på Assens Sygehus</note>
+                </date>
+                <placeName cert="high">[Assens]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Søndag.</p>
+                <p>Tak, min Ven, for de dejlige Druer.</p>
+                <p>Nej, jeg bliver ved at spytte Blod. Og jeg tror, Lægerne er meget mindre
+                    forhaabningsfulde nu end før.</p>
+                <p>Men hvad saa? Sorgen, der tager mit Liv, kan jeg dog ikke overvinde. Saa ønsker
+                    jeg selv meget hellere, at en Blodstyrtning kunde ende det nu.</p>
+                <p>Tusind Hilsener</p>
+                <p>Hils Lybecker<note>J.L. Lybecker (1862-1923), forlægger; han og Aage Hirschsprung
+                        (1869-1909) ledede 1893-1908 i fællesskab Det Schubotheske Forlag i
+                        København</note>.</p>
+                <p rend="right">Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

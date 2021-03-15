@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870826001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 511</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Emil Jonas</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1887-08-26">[1887, 26. august] Fredag<note>Brevet er
+                        formentlig skrevet en af de første dage efter, at Bang flyttede fra Prag til
+                        Teplitz</note>
+                </date>
+                <placeName cert="high">Teplitz [Teplice], Bøhmen</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Teplitz. Poste restante<note>Bangs anførte postadresse, dvs. at
+                        breve til ham i praksis blev liggende på hans navn i postkontoret i Teplitz,
+                        hvor han personligt kunne afhente dem</note>. Fredag.</p>
+                <p>Kære Kammerraad.</p>
+                <p>Meget syg kom efter Lægens indstændigste Anmodning hertil.</p>
+                <p>Jeg <emph>skrev til Schorer</emph>. Et Brev, som jeg, naar De kommer til Berlin ‒
+                    vil bede Dem lade ham vise Dem. Ti jeg tillader ikke, at der opstaar nye
+                    Misforstaaelser os imellem.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">H de B</p>
+                <p>Skrevet <emph>strax</emph>, i Sengen.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

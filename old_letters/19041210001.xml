@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19041210001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 866</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort; billedsiden viser et fotografi af tre
+                                                hvidklædte kvinder med flere mennesker bag sig,
+                                                stående ved en udsmykket balustrade eller lignende.
+                                                Den forreste ældre kvinde [Rumæniens daværende
+                                                dronning] bærer et hvidligt slør over hat og ansigt.
+                                                Frimærket er dampet af; adressen i Bangs håndskrift:
+                                                  <emph>Mme Nini Holst. / Gamle Kongevej 25. /
+                                                  Copenhague. K. / Danemark.</emph>. Poststemplet i
+                                                Bu[cures]ci, 10. Dec. 04; det danske
+                                                modtagerstempel: <emph>Kjøbenhavn B. 3.OMB
+                                                  -13.12.04</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-12-10">[1904, 10. december, lørdag] <note>Usikkert om
+                        kortet er afsendt fra hovedstaden Bukarest eller fra provinsbyen Bucuresci.
+                        Bangs korte tekst, skrevet med blyant, står på kortets billedside over
+                        dronning Elisabeths hoved</note>
+                </date>
+                <placeName cert="high">[Bucuresci]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Carmen Sylva<note>Elisabeth (1843-1916) var gift med Rumæniens konge Carol 1., og
+                        hun var dronning 1881-1914. I sin ungdom havde hun publiceret lyrik,
+                        dramatik og romaner under sit pseudonym Carmen Sylva</note></p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

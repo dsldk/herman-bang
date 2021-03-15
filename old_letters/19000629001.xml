@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19000629001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Dateringen »28.9.1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1900-06-29">[1900, 29. juni] Fredag <note>Den sekundært
+                        påførte blyantsdatering: »28.9.1900« er notorisk forkert</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag</p>
+                <p>Kære Hirschsprung.</p>
+                <p>Lægen<note>Ifølge andre breve fra Bang havde han på dette tidspunkt Valdemar
+                        Brummerstedt (1868-1941) som sin læge i København</note> har igaar bestemt
+                    paabudt nogle Dages Ro. Jeg maa derfor tage til Hørsholm i Eftermiddag. Mit
+                    Hjerte er saa slet, at jeg selv indser Nødvendigheden deraf. De <emph>maa</emph>
+                    derfor give mig tredive Kroner. Derude kan jeg ogsaa meget lettere skrive paa
+                        »Huset«<note>Dvs. arbejde på manuskriptet til romanen <emph>Det graa
+                            Hus</emph>, der udkom 26.11.1901 på Det Schubotheske Forlag</note> og
+                    som det nu gaar, gaar det ikke. Nogle Dages Ro maa jeg have.</p>
+                <p rend="right">I Hast.</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

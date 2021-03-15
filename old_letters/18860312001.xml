@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860312001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 100</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-03-12" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 12. marts], Fredag Morgen<note>Med datering "Wien
+                  13.3." blev Bangs artikel "En fyrstelig Fallit" trykt i Politiken, fredag
+                  19.3.1886</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag <app>
+                        <lem>Morgen.</lem>
+                        <rdg>Efter dateringen har Bang skrevet et pi-agtigt tegn, som næppe er et II</rdg>
+                    </app>
+                </p>
+                <p>Tak for dine to Breve, som jeg modtog nu paa samme Tid. En ny "Sensations-Sag" sætter
+               hele Wien i Bevægelse. En vis <persName key="Ypsilanti, Gregorios">Fyrst
+                  Ypsylanti</persName>
+                    <note>Gregorios Ypsilanti (1835-86), græsk ambassadør i Wien og Paris, døde 19.2.1886 i Paris</note> har i Forening med sin
+                  <persName key="Ypsilanti, Helena">Frue</persName>
+                    <note>Helena (græsk: Eleni) Ypsilanti, datter af den østrigske bankier og finansmand <persName key="Sina, Simon Georg Freiherr von">Simon Georg Freiherr von Sina</persName> (1810-76), grundlægger af Bankhaus Simon G.
+                  Sina, Wien. Hun var gift med den græske diplomat Gregorios Ypsilanti; begge ægtefæller led angiveligt af ludomani</note> – en Jøde-Bankiers Datter – i Løbet af ti Aar gjort Kaal paa en
+               30 Millioner eller saa.</p>
+                <p>Han er død – og Enken gik nu iforgaars Fallit. Sagen er tilstrækkelig fyldt med Guld
+               og Fyrstetitler til at ville svømme gennem alle europæiske Blade.</p>
+                <p>Vil du takke Dr. <persName key="Brandes, Edvard">Ed. B.</persName>
+                    <note>Edvard Brandes (1847-1931), dr.phil., forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> for Brevet til <persName key="Lewinsky, Joseph">Lewinsky</persName>
+                    <note>Den østrigske skuespiller Joseph Lewinsky (1835-1907)</note>.</p>
+                <p rend="right">Herman.</p>
+                <p>Jeg <emph>beder</emph> dig under <emph>to</emph> Korsbaand sende mig "Polit" fra den
+               første til nu – vil du? Og husk "<title key="Fædra">Fædra</title>" hos <persName key="Langhoff, Paul">Poul</persName>
+                    <note>Paul Langhoff (1862-94), forlægger, indtil 1893 indehaver af J.H. Schubothes Forlag, København</note>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18801200001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 01</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Øverst til højre Peter Nansens påskrift: <q>Maaske det første Brev
+                                 fra Bang. Han udgav i mit Rusaar et Teaterblad, og jeg anmeldte i
+                                 det hans Kritiske Studier – min første signerede Artikel</q>
+                                    </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1880-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1880.  december]<note>Peter Nansens anmeldelse af Bangs bog
+                  tryktes i Ugeskrift for Theater og Musik, nr. 7, 29.12.1880, s. 72f. Dette nummer
+                  udkom på samme dag, som Haabløse Slægters forfatter blev tiltalt for
+                  usædelighed</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Nansen!</p>
+                <p>Hermed Studierne<note>Herman Bangs bog <title key="Kritiske Studier og Udkast">Kritiske Studier og Udkast</title>, som udkom midt i
+                  december 1880 på Schubothes forlag</note> .</p>
+                <p>Vær nu rart overbærende, Kritice<note>Af lat.: critice, vokativform (tiltale) af criticus:
+                  kritiker</note>, mod Deres ærbødigste</p>
+                <p rend="right">Forf.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

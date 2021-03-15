@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19010913001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 809</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-09-13">[1901, 13. september] Fredag
+                        <note>Dateringsforslaget er et skøn ud fra ugedagen og dette brevs placering
+                        i forhold til Bangs breve til Oluf Heise fra de efterfølgende dage. Bang
+                        opholdt sig september-november 1901 i Aalborg og var i oktober patient ved
+                        dr. Torrilds nerveklinik i byen; Johannes Torrild var 1898-1900
+                        praktiserende læge i København og havde muligvis allerede da Bang som
+                        patient</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aalborg. Fredag.</p>
+                <p>Kære Hr. Heise.</p>
+                <p>Her er den allersidste Korrektur paa »Det hvide Hus«<note>Bogens 2. oplag udkom
+                        22.10.1901 på Det Schubotheske Forlag</note>. Igaar fik jeg Begyndelsen af
+                    Korrekturen til »Det graa Hus«<note>Bogen udkom 26.11.1901 på Det Schubotheske
+                        Forlag</note>. Men ‒ desværre, jeg er her i Aalborg blevet saa syg, at jeg
+                    først paa Mandag kan tage fat paa Arbejdet.</p>
+                <p>Vil De bede Forlaget sende Korrektur-Aftryk af »Det hvide Hus« til</p>
+                <p>1) Hrn. S. Fischer (Verlag)<note>Den tyske forlægger Samuel Fischer (1859-1934),
+                        der i 1886 grundlagde S. Fischer Verlag, Berlin. Bangs Det hvide Hus udgav
+                        S. Fischer Verlag i tysk oversættelse i 1902</note></p>
+                <p>Berlin. W.</p>
+                <p>Bülowstrasse 91.</p>
+                <p>2) Mme. D. Logeman<note>Dien Logeman-van der Willigen (1864-1925), nederlandsk
+                        oversætter. Hendes oversættelse af Det hvide Hus og Det graa Hus udkom
+                        samlet under titlen <emph>Stella door</emph> med et forord af Georg Brandes
+                        i Utrecht 1903</note></p>
+                <p>Gand.</p>
+                <p>Rue des Baguettes. Belge.</p>
+                <p>Men det er og bliver frygteligt med mine Penge efter at Tivoli slog
+                        fejl<note>Bang havde 30.8.1901 optrådt i Tivoli med oplæsning, se hans brev
+                        til Fritz Boesen, dateret Hørsholm, Torsdag [21.8.1901]</note>. Her kan jeg
+                    først læse op de sidste Dage af Maaneden og jeg <emph>skal</emph> bruge
+                    halvandethundrede Kr: nu. Men det nytter jo ikke. Striden med Forlaget skal
+                    føres til Ende. Det er kun en Ulykke, at jeg arbejder saa slet med dette
+                    Pengesværd over mit Hoved.</p>
+                <p>Har vi faaet Angivelserne af Antallet, hvori mine Bøger har været trykte. Denne
+                    Liste interesserer mig levende.</p>
+                <p>Jeg har i de sidste Dage lidt af ustanselige Opkastninger, hvad der gør min Læge
+                    ret ængstelig. Men det er jo altsammen intet Under.</p>
+                <p>Mange Hilsener til Deres Frue<note>Inger Heise (1864-1932), født Groot, gift 1893
+                        med overretssagfører Oluf Heise, København</note></p>
+                <p rend="right">fra Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

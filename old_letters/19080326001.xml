@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19080326001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2009/148. Det 44.brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Olga Dahl</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider, med tilhørende kuvert frankeret med
+                                                to 10 Pfennigs frimærker, poststemplet <emph>Berlin
+                                                  W 27.3.08.9-10N</emph>; udskrift i Bangs
+                                                håndskrift: <emph>Fru Olga Dahl. / Kopenhagen. K. /
+                                                  Frederiksborggade.</emph>. På kuvertens bagside
+                                                det danske postvæsens modtagerstempel:
+                                                  <emph>Kjøbenhavn 8.OMB.28.3.08</emph></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med blyant i fremmed hånd øverst på brevets kuvert:
+                                            <emph>27-3-08</emph>, rimeligvis skrevet af Olga Dahl,
+                                        samt en vedlagt seddel med oplysningen: »Pup og Aage
+                                        forlovet 25/3-08« og den forklarende tilføjelse i anden
+                                        hånd: »Erna Dahl (1886-1918) og Aage Steen (1876-1924)«</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1908-03-26">1908, 26. Marts [torsdag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">Berlin. W.</p>
+                <p rend="right">26.3.1908.</p>
+                <p>Min egen, egen Ven.</p>
+                <p>Saa var der dog en Lykke til for Dem. Og Himlen ske Tak, min kære, kære Ven. Ti
+                    dette er da en Lykke og kan forblive det.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

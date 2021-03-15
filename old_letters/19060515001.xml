@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19060515001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1906-05-15">1906, 15. Maj [tirsdag] <note>Bang har skrevet
+                        det sidste ciffer i brevets årstal på en drilagtig måde, der mest ligner et
+                        B. Hans håndskrift i brevet tyder ikke på, at året skal tydes som »1903«;
+                        skriftbilledet peger snarere i retning af et årstal efter 1904, enten 1905
+                        eller 1906, hvoraf 1906 skønnes at være den sandsynligste datering</note>
+                </date>
+                <placeName cert="low">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">15.5.<app>
+                        <lem>1906</lem>
+                        <rdg>Det sidste ciffer er skrevet, så det mest ligner et B eller måske et
+                            rettet 3-tal. At tolke det som 1906 er udgiverens begrundede
+                            formodning</rdg>
+                    </app>.</p>
+                <p>Kære Hirschsprung.</p>
+                <p>Kan De ikke af Barmhjertighed lange mig tredive Kroner ud? For jeg ejer ikke en
+                    Øre. Og Situationen er lidt vanskelig for en Diplomat<note>Over en lang årrække
+                        kunne Bang undertiden finde på at spille på en af sine ungdomsdrømme, nemlig
+                        at han skulle have evner for at gøre tjeneste i diplomatiet. Harry Jacobsen
+                        noterer i forbindelse med Bangs færden i 1906: »Iøvrigt havde han [Bang]
+                        allerede bragt sig i en let komisk Position ved at angle efter Posten som
+                        Danmarks Gesandt paa Island« (Den tragiske Herman Bang, s. 161). Hvis dette
+                        brevs årstal er tolket korrekt, skal Bangs bemærkning måske forstås i
+                        sammenhæng hermed</note>.</p>
+                <p>Ja ‒ det véd Gud.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

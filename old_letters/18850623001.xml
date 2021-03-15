@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18850623001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Rigsarkivet</repository>
+                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+                                    blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Niels Neergaard</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side; brevpapir med fortrykt slyngmonogram:
+                                                HJB (uden krone)</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-06-23">[1885, cirka 23. juni, tirsdag] <note>Bang
+                        afsluttede sidst i juni 1885 sin flere måneder lange nordiske foredragsturné
+                        med få dages ophold i Kristiansand, hvorfra han 24.6.1885 eller kort
+                        derefter returnerede til Danmark. ‒ Niels Neergaard (1854-1936) var
+                        1884-1892 redaktør af tidsskriftet <emph>Tilskueren</emph></note>
+                </date>
+                <placeName cert="high">Kristiansand</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Christianssand.</p>
+                <p>Kære Redaktør.</p>
+                <p>Tak ‒ fordi De husker, at »Tilskueren« en Gang havde en Medarbeider ved Navn
+                        H.B.<note>Under sin langvarige foredragsturné i Norden havde Bang på dette
+                        tidspunkt ikke leveret artikler til <emph>Tilskueren</emph> siden en aktuel
+                        teaterartikel i februarhæftet 1885. Hans første artikel derefter havde samme
+                        emne og står i tidsskriftets decemberhæfte 1885</note></p>
+                <p>Han skriver imidlertid intet i denne, havde paabegyndt en Teaterartikel, men rev
+                    den itu.</p>
+                <p>Det første, Manden skriver ‒ Skal De faa.</p>
+                <p rend="right">Venlig Hilsen</p>
+                <p rend="right">fra Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

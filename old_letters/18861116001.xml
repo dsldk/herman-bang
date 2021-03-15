@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18861116001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4508, 4to</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Hansine Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-11-16">1886, 16. november [tirsdag]<note>Brevets kuvert
+                        er bevaret; Bangs udskrift: »Fru <emph>Hansine Schiøtt</emph> /
+                            <emph>Kopenhagen.</emph> / N. / Sortedamsgade 5.« Frimærket er afrevet,
+                        men en del af poststemplet er læseligt: »PRAH[A]«. Det danske postvæsens
+                        modtagerstempel på kuvertens bagside: »N. / OMB. 3 / 18 [...] 86«</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag. 16.11.86.</p>
+                <p>En hjertelig Tak, kære Frue, for Deres rare Brev. Det maa De tro, at det gode,
+                    som naar mig her i min Ensomhed i det store og golde fremmede ‒ det kommer fra
+                    No. 5<note>Dvs. fra familien Schiøtt, som boede i Sortedamsgade 5 i
+                        København</note>. Tak for hver Smule. Maatte der dog komme en Soldag, hvor
+                    jeg kunde vise i andet end Ord og de løse Talemaader, at jeg er et »tacksamt
+                    djur«. Maaske kommer en saadan Dag, naar vi alle er blevet ældre ‒ maaske vil vi
+                        <emph>da</emph> samles i Ro, under stille Lys ned over det Liv, som hælder
+                    mod Afslutning. Lev vel ‒ med alle Deres. Og pas ret paa Dem selv, at De maa
+                    blive rask og frisk.</p>
+                <p>Kys Deres Børn fra</p>
+                <p>Deres Ven</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19030205001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Gyldendals arkiv B4c</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1905-02-05" notBefore="9999-99-99" notAfter="9999-99-99">1903. 5. februar.  [torsdag]<note>Brevet er rimeligvis skrevet
+                  på Bangs lille turné januar-februar rundt i landet, opholdssted denne dag er
+                  ukendt</note>
+                </date>
+                <placeName cert="low">empty</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">5/2. 03.</p>
+                <p>Kære Nansen.</p>
+                <p>Det lyder lidt grufuldt naar jeg allerede i Dag maa bede om Halvtandethundrede Kroner
+               af Marts Pengene. Men den græsselige Opsliden mig for alle Formaal, gør mig bundløst
+               fattig. Tre Oplæsninger i Provinserne bringer mig imidlertid Penge midt i
+               Maaneden.</p>
+                <p>Midt i dette Hurlumhej kunde jeg godt tage fat paa <persName key="Maupassant, Guy de">Guy de Maupassant</persName>
+                    <note>Sandsynligvis et opgivet projekt; intet nærmere oplyst. Guy de Maupassant (1850-93), fransk forfatter</note>.</p>
+                <p>Men hvorledes staar det? Med <persName key="Christiansen">Christiansen</persName>
+                    <note>Ikke identificeret (måske direktør for Det Kongelige Teater Einar Christiansen (1861-1939), der var en ungdomsven af Peter
+                  Nansen)</note> mener jeg.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

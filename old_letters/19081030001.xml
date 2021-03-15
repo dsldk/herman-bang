@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19081030001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1908-10-30">1908, 30. Oktober [fredag] <note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58.</p>
+                <p rend="right">Berlin. W.</p>
+                <p rend="right">30.10.1908.</p>
+                <p>Min kære Houmark.</p>
+                <p>Hvor lykkelig De maa være. Ti det er en <emph>Bog</emph>, som De har
+                        skrevet<note>Christian Houmarks debutroman Det Syndens Barn. En Type udkom
+                        14.10.1908 (ifølge oplysning i bogens kolofon) hos Gyldendal</note>. En Bog,
+                    hvis Mennesker lever, og hvis Komposition, i fordringsløs Fasthed, synes
+                    fuldbyrdet i en selvfølgelig Ro. I Bogens Opbygning synes mig dens lykkeligste
+                    Løfte at ligge ‒ for Dem og for os andre..... Hvad dette stakkels Menneske
+                    angaar, da véd De, at det falder mig saa meget svært at fatte virkelig
+                    Medfølelse med disse klamme Mennesker. Men saa megen Med-Liden, som jeg
+                        <emph>kan</emph> faa med saadanne Folk, har De aflokket mig... Kun én Fejl
+                    synes De mig at have begaaet: hvorfor gøre ham saa ydre hæslig? Ved at lade ham
+                    være saa ydre styg, bliver Opgaven maaske lettere. Men selve »Typen« mindre
+                    vidtrækkende. Om han f.Eks. ‒ just paa Grund af Moderens evige »Smagen paa Mad«
+                    ‒ havde været lille, klein og tynd, med et Ansigt uden Blod og hvor kun Øjnene
+                    havde Skønhed for dem, som kunde sé den, vilde Tragedien være blevet mere
+                    »indre«. Hans Hæslighed er et Rekvisit, som <emph>De</emph> bruger, men som ikke
+                    vedkommer <emph>hans</emph> Sjæls virkelige Historie. Mon jeg ikke her har Ret?
+                    ..... Jeg tænker saa meget paa Deres Moder<note>Christiane Marie Houmark, født
+                        Binderup (1832-1915)... ...</note>. Hvor dejligt, at hun oplevede disse
+                    Dage. Og hvordan sér Fru Simonsen<note>... ??? ...</note> ud i sit Ansigt?.....
+                    En lang Vej har De tilbagelagt og sejret...</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

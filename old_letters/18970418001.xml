@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18970418001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 206</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1897-04-18" notBefore="9999-99-99" notAfter="9999-99-99">[1897. 18. april,  søndag, påskedag]<note>empty</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Ja – det var netop derfor jeg saa gerne vilde have set Jer, om blot et Minut, hvis
+               Betty havde været en Smule raskere end jeg.</p>
+                <p>Og det var derfor jeg var saa glad, at <persName key="Gulmann, Christian">Gulmann</persName>s Føljeton<note>Christian Gulmann: "Det femte Theater",
+                  Nationaltidende, 18.4.1897, indlæg i debatten om grundlægge et nyt privatteater i
+                  hovedstaden, det første på Frederiksberg (jf. note til brevet 18970413).
+                  Gulmanns faste føljeton hver søndag i Nationaltidende havde overskriften "Forhold
+                  og Mennesker"</note> stod netop idag.</p>
+                <p>Men jeg maa være al Tid i min Seng, hvor jeg ikke styrer <placeName key="Kreta">Kreta</placeName>
+                    <note>I Aftenbladet skrev Bang (under mærket Vidi)
+          en række artikler fra begyndelsen af marts til midten af maj 1897 om den
+          storpolitiske krise, som stridighederne om øen Kreta havde givet anledning til.
+          Kreta havde i et par århundreder været under osmannisk, dvs. tyrkisk (og dermed
+          muslimsk) herredømme, men dens befolkningsflertal var græsk (kristent). En opstand
+          på øen i 1896 var efterfulgt af international diplomatisk aktivitet. 15.2.1897
+          blev græske militærstyrker landsat, og fra 7.4. var kamphandlinger en realitet; en
+          månedstid senere havde Det Osmanniske Rige vundet en knusende sejr. Grækenland fik
+          en ny regering, og i maj rømmede de græske styrker Kreta efter diplomatisk
+          indgriben af de europæiske stormagter. Kreta fik udstrakt selvstyre inden for
+          rammerne af et internationalt protektorat, garanteret af Rusland, Storbritannien,
+          Frankrig og Italien. Først i 1913 blev øen en del af Grækenland</note>, da mit Hjerteslag
+               bliver hurtigere og hurtigere.</p>
+                <p>Mange, mange Hilsener.</p>
+                <p rend="right">Herman</p>
+                <p>Men de 52,000<note>Ikke oplyst</note> er naaede.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

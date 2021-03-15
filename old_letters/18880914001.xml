@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18880914001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 38</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1888-09-14" notBefore="9999-99-99" notAfter="9999-99-99">[1888. 14. september], Fredag<note>Brevet dateres i forhold til C.F.
+                  Tietgens tale 12.9.1888</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag.</p>
+                <p>Kære Nansen.</p>
+                <p>Ved du, at du er en Sjuft. Nægter, at du har med <persName key="Kjerulf, Charles">"Jens Kok"</persName>
+                    <note>Det pseudonym, som komponisten Charles Kjerulf (1858-1919) undertiden brugte i offentligheden. De to
+                  forfattere til farcen <title key="Pigernes Jens">Pigernes Jens</title>, kaldet
+                  "Kantonnements-Farce i 5 Akter af Forfatterne til Pr. Kongebrev", var Kjerulf og
+                  Peter Nansen. Stykket, der havde premiere på Casino 30.9.1888, havde de skrevet i
+                  løbet af september, jf. Karin Bang, s. 224-228</note> at gøre, og <persName key="Rasmussen, August">August</persName>
+                    <note>August Rasmussen (1838-1922), der 1884-87 var direktør for Casino i København</note> maa fortælle mig det.</p>
+                <p>Men sér du: nu drejer sig Sagen om <persName key="Larssen, Otto">Otto</persName>
+                    <note>Otto Larssen (1864-1910), skuespiller, oprindelig skibsdreng og kontorist ved DSB, bror til skuespillerinden Oda Nielsen; ungdomsven og bofælle med Peter Nansens bror Immanuel Nansen</note>s allersidste Kort, før han maa "forsvinde". Du maatte
+               kunne lave en naivt forfjamsket og uforstaaende Sygepasser med en køn lille Sang – et
+               Par Scener blot – men kalkeret over ham. Saa fik han Debut strax og god Debut.</p>
+                <p>Lad Kjerulff tale meget om den fixe Idé – og det <emph>er</emph> jo ikke ilde – med
+               de to Primadonnabrødre paa én Aften.</p>
+                <p>Gør, hvad du kan.</p>
+                <p rend="right">Herman B.</p>
+                <p>
+                    <emph>NB.</emph> Jeg har skrevet og sendt <persName key="Hørup, Viggo">Hørup</persName>
+                    <note>Viggo Hørup (1841-1902), politiker (Det Radikale Venstre), medstifter af dagbladet Politiken 1884, redaktør af samme</note> en Artikel om <persName key="Tietgen, C.F.">Tietgen</persName>
+                    <note>Erhvervsmanden, bankdirektør C.F. Tietgen (1829-1901) ledede et tre dage langt handelsmøde i København, refereret i Politiken
+                  12.-14.9.1888 (usignerede artikler), hvor han på førstedagen selv talte om de
+                  gældende toldforholds aktuelle problemer. Man vedtog Tietgens resolution: at
+                  handelsmødet frabad sig enhver ændring af den bestående toldlovgivning. I
+                  Politiken, fredag 14.9., stod endvidere en artikel, signeret <persName key="Brandes, Ernst">Ernst Brandes</persName> (nationaløkonomisk forfatter, medarbejder ved Politiken 1884-89, bror til Georg og Edvard Brandes), der tolkede handelsmødets
+                  samlede betydning</note>s Tale. <emph>Den kan nu ikke komme paa.</emph> Sig
+                  <persName key="Adler, Viggo">Adler</persName>
+                    <note>Viggo Adler (1849-1921). redaktionssekretær ved Politiken 1885-97</note> det.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19010928001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 808</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1901-09-28">[1901, 28. september] Lørdag
+                        <note>Dateringsforslaget er et skøn ud fra ugedagen og dette brevs placering
+                        i forhold til Bangs breve til Oluf Heise fra de omkringliggende dage. Bang
+                        opholdt sig september-november 1901 i Aalborg og var i oktober patient ved
+                        dr. Torrilds nerveklinik i byen</note>
+                </date>
+                <placeName cert="high">Aalborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Missionshotellet. Aalborg. Lørdag.</p>
+                <p>Kære Hr. Heise.</p>
+                <p>Hermed et Korrekturark<note>Bang læste korrektur på Det graa Hus; bogen udkom
+                        26.11.1901 på Det Schubotheske Forlag</note>. Jeg retter og afsender nu et
+                    Ark om Dagen og anmoder Forlaget<note>Det Schubotheske Forlag</note> at lade mig
+                    tilflyde Anden-Korrekturerne saa hurtigt ské kan. Paa mit Helbred kan ingen mere
+                    stole, og det er en Selvfølge, at jeg gerne vil gøre min Bog saa fuldkommen, som
+                    nu jeg kan gøre den og saavidt Forlaget tillader det. Men paa de to første Dele
+                    kan jeg da idetmindste læse Korrektur, saa de kan foreligge
+                        fuldfærdige<note>Selv om bogtrykkeriet i København var i gang med at sætte
+                        bogens første dele, manglede Bang på dette tidspunkt endnu at skrive den
+                        tredje og sidste del af Det graa Hus</note></p>
+                <p>Naar Bogen skal udkomme, er mig da ligegyldigt, og beroer kun paa, naar Forlaget
+                    er tilsinds at opfylde sin Forpligtelse.</p>
+                <p>Maaske vil De underrette Forlaget om Indholdet af dette Brev.</p>
+                <p>Med hjertelige Hilsener til Fru Heise<note>Inger Heise (1864-1932), født Groot,
+                        gift 1893 med overretssagfører Oluf Heise, København</note></p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

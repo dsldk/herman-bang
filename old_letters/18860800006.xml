@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860800006</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-08-01">[1886, August]<note>Brevet omtaler blandt andet
+                        Bangs korrekturlæsning af Stille Eksistenser</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag.</p>
+                <p>Tak, min Ven, for Korrekturerne. Nu fik jeg til en Afveksling et Par af dem to
+                    Gange.</p>
+                <p>Hermed Slutningen af V.</p>
+                <p>Andreas<note>Forlægger Andreas Schou i København</note> sendte mig idag for to
+                    Ark atter 80 Mark. For de siste to fik jeg ogsaa 80 Mark ‒ hvilket for hver Gang
+                    er otte Mark for lidt.</p>
+                <p>Dette Ark har akkurat taget mig en Uge. Jeg lever i evig Forfølgelse og
+                        <emph>maa</emph> have Penge i Baghaanden. Jeg beder dig derfor lade ham for
+                    dette Ark sende 40 Kr. + 8 Mark + 8 Mark ↄ: 16 Mark + 44 Mark, hvilket er 60
+                    Mark <emph>strax</emph>. Det er dog for dumt nu at tinge med mig, hvor han om en
+                    halv Snes Dage skal gøre Regnskabet op. Og at <emph>jeg</emph> med
+                        Manusk<note>Bangs forkortelse for: Manuskript</note> regner rigtigt, viser
+                    sig deri, at jeg af V: V:<note>»Ved Vejen«</note> har haft 8 ‒ <emph>otte</emph>
+                    ‒ Ark; og I har yderligere ‒ foruden <emph>dette</emph> ‒ omtrent
+                        <emph>tre</emph> Ark.</p>
+                <p>Tilbage er nu VI-VII ↄ: 4 Ark, som jeg skikker snarest ↄ: inden første
+                    September.</p>
+                <p>Men lad nu Andreas strax sende 60 Mark. Intet irriterer mig som denne Afknapning.
+                    I fem Dage har jeg for at samle <app>
+                        <lem>sig</lem>
+                        <rdg>Bangs urettede skrivefejl for: mig</rdg>
+                    </app> og skrive ikke været udenfor en Dør.</p>
+                <p rend="right">Din Herman</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

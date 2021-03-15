@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860901001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med fremmed hånd er der med blæk på brevets bagside skrevet:
+                                        »Dahlstrøm / Guldbergsg. 9,2«; muligvis Julius Schiøts
+                                        håndskrift</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-09-01">[1886, 1. september] Onsdag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag. Onsdag Aften.</p>
+                <p>Jeg fik i Lørdags Brev fra Schou, kære Julius, at han vilde sende Penge Mandag.
+                    det har han ikke gjort ‒ saa havde jeg dem nu. Det er en Uret, naar jeg er saa
+                    syg da ikke at sende Pengene strax og præcis. Jeg lider saa meget derunder. Jeg
+                    skriver nu fra syv Morgen og kun paa Bogen. Men saa <emph>kunde</emph> han da
+                    ogsaa gerne sende mig Pengene. Jeg har kun 10 Gylden, og det er idag den
+                    første.</p>
+                <p>Jeg sendte Manuskript ‒ d. <emph>24</emph></p>
+                <p>Jeg sendte Manuskript ‒ d. <emph>30</emph>.</p>
+                <p>Lad nu strax Penge blive sendt, at jeg dog i Fred kan skrive det siste Kapitel.
+                    Jeg sover ikke om Natten og sér ud som Døden. Men saa maa jeg dog i det mindste
+                    have Pengene.</p>
+                <p>Hvis Penge for Sendingen fra 24 er afsendt, da lad <emph>strax</emph> Penge sende
+                    for 30 + dette hvilket mindst er 90 Kroner. I maa dog indrømme, at det
+                        <emph>nu</emph> er ligegyldigt for Schou, om han betaler en Dag før eller
+                    senere.</p>
+                <p>Og af »Politiken« har jeg denne Maaned slet ingen Indtægt.</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

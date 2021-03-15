@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18991215001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 1606</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Valdemar Brummerstedt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>På brevets bagside er påklæbet Otto Linds exlibris: »Herman
+                                        Bang Samlingen af 1912«</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1899-12-15">[1899, cirka 15. december] Fredag
+                        <note>Dateringen til medio december 1899 følger det forslag, som Mette Borg
+                        fremsætter i sin bog <emph>Sceneinstruktøren Herman Bang</emph>, 1986, s.
+                        201. Den omtalte teaterprøve kan i givet fald identificeres som Arthur W.
+                        Pineros farce <emph>Det kjære Barn</emph>, der fik premiere på Folketeatret
+                        27.1.1900. ‒ Valdemar Brummerstedt (1868-1941) var Bangs læge fra sidst i
+                        1890'erne til de første år af 1900-tallet</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag Morgen.</p>
+                <p>Kære Dr.</p>
+                <p>Frøken Husum<note>Frøken Husum var i 1899 sygeplejerske for Herman Bang; hans
+                        forlægger Aage Hirschsprung havde ifølge Harry Jacobsen (Den tragiske Herman
+                        Bang, s. 54) sørget for denne ordning</note> formente iaftes, at jeg ‒ efter
+                    at have overværet den første Prøve paa Teatret ‒ var saa træt, at det var
+                    raadeligst at give mig en Smule Kloral, hvad jeg bad hende om, fordi jeg selv
+                    følte mig adskillig mat.</p>
+                <p>Lørdag og Søndag vil vi gøre det sidste Afvænningsforsøg<note>Den
+                        kloralforgiftning, som Bang pådrog sig i januar 1899, havde
+                        langtidsvirkning; se Harry Jacobsen: Den tragiske Herman Bang, s.
+                        36-38</note>, da jeg de følgende Dage ej skal til Prøve.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870522001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1887-05-22">1887, 22. maj, Søndag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag Søndag 22.5.87.</p>
+                <p>Min kære Julius.</p>
+                <p>Hermed følger Slutningen af III.</p>
+                <p>IV foregaar i Teatret og i Forretningen, der »vil revolutionere Smagen« ved at
+                    lave ‒ nye Spisesedler. V (det siste i første Del): Majdag paa Langelinje; om
+                    Aftenen Forestilling til Ære for den hygiejniske Kongres.</p>
+                <p>Personerne er nu alle paa Scenen. I III er Forholdet til det centraleste:
+                    Kærligheden givet. Lad dem nu rulle ‒ ‒ gennem 7 Kapitler (IV og V i første Del;
+                    5 Kapitler i anden Del)</p>
+                <p>Tro ikke, min Ven, at jeg formener at <emph>alt</emph> er lykkedes mig eller
+                        <emph>vil</emph> lykkes mig. Om <emph>det</emph> var Tilfældet, var jeg en
+                    af Tidens Største ‒ ti <emph>saa</emph>
+                    <app>
+                        <lem>stort</lem>
+                        <rdg>Bang har tilføjet det sidste t, efter at ordet var skrevet</rdg>
+                    </app> er Emnet ‒ hvad jeg <emph>ikke</emph> er.</p>
+                <p>Men <emph>noget</emph> af det er idetmindste godt. Og selv om denne Bog kun er en
+                    »Materialsamling« ‒ saa vil det næste Tiaar hente sine Stoffer fra denne <app>
+                        <lem>»Materiesamling</lem>
+                        <rdg>Det afsluttende anførselstegn mangler; ordet er delt ved et linjeskift,
+                            og det er mest sandsynligt, at Bang har villet skrive:
+                            »Materialsamling«</rdg>
+                    </app>. Dét ved jeg.</p>
+                <p>Et Brev som vedlagte<note>Der er ikke bevaret noget bilag til dette brev. Bang må
+                        sigte til at brev, som han har modtaget fra sin forlægger Andreas Schou i
+                        København</note> ‒ det eneste jeg (med Undtagelse af Fru Ottesens) har
+                    modtaget fra <app>
+                        <lem>Danm:</lem>
+                        <rdg>Forkortelse for: Danmark</rdg>
+                    </app> siden min Fødselsdag ‒ gør ikke megen Nytte. <app>
+                        <lem>Mnskrpt</lem>
+                        <rdg>Forkortelse for: Manuskriptet</rdg>
+                    </app> fra mig havde det krydset..... At Schou ikke en Gang har
+                        <emph>læst</emph> det modtagne Mnskrpt. overraskede mig maaske en Smule
+                    smerteligt.</p>
+                <p>Hils Konen.</p>
+                <p rend="right">Din Herman.</p>
+                <p><emph>Nu</emph> synes han godt om <emph>det</emph> første Kapitel, han for en
+                    Maaned siden til mig dadlende omtalte ‒ ‒ og Resten ‒ ‒ ‒ har han ikke læst!</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

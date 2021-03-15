@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19060912001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5152, 4to. Det 13. brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Astrid von Scholten, født
+                                        Pålsson</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1906-09-12">1906, 12. September [onsdag] <note>empty</note>
+                </date>
+                <placeName cert="high">Randers</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Randers. 12.9.1906.</p>
+                <p>Min kære Astrid.</p>
+                <p>Tak for Brevet og Eders kære Indbydelse. Men, ser I, jeg kommer ikke gennem
+                        Odense<note>Da Astrid Pålsson i 1905 havde giftet sig med Jens Peter von
+                        Scholten, må hun antagelig være flyttet til Odense, hvor han siden 1904
+                        havde været premierløjtnant ved 2. Dragonregiment</note>. For jeg rejser med
+                    Dampskib. Aa, skulde jeg blot rejse imorgen. For saa var min Bog<note>Bang
+                        opholdt sig i september-oktober 1906 i Randers for at skrive sin roman De
+                        uden Fædreland ‒ færdig; den udkom 4.12.1906 hos Gyldendal</note> færdig ‒
+                    ‒</p>
+                <p>Men om alt gaar vel ‒ og jeg blandt andet lever saa længe ‒ kommer jeg til Odense
+                    en Dag i Januar.</p>
+                <p>Mange, mange Hilsener til Premierlieutenanten og endnu en Gang Tak.</p>
+                <p rend="right">Eders gamle</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

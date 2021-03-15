@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870707001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 419</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1887-07-07">[1887, 7. juli] Torsdag<note>Dateringsforslaget
+                        hos Torbjörn Nilsson, s. 291, nr. 24, følges</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag Torsdag.</p>
+                <p>Hvilken Sten, min kære Paul, lettede <app>
+                        <lem>dog dog</lem>
+                        <rdg>Bang har skrevet ordet to gange</rdg>
+                    </app> Deres faa Linjer fra mit Hjerte. Jeg havde allerede tænkt: Nu opgiver
+                    ogsaa han det. Ja, ja ‒ sér De ‒ jeg er ene. Har nu i en Uge ikke
+                        <emph>talt</emph> med noget Menneske (kun sét Oppasseren) ‒ saa kommer de
+                    mange Tvivl let.</p>
+                <p>Hermed det første Ark. Det skal jo betragtes som <emph>Manuskript</emph> og
+                    sættes af Deres Bogtrykker. Jeg har derfor rettet <emph>alt</emph>, hvad jeg
+                    vilde. Havde det været Korrektur, var meget forblevet urettet<note>Dette må
+                        forstås saledes, at bogtrykkeriet i København har sat dette ark efter at
+                        tidligere udkast af Bang, og at det er dette korrekturtryk, som Bang nu har
+                        skrevet videre på, dvs. rettet på og tilføjet helt nye
+                    formuleringer, således at teksten skal sættes påny</note>.</p>
+                <p>Jeg kan i denne Uge først sende Manuskript <emph>Lørdag</emph>. Men er
+                    sandsynligvis Mandag Aften hélt færdig med II ‒ der jo <app>
+                        <lem>hovedsagelig</lem>
+                        <rdg>Ordet er tilføjet over linjen</rdg>
+                    </app> viser vort moderne København spejlet i den nette Familje Gravesen ‒
+                    Redaktionssekretær G. ‒ ; III vilde jeg jo gerne have færdigt saadan omkring den
+                    24 hujus<note>Dvs. (lat.): i denne måned</note>, forhaabenlig vil det gaa. Saa
+                    IV kan være paabegyndt, før August skrives. Himlen give det ‒ ti Slut af August
+                    maa jeg være færdig med Historien. Jeg bliver ligefrem bleg nu, hvor jeg skriver
+                    det.</p>
+                <p>Skriv snart til mig, kære Langhoff, og undskyld, som sagt, at De faar denne Uges
+                    Manuskript to Dage senere.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman B.</p>
+                <p>Pengene kom denne Gang ‒ <emph>Tirsdag Aften</emph>.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

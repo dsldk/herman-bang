@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18910804001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Carl Feilberg</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1891-08-04">1891, 4. August [tirsdag] <note>Store dele af
+                        august 1891 opholdt Bang sig på Marienlyst Badehotel, afbrudt af
+                        oplæsningsaftener enkelte steder langs Øresundskysten nord for
+                        København</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">4.8.91.</p>
+                <p>Kære Dr. Feilberg.</p>
+                <p>Tilgiv mig, men den haardeste Nødvendighed tvinger mig. Ellers kommer jeg ikke
+                    til Dem. Det er dog to Aar siden. Men jeg har den hele Tid i Sæby<note>En del af
+                        juni-juli 1891 havde Bang tilbragt i Sæby i Vendsyssel; på Skovpavillonen i
+                        Sæby havde han instrueret udvalgte scener fra Shakespeares Romeo og Julie og
+                        fra Schillers Røverne</note> været syg ‒ er nu mer end nogentid deprimeret.
+                    Og ligefrem Skandale hænger over mit Hoved. Vil De give mig ‒ jeg kan ikke sige
+                    laane ‒ 50 Kr.</p>
+                <p>Bliv ialfald ikke vred.</p>
+                <p>Hils saa mange Gange Fru Feilberg<note>Anna Feilberg (1846-1923), født Krabbe,
+                        gift 1876 med læge Carl Feilberg (1844-1937), København</note></p>
+                <p rend="right">fra Deres Ven</p>
+                <p rend="right">Herman Bang.</p>
+                <p>Studiestræde 4<note>Lejligheden på 1. sal var Bangs bopæl i København, siden han
+                        i oktober 1887 var vendt hjem fra Prag</note>.</p>
+                <p>Svar mig hurtigt.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

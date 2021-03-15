@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19100329001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 202</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1910-03-29" notBefore="9999-99-99" notAfter="9999-99-99">[1910. 29. marts], Tirsdag<note>Det vides ikke, hvor længe
+                  Bang i marts 1910 opholdt sig i Berlin. Han har dateret sit forord i bogen <title key="Masker og Mennesker">Masker og Mennesker</title> – : "Berlin. Sommeren
+                  1910". Det er nærliggende at identificere dette brevs "Tirsdag" med 29.3.1910
+                  (lige efter påske). Måske det lige så vel kan være 5.4.1910</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Min kære Ven.</p>
+                <p>Jeg vilde egentlig have skrevet dette allerede igaar fra <placeName key="Berlin">Berlin</placeName>. Men jeg var altfor syg og kunde ikke. Jeg er nu hjemme igen
+               men paa Rejsen er min Hoste begyndt igen og – oprigtig sagt – jeg er meget angst. Det
+               er derfor, jeg skriver.</p>
+                <p>
+                    <persName key="Houmark, Christian">Houmark</persName>
+                    <note>Christian Houmark (1869-1950), journalist, fra 1899 ved avisen København, fra 1921 ved Det Berlingske Hus; fra 1899 lejlighedsvis sekretær for Herman Bang</note> sagde, at de nihundrede kunde jeg faa (af
+                  Legatet<note>Det Anckerske Legat</note>) for at rejse for. Det kan nu ikke falde
+               mig ind. Men kunde jeg faa de firehundrede, for i 14 Dage at søge Ro paa <placeName key="Marienlyst">Marienlyst</placeName>, vilde jeg takke uendeligt.</p>
+                <p>Svar omgaaende, ti jeg er meget nedslaaet.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

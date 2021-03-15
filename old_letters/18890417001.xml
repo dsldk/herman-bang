@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18890417001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Anna Feilberg</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1889-04-17">[1889, 17. april] Onsdag <note>Brevet skal
+                        dateres efter Bangs brev 6.4.1889, hvoraf fremgår at han stadig ikke har
+                        fået bogen Fjældmennesker, og i god tid før brevet 14.5.1889, hvor hans plan
+                        er at tage på turné på Bornholm straks efter 20.5.1889. ‒ Onsdag 17.4.1889
+                        var onsdag før påskedagene</note>
+                </date>
+                <placeName cert="high">[Nakskov]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag.</p>
+                <p>Kære Fru Feilberg.</p>
+                <p>Jeg havde idag villet skrive Dem et langt Brev til, men nu har jeg
+                    General-Hovedpine, som gør mig det umuligt. Hvor mit Liv er muntert, hvor
+                    lykkelig Tilværelsen. Den 20 eller saa omtrent Mai antager jeg, at jeg vil være
+                    i Byen<note>Dvs. i København. Virkeligheden formede sig lidt anderledes: Efter
+                        at være rejst fra Nakskov 19. maj, var Bang på turné på Bonrholm
+                        20.-25.5.1889 og rejste kort derefter til Norge</note>. Jeg bliver der saa
+                    nogle Dage. Min Bog skal først ud i Slut: af Septbr.<note>I Nakskov afsluttede
+                        Bang 13.5.1889 sit romanmanuskript, og romanen Tine udkom
+                    24.10.1889</note></p>
+                <p>Da jeg aldrig fik »Fjeldmennesker«<note>Forfatterægteparret Amalie Skram
+                        (1846-1905) og Erik Skram (1847-1923) havde i fællesskab skrevet lystspillet
+                        Fjældmennesker (trykt 1889, opført 1892 på Dagmarteatret i
+                    København)</note>, købte jeg den tilsist. Jeg kan ikke sige, den har forarget
+                    mig, men jeg synes, den er ‒ ‒ <emph>grumme lidt betydende</emph>. Dette mellem
+                    os. Du gode Gud ‒ hvor disse Cognacdrikkere er lidet interessante. Stykket
+                    skuffede mig horribelt. Og »Tonen« er jo ikke fin. Gode Gud ‒ hvor trist er dog
+                    Kunsten, hvor saa store Begavelser saa ofte arbejder forgæves.</p>
+                <p>Naa ‒ nu er vel i Hovedstaden »Sæsonen« snart ude. Man har danset, gøglet, spist,
+                    drukket nok for iaar og man begynder at tænke paa grønne Marker, blaa Strand og
+                    lyse Træer. Livet er saa smukt for <emph>dem</emph>, der har nogen at dele det
+                    med. Hils alle derhjemme hos <app>
+                        <lem>Dem</lem>
+                        <rdg>Bang har skrevet: dem</rdg>
+                    </app>. Tal ikke til Skrams om min Mening om »Fjeldfolkene«. <emph>Det</emph>
+                    kan vente, til vi sés.</p>
+                <p>Adieu, kære Fru Feilberg.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18861120001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 495</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Emil Jonas</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-11-20">1886, 20. November, Lørdag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag. Lørdag. 20.11.86.</p>
+                <p>Kære Kammerraad.</p>
+                <p>Takker saa meget for de tyve Mark ‒ saameget mere, kære »Gamle Raad« som jeg
+                    finder, at vor »Geschäft« gaar ret elendigt.</p>
+                <p>Fra Hirsch fik jeg et Brevkort: at han desværre ikke kunde anvende den »særdeles
+                    originelle« Skitse »Danserinden«. Jeg ved, »beim Himmel«, ikke hvad for Smag
+                    denne Hirsch har. Alt skidt kan han tage, og det gode refuserer han.</p>
+                <p>Jeg afsender hermed:</p>
+                <p>»Ihre Hoheit« og</p>
+                <p>»Wiener Gesellschaft.</p>
+                <p><emph>Jeg</emph> har ikke ramponeret de to Blade af »Høiheden«.</p>
+                <p>»Wiener-Selskab« <emph>kan</emph> ikke ændres. <emph>Det maatte da helt skrives
+                        om</emph>. Manden, Brevskriverindens Mand, er »Første
+                    Gesandtskabs-Sekretær«. Meget bedre er at give det Manuskript til Hirsch ‒
+                        <emph>som fra December af gennem Sæsonen kan trykke ét om
+                    Maaneden</emph>.</p>
+                <p>Vi talte allerede derom ifjor. Sig ham, Brev III er Fyrstinde Metternich; IV I
+                    »Komtesse-Stuen«; V »en Operaloge«. Saadan noget holder han jo af. Jeg haaber,
+                    De faar Danserinden anbragt nogetsteds ‒ ialfald i »Lesehalle«.</p>
+                <p>Fru Menter<note>Den tyske pianist Sophie Menter (1846-1918), elev af Franz Liszt,
+                        bosat 1877 i Budapest og på slottet Itter i Tyrol, gift 1872-86 med den
+                        tjekkiske cellist David Popper</note> spiller her i December. Send mig
+                    endelig et Exemplar af »Sofie Menter bei Europas Höfen«<note>Bangs artikel
+                        »Sophie Menter an den europäischen Höfen« blev 13.9.1886 trykt i »Der
+                        Zeitgeist«, et tillæg til Berliner Tageblatt</note>.</p>
+                <p>Endnu en Gang Tak.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">H de B.</p>
+                <p>Skriv mig paa et Kort, om De bringer »W-Gesellch:« til Hirsch.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

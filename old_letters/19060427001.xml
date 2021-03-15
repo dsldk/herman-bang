@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19060427001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 398</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1906-04-27" notBefore="9999-99-99" notAfter="9999-99-99">1906. 27. april [fredag]<note>empty</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">27.4.1906.</p>
+                <p>Kære Ven.</p>
+                <p>Med <persName key="Dorph-Petersen, J.F.S.">Dorph</persName>
+                    <note>J.F.S. Dorph-Petersen (1845-1927) var 1900-08 direktør for Folketeatret og 1903-05 Betty Nansens meddirektør</note>s Guld takker jeg dig for Laan. Han
+               sendte 400 – for hvilket jeg oprigtigt takker dig.</p>
+                <p>Imorgen ser jeg og <persName key="Døve, den">"den Døve"</persName>
+                    <note>Ikke identificeret</note> Skuespillet<note>Den norske dramatiker <persName key="Ibsen, Henrik">Henrik Ibsen</persName>s skuespil <title key="Rosmersholm">Rosmersholm</title>, Folketeatret, i Bangs
+                  sceneinstruktion</note> fra første Bænk.</p>
+                <p>Der er i <emph>Publikum</emph> foregaaet <emph>det</emph>, at man langsomt men
+               sikkert har taget "Rosmersholm" op i sit Hjerte ..... Saa underligt Tingene kan gaa
+               .... Med det nuværende Barometer burde Rebekka<note>Dvs. Rosmersholm; den kvindelige
+                  hovedperson hedder Rebekka West, spillet af Betty Nansen</note> have spillet
+               ogsaa Søndag og Mandag<note>Lørdag 28.4. opførtes Rosmersholm for ottende og sidste
+                  gang</note> .... Men "saadant" kan jo ikke forudses.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

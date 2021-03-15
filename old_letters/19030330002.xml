@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19030330002</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+                                    22</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Jacob Hegel</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1903-03-30">1903, 30. Marts [mandag]<note>empty</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">30.3.1903.</p>
+                <p>Kære Hr. Hegel.</p>
+                <p>Det er sikkert urimeligt af mig overhovedet at skrive dette. Men min Læge har saa
+                    bestemt paalagt mig det. Han siger, at uden en Rekreationsrejse kan han ikke
+                    holde mit Helbred sammen. Jeg maatte mod Syd. Men jeg spørger mig selv, hvad det
+                    dog kan nytte blot at tale derom, siden De dog umuligt uden Udbytte kan vedblive <app>
+                        <lem>at</lem>
+                        <rdg>Det første bogstav er rettet fra: d</rdg>
+                    </app> give Penge ud til mig.</p>
+                <p>Paa den anden Side: min Roman maa jo være færdig. En stor Roman maa nu fæstne min
+                    Stilling herhjemme og ude i Verden, hvor mit Navn dog daglig vokser.</p>
+                <p>Jeg ved derfor intet og jeg mangler Mod til at bede Dem om noget. Men at nogle
+                    Ugers Ophold i en Bjergegn er Lægens Fordring.</p>
+                <p>I og for sig tænker jeg kun paa én Ting, at dog Schubothe vilde udsende
+                    »Ludvigsbakke« og »Fædra«, saa De fik nogle af Deres Penge tilbage.</p>
+                <p>Med mange Hilsener til Fru Hegel og Fru Ipsen</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

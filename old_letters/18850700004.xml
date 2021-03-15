@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18850700004</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4508, 4to. Acc. 1963/50</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider. Fortrykt brevpapir: slyngmonogram HJB
+                                                (uden krone)</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1885-07-01">[1885. juli eller august?]
+                        Fredag<note>empty</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag.</p>
+                <p>Kære Ven.</p>
+                <p>Jeg vilde være kommen til dig, min Ven, strax ved Modtagelsen af din Billet ‒ men
+                    her i Byen faar jeg altid hundrede Ting at tage mig til ‒ som jeg ikke ønsker
+                    for den ene, jeg ønskede.</p>
+                <p>Ja ‒ gamle Kammerat ‒ jeg kender <emph>det</emph>, hvordan Døden kalder Minderne
+                    frem, saa det er, som vi levede om igen alt, hvad der var svundet. Hun, som nu
+                    er død<note>Julius Schiøtts stedmor, Juliane Marie Schiøtt, født Ritto
+                        (1813-1885)</note>, elskede dig som sit Livs Lys. Hun har grædt over dig i
+                    de bitre Dage ‒ jeg husker det. Hvor har hun ikke følt din Lykke nu tilsist.</p>
+                <p>‒ Kan du komme hidhen omtrent Klokken to. Jeg maatte <emph>meget</emph> gerne
+                    tale med dig. Jeg har Manuskript til Schou.</p>
+                <p>Kan »N‒stjernen« ikke tage en Novelle af min Bog?</p>
+                <p rend="right">Din Ven</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

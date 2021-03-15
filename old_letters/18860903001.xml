@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860903001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 1596</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>På brevets bagside har Julius Schiøt skrevet et brev til
+                                        Andreas Schou: »Søndag [5.9.1886] / Kjære Hr. Schou, / Det
+                                        første brev fik jeg iforgaars, det andet igaar, det tredie
+                                        idag; de have gjort mig meget ondt, men der maa jo foreligge
+                                        en Uregelmæssighed i Postgangen, som de strax bør paatale. /
+                                        De har, efter Manza's Ord til mig sendt Penge baade Mandag
+                                        (ell. Tirsdag) og Fredag. de første maatte han jo dog have
+                                        før Fredag Aften. / Med Hilsen Deres Jul. Schjøtt«</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-09-03">[1886, 3. september] Fredag<note>Bangs håndskrift
+                        er i dette brev større og mere ubehjælpsom end sædvanligt</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Prag. Fredag Aften.</p>
+                <p>Jeg skriver dette i Sengen. Overanstrængelsen vilde have været nok. Ærgrelsen er
+                    for meget. Kære Ven ‒ hvorfor sender Schou mig dog ikke Penge? De vildeste Ideer
+                    gaar gennem mit Hoved. Har man gjort Exekution i min Bog? <emph>Du</emph> har jo
+                    Retten til alle Pengene. Og jeg behøver ikke at aflevere Msk uden mod Kontant.
+                    Om I vidste, hvor jeg havde ondt af slig Venten.</p>
+                <p>Jeg sendte iforgaars og igaar Mansk. ‒ ‒ Men idag er jeg for syg med stærk
+                    Feber.</p>
+                <p rend="right">Herman</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

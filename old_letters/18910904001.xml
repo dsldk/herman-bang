@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18910904001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Carl Feilberg</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1891-09-04">[1891, 4. september, fredag] <note>Dateres i
+                        forhold til tilblivelsen og offentliggørelsen af Bangs sørgespil
+                        »Brødre«</note>
+                </date>
+                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Marienlyst ved Helsingør.</p>
+                <p>Kære Dr. Feilberg.</p>
+                <p>Jeg skrev igaar til Fru Feilberg<note>Anna Feilberg (1846-1923), født Krabbe,
+                        gift 1876 med læge Carl Feilberg (1844-1937), København. Bang sigter til sit
+                        brev til Anna Feilberg, dateret Torsdag Morgen [dvs. 3.9.1891]</note>. Men
+                    er nu bange for, at hun er i Hornbæk endnu. Og hvor grueligt det er, jeg slipper
+                    ikke hjem, og her skal nu <emph>lukkes</emph><note>Bang mener formentlig, at
+                        Marienlyst Badehotel snart afslutter sommersæsonen</note>. Pengene for mit
+                        Sørgespil<note>Bangs sørgespil »Brødre« blev trykt i avisen København,
+                        mandag 14.9.1891. En måned senere indgik det i Bangs nye bog To
+                        Sørgespil</note> faar jeg først i næste Uge. Det er snart færdigt ‒ Gud være
+                    lovet, at jeg er blevet saa rask, at jeg har kunnet arbejde.</p>
+                <p>Men jeg <emph>maa</emph> nu hjem imorgen, da her lukkes, og jeg
+                        <emph>beder</emph> Dem, kære Doktor, sende de 50 Kr. pr. Telegraf i
+                    Eftermiddag, at jeg kan slippe bort.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

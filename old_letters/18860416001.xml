@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860416001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 51</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-04-16" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 16. april], Fredag<note>Mellem 1885 og 1890, da Bang
+                  var knyttet til Politiken, har han tilsyneladende ikke skrevet om andre nye
+                  franske romaner end denne. Brevet kan derfor dateres til en fredag forud for
+                  24.4.1886</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredag.</p>
+                <p>Endelig, min Ven, sender jeg dig et Manuskript uden Angst. Jeg er end ikke angst for,
+               hvordan det vil tage sig ud i "Politiken". Hvis det <emph>ikke</emph> tager sig ud,
+               er det mig ligegyldigt.</p>
+                <p>
+                    <emph>Du</emph> skulde læse denne Bog<note>
+                        <persName key="Bourget, Paul">Paul
+                  Bourget</persName>: <title key="Un crime d'amour">Un crime d'amour</title>, Paris 1886. Den franske forfatter Paul Bourget (1852-1935) var kendt som en fortaler for traditionalismen</note> – som i <placeName key="Paris">Paris</placeName> hver
+               Kokkepige taler om, hvad der ikke forhindrer, at hun om Natten med Gaardskarlen
+               arbeider, som om der var udsat en Præmie for Tvillinger.</p>
+                <p>Bogen rammer dybt.</p>
+                <p>Ret i Enkeltord, hvad du vil. Sæt den paa <emph>snarest</emph>
+                    <note>Bangs store anmeldelse over tre spalter, "En ung fransk Forfatter", trykt i
+                  Politiken, 24.4.1886</note>.</p>
+                <p>Har <persName key="Brandes, Edvard">Edvard B.</persName>
+                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> omtalt Bogen, da giv Manuskriptet til <persName key="Neergaard, Niels">Neergaard</persName>
+                    <note>Niels Neergaard (1854-1936), redaktør 1884-92 af Tilskueren, senere politiker (Venstre) og statsminister 1920-24</note>. Fortsættelsen om den anden
+                  Roman<note>Ikke oplyst</note> kommer om nogle Dage. Jeg har været
+                  <emph>meget</emph> syg.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman</p>
+            </div>
+        </body>
+    </text>
+</TEI>

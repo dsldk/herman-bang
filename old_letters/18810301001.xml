@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18810301001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 5011, 4to</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">fru Anna Ferslew</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Øverst på side 1 er med fremmed hånd, formodentlig Anna
+                                        Levins, skrevet: <emph>Feb. 1881</emph></ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 73, med et citat fra
+                                        brevet</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1881-03-01">[1881, cirka 1. marts, tirsdag]<note>Den omtalte
+                        velgørenhedsoplæsning fandt sted 3.3.1881 i Nationaltidendes ejendom (ved
+                        navn Hôtel royal), Ved Stranden i København, ifølge Anna Levins bog, s.
+                        73-74</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Fru Ferslev!</p>
+                <p>Studenterforeningssalen gør store Fataliteter, og jeg beder Dem derfor ydmygst
+                    lade Frøken Lerche<note>Camilla Lerche (1836-1914), skuespillerinde ved Casino
+                        1858-1884, derefter ved Dagmarteatret indtil 1894</note> og mig komme Kl.
+                    3½. Hvad der skal skaffes, er en Symaskine<note>Antagelig sigter Bang til
+                        oplæsningens formål: at skaffe penge til en symaskine til en fattig syerske,
+                        jf. Anna Levin 1932, s. 73</note>. De kan tænke, Hr. Bierring<note>Emil
+                        Bjerring (1837-1896), journalist, fra 1878 redaktionssekretær ved
+                        Nationaltidende, i 1880 medstifter af Journalistforeningen</note> har givet
+                    mig Lov til at assistere ‒ da det er i Deres Sal, og jeg skal læse »Stille
+                    Existenser«. Det kan jo heller ikke gøre noget ‒ vel? ‒ da der kommer saa
+                    faa.</p>
+                <p>Saa kommer Frøkenen og jeg Klokken halv fire.</p>
+                <p>Megen, megen Tak for al Deres Venlighed</p>
+                <p rend="right">fra Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

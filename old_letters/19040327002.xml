@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19040327002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 852</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1904-03-27">[1904, 27. marts] Søndag <note>Bang var i
+                        februar-april 1904 på oplæsningsturné rundt i landet</note>
+                </date>
+                <placeName cert="high">Aarhus</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aarhus. Søndag.</p>
+                <p>Min kære Ven.</p>
+                <p>Hvor det dog er dejligt med Margrethe<note>... ??? ...</note>. Det har da gjort
+                    mig en uendelig Glæde.</p>
+                <p>Men <emph>Jens</emph>?<note>Jens Peter von Scholten (1882-1947), der boede eller
+                        kort forinden havde boet som logerende hos Nini Holst og Herman Bang på
+                        Gammel Kongevej 25, 4. sal</note></p>
+                <p>Du maa strax skrive mig om ham. Igaar var jo Eksamen forbi.</p>
+                <p>Nu har Rodemesteren faaet alle sine Penge<note>En rodemester var en
+                        skatteopkræver i en bestemt bydel (rode)</note>.</p>
+                <p>Du har ikke sagt mig, naar jeg skal have Lejen for Huset beredt<note>Det fremgår
+                        af andre brevtekster, at Bang månedligt betalte sin del af huslejen for den
+                        fælles københavnske lejlighed Gammel Kongevej 25, 4. sal, til søsteren, Nini
+                        Holst</note>. Men jeg kan jo ogsaa sende den i mindre Partier, som du saa
+                    gemmer.</p>
+                <p>De siger, at »Mikaël« udkommer iovermorgen<note>Bangs roman <emph>Mikaël</emph>
+                        udkom 30.3.1904 hos Gyldendal</note>. Jeg stod op Kl. fem imorges ‒ i
+                    Fredericia. Saa jeg er lidt træt.</p>
+                <p>Mange Hilsener</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

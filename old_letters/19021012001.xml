@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19021012001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 965</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1902-10-12">[1902, 12. oktober] Søndag <note>Bertha Holst
+                        (1881-1929) var 1901-05 leder af en skole i Rørvig. Fra 6.10. til 24. eller
+                        25.10.1902 gæstespillede den berømte franske skuespillerinde Sarah Bernhardt
+                        (1844-1923) på Folketeatret i København; gæstespillets repertoire omfattede
+                        blandt andet Edmond Rostands skuespil <emph>Ørneungen</emph>, hvor Sarah
+                        Bernhardt spillede titelrollen som kejser Napoleons søn Napoleon 2.</note>
+                </date>
+                <placeName cert="low">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Søndag.</p>
+                <p>Min kære Bertha.</p>
+                <p>Drøjt maa det være for dig, min egen Ven, at sidde <emph>der</emph> alene. Kan
+                    det glæde dig lidt, at jeg tænker paa dig hver Dag ‒ hvor vildt end denne her
+                    Karussel, som kaldes »Hjemmet«, svinger og svajer. Nini<note>Nini Holst
+                        (1853-1922), søster til Herman Bang og (adoptiv)mor til Bertha Holst. Hun
+                        delte 1900-06 lejligheden Gammel Kongevej 25, 4. sal, med sin bror</note> er
+                    aldrig hjemme: iaftes havde hun to Scholander-Billetter<note>Sven Scholander
+                        (1860-1936), svensk visesanger, lutspiller og Bellmanfortolker; en optræden
+                        i København i oktober 1902 skal eftersøges i datidens aviser.....</note> og
+                    to ditto »Ørneungen«<note>Bang anmeldte i avisen København, 11.10.1902, den
+                        gæstespillende Sarah Bernhardts egen opsætning på Folketeatret af Edmond
+                        Rostands skuespil Ørneungen, hvor hun selv spillede titelrollen som kejser
+                        Napoleons søn Napoleon 2.</note>. Hun foer om som en Vild midt i al denne
+                    embarras de richesse<note>fr.: vanskeligt valg mellem mange muligheder</note>.
+                    Og nu er hun, mens jeg skriver dette, til russisk Konsert Kl. fire Eftermiddag.
+                    Hun bedøver saaledes kraftigt sine Lidelser.</p>
+                <p>Hvad mig angaar, skriver jeg. Det er som det plejer. Mit Liv er jo ikke indrettet
+                    paa at rumme store Forandringer. <app>
+                        <lem>Fra</lem>
+                        <rdg>Ordet er rettet fra: Paa</rdg>
+                    </app> Jens<note>Jens Peter von Scholten (1882-1947), premierløjtnant, boede som
+                        logerende i lejligheden hos Nini Holst og Herman Bang</note> skal jeg hilse
+                    dig. Han er saa smuk og god som han plejer. Han havde Taarer i Øjnene, da vi
+                    talte om dig.</p>
+                <p rend="right">Altid Din</p>
+                <p rend="right">Herman.</p>
+                <p>Du skal snart faa flere Bøger.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

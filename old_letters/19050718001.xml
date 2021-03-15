@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19050718001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 387</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider. Brevpapir med fortrykt kronet monogram: ML og teksten:
+                                <q>Marienlyst Kur- og Søbadeanstalt. Danmark.</q> samt datofeltet:
+                                <q>Helsingør, d. ...... 19...</q>
+                                            </ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1905-07-18" notBefore="9999-99-99" notAfter="9999-99-99">1905. 18. juli [tirsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">18.7. [19]05.</p>
+                <p>Min kære Nansen.</p>
+                <p>Tilgiv, at jeg ikke takkede dig for alt dit Besvær og for dit Brev. Men jeg har
+                        været i saa elendigt Humør – saa helt elendigt.</p>
+                <p>Jeg havde forlængst bestemt, at jeg idag vilde begynde paa min Bog<note>
+                        <title key="De uden                Fædreland –">De uden
+               Fædreland –</title>
+                    </note>. Og saa <app>
+                        <lem>sender</lem>
+                        <rdg>Sætningen mangler sit subjekt: jeg</rdg>
+                    </app> dig idag – – Titlen og Tilegnelsen.</p>
+                <p>Titlen er vist ikke efter dit Hoved. Men det kan nu ikke blive nogen anden. Bogen
+                        selv kunde jeg vel skrive hastigt – hvis jeg har Fred. Jeg tror, det bliver
+                        den sørgmodigste, jeg har skrevet endnu – en sorgfuld Fantasi over
+                        Fædrelandskærligheden og Kærligheden.</p>
+                <p>Fra <persName key="Nansen, Betty">Betty</persName>
+                    <note>Betty Nansen</note> hører
+                        jeg aldrig et Ord. Maaske er det Tegn til, at hun har det godt.</p>
+                <p rend="right">Din hengivne</p>
+                <p rend="right">Herman B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

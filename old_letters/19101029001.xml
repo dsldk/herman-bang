@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19101029001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Gyldendals arkiv B4c</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1910-10-29" notBefore="9999-99-99" notAfter="9999-99-99"
+                    >1910. 29. oktober. 001 [lørdag]<note>Dikteret til sekretær, uidentificeret
+                        håndskrift (måske frøken Ville Kristiansen); underskriften er Bangs
+                        egenhændige</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">29 Oct 1910</p>
+                <p>Kære Ven.</p>
+                <p>Overbringeren af dette <app>
+                        <lem>Manuskribt</lem>
+                        <rdg>Stavefejlen er ikke rettet</rdg>
+                    </app> er <persName key="Jacobi, Carl">Hr: Jacoby</persName>
+                    <note>Carl Jacobi (1874-1938), skovrider og bibliotekar; hans Forstordbog var i
+                        1907 udkommet hos Gyldendal, hvor han i 1912 fik sin skønlitterære debut med
+                        romanen <title key="Judas">Judas</title>
+                    </note>. Han har bedt mig læse det, og med Fejlene, det rummer, gemmer det saa
+                    oprindelig og selvstændig en Evne, at jeg tror, Forlaget skulde fæste Øjnene paa
+                    det. Oprindelighed er en sjælden Vare i vor Literatur og her findes
+                    Oprindelighed.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

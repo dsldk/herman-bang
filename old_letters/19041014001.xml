@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19041014001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 379</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-10-14" notBefore="9999-99-99" notAfter="9999-99-99">1904. 14. oktober [fredag]<note>empty</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">14.10.1904.</p>
+                <p>Kære Nansen.</p>
+                <p>Ja, nu er jeg kommen hjem. Og er skrupsyg og Pengene har jeg lagt paa Jernbanen, saa
+               jeg maa bede dig give mig halvandethundrede Kroner af mine Penge for November. À
+               propos "Novellen" til "Danmark" er afleveret for længe siden<note>"<title key="Da Hans                   Højærværdighed dansede – ">Da Hans
+                  Højærværdighed dansede – </title>", se note til brevet 19040909</note>, saa det er ude af
+               Verden. "<title key="Over Evnes">Over Evnes</title>"<note>Skuespil af Bjørnstjerne Bjørnson, Folketeatret fra
+                  8.10.1904 med Betty Nansen som Klara Sang</note> Sukces glædede mig mægtigt. Jeg
+               haaber, at jeg bliver saa rask – det er desværre <emph>stærk</emph> Hoste, jeg har –
+               at jeg kan sé Stykket imorgen.</p>
+                <p>"<title key="Daglannet">Daglandet</title>"<note>Se note til foregående brev</note> læste jeg igaar. Det vil paa
+               Scenen blive en vældig Sejr – saa mærkeligt levende, som det er. Meget dybt synes jeg
+               derimod ikke det gaar eller at det rammer. Men det var vel heller ikke <persName key="Bjørnson, Bjørnstjerne">Gubben</persName>
+                    <note>Bjørnstjerne Bjørnson</note>s Mening. Der hersker i Landets Byer en kraftig
+               Harme mod vor egen Digterkonge<note>Mon Bang her ironisk hentyder til sig
+                  selv?</note>, hvis "Oplæsninger" man finder var et "Snyderi". I Vejle havde han
+               talt om "Sommerlyst" og den japanske Krig<note>Sommerlyst: et populært
+                  forlystelsessted på Frederiksberg. Den Russisk-Japanske Krig: februar
+                  1904-september 1905</note>. Springet var lidt brat. Hils <persName key="Nansen, Betty">din Kone</persName>
+                    <note>Betty Nansen</note>.</p>
+                <p rend="right">Herman B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

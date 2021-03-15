@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19001100001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1900-11-01">[1900, cirka november?] Tirsdag
+                        <note>Dateringsforslaget beror på et skøn: sandsynligvis før 1901, og Bang
+                        synes at have fungeret som redaktør af en antologi, hvortil Svend Leopold
+                        var bidragyder...??</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Kære Ven.</p>
+                <p>Jeg maa endnu en Gang have alle mine Bøger<note>Dvs. et eksemplar af hver bog i
+                        Bangs eget forfatterskab. Det fremgår af andre breve, at Det Schubotheske
+                        Forlag havde overtaget diverse restoplag fra Andr. Schous Forlag, hvor en
+                        del titler i Bangs forfatterskab forud for 1887 var udkommet, og af denne
+                        grund var Aage Hirschsprung i stand til at forsyne Bang med frieksemplarer
+                        af ældre titler i hans eget forfatterskab. ‒ Udgiveren gætter (i 2020) på,
+                        at sagen har sammenhæng med to sæt af Bangs bøger, som han i marts og april
+                        1901 forsynede med en kort individuel tilskrift eller selvkommentar på
+                        smudstitelbladet ledsaget af måned, årstal og underskrift; det ene af disse
+                        to sæt har han i 1901 angiveligt foræret til Aage Hirschsprung, og flere af
+                        disse bøger lader sig i 2020 lokalisere i offentlige og private
+                        bogsamlinger</note>. Jeg lod den sidste Samling ligge her ‒ ‒ til jeg havde
+                    givet dem alle bort. Men Skylden er Deres egen, fordi De tog de første.</p>
+                <p>Giv Andersen<note>Bangs tjener og praktiske medhjælp</note> Pakken.</p>
+                <p>Svend Leopold<note>Svend Leopold (1874-1942), forfatter til især historiske
+                        romaner, der udkom på Det Schubotheske Forlag, debut 1897; i Hovedvagtsgade
+                        i København havde hans far drevet Leopolds Hotel, hvor Bang havde boet
+                        1895-1897</note> er utrolig. Han har endnu ikke sendt sit Manuskript. Og
+                        <emph>jeg</emph> tog ham kun med for Forlagets Skyld<note>Denne formulering
+                        af Bang tyder på, at Svend Leopold havde skrevet et bidrag til en antologi
+                        eller lignende, som Bang var redaktør for; denne udgivelse er endnu ikke
+                        identificeret ...?</note>.</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

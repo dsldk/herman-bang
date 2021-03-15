@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860600001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-06-01">[1886. juni]<note>Jf. Torbjörn Nilsson, s.290 nr.
+                        13 og s.337, note 1. Da Bang anfører sin fuldstændige postadresse, må brevet
+                        være skrevet efter midten af juni 1886, da han flyttede til Hernals</note>
+                </date>
+                <placeName cert="high">[Wien]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Alsbachstrasse 1. Mezzanin. Thür 5.</p>
+                <p rend="right">Hernals. Wien.</p>
+                <p>Kære Julius.</p>
+                <p>Jeg vil befri dig for at sige dig, hvad jeg har lidt og endnu lider. Hvor jeg
+                    boer ‒ i Fattigkvarteret ‒ og at jeg dog har haft Kraft og Mod til at skrive
+                    videre.</p>
+                <p>Disse to Kapitler er vel <emph>et</emph> Ark. Lad Schou honorere dette
+                        <emph>ene</emph> Ark med 45 Kroner. Det er jo Slutningen. Og sende Pengene
+                        <emph>strax</emph> til din lidt efter lidt en Smule haardt hjemsøgte</p>
+                <p rend="right">Herman.</p>
+                <p>Jeg skriver nu den lange Fortale (et Ark) og begynder saa paa den siste.
+                        <emph>Naar</emph> faaes Korrekturer?? Det er mig <emph>vigtigt</emph> at
+                    »Høiheden« dog nu sættes, at der kan oversættes til tysk, og jeg kan faa lidt
+                    Penge <emph>der</emph>. Jeg afsendte Korrekturerne for tolv-fjorten Dage siden,
+                    saa man skulde synes, at en anden Kr:<note>Dvs. en 2. korrektur</note> kunde
+                    faaes. Jeg maa have den i to Exemplarer.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

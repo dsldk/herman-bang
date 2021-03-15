@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870623001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 428</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>På brevets 4. side er med fremmed hånd noteret og derefter
+                                        overstreget: <emph>Melchiors Saldo. 225 Kr 42 Ø.</emph>;
+                                        antagelig er dette skrevet af Paul Langhoff</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1887-06-23">[1887, 23. juni] Torsdag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag Torsdag.</p>
+                <p>Kære Paul.</p>
+                <p>Nu er De vel dog kommen hjem. Og i alle Fald: <emph>skriv</emph>; selv om det er
+                    Dadel; den ansporer; men Taushed knuger. Jeg kan ikke have, at <emph>De</emph>
+                    ligesom Schou<note>Andreas Schou (1829-1889), Bangs nu forhenværende forlægger i
+                        København</note> tier stille. Er der noget, De vil have ændret, sig det. Men
+                    oplad Deres Mund.</p>
+                <p>Min Arbejdsmetode er jo langsom, séndrægtigt stiger Billedet frem. Men er det
+                    mig, som er selvblind ‒ naar jeg tror, at Sligt som Slutningen af dette Kapitel
+                    ved den store <emph>Realitetssands</emph> hæver sig højt i Romanen?</p>
+                <p>Og ikke at høre ét Ord om hele tre Kapitler IV ‒ V ‒ I<note>Dvs. manuskriptet til
+                        kapitel IV og V i romanens første del og kapitel 1 i romanens anden
+                        del</note>!</p>
+                <p>Idag afsendt Slutningen af I. De vilde gøre mig en Tjeneste ved denne Lørdag
+                    atter at sende 60 Mark. Det er sikkert saameget i det hele. Naar II er færdig,
+                    maa vel Trykningen begynde?</p>
+                <p>Skriv <emph>nu</emph>.</p>
+                <p rend="right">Herman</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

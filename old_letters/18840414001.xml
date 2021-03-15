@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18840414001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 447</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Edvard Brandes</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1884-04-14">[1884, 14. april ?] Mandag
+                        <note>Dateringsforslaget er et gæt ud fra den trykte udgave af Edvard
+                        Brandes' skuespil En Forlovelse, som Bang anmeldte i Nationaltidende torsdag
+                        24.4.1884. Jeg formoder, at de omtalte ændringer nødvendigvis må være
+                        foretaget før bogens færdigtrykning...</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+
+                <p rend="right">Mandag.</p>
+                <p>Lige hjemkommen beklager jeg i høi Grad, at det evindelige »Vrøvl« allerede har
+                    bemægtiget sig vor ‒ eller min ‒ Plan. Jeg har kun meddelt Peter N.<note>Peter
+                        Nansen (1861-1918)</note>
+                    <app>
+                        <lem>og</lem>
+                        <rdg>Bang har streget ordet ud og over linjen i stedet indføjet: vor Samtale
+                            og sagt</rdg>
+                    </app> Frøken Lerche samt Cetti<note>Skuespillerne Camilla Lerche og Frederik
+                        Cetti, to medlemmer af den trup, som i juni 1884 rejste på turné med Bang og
+                        sammen opførte bl.a. Edvard Brandes' En Forlovelse</note>, at de endnu ikke
+                    skulde købe Bogen, da der skulde foretages nogle Ændringer efter Deres
+                    Korrekturer, og før det var skét, skulde ikke begynde paa Rollerne</p>
+                <p>Naar Publikum ser Deres Stykke, vil Stykket selv jo give alle lavede
+                        »Geschichter«<note>Dvs. rygter, uholdbare antagelser</note> Uret.</p>
+                <p>Bliver jeg blot lidt bedre, kommer jeg imorgen til Doktoren<note>Dvs. til Edvard
+                        Brandes, brevets modtager</note>.</p>
+                <p rend="right">Deres H de B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

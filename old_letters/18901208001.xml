@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18901208001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2009/148. Det 116.brev</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Kristian Dahl</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Skråt over Bangs datering er med fremmed hånd skrevet:
+                                            <emph>9de Decbr. 90</emph>, antagelig af Kr. Dahl; 9de
+                                        er rettet fra: Begyndelsen af. På side 3 et blyantsnummer:
+                                        14</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1890-12-08">[1890, 8. december] Mandag <note>Den sekundært
+                        påførte datering skyldes formentlig brevmodtageren. Den 9.12.1890 var
+                        imidlertid en tirsdag; med forbehold for, at Bang kan have taget fejl af
+                        ugedagene, foretrækker udgiveren dateringsforslaget 8.12.1890</note>
+                </date>
+                <placeName cert="high">Fredensborg</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fredensborg. Mandag</p>
+                <p>Kære Dahl.</p>
+                <p>Jeg lægger »Interwiewet«<note>Jf. Bangs brev til Kr. Dahl, cirka 5.12.1890</note>
+                    ved ‒ maaske er det undgaaet Deres Øjne.</p>
+                <p>Sér De, for hver Gang De staar i disse to store Blade, er jo meget vundet.
+                    Redaktionerne vænner sig til Dem, og De véd selv, hvad »Vanen« vil sige i den
+                    daglige Gænge ved et Blad.</p>
+                <p>Det Næste, De nu skal sende det Blad, er: »Ibsens Stykke kommer« ‒ og saa
+                    fortælle om, hvordan København venter og tager imod Skuespillet<note>Hentyder
+                        formentlig til Henrik Ibsens nyeste skuespil Hedda Gabler, der fik premiere
+                        i København, Det Kongelige Teater, 25.2.1891</note>.</p>
+                <p><emph>Hent Judic-Billetter hos Hennings</emph><note>Den franske skuespillerinde
+                        Anna Judic (1849-1911) .... må have været på gæstespil i København; ... søg
+                        herom i aviser!! .... ‒ Henrik Hennings (1848-1923), musikforlægger i
+                        København</note>. Og send strax efter Forestillingen et kort Brev til
+                    Göteborg. Hun skal vist derhen, hvad De jo kan faa at vide i Musikhandelen. Hun
+                    er ogsaa Stof for Helsingborg. Sig hos Hennings, at De har baade Göteborg og
+                    Helsingborg.</p>
+                <p>Jeg spekulerer paa, at De vist kunde faa nogle Korrespondancer til
+                    »Berliner-Tageblatt«. Vi kunde lade det oversætte af en Translatør.</p>
+                <p>Hils Deres Kone<note>Olga Dahl, født Hasselbalch (1862-1915), gift 1885 med Kr.
+                        Dahl</note>.</p>
+                <p rend="right">H. B.</p>
+                <p><emph>Har De skrevet om Tuberkulosen?</emph></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

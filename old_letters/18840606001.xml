@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18840606001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 260</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="telegram">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Telegram, indleveret kl. 14.4 fra Randers. Stilet til: <q>Peter
+                                    Nansen / Nørregade 45 / Kbhvn</q>
+                                            </ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="telegram">
+                                        <ab>empty</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1884-06-06" notBefore="9999-99-99" notAfter="9999-99-99">1884. 6. juni.  [fredag]<note>Sendt under Herman Bang
+                  Tourneen 3.-12. juni 1884</note>
+                </date>
+                <placeName cert="high">Randers</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Opgiv mig naar sidste Forestilling af Svenskerne i Kjøbenhavn<note>Forud for det
+                  ugelange gæstespil af skuespillere fra Kungliga dramatiska Teatern i Stockholm på
+                  Folketeatret i København havde Bang skrevet om "Svensk Uge" i Nationaltidende,
+                  28.5.1884. Det svenske gæstespils sidste forestilling fandt sted onsdag 11.6., jf.
+                  Nationaltidende, 12.6.1884</note> og naar Journalistforeningens Fest holdes<note>En
+                  annonce i Nationaltidende, 8.6.1884, meddelte: "Skuespillerforeningen og
+                  Journalistforeningen i Kjøbenhavn foranstalte Torsdagen den 12. Juni en Festmiddag
+                  paa Klampenborg [formentlig på Sølyst, Klampenborg nord for København] til Ære for de herværende Medlemmer af det kgl. dramatiske Theater
+                  i Stockholm, til hvilken foruden Foreningernes Medlemmer med Damer et begrænset
+                  Antal Deltagere kunne indtegnes ved et Foreningsmedlem. [...]"</note>. Vil
+               give Forestilling i Roeskilde 15de Helsingør 16 og vil ved givet Henvendelse til
+               Pressen som publikum søge opnaaet størst muligt Tilslutning til disse Forestillinger,
+               de maa ved Besøg fra Kjøbenhavn slaaes stærkt igjennem</p>
+                <p rend="right">Herman Bang</p>
+                <p rend="right">Martins Hotel Randers</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19050417002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 879</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Inger Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1905-04-17">1905, 17. April [mandag] <note>Brevet er skrevet
+                        på Bangs oplæsningsturné januar-april 1905 rundt i landet</note>
+                </date>
+                <placeName cert="high">Tølløse</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tølløse 17.4.1905.</p>
+                <p>Kære Fru Heise.</p>
+                <p>De var ikke hjemme, da Tjeneren var ude hos Dem, saa jeg fik ikke at vide, hvad
+                    de Ting havde kostet. Men nu kan jeg maaske vinde ud til Dem i Paasken.</p>
+                <p>Imorgen er Rejsen endt ‒ og »Oplæseren« død... Mon nogen vil sørge over
+                        ham?<note>Bang havde offentligt erklæret, at den landsdækkende
+                        oplæsningsturné i 1905 var hans uigenkaldeligt sidste optræden som
+                        oplæser</note></p>
+                <p>Mange Hilsener til Deres Mand<note>Overretssagfører Oluf Heise (1862-1935), der
+                        fra ca. 1900 var Bangs advokat; gift 1893 med Inger Heise (1864-1932), født
+                        Groot</note> og Dem fra</p>
+                <p rend="right">Deres altid hengivne</p>
+                <p rend="right">Herman Bang</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19020101001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 447</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Edvard Brandes</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær. Sidste linje samt underskrift er skrevet af
+                                            Bang selv</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1902-01-01">1902, 1. Januar [onsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Gl. Kongevej 25 4 [et hævet 4-tal, for "4.sal"] København B.</p>
+                <p rend="right">D. 1 Jan. 1902.</p>
+                <p>Kære Dr. Brandes.</p>
+                <p>Jeg sender hermed en Artikel<note>Efter al sandsynlighed drejer det sig om
+                        manuskriptet til Bangs artikel »Nikolai II«, trykt i Politiken,
+                        4.1.1902</note>, hvis Tonefald maaske ikke passer til »Politikens«
+                    Spalter.</p>
+                <p>Jeg har imidlertid skrevet den saaledes som jeg har for Finlands Skyld. Og det er
+                    ikke udelukket, at i det mindste denne Spalte gennem Kong Georg<note>Georg 1.
+                        (1845-1913), fra 1863 konge af Grækenland, søn af Christian 9. af
+                        Danmark</note> eller Prinsesse Valdemar<note>Prinsesse Marie (1865-1909),
+                        gift 1885 med prins Valdemar, der var en søn af Christian 9. af
+                        Danmark</note> kunde komme Czaren<note>Nikolaj 2. (1868-1918), kejser af
+                        Rusland fra 1894, en dattersøn af Christian 9. af Danmark</note> for Øje.
+                    Hvis Artiklen imidlertid, hvad jeg venter, skulde skurre altfor meget mod
+                    »Politikens« Tone, beder jeg Dem venligst tilbagesende mig Manuskriptet. Jeg kan
+                    vel for Sagens Skyld nok finde et andet Blad, som vilde trykke den.</p>
+                <p>Lykkeligt Nytaar ønskes Dem af</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

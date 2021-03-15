@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19030526001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+                                    27</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Jacob Hegel</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1903-05-26">[1903, 26. maj ?] Tirsdag<note>Datoforslaget er
+                        meget usikkert. Bang turnerede i januar-februar 1903 med oplæsning og i maj
+                        1903 med Aarhus Teater og hans skuespil Brødre. Dette brev kan næppe sigte
+                        til sidstnævnte...?</note>
+                </date>
+                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Marienlyst. Helsingør. Tirsdag.</p>
+                <p>Ja, nu er jeg her. Men skidt er det gaaet paa min Tournée ‒ desværre. De sidste
+                    Huller, som jeg vilde tage med iaar, var for smaa. Saa jeg maa bede Dem sende
+                    mig Resten af mine Penge for Juni <emph>nu</emph> herop. Jeg har faaet 75 + 150.
+                    Saa der er kun 125 til Rest!</p>
+                <p rend="right">Deres forbundne</p>
+                <p rend="right">Herman Bang.</p>
+                <p>Men De maa sende dem omgaaende.</p>
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

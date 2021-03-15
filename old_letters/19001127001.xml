@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19001127001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1900-11-27">[1900, 27. november] Tirsdag <note>Brevet skal
+                        eventuelt dateres til tirsdag 20.11.1900. Dateringsforslaget bygger på en
+                        koncert i København af Karl Nissen, forud omtalt af Bang i Politiken,
+                        27.11.1900; det er tænkeligt, at pianistens mor Erika Nissen var ventet til
+                        København i samme anledning. Se også Bangs brev til Edvard Brandes, dateret
+                        Torsdag [22.11.1900]</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Kære Hirschsprung.</p>
+                <p>Kan De give mig ti Kr? Jeg har i fem Dage ikke ejet en Øre. Men maaske er det
+                    umuligt.</p>
+                <p>Vil De være Vært hjemme hos Dem, naar Fru Nissen<note>Erika Nissen (1845-1903),
+                        født Lie, norsk pianist og klaverpædagog. Hendes søn, den norske pianist
+                        Karl Nissen (1879-1920) gav koncert i København en af de sidste dage i
+                        november 1900 [dato SKAL FINDES i samtidens aviser!!], og hans mor, der var
+                        en nær ven af Bang, er sandsynligvis fulgt med ham til København</note>
+                    kommer? Hun ønskede saa meget at sé moderne dansk Malerkunst<note>Bang hentyder
+                        enten til, hvad Aage Hirschsprung selv måtte have ejet af malerier i sit
+                        hjem i Bredgade, eller til den store samling af dansk malerkunst, som hans
+                        far, tobaksfabrikant Heinrich Hirschsprung (1836-1908), havde skabt. Den
+                        Hirschsprungske Samling har siden 1911 været offentligt tilgængelig i
+                        København</note>.</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

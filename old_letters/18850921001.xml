@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850921001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 298</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Blyantspåskrift af Peter Nansen: <q>Hjalmar Neiglick ung finsk Filosof og
+                      Kritiker, døde ganske ung</q>
+                                    </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. XXVIII</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-09-21" notBefore="1885-09-21" notAfter="1885-09-21">1885. 21.september [mandag]<note>empty</note>
+                </date>
+                <placeName cert="high">Itter, Tyrol</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Slottet Itter d: 21.9.85.</p>
+                <p>Kære Don.</p>
+                <p>Jeg beder dig saasnart en Afskrift af "Fædra"<note>Dvs. en afskrift af Bangs manuskript
+            til skuespillet <title key="Ellen Urne">Ellen Urne</title>, jf. note til brevet
+            1885, 6.september</note> er færdig, da at gennemlæse den (Afskriften) og sende den til
+          Oversætteren (<emph>
+                        <persName key="Sandberg, Algot">Algot Sandberg</persName>, Dagens
+            Nyheter. Stockholm</emph>)<note>Den svenske forfatter og journalist Algot Sandberg
+            (1865-1922)</note>. Tingen er, at jeg idag har faaet Svar fra Göteborg. Man ønsker
+            <emph>der</emph> intet hellere end at opføre Stykket <emph>strax</emph> og venter kun
+          paa Oversættelsen.</p>
+                <p>Jeg skal, om jeg vil, spille med. Men hvilken Rolle – that is the question<note>eng.: det
+            er spørgsmålet; citat fra <persName key="Shakespeare, William">William
+              Shakespeare</persName>s skuespil Hamlet, 3. akt, 1. scene</note>.</p>
+                <p>Tak for Aviserne. <persName key="Aalberg, Ida">Ida</persName>
+                    <note>Den finske skuespillerinde Ida Aalberg (1857-1915) gæstespillede på Casino første
+            gang 15.9.1885</note> var slap første Aften – læser jeg mellem Linierne. Men sikkert er
+            <emph>et</emph>: <emph>ellers</emph> spiller hun Febren<note>I Bangs artikel om hende i
+            Politiken, 15.9.1885, står en tilsvarende formulering: "Ida Aalberg spiller Febren. Paa
+            Feberangsten baserer hun Nora...", jf. også Bangs manuskriptfragment bag på brevet
+            1885, 7.september. Hun optrådte som Marsa i <persName key="Clarétie, Jules">Jules
+              Clarétie</persName>s (1840-1913) skuespil <title key="Fyrst Zilah">Fyrst
+            Zilah</title>
+                    </note>. <persName key="Neiglick, Hjalmar">Neiglick</persName>
+                    <note>Hjalmar Neiglick (1860-89), finsk psykolog, i 1885 bosat i København, hvor han
+            samarbejdede med Alfred Lehmann; 1887 docent i experimentel psykologi i
+            Helsingfors</note> og jeg skrev ogsaa i Grunden det samme.</p>
+                <p>Imorgen reiser jeg til <placeName key="Berlin">Berlin</placeName>, hvor jeg kommer Onsdag
+            <emph>Morgen</emph>. Centralhotel.</p>
+                <p>Skynd dig med "Fædra". Det dreier sig bogstavelig om Timer for at naa det før
+          Menter-Turnéen.</p>
+                <p>Hils <persName key="Nansen, Immanuel">Hvalpen</persName>
+                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat
+            ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med
+            Christiane Nansen</note>.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+                <p>For "Politiken"</p>
+                <p>Herman Bangs "<emph>Fædra</emph>" vil for første Gang blive spillet i <placeName key="Göteborg">Göteborg</placeName>. Göteborgs-Teatrets Primadonna, Fru <persName key="Byström, Anna">
+                        <emph>Anna Sternvall</emph>
+                    </persName>
+                    <note>Anna Byström, (1854-1926), svensk skuespillerinde, gift 1883-1903 med skuespilleren
+            Oscar Sternvall</note>, udfører Titelrollen. Hvis hans Deltagelse i Menter-Turnéen
+          tillader det, vil Herman Bang selv spille Hr. de Vilsac. Den svenske Oversættelse besørges
+          af den unge Forfatter <persName key="Sandberg, Algot">
+                        <emph>Algot
+            Sandberg</emph>
+                    </persName>.</p>
+                <p>En Bearbeidelse for Scenen af <emph>Herman Bangs</emph>
+                    <emph>"Fædra"</emph> af Hr. <persName key="Jonas, Emil">
+                        <emph>Emil
+            Jonas</emph>
+                    </persName>
+                    <note>Emil Jonas (1824-1912), holstenskfødt litterat, oversætter
+            fra dansk til tysk, dansk indfødsret 1851, fra 1867 bosat i Berlin</note> omsendes i
+          disse Dage til de tyske Scener.<note>Under rubrikken <q>Smæld og Smuld</q> står følgende
+            to notitser i Politiken, fredag 25.10.1885: "Herman Bangs Dramatisering af Fædra vil for
+            første Gang blive spillet i Gøteborg. Gøteborg-Theatret Primadonna, Fru Anna Sternvall,
+            udfører Titelrollen. / Hvis hans Deltagelse i Menter-Tournéen tillader det, vil Herman
+            Bang selv spille Hr. de Vilsac. Den svenske Oversættelse besørges af den unge Forfatter
+            Algot Sandberg." – og nedenunder: "En tysk Bearbejdelse af Dramaet Fædra ved Hr. Emil
+            Jonas omsendes i disse Dage til de tyske Scener." Disse to notitser efterfølges i avisen
+            af to korte meddelelser om samme emne: "Herman Bang har nu forladt Fru Menters
+            Sommerslot og er rejst til Berlin." samt: "Fru Sofie Menters Komposition <q>
+                            <title key="Fantaisie Hongroise">Fantaisie Hongroise</title>
+                        </q> – for Orkester
+            instrumenteret af Franz Liszt – vil efter Forlydende udkomme paa Hof-Musikhandelens
+            Forlag."</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

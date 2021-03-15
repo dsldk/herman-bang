@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19020000011</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 835, tilføjet: »(i s.for
+                                    1009)«</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med blyant og i en fremmed håndskrift er der efter Bangs
+                                        indledende ord »Min Ven.« skrevet: <emph>(Oluf
+                                        Heise)</emph>. Denne tilskrift er ikke synlig på den
+                                        fotografiske gengivelse af brevet, som i 1951 blev
+                                        offentliggjort i bogen <emph>Breve til Fritz</emph>, ved
+                                        side 16. Brevet var i 1951 endnu i antikvarboghandler Otto
+                                        Linds eje og tilskriften kan måske være foretaget af
+                                        ham</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1902-01-01">[cirka 1902?] Mandag <note>Formentlig skal brevet
+                        dateres inden for årene 1901-1903, blandt andet efter Bangs håndskrift at
+                        dømme. Brevet er afbildet i <emph>Breve til Fritz</emph>, 1951, og ordlyden
+                        er aftrykt side 17, uden datering</note>
+                </date>
+                <placeName cert="low">[København?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Mandag.</p>
+                <p>Min Ven.</p>
+                <p>Her er det første af Fritz' Breve<note>Fritz Boesen (1877-1931), nærtstående ven
+                        med Herman Bang; skuespiller ved Folketeatret 1898-1900, i Norge 1903-04 med
+                        eget selskab, fik ca. 1905 egen teaterbevilling for danske stationsbyer. Om
+                        Herman Bangs ugengældte kærlighed til ham, se: <emph>Breve til Fritz</emph>,
+                        1951. Det tidligste brev fra Bang til Boesen skal ifølge denne udgave
+                        dateres til 28.11.1895; dette brev må Boesen på et tidspunkt have givet
+                        tilbage til Bang. Bangs hensigt med at overretssagfører Oluf Heise har
+                        skullet læse dette første brev fra 1895 er indtil videre uvis ...</note>.
+                    Menneskene tænker sig dem jo vistnok noget anderledes.</p>
+                <p rend="right">H. B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

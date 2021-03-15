@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19040406001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 372</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1904-04-06" notBefore="9999-99-99" notAfter="9999-99-99">1904. 6. april [onsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">Aarhus</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Aarhus. 6.4.1904.</p>
+                <p>Kære Nansen.</p>
+                <p>Midt i den næsten uudholdelige Angst, i hvilken jeg gaar for "<title key="Mikaël">Mikaël</title>" – om hvilket Værk ikke ét levende Mennesker har skrevet til mig
+               uden du og <persName key="Brandes, Edvard">Edv. Brandes</persName> – kommer andre
+               Uheld til. Jeg skal paa Finansloven<note>Bang kom første gang på Finansloven
+                  24.4.1903 med 400 kr. årligt. Altså kan det kun være anden gang, han modtager
+                  disse penge. – Iøvrigt faldt langfredag netop 1.4.1904, og påskehelligdagene er
+                  måske den simple forklaring</note> have 500 Kroner og dem havde jeg ventet som
+               alle Aar, hvor Finansloven kommer første April, den anden eller tredje April. Men
+               iaar er ingen Finanslov offentliggjort endnu den sjette April. Og, da jeg har betalt
+               og betalt Gæld med mine Oplæsningsindkomster, skulde jeg nu, hvor jeg bryder op
+               herfra, bruge Pengene nu. Det tyder ikke paa nogen Uorden men tvertimod paa Orden, at
+               disse Penge skulde bruges paa Dagen. Ti hele min Rejserute er lagt allerede i Vinter
+               og Pengene beregnede fra den Dag, <persName key="Christensen, J.C.">Kultusministeren</persName>
+                    <note>I 1903/04 var I.C. Christensen (1856-1930) kultusminister (partiet Venstre)</note> gennem
+               Professor <persName key="Ellinger, H.O.G.">Ellinger</persName>
+                    <note>H.O.G. Ellinger (1857-1947), professor i fysik, politiker, medlem af Folketinget for Højre</note> lod mig sige, at jeg
+               fik de femhundrede Kr.</p>
+                <p>Nu har jeg lavet – ved Overretssagfører <persName key="Gulmann, Otto">Gulmann</persName>
+                    <note>Otto Gulmann (1873-1938), sagfører i Aarhus, overretssagfører fra 1905; bror til journalisten Christian Gulmann</note>s Hjælp –
+               denne Fuldmagt, som lader Gyldendal hæve Penge ved Finantshovedkassen, naar Loven er
+               offentliggjort.</p>
+                <p>Vil du saa være saa elskværdig at lade Bogladen telegrafere mig imorgen (Torsdag) de
+               firehundrede Kr af Summen. Ti jeg spilder Tid hver Dag ved at sidde her og jeg
+                  <emph>skal</emph> Fredag afrejse til Odense for at fortsætte mine Oplæsninger.</p>
+                <p>Aa, om du vidste, hvad jeg i disse Dage lider af Angst. Den sidste Uge har været en
+               af de frygteligste i hele mit Liv.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18870716002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 413</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Paul (Poul) Langhoff</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1887-07-16">1887, 16. Juli, Lørdag<note>empty</note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag. Lørdag 16.7.87.</p>
+                <p>Kære Langhoff.</p>
+                <p>Har idag sendt Schiøtt<note>Julius Schiøtt</note> Slutningen af II samt et større
+                    Stykke (antagelig tre trykte Sider) der skal indføjes i V; paa Manuskriptet
+                    staar ‒ <emph>hvor</emph>. De vil let sé Grundene til Medtagelsen af denne
+                    Scene. Den forhenværende Kokkepige, Fru Martens skal illustreres, og det skal
+                    desuden vises, hvordan Pengene siver ud paa alle Kanter.</p>
+                <p>Jeg begynder nu imorgen paa III. Gud give, at Varmen vilde tage af ‒ det er saa
+                    svært at anstrænge sin Hjerne ved denne Temperatur, og jeg lider af uendelige
+                    Opkastninger. Naa ‒ det maa alt holdes ud. Bedre var det vel at hugge Stén ‒
+                    tjene gør man omtrent de samme Summer og Tak har Brolæggeren større. Hvad
+                    iøvrigt kun naturligt er: han gør i alle Fald den Nytte, at Folks Ligtorne
+                    skaanes.</p>
+                <p>Allons ‒</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">Herman B.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

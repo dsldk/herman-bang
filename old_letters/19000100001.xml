@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19000100001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 447</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Edvard Brandes</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1900-01-01">[1900, cirka januar?] Onsdag<note>Dateringen
+                        ligger mellem oktober 1899 og april 1900, den periode da Bang boede i
+                        Frederiksborggade 31</note>
+                </date>
+                <placeName cert="high">København</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Frederiksborggade 31. Onsdag.</p>
+                <p>Kære Dr: Brandes.</p>
+                <p>Hr. Fritz Boesen<note>Fritz Boesen (1877-1931), skuespiller, nær ven af
+                        Bang</note> vil bringe Dem eller har bragt Dem et Skuespil<note>Antagelig
+                        det samme skuespilmanuskript af Fritz Boesen, som Bang tilsendte forlæggeren
+                        Aage Hirschsprung som bilag til sit brev, dateret 21.10.1899</note> med Bøn
+                    om at læse det. Han har selv, uden Tilskyndelse, ønsket, at <emph>De</emph>
+                    skulde gøre det. Jeg beder Dem nu gøre det, saasnart De finder Tid. Det er svært
+                    for mig at dømme uhildet om det Skuespil. Men skrevet af en Mand paa 22 Aar er
+                    det i alle Fald mærkeligt<note>Dvs. bemærkelsesværdigt</note>. Og der vil møde
+                    Dem adskillige Overraskelser under Læsningen. Bedre og skarpere Indblik i de
+                    tyveaariges Følemaade kunde De idetmindste ikke faa ‒ det kan jeg forsikre Dem.
+                    Ja, hvor Verden gaar fremad.</p>
+                <p>Jeg beder Dem ikke med noget Ord berøre disse Linjer overfor Boesen, der ønsker
+                    at staa saa ganske selvstændig i hele denne Sag.</p>
+                <p>Lad mig tilføje, at jeg først i næste Uge ‒ ti jeg har hidtil haft det saa rent
+                    skidt ‒ kommer til Dem for at tale om Maaden, hvorpaa jeg kan afskrive min Gæld
+                    til »Politiken«. En Maade maa dog findes. Desværre har jeg det, som sagt,
+                    skralt.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

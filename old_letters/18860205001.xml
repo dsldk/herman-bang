@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860205001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 318</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider plus en tilføjet sætning</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-02-05" notBefore="9999-99-99" notAfter="9999-99-99">1886. 5. februar [fredag]<note>Brevet er fejldateret af
+                  Bang. Datoen 5.2.1886 stemmer derimod med dateringen i Politiken 9.2.1886 af Bangs
+                  i brevet omtalte artikel</note>
+                </date>
+                <placeName cert="high">Meiningen</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Meiningen <app>
+                        <lem>5.3.</lem>
+                        <rdg>En skrivefejl for: 5.2</rdg>
+                    </app>86.</p>
+                <p>Kære Peter.</p>
+                <p>Du har faaet fra <persName key="Greibe, Vilhelm">Greibe</persName>
+                    <note>Vilhelm Greibe, dansk vicekonsul i Berlin</note> en Korrespondance fra "H-N"<note>Hamburger Nachrichten,
+                  den avis hvori cand.jur. <persName key="Boldt, H.V.">H.V. Boldt</persName>s (Heinrich Wilhelm Boldt, født 1836) perfiditeter om
+                  Herman Bang blev trykt 3.2.1886 (jf. Vandreaar, s. 195, noten)</note>. Det er
+               længe siden noget har oprørt mig saaledes.</p>
+                <p>Jeg beder dig nu ikke fortælle, at sligt hænder hver Dag hjemme o:s:v: Eller at det
+               er ubesindigt at svare <emph>det</emph>, jeg hermed sender dig. <emph>Jeg vil det
+                  saaledes</emph>. Jeg er som Menneske for haardt prøvet – jeg vil, at det danske
+               Publikum skal faa <emph>et</emph> Exempel – aa, du ved det jo, blandt de hundrede i
+               min Tid – paa, hvorledes man behandler mig.</p>
+                <p>Du vil maaske sige, du opnaar bare, at man trækker paa Skuldren. "Man" er maaske de
+               femtusinde – men i <emph>dette</emph> Tilfælde er der ved Siden af disse femtusind
+                  <emph>50</emph> hæderlige Mennesker, som smaat oprøres. Og disse 50 er mig
+               vigtige.</p>
+                <p>Har I haft et Udtog af Artiklen – da henvis dertil... Men tryk allenfals mit Brev og
+               helst med <emph>hele</emph> Artiklen efter sig.<note>Under fællesoverskriften "En
+                  Højre-Korrespondent" blev både Bangs artikel "En Landsmand" (dateret "Meiningen,
+                  den 5. Februar 1886") og H.V. Boldts artikel i dansk oversættelse trykt i
+                  Politiken, 9.2.1886</note>
+                </p>
+                <p>Enkelte Ord i mit Brev giver jeg dig Lov til at rette. <emph>Tonen deri ikke</emph>.
+               Naar man fornærmes saaledes, eller rettere, naar <emph>jeg</emph> fornærmes saaledes
+               – taler Mennesket.</p>
+                <p>Jeg er <emph>saa</emph> oprørt, som jeg ikke har været i Aar og Dag. Hvor dog Livet
+               er elendigt.</p>
+                <p rend="right">Herman.</p>
+                <p>
+                    <emph>Send mig de betræffende Blade</emph>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

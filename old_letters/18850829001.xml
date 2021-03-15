@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850829001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 135</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider. Brevpapir: slyngmonogram HJB (uden krone)</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med Peter Nansens blyantspåskrift: <q>Ida Aalberg optraadte som Gæst
+                                 her – Aug. Rasmussen fra Kasino</q>
+                                    </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. XXIV</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-08-29" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 29. august], Lørdag Aften<note>Dateringen i Vandreaar
+                  s. 132 følges</note>
+                </date>
+                <placeName cert="high">München</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">München. Lørdag Aften.</p>
+                <p>Kære Peter.</p>
+                <p>Jeg vil bede dig indlevere disse tre Akter<note>En del af Herman Bangs manuskript til
+                  skuespillet <title key="Ellen Urne">Ellen Urne</title>, hans egen dramatisering af
+                  romanen <title key="Fædra">Fædra</title>
+                    </note> til <persName key="Rasmussen, August">Rasmussen</persName>
+                    <note>August Rasmussen (1838-1922), der 1884-87 var direktør for Casino i København</note>. Inden han faar læst dem – har han Rest. Siste
+               Halvdel af tredie Akt vil du som jeg finde uventet lykkelig og dramatisk. Jeg har
+               arbeidet som et Bæst, inden jeg fandt. Nu er Stykket et Drama og Pokker takke R. for
+               at spille det.</p>
+                <p>
+                    <persName key="Aalberg, Ida">Ida A.</persName>
+                    <note>Ida Aalberg(1857-1915; under sin gæsteoptræden 1885-86 ved Casino og Dagmarteatret i København spillede hun på svensk og senere på dansk</note> vil være henrykt<note>Notits i Politiken, 20.8.1885: "Frk.
+                  Benelli [<persName key="Benelli, Maggie">Maggie Benelli</persName> (1866-1933)], der i
+                  Begyndelsen af Sæsonen skulde have debuteret paa Kasino som Marfa i "<title key="Fyrst Zilah">Fyrst Zilah</title>", har meldt sig syg og vil næppe kunne
+                  optræde før om et Par Maaneder. / Som Følge af Frk. Benellis Sygdom vil Opførelsen
+                  af "Adrienne Lecouvreur" med den berømte finske Skuespillerinde Frk. Ida Aalberg i
+                  Titelrollen blive fremskyndet, og det paatænkes at anmode Frk. Aalberg om at
+                  overtage den kvindelige Hovedrolle i "Fyrst Zilah", som da vil blive spillet
+                  umiddelbart efter." – Fyrst Zilah blev opført 18 gange mellem 13.9. og
+                  14.10.1885</note>. Hun – som er "vakt ved mig" o:s:v: hvilket Numer, naar vi
+               under Indstuderingen lader hende skrive et Brev til <placeName key="Finland">Finland</placeName> og atter oversætter det. Angaaende Rollebesætningen maa
+                  <persName key="Züberlein, Diderot">
+                        <emph>Züberlein</emph>
+                    </persName>
+                    <note>Skuespilleren Diderot Züberlein (1832-1920), tilknyttet Casino 1880-82; i efteråret 1883 var han kunstnerisk leder af turneen med Henrik Ibsens skuespil Gengangere</note> spille Greven. Han er ikke "fornem" men han
+                  <emph>kan</emph> spille Komedie.</p>
+                <p>Om det ønskes skal det sættes i Scene af Forfatteren – og gaar alt vel, kan jeg
+               overtage Vilsacs Rolle, naar Penge-Sukces'en mattes. Men helst maa det spilles strax
+               efter "Adrienne"<note>
+                        <title key="Adrienne Lecouvreur">Adrienne Lecouvreur</title>,
+                  skuespil af franskmændene <persName key="Scribe, Eugène">E. Scribe</persName> (1791-1861) og <persName key="Legouvé, Ernest">Ernest Legouvé</persName> (1807-1903), planlagt gæstespil på Casino med
+                  Ida Aalberg i titelrollen, men opgivet (jf. Vandreaar, s. 133, note
+               3)</note>.</p>
+                <p>
+                    <persName key="Brock, Louise">Frøken Brock</persName>
+                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos teaterleder August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> maa spille Morfindamen<note>I
+                  Ellen Urne rollen som baronesse Rosenkrands, der er morfinist</note>, der altsaa
+               er en c 30 Aar – ligesom Ellen.</p>
+                <p>Det faldt mig ind inat – for den Rolle er hun skabt. Jeg skal ikke nægte, at jeg er
+               stolt over Akten fra 6 Scene. Min Adresse er: Itter<note>Den tyske pianist <persName key="Menter, Sophie">Sophie Menter</persName>s slot i Tyrol</note>. Hils
+                  <persName key="Nansen, Immanuel">Hvalpen</persName>
+                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> hundrede Gange. Nu tænker jeg kun paa dette. Det
+                  <emph>maa</emph> og <emph>skal</emph> gaa.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

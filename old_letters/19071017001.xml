@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19071017001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 441</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-10-17" notBefore="9999-99-99" notAfter="9999-99-99">1907. 17. oktober [torsdag]<note>empty</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Fasanenstrasse 58. Berlin. W.</p>
+                <p rend="right">17.10.1907.</p>
+                <p>Min kære Ven.</p>
+                <p>Desværre, jeg kan ikke ret <app>
+                        <lem>komme</lem>
+                        <rdg>Bang har vist oprindelig skrevet: kommer</rdg>
+                    </app> til Kræfter.</p>
+                <p>I Korsbaand følger Begyndelsen til min næst-næste Bog: "Kvinder", du ved<note>Jf.
+                                brevet 19070810</note>. De tre "Rids" skal <persName key="Levin, Poul">Levin</persName>
+                    <note>Forfatteren, dr.phil. Poul Levin (1869-1929), redaktør 1907-09 (sammen med <persName key="Munch, P.">P. Munch</persName>) af tidsskriftet Det
+            ny Aarhundrede</note> have først. De to sidste (<persName key="Thaulow, Alexandra">Alexandra Thaulow</persName>
+                    <note>Om den norske maler Frits Thaulows hustru Alexandra Thaulow (1862-1955)</note> og <persName key="Nansen, Betty">Betty Nansen</persName>) bliver i Bogen nye.</p>
+                <p>Paa min <emph>næste</emph> Bog begyndte jeg iforgaars (Julehistorien).</p>
+                <p>Det er ikke mere min Fejl, at "<title key="Sælsomme Fortællinger">Sælsomme Historier</title>" forsinkes. Græbe smøler, som
+                        altid, med Korrekturerne.</p>
+                <p>Og midt under alt det endnu Feuilletonerne og Artiklerne. Sommetider synes jeg,
+                        at baade jeg og min Forstand drukner i det –</p>
+                <p>Lev vel.</p>
+                <p rend="right">Herman.</p>
+                <p>Hvor glad jeg er over, at "Ladyen"<note>Rollen som lady <title key="Macbeth">Macbeth</title> (i Shakespeares skuespil Macbeth), spillet af Betty Nansen siden
+                                6.10.1907 på Det Kongelige Teater</note> mer og mer
+                        fæstner sig. Hvor det er dejligt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

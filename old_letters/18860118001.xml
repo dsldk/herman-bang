@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18860118001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 250</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 4 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>En enkelt blyantspåskrift af Peter Nansen på brevets s. 2: <q>Karl
+                                 Gjellerup</q>
+                                    </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>Vandreaar nr. XXXVI</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1886-01-18" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 18. januar], Mandag<note>Dateringen i Vandreaar s. 177
+                  følges</note>
+                </date>
+                <placeName cert="high">Meiningen</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Meiningen. Mandag.</p>
+                <p>Min kære Ven.</p>
+                <p>Først og fremmest, Peter, et lykkeligt Aar<note>Brevet er et lykønskningsbrev til
+                  Peter Nansens fødselsdag 20. januar; han fyldte 25 år</note>. Husker du ifjor,
+               ude paa "Dagmar", Aftenen før din Fødselsdag<note>Jf. brevet 18850119</note>? Vi
+               talte om din Fremtid, og du sagde: Husk nu, at hvis jeg intet faar skrevet – da er
+               det let forklarligt. Jeg <emph>maa</emph> vie dette Aar til Bladet.</p>
+                <p>Nu er Aaret omme. Og som Mefisto kom til Faust kommer jeg og melder: Fristen
+                  omme<note>I det gamle folkesagn forskriver doktor Faust sig til djævelen (Mefisto)
+                  mod at få mere levetid til studier og jordisk erkendelse, men denne djævlepagt
+                  indebærer, at i det øjeblik Faust dvæler i nuet og ikke længere stræber efter ny
+                  indsigt, hjemfalder hans sjæl, og djævelen/døden henter ham. Det er hovedmotivet i
+                  flere fortolkninger af sagnet i europæisk litteraturhistorie; berømtest er tyskeren 
+                     <persName key="Goethe, Johann Wolfgang">J.W. Goethe</persName>s (1749-1832) versdrama
+                     <title key="Faust">Faust</title>, hvor en replik i stil med "Fristen omme" dog
+                  ikke forekommer</note>.</p>
+                <p>
+                    <emph>Det</emph> er mit Ønske, at du ialfald i Aaret, som kommer, maa faa
+                  <emph>udrettet</emph> meget. Og forresten være sund og rask, min Ven, og glad saa
+               lala – ja, du véd det, jeg ønsker dig det bedste.</p>
+                <p>Og vid <emph>en</emph> Ting: vi er altfor tilbøielige til at sige: Naa ja – der er
+               endnu Tid – og saa udretter vi ti Ting, som egenlig er overflødige, og ikke den ene,
+               som vi egenlig helst vilde.</p>
+                <p>"For til <emph>den</emph> er der Tid". Men Livet, som kun er Ungdommen, er uendelig
+               kort, og Aarene er hastigt rindende. Skæbnesvanger nær er for os den Dag, hvor vi
+               ikke mer ser fremad – men <emph>maa</emph> sé tilbage paa, hvad vi ikke naaede.</p>
+                <p>– Naa, ja – jeg sidder altsaa i Meiningen. "Begivenheden" er ad Telegrafens Traade
+               spredt over Verden. Fra Literaturhistorien, fra <app>
+                        <lem>Kulturhistorien</lem>
+                        <rdg>Ordets første led vistnok rettet fra: Kulthis</rdg>
+                    </app> (hvor jeg vistnok egenlig nærmest hører hjemme) er jeg – og vedbliver, som min
+               Ven <persName key="Gjellerup, Karl">Karl G.</persName>
+                    <note>Forfatteren Karl Gjellerup (1857-1919)</note> vil sige, at være Dilettant – traadt over i
+               Verdenshistorien. "Begivenhederne" elsker mig: Kristiansborg-Slot
+                  brændte<note>Christiansborg Slot brændte natten mellem 3. og 4.10.1884; nattens
+                  dramatiske forløb skildrede Bang i sin berømte reportage "Branden" i
+                  Nationaltidendes morgenudgave, 4.10.1884, optrykt i Vekslende Themaer, bd. 3, DSL
+                  2006, s. 1317-1321</note> for at jeg ved udvist Bravur kunde forberede min
+                  <placeName key="Kristiania">Kristiania</placeName>-Reise og Turné.</p>
+                <p>Nu udvises jeg for med ét Slag at blive kendt i Tyskland. Regeringen – hver Gang jeg
+               skriver saadan et Ord, ler jeg jo indvendig – har gjort mig den Tjeneste ikke at
+               optrykke hin Artikel – saa foreløbig er Udvisningen en Reklame. Nu maa jeg kun
+               forlange det yderste af mig selv for at gøre mig saa værdig til den som mulig.</p>
+                <p>Sikkert har du, kære Don, revet dig aandeligt i Haaret adskillige Gange, mens du
+               læste min Artikel til "Politiken"<note>Trykt 19.1.1886</note>. Men jeg vilde nu
+               skrive saaledes og tror det klogt. Her kan kun gaaes frem efter Formlen: Cedendo
+                  vincimus<note>lat.: Ved at vige sejrer vi</note>. Var mine Evner større – aa, na'
+               – hvad her da skulde blive udrettet for os alle og for det stakkels lille Land
+               hjemme.</p>
+                <p>Synes du, det lader, som jeg er i godt Humør? Men ja – i dette Brev. Det hænder jo,
+               at jeg en Aften gaar lidt hovedkulds i Seng – "for at ligge og tænke paa ret mange
+               sørgelige Ting", og at jeg finder Tilværelsen saa temmelig "lilla". Men
+                  <emph>det</emph> hører ikke hjemme i et Lykønskningsbrev.</p>
+                <p>Et lykkeligt Aar – og bevar mig, min Ven, langt borte altid dit Venskab. Du ved, at
+               det helt stille er mit bedste Eie i et fattigt Liv. <persName key="Nansen, Immanuel">Hvalpen</persName>
+                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> hilse du, og drikker I et Glas sammen den 20 da tænk
+               paa En, som vil tænke meget, meget paa dig.</p>
+                <p rend="right">Herman.</p>
+                <p>
+                    <app>
+                        <lem>NB.</lem>
+                        <rdg>Efterskriften er tilføjet øverst på brevets sidste side</rdg>
+                    </app> Hvis dine Øine skulde falde paa "Tageblattes" "Indiskrete Briefe" vil du
+               genkende – visse Historier. For Guds Skyld – ren Mund.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

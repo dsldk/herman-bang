@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18970413001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 92</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1897-04-13" notBefore="9999-99-99" notAfter="9999-99-99">[1897. 13. april], Tirsdag<note>empty</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Tirsdag.</p>
+                <p>Nej – jeg kan hverken skrive eller noget andet. Bare til Nød passe <placeName key="Kreta">Kreta</placeName>.<note>I Aftenbladet skrev Bang (under mærket Vidi)
+                  en række artikler fra begyndelsen af marts til midten af maj 1897 om den
+                  storpolitiske krise, som stridighederne om øen Kreta havde givet anledning til.
+                  Kreta havde i et par århundreder været under osmannisk, dvs. tyrkisk (og dermed
+                  muslimsk) herredømme, men dens befolkningsflertal var græsk (kristent). En opstand
+                  på øen i 1896 var efterfulgt af international diplomatisk aktivitet. 15.2.1897
+                  blev græske militærstyrker landsat, og fra 7.4. var kamphandlinger en realitet; en
+                  månedstid senere havde Det Osmanniske Rige vundet en knusende sejr. Grækenland fik
+                  en ny regering, og i maj rømmede de græske styrker Kreta efter diplomatisk
+                  indgriben af de europæiske stormagter. Kreta fik udstrakt selvstyre inden for
+                  rammerne af et internationalt protektorat, garanteret af Rusland, Storbritannien,
+                  Frankrig og Italien. Først i 1913 blev øen en del af Grækenland</note>
+                </p>
+                <p>Igaar Eftermiddags blev jeg syg og min Plads til "<title key="Strandby Folk">Strandby
+                  Folk</title>"<note>Jf. brevet 18970502. En avisannonce bekræfter, at Det Kongelige
+                  Teater opførte stykket mandag 12.4.1897, kl. 19.30</note> stod tom og jeg kunde
+               herhjemme ikke skrive en Linje hverken om <persName key="Hennings">"Frederiksberg-Hennings"</persName>
+                    <note>Bangs to artikler om aktuelle ansøgninger om at drive et nyt teater paa
+                  Frederiksberg, Aftenbladet, 19. og 20.4.1897. Det er uvist, hvem Bang sigter
+                  til</note> eller om "Vort Folk"<note>Bangs artikel "Bøger for Folket",
+                  Aftenbladet, 17.4.1897, omhandler subskriptionen på det store værk Vort Folk i det
+                  nittende Aarhundrede i Billeder og Text af danske Kunstnere og Forfattere,
+                  Gyldendal 1897-1901</note>.</p>
+                <p>Men det kommer.</p>
+                <p>Her ligger ti Kr. og de andre faar du først paa min Fødselsdag<note>Bang var født
+                  20.4.1857</note>.</p>
+                <p>Hav det nu saa dejligt i <placeName key="Berlin">Berlin</placeName> – dejligt, begge
+                  to.<note>Betty og Peter Nansen opholdt sig i Berlin i påskedagene ca.
+                  14.-18.4.1897, jf. Karin Bang, s. 456</note>
+                </p>
+                <p>Gid jeg kunde tage med.</p>
+                <p>Jeg skulde til <persName key="Cantor, Alexander">Cantors</persName>
+                    <note>Alexander Cantor (1853-1924), cand.jur., 1880-1910 overretssagfører i København</note> til Middag men maa gaa i Seng. Mit Liv er egenlig ikke
+               saa muntert – naar Kreta undtages.</p>
+                <p>Og den lykkeligste Rejse for Kunstnerinden.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">188512260001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>privateje</repository>
+                                <idno>empty</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Julius Schiøtt</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>Ukendt proveniens frem til en bogauktion den 27.8.1999 hos
+                                    Københavns Auktioner/Chr. Hee's efterfølger, nr. 4630</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-12-26">1885. 26. december, [lørdag]<note>Ukendt
+                        proveniens ældre end en bogauktion i København i 1999</note>
+                </date>
+                <placeName cert="high">[Berlin]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">2 Juledag.</p>
+                <p>Jeg maa, kære Ven, sende dig indlagte.</p>
+                <p>Jeg arbeider her som et Asen. I »Berliner Tageblatt« begynder jeg den første; hos
+                    Schorer ligesaa. Anmodninger om Bidrag strømmer ‒ og jeg bestiller <emph>intet
+                        andet end at skrive og skrive</emph>. Fra først i Januar faar Skou<note>dvs.
+                        Andreas Schou ...</note> Manuskript. Det <emph>maa</emph> betales Arkvis.
+                    Halvdelen til Andreasen.</p>
+                <p>Gør A. forstaaelig, at han maa vente ‒ at sine 75 Kr. om Maaneden skal han faa,
+                    og alt det mer, jeg orker. Men jeg maa først igang.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+                <p><emph>Et</emph> Exemplar af »Ellen Urne«<note>Bangs omarbejdelse af sin egen
+                        roman Fædra til skuespillet Ellen Urne, der udkom i bogform på Andreas
+                        Schous Forlag midt i december 1885, efter at Bang var rejst fra
+                        København.</note> vilde jeg jo gerne se.</p>
+                <p rend="right">H.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

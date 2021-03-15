@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18990726001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Bangs egen datering er med blyant tilføjet: »/99«,
+                                        formodentlig af Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1899-07-26">1899, 26. Juli [onsdag] <note>Bang var siden
+                        30.6.1899 indlagt på Assens Sygehus</note>
+                </date>
+                <placeName cert="high">[Assens]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag. 26.7.</p>
+                <p>Kære Ven.</p>
+                <p>Hr. Langen<note>Albert Langen (1869-1909), tysk forlægger, grundlægger af
+                        forlaget Albert Langen i München. Han blev i 1896 gift med Bjørnstjerne
+                        Bjørnsons yngste datter, Dagny</note> kan ikke faa »Liv og
+                        Død«<note>Novellesamling, der udkom 13.5.1899 på Det Schubotheske Forlag. En
+                        tysk oversættelse, <emph>Leben und Tod. Drei Erzählungen</emph>, udkom i
+                        1901 på S. Fischer Verlag i Berlin</note>, da Hr. Fischer<note>Samuel
+                        Fischer (1859-1934), tysk forlægger, der i 1886 grundlagde S. Fischer
+                        Verlag, Berlin</note>, Berlin, har alle Rettigheder til alle mine Bøger i
+                    Tyskland.</p>
+                <p>Vil De venligst sige Hr. Langen dette?</p>
+                <p>Det hedder sig, jeg har det lidt bedre. Jeg selv tror det ikke rigtigt.</p>
+                <p rend="right">Mange, mange Hilsener.</p>
+                <p rend="right">H. B.</p>
+                <p>Frk Husum<note>Frøken Pauline Husum var Bangs sygeplejerske; se også hans
+                        telegram til Aage Hirschsprung, 30.6.1899</note> skal paa Fredag betale 4
+                    Kr. for Logis<note>Dvs. husleje for frøken Husums månedlange ophold i Assens; se
+                        også Bangs brev til Aage Hirschsprung, 7.8.1899</note>.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850210001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 284</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-02-10" notBefore="9999-99-99" notAfter="9999-99-99">1885. 10. februar.  [tirsdag]<note>Bangs proverbe <q>Ord</q>
+                  opførtes 14.2.1885 på Folketeatret. Indtægten gik til Bangs nordiske turné,
+                  påbegyndt 16.2</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">10.2.85.</p>
+                <p>Kære Peter.</p>
+                <p>Skriv paa en net Maade: at jeg <emph>spiller</emph> Proverbet.<note>I Politiken stod
+                  9.2. en notits om, at stor forhåndsinteresse bevirkede, at "Herman Bangs
+                  Aftenunderholdning paa Lørdag" blev flyttet fra Casinos lille sal til
+                  Folketeatret. Onsdag 11.2. bragte Politiken følgende notits på forsiden: "Herman
+                     Bangs Aftenunderholdning paa Lørdag finder, som allerede meddelt, Sted paa
+                     Folketheatret. Som Følge af Steds-Forandringen fra Sal til Theater sker der den
+                     Program-Forandring, at Proverbet <q>
+                            <title key="Ord">Ord</title>
+                        </q> spilles
+                     istedetfor oplæses. Herrerollen udføres af Hr. Bang, Damerollen af Frøken
+                        <persName key="Sørensen, Lydia">Lydia Sørensen</persName>
+                        <note>Skuespillerinden Lydia Sørensen (1858-91), senere gift Lindemann</note>. Programmet
+                     omfatter iøvrigt Oplæsning af Hr. Bang, Sang af Hr. <persName key="Haunstrup">Haunstrup</persName>, Spil af Frk. <persName key="Hansen, Agnes">Agnes
+                           Hansen</persName> og en af vore bekendte Violinvirtuoser." – Der ses ingen
+                  anmeldelse i Politiken, men en notits på forsiden søndag 15.2. oplyste: "Herman
+                     Bangs Aftenunderholdning igaar i Folketheatret havde fuldt Hus, Blomster,
+                     Bifald og Fremkaldelser." – og dagen efter: "Herman Bang rejser idag til
+                        <placeName key="Göteborg">Gøteborg</placeName> for dér at begynde sin
+                     Foredragstournée i Sverig-Norge (eventuelt Finland)."
+               </note> Det og kun <emph>det</emph> vil Publikum.</p>
+                <p>Fordi <emph>Scenen</emph> alligevel er der – efter Opfordring eller hvad du mener – </p>
+                <p>Du kan gerne tage hele Programmet naar du sætter Prikker ved <emph>Solo</emph> for
+               Violin</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman</p>
+            </div>
+        </body>
+    </text>
+</TEI>

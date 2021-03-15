@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19030000001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 225</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>På brevets bagside er med blæk skrevet tre afsluttende linjer af et
+                              manuskript til en avisartikel (håndskriften er Knud Ernsts) øverst på
+                              papiret: <q>Og der falder mange Krummer af ved et Statslaan. /
+                                 Alceste</q> – forsynet med pagineringen <q>III</q>
+                                    </ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1903-01-01" notBefore="9999-99-99" notAfter="9999-99-99">[1903]<note>Brevet er skrevet et sted i provinsen
+                  ("Paa Onsdag rejser jeg ind") – og må stamme fra de tidlige faser af romanen
+                     <title key="Mikaël">Mikaëls</title> tilblivelse</note>
+                </date>
+                <placeName cert="low">empty</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Ven.</p>
+                <p>Tilgiv mig, at jeg først nu svarer paa <persName key="Nansen, Betty">
+                        <app>
+                            <lem>din</lem>
+                            <rdg>Ordets to første bogstaver er rettet fra: B</rdg>
+                        </app> Kone</persName>
+                    <note>Betty Nansen</note>s Brev. Men jeg har, indtil igaar oplæst i fem Kroer og
+               dermed faaet min Regning betalt her. Jeg forstod saa godt hendes Grunde. Naar jeg
+               overhovedet skrev, maa jeg bede undskylde: jeg havde kun den ene Tanke: Saa faar du
+               alt betalt og skal kun tænke paa "Mikaël". Nu assisterer <persName key="Larssen, Anna">Anna</persName>
+                    <note>Måske skuespillerinden Anna Larssen (1875-1955), født Halberg</note>. Men Vejret er saa vanvittigt, at det Hele nok giver
+               Underskud. Giv derfor 50 Kr., at jeg dog kan betale for mig. Saa er der kun 100
+               tilbage. Paa Onsdag rejser jeg ind. "Mikael" er ikke stanset men dette Afsnit er saa
+               langt.</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

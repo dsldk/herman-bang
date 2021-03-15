@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19030505001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 366</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="sekretær">
+                                        <ab>Sekretær</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1903-05-05" notBefore="9999-99-99" notAfter="9999-99-99">1903. 5. maj.  [tirsdag]<note>Bang kan muligvis opholde sig i Aarhus, hvor hans skuespil Brødre
+                havde premiere 8.5.1903</note>
+                </date>
+                <placeName cert="low">[København?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">5/5-03.</p>
+                <p>Kære Nansen.</p>
+                <p>Tak endnu en Gang for alt. For al den endeløse Møje, denne Sag har kostet Dig.
+                        Jeg haaber oprigtigt, at jeg maa kunne gøre Gengæld overfor Dig og Dine.</p>
+                <p>Hvis Forlaget har indvundet "<title key="Det hvide Hus">Det hvide Hus</title>" og "<title key="Det graa Hus">Det graa Hus</title>", maa de jo efter
+               Sagens Natur ogsaa have erhvervet "<title key="Liv og Død">Liv og Død</title>", hvilket kan synes ret
+                        ligegyldigt men ikke <emph>er</emph> det, da det lille Bind indeholder tre
+                        af mine mest personlige Fortællinger, der i min Produktion slaar Bro fra
+                        "Det hvide Hus" til "Det graa Hus".</p>
+                <p>Bogen udkom jo ogsaa et halvt Aar efter "Det hvide Hus"<note>Det hvide Hus udkom
+                                26.11.1898, Liv og Død 13.5.1899</note>.</p>
+                <p>Mange Hilsener til Dig og <persName key="Nansen, Betty">Din
+                                Kone</persName>
+                    <note>Betty Nansen</note>.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

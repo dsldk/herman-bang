@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19030702001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 844</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1903-07-02">1903, 2. Juli [torsdag] <note>Herman Bangs og
+                        Nini Holsts lillebror William var udvandret til USA. Han døde i 1903,
+                        formentlig ved selvmord. Se også Dag Heede m.fl. (red.):
+                            <emph>Livsbilleder</emph>, Odense 2014, s. 48</note>
+                </date>
+                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Marienlyst. 2.7.1903.</p>
+                <p>Min egen, kære Bertha.</p>
+                <p>Ja, du kender naturligvis Ulykken, som har ramt os<note>Dvs. nyheden om Williams
+                        (egl. Frederik Gutzon Bang, 1859-1903) død i USA</note>. Det er vel det
+                    tungeste, der er sket paa længe. Men næsten tungere bliver det, fordi Nini og
+                    jeg ikke ret kan blive enige om, hvad der skal gøres. Jeg mener jo, vi kan ikke
+                    lade dem sidde derovre og sulte i Amerika.</p>
+                <p>Jeg vil saa gerne sé dig et Par Dage her. To Dage har jeg dog altid Raad
+                        til<note>Dvs. råd til at betale for Bertha Holsts ophold på Hotel Marienlyst
+                        ved Helsingør</note>. Hvis du vil skrive til mig, naar du kunde komme.</p>
+                <p>Paa Gensyn, min egen Bertha.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

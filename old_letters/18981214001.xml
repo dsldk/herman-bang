@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18981214001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 234</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1898-12-14" notBefore="9999-99-99" notAfter="9999-99-99">[1898. 14. december. ] Onsdag Aften<note>Både Bangs håndskrift og
+                  hans engagement på Folketeatret peger i retning af en datering omkring årsskiftet
+                  1898/99</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Onsdag Aften.</p>
+                <p>Kære Nansen.</p>
+                <p>Jo – jeg skal i Forening med <persName key="Falkenfleth, Haagen">Haagen</persName>
+                    <note>Haagen Falkenfleth (1875-1957), fra 1898 journalist og teaterkritiker ved Nationaltidende, forud herfor uddannet til skuespiller</note> arbejde for din Berømmelse<note>Peter Nansens
+                  skuespil <title key="Judiths Ægteskab">Judiths Ægteskab</title> blev opført 15.12.1898 som en privatforestilling på
+                  Folketeatret, jf. note til brevet 18981103. Antagelig har Nansen gerne set stykket
+                  omtalt i Nationaltidende, hvor Haagen Falkenfleth siden 14.5.1898 var
+                  journalistisk medarbejder. Anmeldelsen i Nationaltidende, 16.12.1898, er signeret
+                  A.F. [Adolf Falkman (1837-1903), der siden 1876 var journalist ved Nationaltidende]</note>.</p>
+                <p>Vil du ikke sende <persName key="Brandes, Edvard">"<title key="Smaa Skuespil">Smaa Skuespil</title>"</persName>
+                    <note>Edvard Brandes: Smaa Skuespil. Gyldendal 1898</note> og <persName key="Jacobsen, J.P.">I.P. Jakobsen</persName>s "<title key="Samlede Skrifter">Samlede Skrifter</title>"<note>Bind 1-2,
+                  Tredje udgave, Gyldendal 1899, men rimeligvis udkommet op til julehandlen i
+                  december 1898. Forfatteren J.P. Jacobsens (1847-85) forbogstaver (for Jens Peter) bliver traditionelt udtalt, som Bang staver dem</note> op paa Folketeatret?</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19111108002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 935</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Nini Holst (Bangs søster)</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider, skrevet på fortrykt brevpapir:
+                                                  <q>Grand Hotel – Grand Hotel Royal / Stockholm den
+                                                  ...... 191..</q></ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1911-11-08">[1911, 8. november] Onsdag <note>Der er lidt
+                        usikkerhed om rækkefølgen af svenske byer. Bang kan have taget fejl af
+                        ugedagen, så derfor bør hans breve fra denne sidste turné i Sverige nøje
+                        efterprøves ... !</note>
+                </date>
+                <placeName cert="high">Stockholm</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">[Stockholm den ...] Onsdag</p>
+                <p>Min kære Nini.</p>
+                <p>Igaar Oplæsning i Upsala.</p>
+                <p>Idag: Fridag ↄ:</p>
+                <p>Kl. 9.06 Afrejse fra Upsala.</p>
+                <p>Kl. 10.10 Ankomst til Stockholm</p>
+                <p>Kl. 12½ Frokost hos en svensk Digter.</p>
+                <p>Kl. 2 Visit hos Fru Caroline Bjørnson<note>Karoline Bjørnson (1835-1934), enke
+                        efter den norske forfatter Bjørnstjerne Bjørnson</note>.</p>
+                <p>Kl. 4 Fife-o-clock<note>Bang mener: five-o'clock tea</note> for Baron
+                        Ugglas<note>... ??? ...</note></p>
+                <p>Kl. 6 Diner hos den norske Gesandt.</p>
+                <p>Kl. 7½ Maria Stuart<note>Tragedie af Friedrich Schiller</note> paa det kongelige
+                    Teater (Førsteforestilling)</p>
+                <p>Aa ‒ du milde Himmel.</p>
+                <p>Jeg skal blive i Sverigs Byer til den 11 November. Da gaaer Vejen til Finland.
+                    Sandsynligvis kommer jeg til at tilbringe Julen i Odessa eller paa Krim ‒ ‒</p>
+                <p>Frøken Thune<note>Magdalene Thune (1872-1957), Bangs husholderske, der fulgte med
+                        ham på rejsen til og med Finland</note> er undertiden en Smule overvældet.
+                    Men hendes Appetit hjælper hende. Hun spiser mer end to Mandfolk. Hun siger, det
+                    maa være »Luften«.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

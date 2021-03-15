@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18860915001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Rigsarkivet</repository>
+                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+                                    blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Niels Neergaard</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1886-09-15">[1886, cirka 15. september, onsdag] <note>Brevet
+                        skal dateres i forhold til Bangs artikel i <emph>Tilskueren</emph>, oktober
+                        1886. Udgiverens dateringsforslag er skønsmæssigt ansat. ‒ Niels Neergaard
+                        (1854-1936) var 1884-1892 redaktør af tidsskriftet
+                        <emph>Tilskueren</emph></note>
+                </date>
+                <placeName cert="high">Prag</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Prag.</p>
+                <p rend="right"><emph>Weinberge</emph></p>
+                <p rend="right">Balbingasse 192.</p>
+                <p>Kære Neergaard.</p>
+                <p><emph>Naar</emph> kommer »Meiningerne«?<note>Bangs store artikel »Sceniske
+                        Reform-Forsøg«, trykt i <emph>Tilskueren</emph>s oktoberhæfte 1886. Artiklen
+                        er genoptrykt i Knud Arne Jürgensen (red.): <emph>Dramaturgiske
+                            Pennetegninger</emph>, Syddansk Universitetsforlag 2007, s.
+                        149-162</note> Og kunde jeg faa en <emph>Korrektur</emph>?</p>
+                <p>Min store Novellesamling bliver synlig først i Oktober<note>Bangs novellesamling
+                            <emph>Stille Eksistenser</emph> udkom i København 27.10.1886</note>.</p>
+                <p rend="right">Venlig Hilsen</p>
+                <p rend="right">fra Deres hengivne</p>
+                <p rend="right">Herman de B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

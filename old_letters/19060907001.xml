@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19060907001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 565, 4to. Nr. 3</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1906-09-07" notBefore="9999-99-99" notAfter="9999-99-99">1906. 7. september.  [fredag]<note>empty</note>
+                </date>
+                <placeName cert="high">Randers</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Randers 7.9. 1906.</p>
+                <p>Min kære Ven.</p>
+                <p>Nej, den Idé gaar s'gu ikke. Alene af den Grund, at jeg først skal
+                  tiltræde<note>Antagelig som sceneinstruktør ved Casino</note> i November. Det var
+               min Betingelse. Thi "Fædrelandet"<note>Romanen <title key="De uden Fædreland –">De
+                     uden Fædreland –</title>, som udkom 4.12.1906 hos Gyldendal</note> skal og maa
+               jo gøres færdig – først og fremmest for Nansens Skyld<note>Dvs. forlaget
+                  Gyldendal</note>.</p>
+                <p>Og derfor sidder jeg nu her. Jeg har valgt dette Hul, fordi jeg her ikke kender et
+               eneste Menneske. ...</p>
+                <p>Naar jeg sendte Dem "Inez"<note>
+                        <title key="Inez fra Coimbra">Inez fra
+                     Coimbra</title>, skuespil af <persName key="Larsen, Karl">Karl
+                     Larsen</persName>. Dansk skønlitterært Forfatterleksikon bd. 2, 1960, s.187:
+                  "Forelå i korrektur som manus. til scenebrug. Udkom ikke. Antaget af Det kgl.
+                  Teater. Première på Det ny Teater 12. okt. 1908 m. musik arrang. af A.
+                  Eggers."</note>, var det, fordi der var noget i Rollen, som jeg synes passede Dem.
+               Men maaske synes De, at det Hele er noget Bras og afskyeligt .....</p>
+                <p>
+                    <persName key="Knudsen, Johan">Johan</persName>
+                    <note>Godsejer Johan Knudsen (1865-1942), Bangsbo ved Frederikshavn</note> har jo været ved at dø. Livet og Døden er saagu' lige
+               besynderlige. Og rapt kan den ene naa os og gøre Kaal paa den anden.</p>
+                <p>Himlen véd, naar De skal begynde at optræde?</p>
+                <p>Kunde De ikke skrive det til mig – og saa om "Inez".</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

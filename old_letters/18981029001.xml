@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">18981029001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Datoen »29/10 98« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1898-10-29">[1898, 29. oktober] Lørdag <note>Datering: Bangs
+                        angivelse af ugedag i kombination med brevets sekundært anførte
+                        datering</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Lørdag.</p>
+                <p>Kære H.</p>
+                <p>Igen ‒ ‒</p>
+                <p>Jeg har været syg og har maattet ligge til Sengs den Tid, jeg ikke er paa
+                        Teatret<note>Siden november 1897 var Bnag ansat som sceneinstruktør ved
+                        Folketeatret</note>. Dog er »die Gnädige«<note>Med denne tilsyneladende
+                        ufuldførte sætning sigter Bang til »En Fortælling om Elskov«, som han endnu
+                        manglede at skrive; den er trykt i <emph>Liv og Død</emph>, der udkom
+                        13.5.1899</note>.</p>
+                <p>Kan De ikke give mig Ugepengene, saa giv Bud'et saa meget, at Huset kommer over
+                    det til Mandag.</p>
+                <p>Jeg skulde vel have anden Korrektur paa det sidste af »Det hvide Hus«?<note>Bangs
+                        roman Det hvide Hus udkom 26.11.1898 på Det Schubotheske Forlag</note> Nu er
+                    det en <emph>Uge</emph> siden jeg sendte Korr. afsted<note>Se Bangs brev til
+                        Hirschsprung, dateret »Lørdag«, dvs. 22.10.1898</note>.</p>
+                <p>Og »Ved Vejen«!!!<note>Bang efterlyser svar på det spørgsmål, han stillede i sit
+                        brev til Hirschsprung fra den foregående lørdag, 22.10.1898: hvilken dato
+                        har Det Schubotheske Forlag besluttet at udgive andenudgaven af <emph>Ved
+                            Vejen</emph>?</note></p>
+                <p>Paa Tirsdag har vi den første Novb: Gud være lovet, at det ikke er min Skyld. Det
+                    er da min eneste Beroligelse. Jeg vilde føle det saa tungt overfor Dem.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

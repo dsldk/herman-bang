@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18970300001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1897-03-01" notBefore="9999-99-99" notAfter="9999-99-99">[1897.  marts. ]<note>Betty Nansen spillede Adrienne i franskmændene
+                     <persName key="Meilhac, Henri">Henri Meilhac</persName> og <persName key="Halévy, Ludovic">Ludovic Halévy</persName>s lystspil Efteraarssol, som på
+                  Det Kongelige Teater blev spillet ti gange mellem 24.3. og 4.5.1897. Brevet er
+                  således fra marts eller april 1897</note>
+                </date>
+                <placeName cert="low">[København?]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Kære Kunstnerinde.</p>
+                <p>Det kan jeg ikke, da jeg maa og skal være hos <persName key="Sørensen, Carl Th.">Kaptajn Sørensen</persName> – "den anden slesvigske Krig"<note>Den militærhistoriske forfatter, kaptajn Carl Th. Sørensen (1824-1914) havde skrevet
+                  et trebindsværk med denne titel, udgivet i København 1883. Bangs relation til Carl Th. Sørensen kan
+                  tænkes at have sammenhæng med det nationale forsvarsspørgsmål og Københavns
+                  befæstning</note> – til militær Konference Kl. 4.</p>
+                <p>Men for dog at se Dem traver jeg saá ind til "<title key="Efteraarssol">Efteraarssolen</title>"<note>På Det Kongelige Teater, jf. Bemærkninger</note>
+               –</p>
+                <p>Hils <persName key="Nansen, Peter">Peter</persName>.</p>
+                <p rend="right">Deres Ven</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

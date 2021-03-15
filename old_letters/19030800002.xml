@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19030800002</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 2353, folio. Blyantsnummer 980</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Oluf Heise</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 1 side</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="low" when="1903-08-01">1903, sommer (august?) Onsdag <note>Bangs roman
+                            <emph>Ludvigsbakke</emph> udkom 13.11.1903 i 2. udgave hos Det
+                        Schubotheske Forlag (ved J.L. Lybecker og E. Aage Hirschsprung). Siden
+                        november 1902 havde Bang formelt hørt forlagsmæssigt hjemme hos Gyldendal. I
+                        1903 opholdt Bang sig på Marienlyst Badehotel fra maj til august</note>
+                </date>
+                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Marienlyst. Onsdag.</p>
+                <p>Da jeg jo intetsomhelst har med det Schubotheske Forlag at gøre, beder jeg Dem
+                    venligst tilstille »Schubothe« disse Korrekturark<note>Efter al sandsynlighed
+                        korrektur på 2. udgave af Ludvigsbakke, udgivet hos Schubothe 13.11.1903. Se
+                        også Bangs brev til Peter Nansen, dateret »Søndag« [cirka august
+                        1903]</note> og samtidig meddele det meget ærede Forlag, at min Adresse er:
+                    Marienlyst pr. Helsingør. Jeg skal læse Korrekturerne saa hurtigt som det blot
+                    ønskes.</p>
+                <p rend="right">Deres forbundne</p>
+                <p rend="right">Herman Bang.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19060120001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 393</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 3 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1906-01-20" notBefore="9999-99-99" notAfter="9999-99-99">1906. 20. januar.  [lørdag]<note>Lykønskning på Peter Nansens
+                  45-års fødselsdag</note>
+                </date>
+                <placeName cert="high">[København]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">20.1.1906</p>
+                <p>Kære Ven.</p>
+                <p>Jeg kan ikke komme ud af det i denne Maaned:</p>
+                <p>
+                    <persName key="Nissen, Karl">Karl Nissen</persName>
+                    <note>Den norske pianist Karl Nissen (1879-1920), søn af den norske pianist og klaverpædagog <persName key="Nissen, Erika">Erika
+                  Nissen</persName> (1845-1903), født Lie, og den norske læge Oscar Nissen</note>.</p>
+                <p>Svenskere.</p>
+                <p>
+                    <persName key="Duse, Eleonora">Duse</persName>
+                    <note>Den italienske primadonnaskuespillerinde Eleonora Duse (1858-1924), som i januar 1906 gæstespillede på Folketeatret i København, dog med en
+                  afbrydelse 29. januar i anledning af kong <persName key="Christian 9.">Christian
+                     9.</persName>s død</note>.</p>
+                <p>Og sidstnævnte Kone skal jeg, efter Ønske, afhente i <placeName key="Warnemünde">Warnemünde</placeName>
+                    <note>Nordtysk havneby nord for Rostock; færgeforbindelse med Gedser</note>!</p>
+                <p>Jeg maa derfor bede dig tilstaa mig idag Resten (150 Kr:) af min Januargage.</p>
+                <p>Det er nydeligt at gøre dig den Slags Uro paa din Fødselsdag......</p>
+                <p>Endnu en Gang:</p>
+                <p>Et lykkeligt Aar – saa rigt, saa godt, saa sollyst som du fortjener det.</p>
+                <p rend="right">Din</p>
+                <p rend="right">Herman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">19030604001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 57</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1903-06-04" notBefore="9999-99-99" notAfter="9999-99-99">[1903. 4. juni], Torsdag<note>empty</note>
+                </date>
+                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Marienlyst. Torsdag.</p>
+                <p>Kære Ven.</p>
+                <p>Jeg har til iforgaars troet, du var i Norge.</p>
+                <p>Idag har jeg taget det store Tag i "<title key="Mikaël">Mikaël</title>". Begyndt helt
+               forfra. Men nu bliver jeg ved, til jeg ligger der.</p>
+                <p>Marienlyst har over mig vist sin gamle Magt. Der er dog kun fire Steder paa Jorden,
+               som jeg elsker: <placeName key="Prag">Prag</placeName>, <placeName key="Bangsbo">Bangsbo</placeName>
+                    <note>Herregård ved Frederikshavn i Nordjylland, 1891-1909 ejet af vennen Johan Knudsen</note>, <placeName key="Paris">Paris</placeName> og Marienlyst.</p>
+                <p>Gud være lovet for "<title key="Monna Vanna">Monna Vanna</title>s" Sejr<note>Monna
+                  Vanna, skuespil af den belgiske dramatiker <persName key="Maeterlinck, Maurice">Maurice
+                     Maeterlinck</persName> (1862-1949). På Dagmarteatret blev det opført tyve gange mellem
+                  21.5. og 18.12.1903. I et andet regi spillede <persName key="Nansen, Betty">Betty
+                     Nansen</persName> titelrollen i dette stykke under sit gæstespil 2.-15.6.1903
+                  på Nationaltheatret, <placeName key="Kristiania">Kristiania</placeName> (Oslo), og det er
+                  formentlig premieren i Kristiania, som Bang hentyder til</note>.</p>
+                <p>Der var en Mand, som sagde, at <persName key="Poulsen, Adam">Adam Poulsen</persName>
+               var saa ked af den Artikel, jeg skrev til "Aftenposten"<note>Skuespilleren Adam Poulsen (1879-1969) var del af
+                  Betty Nansens trup under gæstespillet 2.-15.6.1903 på Nationaltheatret,
+                  Kristiania (Oslo). Bang skrev en foromtale, "Betty Nansen aabner sit Theater", i den
+                  norske avis Aftenposten, 30.5.1903. Her præsenteres de danske skuespillere – og
+                  Adam Poulsen som gæstespillets førsteelsker. "Sjelden gav Naturen sine Yndlinge
+                  saa rige Betingelser, som blev Adam Poulsen givet. Et skjønt Menneskelegeme, et
+                  Ansigt af ren og stolt Race, en Stemme fuld af ung Vellyd. Saaledes udrustet rent
+                  fysisk modtog Hr. Poulsen i et Hjem, hvis Hoved var Danmarks første Skuespiller,
+                  fra sine tidligste Aar alle Indtryk af en fornem og rodfæstet Kultur. Han dannedes
+                  ifølge sin Oprindelse ikke blot tidlig som Menneske. Han udvikledes i sine
+                  Forældres Hus tillige ubevidst som Kunstner; og han tilegnede sig fra sin
+                  Optrædens første Dag hele den Sprogets fuldkomne Klarhed, al den Fremstillingens
+                  Harmoni, som var det skjønne Særpræg for hans Fader. / Han har desuden allerede
+                  givet Vidnesbyrd om større Temperamentets Styrke end Emil Poulsen [skuespiller (1842-1911), far til Adam Poulsen], hvis Kjølighed
+                  satte ham Grænser, som oftest aabenbarede. Hans Spil, f.Ex. i "<title key="Varulven">Varulven</title>" [skuespil af <persName key="Holm, Viggo Valdemar">Viggo V. Holm</persName>], gav store Løfter om, hvad
+                  han som Prinzivalli [den mandlige hovedrolle i Monna Vanna] vil yde. [...]
+                  Fremstillet af Betty Nansen og Adam Poulsen maa 2den Akt af "Monna Vanna" komme
+                  Idealet nær. Her vil Ungdom mødes med Ungdom og Flamme med Flamme. Renæssancens
+                  Glød, som Maeterlinck har gjenskabt, vil kunne lyse for vore Øine under dette
+                  Elskovsmøde."</note>. Det kan da umuligt være sandt. Jeg skrev som jeg troede
+               bedst.</p>
+                <p rend="right">Din</p>
+                <p rend="right">H.B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

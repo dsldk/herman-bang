@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19000807001</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Aage Hirschsprung</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Dateringen »8/8 1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1900-08-07">[1900, 7. august] Tirsdag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+                </date>
+                <placeName cert="high">Hørsholm</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">Hørsholm. Tirsdag.</p>
+                <p>Kære Hirschsprung.</p>
+                <p>Tak for Pengene.</p>
+                <p>Ikke véd jeg, hvad det skal blive til. Lægen forbød mig simpelthen at tage til
+                        Byen<note>Se også Bangs brev til Aage Hirschsprung, 3.8.1900. Lægen var
+                        Frederik Funch (1870-1940), praktiserende læge i Hørsholm; han sendte Det
+                        Schubotheske Forlag sin regning på 52 kroner for behandling af Herman Bang i
+                        tidsrummet 7.7.-14.8.1900 (regningen er bevaret i Det Kongelige Bibliotek,
+                        Gyldendals Arkiv)</note>.</p>
+                <p>Gulmann<note>Christian Gulmann (1869-1934), journalist, redaktør af
+                            <emph>Illustreret Tidende</emph> 1900-1903</note> har spurgt mig, om De
+                    ikke vilde have en Oversættelse af Constants<note>Benjamin Constant (1767-1830),
+                        fransk forfatter og liberal politiker, født i Schweiz. Hans roman
+                            <emph>Adolphe</emph> udkom i Paris 1816</note> Adolphe i Deres
+                        Bibliotek<note>Det Schubotheske Forlag udgav i årene 1895-1902 i alt 11
+                        illustrerede bind i serien <emph>Schubotheske Miniatur-Bibliotek</emph>.
+                        Alle var skrevet af danske forfattere, og forlaget udgav ikke Constants
+                            <emph>Adolphe</emph> (der i 1826 første gang kom i en dansk
+                        oversættelse)</note>. Jeg synes, at Idéen er udmærket. Brandes<note>Georg
+                        Brandes (1842-1927), litteraturkritiker og forfatter, dr.phil</note> taler
+                    jo ogsaa vidt og bredt om den Bog i sine »Strømninger«<note>I
+                            <emph>Emigrantlitteraturen</emph> fra 1872, det første bind af Georg
+                        Brandes' <emph>Hovedstrømninger i det 19de Aarhundredes Literatur</emph>,
+                        findes en udførlig karakteristik af Constants roman
+                        <emph>Adolphe</emph></note>. Og nu skal Gulmann være Redaktør af
+                    »Illustreret Tidende«, som kan gøre Forlaget mange Tjenester.</p>
+                <p>Vil De svare mig med et Par Ord.</p>
+                <p rend="right">Deres hengivne</p>
+                <p rend="right">H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

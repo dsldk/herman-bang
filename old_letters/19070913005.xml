@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2019</date>
+                <idno type="hbb">19070913005</idno>
+
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4685, 4to; uden blyantsnummer</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName
+                                        role="recipient">Christian Houmark</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="postkort">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Postkort af italiensk herkomst; billedsiden viser en
+                                                tegning af en flok får i en robåd med et fladt
+                                                landskab bag sig, og med den trykte tekst: <emph>Ave
+                                                  Maria a trasbordo (G. Segantini)</emph>. Kortet er
+                                                frankeret med to 5 Pfennigs-frimærker og
+                                                poststemplet: <emph>Berlin W. 13.9.07.4-5N</emph>.
+                                                Adressefeltet er udfyldt i Bangs håndskrift:
+                                                  <emph>Hr. Christian Houmark. / Hotel Kongen af
+                                                  Danmark / Kopenhagen. / K.</emph>
+                                            </ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>Med blyant og i fremmed hånd (måske Houmark?) er skrevet:
+                                            <emph>Efter / Vinter / Johs.V.</emph> samt et svært
+                                        læseligt navn. Er måske en hentydning til den tredje del af
+                                        romanen Kongens Fald ?</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1907-09-13">1907, 13. September [fredag] <note>Dateres efter
+                        poststemplet</note>
+                </date>
+                <placeName cert="high">Berlin</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p>Min kære Houmark.</p>
+                <p>Min Adresse er nu:</p>
+                <p>Fasanenstrasse 58. <emph>Berlin. 15.</emph></p>
+                <p rend="right">Hilsener H. B.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Bangs Breve</title>
+                <author>Herman Bang</author>
+                <editor>gp</editor>
+                <funder>Carlsbergfondet</funder>
+                <funder>Augustinus Fonden</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Danske Sprog- og Litteraturselskab</publisher>
+                <pubPlace>København</pubPlace>
+                <date>2015</date>
+                <idno type="hbb">18850720001</idno>
+                <idno type="isbn">nil</idno>
+                <availability status="restricted">
+                    <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="A">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>København</settlement>
+                                <repository>Det Kongelige Bibliotek</repository>
+                                <idno>NKS 4043, 4to. Nr. 295</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <summary>
+                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
+                                </summary>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="brev">
+                                    <supportDesc material="empty">
+                                        <support>
+                                            <ab>Brev, 2 sider. Brevpapir: slyngmonogram HJB (uden krone)</ab>
+                                        </support>
+                                    </supportDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote scribe="herman-bang">
+                                        <ab>Herman Bang</ab>
+                                    </handNote>
+                                </handDesc>
+                                <additions>
+                                    <ab>empty</ab>
+                                </additions>
+                            </physDesc>
+                            <history>
+                                <ab>empty</ab>
+                            </history>
+                            <additional>
+                                <listBibl>
+                                    <bibl>empty</bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <ab>Bangs Breve 2014</ab>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date cert="high" when="1885-07-20" notBefore="9999-99-99" notAfter="9999-99-99">1885. 20. juli [mandag]<note>empty</note>
+                </date>
+                <placeName cert="high">[Marienlyst, ved Helsingør]</placeName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="da">
+                <p rend="right">d. 20.7.85.</p>
+                <p>Kære Don.</p>
+                <p>Jeg kommer Tirsdag med det Tog, du benyttede sist.</p>
+                <p>Jeg har idag set en Mand, der ved Hjælp af nogle Kæmpeslanger, med stort Besvær
+                        vandede vore Plæner – mens det øsregnede.</p>
+                <p>Tak for sist.</p>
+                <p rend="right">Din Herman.</p>
+                <p>
+                    <emph>Verte.</emph>
+                    <note>lat.: Vend (dvs.: se på brevpapirets bagside)</note>
+                </p>
+                <p>Direktør <persName key="Abrahams, Severin">Abrahams</persName>
+                    <note>Folketeatrets direktør Severin Abrahams (1843-1900), som jævnligt kæmpede med store økonomiske problemer i sin teaterdrift</note>, hvis Tilstand langtfra er tilfredsstillende, har
+               taget Ophold paa <placeName key="Sletten">Sletten</placeName>
+                    <note>Et fiskerleje og badested ved Øresundskysten, syd for Helsingør</note> ved Helsingør.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
