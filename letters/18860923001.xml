@@ -1,102 +1,115 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860923001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 423</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-09-23">[1886, ca. 23. september] Torsdag<note>Dateret i
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860923001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 423</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1886-09-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-09-23">[1886, ca. 23. september] Torsdag<note>Dateret i
                         forhold til de samtidige to breve til Peter Nansen, forsøgsvis dateret til
                         ca. 17.9. og ca. 24.9.1886</note>
-                </date>
-                <placeName cert="high">[Prag]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Prag Torsdag.</p>
-                <p>Kære Julius.</p>
-                <p>Forgæves har jeg ventet paa et Par Ord, der <emph>altid</emph> vilde gøre mig
-                    godt, selv om det <emph>ikke</emph> er Komplimenter: Ogsaa hvert
-                        <emph>Raad</emph>, ja, hvert <emph>Ord</emph> er mig kært. Undertiden er
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Torsdag.</p>
+            <p>Kære Julius.</p>
+            <p>Forgæves har jeg ventet paa et Par Ord, der <hi rend="italics">altid</hi> vilde gøre mig
+                    godt, selv om det <hi rend="italics">ikke</hi> er Komplimenter: Ogsaa hvert
+                        <hi rend="italics">Raad</hi>, ja, hvert <hi rend="italics">Ord</hi> er mig kært. Undertiden er
                     Ensomheden med et saadant Værk næsten som over Menneskeevne.</p>
-                <p>Min Psykologi er taalmodig ‒ sanker langsomt Træk for Træk; sé f:Ex:, hvordan den
+            <p>Min Psykologi er taalmodig ‒ sanker langsomt Træk for Træk; sé f:Ex:, hvordan den
                     unge Adolf bygges op. Men nu maa I dog snart kunne dømme om, hvorvidt I synes,
-                    at det er Mennesker der <emph>lever</emph>, og ikke Figurer, som agerer ‒ i
-                    denne Bog<note>Dvs. i Stille Eksistenser, hvis sidste manuskriptdele på dette
-                        brevs tilblivelsestidspunkt befinder sig til privat bedømmelse hos vennerne
-                        Vilhelm Møller, Peter Nansen og Schiøtt</note></p>
-                <p>Hils hjemme.</p>
-                <p rend="right">Din Herman.</p>
-
-            </div>
-        </body>
-    </text>
+                    at det er Mennesker der <hi rend="italics">lever</hi>, og ikke Figurer, som agerer ‒ i
+                    denne Bog<ref target="n1"/>
+            </p>
+            <p>Hils hjemme.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

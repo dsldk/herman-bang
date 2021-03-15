@@ -1,137 +1,162 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19020203001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19020203001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
                                 Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 237</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1902-02-03" notBefore="9999-99-99" notAfter="9999-99-99">[1902. 3. februar. ] Mandag<note>Brevet er skrevet efter søndag 2.2.1902, da Bangs artikel om Georg
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 237</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-02-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1902-02-03"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1902. 3. februar. ] Mandag<note>Brevet er skrevet efter søndag 2.2.1902, da Bangs artikel om Georg
                 Brandes blev bragt i Illustreret Tidende</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Kære Nansen.</p>
-                <p>Du modtager dette gennem <persName key="Heise, Oluf">Heise</persName>
-                    <note>Overretssagfører Oluf Heise (1862-1935), København</note>, fordi
-                        det er et Løfte, at <emph>alt</emph> maa gaa gennem ham. Helst vilde jeg
-                        komme for at tale med dig. Men <persName key="Hirschsprung, Aage">Hirschsprung</persName>
-                    <note>Aage Hirschsprung (Einar Aage Hirschsprung) (1869-1909), forlægger. Han var 1893-1908 sammen med J.L. Lybecker (1862-1923) direktør for J.H. Schubothes Boghandel og Det Schubotheske Forlag, derefter meddirektør i Gyldendal</note> har nu i Løbet af et Aar tre Gange gjort mig dødssyg
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Nansen.</p>
+            <p>Du modtager dette gennem <persName key="Heise_Oluf">Heise</persName>
+               <ref target="n1"/>, fordi
+                        det er et Løfte, at <hi rend="italics">alt</hi> maa gaa gennem ham. Helst vilde jeg
+                        komme for at tale med dig. Men <persName key="Hirschsprung_Aage">Hirschsprung</persName>
+               <ref target="n2"/> har nu i Løbet af et Aar tre Gange gjort mig dødssyg
                         – og i en Samtale vilde alt det komme op, som berører Hirschsprung, alt det,
-                        hvorpaa min Læge endogsaa forbyder mig at <emph>tænke</emph>.</p>
-                <p>Jeg modtog i Lørdags Aftes en Opgørelse fra Gyldendalske Boghandel, hvorefter jeg
+                        hvorpaa min Læge endogsaa forbyder mig at <hi rend="italics">tænke</hi>.</p>
+            <p>Jeg modtog i Lørdags Aftes en Opgørelse fra Gyldendalske Boghandel, hvorefter jeg
                         skylder 1200 Kr: Man vil vanskelig finde en tristere Illustration af
                         Forholdet mellem mig – og den Forlægger, jeg endnu ikke har gavnet for en
                         dansk Skilling. Jeg føler dybt det saare ydmygende i min Stilling, som jo
                         ikke kan forandres, før Hr. Hirschsprung har sagt sit sidste Ord –
-                                <emph>jeg</emph> har intet mere at sige – og vi ved, hvad Hr. Heise
-               jo haaber, om idetmindste "<title key="Det graa Hus">Det graa Hus</title>", "<title key="Det hvide Hus">Det hvide Hus</title>" og "<title key="Liv og Død">Liv og Død</title>"
+                                <hi rend="italics">jeg</hi> har intet mere at sige – og vi ved, hvad Hr. Heise
+               jo haaber, om idetmindste "<!--start title reference--><title key="Det_graa_Hus">Det graa Hus</title>
+               <!--end title reference-->", "<!--start title reference--><title key="Det_hvide_Hus">Det hvide Hus</title>
+               <!--end title reference-->" og "<!--start title reference--><title key="Liv_og_Død">Liv og Død</title>
+               <!--end title reference-->"
                         kan reddes over paa "Det Gyldendalske Forlag". Af disse Bøger er jo
                         idetmindste "Det hvide Hus" blevet en Publikumsbog – Publikum har næsten
                         altid saa fin en Smag – og vil sikkert gaa godt i nogle Aar.</p>
-                <p>Men vi véd jo intet og Hirschsprung skynder sig ikke med at lade os noget
+            <p>Men vi véd jo intet og Hirschsprung skynder sig ikke med at lade os noget
                         vide.</p>
-                <p>Dobbelt ydmygende bliver min Stilling, fordi jeg idag maa bede om et fornyet
+            <p>Dobbelt ydmygende bliver min Stilling, fordi jeg idag maa bede om et fornyet
                         "Forskud". Jeg har opsat dette til idag, fordi jeg haabede at faa mere
                         Manuskript færdigt – et Manuskript, som jeg har dikteret trods min Sygdom og
                         Træthed for idetmindste at vise min gode Vilje til ikke at tage nogen
                         Skilling uden at arbejde derfor. Men nu tør jeg ikke sende dig det før en ny
                         Gennemlæsning og at gennemlæse, hvad jeg har skrevet, volder mig altid en
                         urimelig Angst. Alligevel maa jeg bede om dette Forskud – trehundrede Kroner
-                        x) – <emph>idag</emph>, da det er den <emph>yderste</emph> Frist og uendelig
+                        x) – <hi rend="italics">idag</hi>, da det er den <hi rend="italics">yderste</hi> Frist og uendelig
                         nødvendigt .... Forlaget behøver ikke at tro, at dette skal blive ved. I de
                         næste tre Maaneder lever jeg af Oplæsninger alt, mens jeg skriver. Men disse
-                        trehundrede er mig nødvendige og <emph>nu</emph> for at formindske mine
+                        trehundrede er mig nødvendige og <hi rend="italics">nu</hi> for at formindske mine
                         Udgifter for lang Fremtid.</p>
-                <p>Dig beder jeg oprigtigt tilgive, at jeg saaledes falder dig til Byrde med Ting,
+            <p>Dig beder jeg oprigtigt tilgive, at jeg saaledes falder dig til Byrde med Ting,
                         der maa være dig vanskelige eller rentud pinagtige.</p>
-                <p>Min næste <emph>Roman</emph>, som jeg maa skrive i Sommer, skal hedde
-               "<emph>
-                        <title key="Mikaël">Mikaël</title>
-                    </emph>" og er i min Hjerne færdig. Men gerne vilde jeg
-               først skrive en Fortælling "<title key="Ravnene">Ravnene</title>", som i Bogform kunde gaa ud sammen med
-               "<title key="Julegaver">Julegaver</title>". Men hvordan blive færdig, naar jeg i de næste tre Maaneder har
+            <p>Min næste <hi rend="italics">Roman</hi>, som jeg maa skrive i Sommer, skal hedde
+               "<hi rend="italics"><!--start title reference-->
+                  <title key="Mikaël">Mikaël</title>
+                  <!--end title reference-->
+               </hi>" og er i min Hjerne færdig. Men gerne vilde jeg
+               først skrive en Fortælling "<!--start title reference--><title key="Ravnene">Ravnene</title>
+               <!--end title reference-->", som i Bogform kunde gaa ud sammen med
+               "<!--start title reference--><title key="Julegaver">Julegaver</title>
+               <!--end title reference-->". Men hvordan blive færdig, naar jeg i de næste tre Maaneder har
                         fem og tyve Oplæsninger?</p>
-                <p>Vil du ikke sige mig to Ord om min Artikel<note>"Georg Brandes", Illustreret
-                                Tidende, 2.2.1902, i anledning af Brandes' 60-årsdag 4.2.1902</note> om <persName key="Brandes, Georg">Georg
+            <p>Vil du ikke sige mig to Ord om min Artikel<ref target="n3"/> om <persName key="Brandes_Georg">Georg
                                 Brandes</persName>, om du syntes, den var noget Pjadsk. Min Angst
                         stiger for hver Linje jeg skriver.</p>
-                <p rend="right">Din hengivne</p>
-                <p rend="right">Herman Bang.</p>
-                <p>Hvis det altsaa kan ske – hvad det <emph>maa</emph> – da send Pengene op til
+            <p rend="right">Din hengivne</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Hvis det altsaa kan ske – hvad det <hi rend="italics">maa</hi> – da send Pengene op til
                         Heise.</p>
-                <p>x) Jeg har regnet det ud, at jeg kan ikke nøjes med mindre.</p>
-            </div>
-        </body>
-    </text>
+            <p>x) Jeg har regnet det ud, at jeg kan ikke nøjes med mindre.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

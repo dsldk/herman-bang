@@ -1,124 +1,136 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860600003</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4508, 4to. Acc. 1963/50</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Det ark papir, som Bang har skrevet sit brev på, har han
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860600003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4508, 4to. Acc. 1963/50</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Det ark papir, som Bang har skrevet sit brev på, har han
                                         først kasseret fra sit arbejde med en skønlitterær tekst. På
                                         brevets bagside står følgende ufuldendte ord i hans
                                         håndskrift: »Marie van Gandt fik sin Lykkes Dag i Lys og
                                         Sol. Ungdom var Geni, Feil blev Fuldkommenheder. Tænker den,
                                         der gyser under Br«. Ordene er ikke overstreget</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-06-01">[1886. juni] Fredag<note>Per Dahls efterskrift i
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-06-01">[1886. juni] Fredag<note>Per Dahls efterskrift i
                         bd. 7, s.420, daterer også dette brev til juni 1886 (med et enkelt ords
                         fejllæsning)</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Fredag.</p>
-                <p>Kære Jules.</p>
-                <p>Hermed Forordet<note>Dvs. Bangs manuskript til »Et Par Ord«, der indleder hans
-                        novellesamling Stille Eksistenser</note>. Du vil læse det om »Fyrste-Kasten«
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Jules.</p>
+            <p>Hermed Forordet<ref target="n1"/>. Du vil læse det om »Fyrste-Kasten«
                     med Forbauselse og maaske en Smule Beundring. Den fuldkomne Oprigtighed er altid
                     lidt beundringsværdig.</p>
-                <p>Dette er det tætteste Manuskript jeg endnu har afleveret og sikkert et Ark. Lad
+            <p>Dette er det tætteste Manuskript jeg endnu har afleveret og sikkert et Ark. Lad
                     Andreas S. sende mig Pengene ‒ de 30 Kr. ‒ efter Modtagelsen.</p>
-                <p>Dernæst tre Punkter: 1) »Ved Veien« bliver antagelig <emph>otte</emph> Ark. Skal
-                    da Andreas Schou for alle de nitten Ark, Bogen med <emph>Forord</emph> vilde
+            <p>Dernæst tre Punkter: 1) »Ved Veien« bliver antagelig <hi rend="italics">otte</hi> Ark. Skal
+                    da Andreas Schou for alle de nitten Ark, Bogen med <hi rend="italics">Forord</hi> vilde
                     blive, have 20 Kr. pr: Ark? Eller var det ikke rimeligere, om han efter det
-                    trykte tiende Ark kun beholdt <emph>10</emph> Kroner pr: Ark? Og jeg 40? Finder
+                    trykte tiende Ark kun beholdt <hi rend="italics">10</hi> Kroner pr: Ark? Og jeg 40? Finder
                     du dette ubilligt?</p>
-                <p>2) Sørg dernæst for, at jeg faar <emph>Aftryk</emph> af »Hendes Høihed«. Det er
+            <p>2) Sørg dernæst for, at jeg faar <hi rend="italics">Aftryk</hi> af »Hendes Høihed«. Det er
                     mig meget vigtigt vil du kunne forstaa. Schorer vil saa gerne have Oversættelsen
-                    for at have Tid til at <emph>illustrere</emph> den.</p>
-                <p>3) Indlagte Brev idag modtaget fra Andreasen. Du sér hans Trusler. Han vil have
-                    Anvisninger paa »Politiken«. Men <emph>baade</emph> Andel i Honorar hos Schou
-                        <emph>og</emph> hele Grøden fra »Politiken« ‒ en tarvelig Grød ‒ er det dog
+                    for at have Tid til at <hi rend="italics">illustrere</hi> den.</p>
+            <p>3) Indlagte Brev idag modtaget fra Andreasen. Du sér hans Trusler. Han vil have
+                    Anvisninger paa »Politiken«. Men <hi rend="italics">baade</hi> Andel i Honorar hos Schou
+                        <hi rend="italics">og</hi> hele Grøden fra »Politiken« ‒ en tarvelig Grød ‒ er det dog
                     umuligt at tilstaa. Gaa dog til ham, kære Julius, og vis ham Bog-Aftrykket, at
                     han tror os.</p>
-                <p>Og skriv mig om disse tre Ting et lille <emph>Brev</emph> og intet Brevkort.</p>
-                <p>Lad ‒ om Pengene for det siste Ark <emph>ikke</emph> er afsendt, dem blive slaaet
+            <p>Og skriv mig om disse tre Ting et lille <hi rend="italics">Brev</hi> og intet Brevkort.</p>
+            <p>Lad ‒ om Pengene for det siste Ark <hi rend="italics">ikke</hi> er afsendt, dem blive slaaet
                     sammen med disse for Forordet. Er de forrige sendt: afsend dog strax for
-                    Forordet. Ti jeg skriver i denne Tid <emph>kun</emph> paa min Bog og maa leve
+                    Forordet. Ti jeg skriver i denne Tid <hi rend="italics">kun</hi> paa min Bog og maa leve
                     deraf fra Dag til Dag.</p>
-                <p>Jeg haaber at faa »Fra Veien« færdig paa tre Uger for strax at tage fat paa
-                    »Bernhard Hoff«. Naar tænker Schou at sende »I Krogene«<note>Bangs arbejdstitel
-                        på novellesamlingen Stille Eksistenser</note> ud?</p>
-                <p>Hils Din Hustru saa mange Gange fra Din</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Jeg haaber at faa »Fra Veien« færdig paa tre Uger for strax at tage fat paa
+                    »Bernhard Hoff«. Naar tænker Schou at sende »I Krogene«<ref target="n2"/> ud?</p>
+            <p>Hils Din Hustru saa mange Gange fra Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

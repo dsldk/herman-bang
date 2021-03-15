@@ -1,110 +1,127 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18861128002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861128002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
                                 Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 114</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXIII</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-11-28" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 28. november,  søndag] <note>Vandreaar s. 246 placerer brevet mellem [cirka] 28.11. og 7.12. Det
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 114</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXIII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-11-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 28. november,  søndag] <note>Vandreaar s. 246 placerer brevet mellem [cirka] 28.11. og 7.12. Det
                 kan dateres lidt nøjere ud fra Bangs omtalte avisartikler. Ud fra brevets ordlyd har
                 Bang forventet teksten trykt i Politiken en tirsdag, straks ved brevets ankomst til
                 København</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag.</p>
-                <p>Kære Peter.</p>
-                <p>Hermed sender jeg dig en aktuel Artikel: <emph>"Tysklands
-                                Deficit"</emph>
-                    <note>Trykt i Politiken, lørdag 4.12.1886</note>,
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Kære Peter.</p>
+            <p>Hermed sender jeg dig en aktuel Artikel: <hi rend="italics">"Tysklands
+                                Deficit"</hi>
+               <ref target="n1"/>,
                         som saa liden den er, har kostet mig meget Arbeide. Kunde den ikke som
                         virkelig Aktualitet – men for Jer eksisterer ingen Aktualitet hinsides
                         Valbybakke; frygteligt vil Kanoner og sociale Storme vække Jer en skøn Dag –
                         gaa paa strax paa Tirsdag? Desuden som Pendant til "Deficit":
-                                <emph>"Rustning og Fæstning"</emph>
-                    <note>Trykt i Politiken
-                                6.12.1886, reelt en bearbejdet dansk oversættelse af en artikel i
-                                det tyske blad Echo</note>, et lille Tendensstykke af "Echo"; samt
+                                <hi rend="italics">"Rustning og Fæstning"</hi>
+               <ref target="n2"/>, et lille Tendensstykke af "Echo"; samt
                         Mosaik. Naar jeg arbeidede i en noget inderligere og mere organisk
                         Forbindelse med den ærede Redaktion, kunde jeg maaske paa et og andet Punkt
-                        endnu yde ret god Assistance – men det er for løst nu. Enfin<note>fr.:
-                                Jamen</note> – det er jo mig det samme. Jeg læser "Politiken" fra
+                        endnu yde ret god Assistance – men det er for løst nu. Enfin<ref target="n3"/> – det er jo mig det samme. Jeg læser "Politiken" fra
                         Hovedet til Halen og siger til mig selv, at det er en fortræffelig Avis og
                         ikke – mit Ideal af en Avis. Men, Herre, min Fader – hvor naar vi
                         Idealet.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

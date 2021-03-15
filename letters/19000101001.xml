@@ -1,116 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19000101001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1900-01-01">1900, 1. Januar [mandag] <note>empty</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Nytaarsdag 1900.</p>
-                <p>Kære Hirschsprung.</p>
-                <p>Et lykkeligt Aar for Dem, for Lybecker<note>J.L. Lybecker (1862-1923), der
-                        1893-1908 og i fællesskab med Aage Hirschsprung var direktør for J.H.
-                        Schubothes Boghandel og Det Schubotheske Forlag</note> og for Forlaget. Har
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000101001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-01-01">1900, 1. Januar [mandag] <note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nytaarsdag 1900.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Et lykkeligt Aar for Dem, for Lybecker<ref target="n1"/> og for Forlaget. Har
                     De i en Krog af Deres Sjæl et stille Ønske, saa gid det maatte blive opfyldt ‒
                     saa sjældent opfyldes dog de menneskelige Ønsker.</p>
-                <p>Vil De give Bud'et ét Eksemplar af »Det Hvide Hus«<note>Bangs roman var udkommet
-                        26.11.1898 på Det Schubotheske Forlag</note> samt Numret af »Vort <app>
-                        <lem>Land«</lem>
-                        <rdg>Bang har glemt at skrive det afsluttende anførselstegn</rdg>
-                    </app> med Juleaftenskapitlet<note>»Juleaften i »Det hvide Hus««, trykt i avisen
-                        Vort Land, 25.12.1898. Indgik med få ændringer i bogens 2. oplag, der udkom
-                        22.10.1901. Se også Romaner og noveller, bind 4, 2008, s. 407-412</note> og
+            <p>Vil De give Bud'et ét Eksemplar af »Det Hvide Hus«<ref target="n2"/> samt Numret af »Vort <app>
+                  <lem>Land«</lem>
+                  <rdg>Bang har glemt at skrive det afsluttende anførselstegn</rdg>
+               </app> med Juleaftenskapitlet<ref target="n3"/> og
                     de Digte, jeg bestemte skulde indføjes i Bogen. Som jeg, i sin Tid, syg rettede
-                    »Ved Vejen«<note>Bang sigter til den første bogudgave, der udkom 9.11.1898 på
-                        Det Schubotheske Forlag</note>, vil jeg nu begynde lidt Arbejde med at gøre
-                    »Huset« færdigt<note>Dvs. forberedelser til 2. oplag af Det hvide Hus, der udkom
-                        22.10.1901 på Det Schubotheske Forlag</note>. Saa er det gjort.</p>
-                <p>Frøken Sofie<note>Bangs husholderske og tjenestepige, som han sagde op med
-                        udgangen af december 1899; se også Bangs brev til Hirschsprung,
-                        29.12.1899</note> er rejst. Hun har gjort mig meget Ondt ‒ hvad der egenlig
+                    »Ved Vejen«<ref target="n4"/>, vil jeg nu begynde lidt Arbejde med at gøre
+                    »Huset« færdigt<ref target="n5"/>. Saa er det gjort.</p>
+            <p>Frøken Sofie<ref target="n6"/> er rejst. Hun har gjort mig meget Ondt ‒ hvad der egenlig
                     var overflødigt.</p>
-                <p>Mit Befindende er lidt bedre. Jeg maa nu atter se lidt Mennesker.</p>
-                <p>Kommer De snart?</p>
-                <p>Vil De give Bud'et de 50 Kr. De 50 fik jeg jo forleden til Frøken Sofie.</p>
-                <p>Jeg vil saa gerne vide, hvordan det er gaaet med Salget af mine Bøger.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Mit Befindende er lidt bedre. Jeg maa nu atter se lidt Mennesker.</p>
+            <p>Kommer De snart?</p>
+            <p>Vil De give Bud'et de 50 Kr. De 50 fik jeg jo forleden til Frøken Sofie.</p>
+            <p>Jeg vil saa gerne vide, hvordan det er gaaet med Salget af mine Bøger.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

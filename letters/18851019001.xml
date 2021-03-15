@@ -1,122 +1,133 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18851019001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 48</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1885-10-19" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 19. oktober], Mandag<note>I forhold til teaterstykket
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851019001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 48</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1885-10-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-10-19"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 19. oktober], Mandag<note>I forhold til teaterstykket
                   og den følgende notits i Politiken kan "Mandag" kun være 19.10.1885</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">
-                    <app>
-                        <lem>Mandag</lem>
-                        <rdg>Det første bogstav i ordet er øjensynligt rettet, men usikkert fra hvad</rdg>
-                    </app>.</p>
-                <p>Kære Don.</p>
-                <p>Nu maa Menter af Stabelen. <persName key="Lange, Ina">Ina Lange</persName>
-                    <note>Den finskfødte pianist og forfatter Ina Lange (1846-1930), født Forstén, gift 1876-98 med sangeren Algot Lange og fra 1885 bosat i København</note> maa sende
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <app>
+                  <lem>Mandag</lem>
+                  <rdg>Det første bogstav i ordet er øjensynligt rettet, men usikkert fra hvad</rdg>
+               </app>.</p>
+            <p>Kære Don.</p>
+            <p>Nu maa Menter af Stabelen. <persName key="Lange_Ina">Ina Lange</persName>
+               <ref target="n1"/> maa sende
                Jer en Artikel om hende. Mit Navn er i denne Sag odiøst.</p>
-                <p>Ser man dig aldrig. Det kneb for Maanen<note>Casino havde 18.10.1885 premiere på det franske lystspil
-                  <title key="En Tour til Maanen">En Tour til Maanen</title>, jf. brevet
-                  1885, 6.september</note> men enfin – det gik.</p>
-                <p rend="right">Herman.</p>
-                <p>
-                    <emph>verte.</emph>
-                    <note>lat.: Vend (dvs. se på papirets bagside)</note>
-                </p>
-                <p>(optages <emph>Torsdag</emph>.</p>
-                <p>
-                    <persName key="Liszt, Franz">
-                        <emph>Franz Liszt</emph>
-                    </persName> har efter at have feiret sin Fødselsdag<note>Den verdensberømte ungarske pianist og komponist Franz Liszt (1811-86) havde fødselsdag den
-                  22.10</note> hos <persName key="Menter, Sophie">Fru Menter</persName>
-                    <note>Den tyske pianist Sophie Menter (1846-1918), elev af Franz Liszt, bosat 1877 i Budapest og på slottet Itter i Tyrol, gift 1872-86 med den tjekkiske cellist David Popper</note> paa Slot Itter nu forladt Tyrol og er afreist til
-                  Pesth.<note>En notits af denne ordlyd ses ikke at være trykt i Politiken de efterfølgende dage</note>
-                </p>
-                <p>Fru <emph>Sofie Menter</emph> vil paa Reisen til <placeName key="Kristiania">Kristiania</placeName>
-                    <note>Oslo, Norge</note> hvile ud <emph>en</emph> Dag her i København.
-               Kunstnerinden tager Ophold i "Hotel Dagmar".<note>I rubrikken <q>Smæld og Smuld</q>,
-                  Politiken, fredag 23.10.1885: "Fru Sofie Menter kommer paa Gennemrejse hertil Byen
-                  paa Mandag. Kunstnerinden tager Ophold paa Hotel Dagmar." I samme rubrik er hendes
-                  "Koncert-Program i Provinserne" listet op (i resumé: <persName key="Beethoven, Ludwig van">Beethoven</persName>: Måneskinssonaten, <persName key="Bach, Johann Sebastian">Bach</persName>: Gavotte, <persName key="Mendelssohn-Bartholdy, Felix">Mendelssohn</persName>/Liszt: Bryllupsmarch
-                  og Alfedans, Liszt: koncertetude, <persName key="Chopin, Frédéric">Chopin</persName>: to etuder, Scherzo, Mazurka, Valse, Liszt: Rhapsodies).
-                  Turneens planlagte forløb gennem 12 byer i Danmark, Norge og Sverige fra 31.10.
-                  til 23.11.1885 var udførligt blevet meddelt i Politiken, 21.10.1885</note>
-                </p>
-                <p>En ad Gangen.</p>
-            </div>
-        </body>
-    </text>
+            <p>Ser man dig aldrig. Det kneb for Maanen<ref target="n2"/> men enfin – det gik.</p>
+            <p rend="right">Herman.</p>
+            <p>
+               <hi rend="italics">verte.</hi>
+               <ref target="n3"/>
+            </p>
+            <p>(optages <hi rend="italics">Torsdag</hi>.</p>
+            <p>
+               <persName key="Liszt_Franz">
+                  <hi rend="italics">Franz Liszt</hi>
+               </persName> har efter at have feiret sin Fødselsdag<ref target="n4"/> hos <persName key="Menter_Sophie">Fru Menter</persName>
+               <ref target="n5"/> paa Slot Itter nu forladt Tyrol og er afreist til
+                  Pesth.<ref target="n6"/>
+            </p>
+            <p>Fru <hi rend="italics">Sofie Menter</hi> vil paa Reisen til <placeName key="Kristiania">Kristiania</placeName>
+               <ref target="n7"/> hvile ud <hi rend="italics">en</hi> Dag her i København.
+               Kunstnerinden tager Ophold i "Hotel Dagmar".<ref target="n8"/>
+            </p>
+            <p>En ad Gangen.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

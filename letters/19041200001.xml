@@ -1,95 +1,115 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19041200001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Nr. 27</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1904-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1904.  december. ] Torsdag<note>En mulig datering – ud fra
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19041200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 27</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1904-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1904-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1904.  december. ] Torsdag<note>En mulig datering – ud fra
                   hentydningen til Rumænien – kan være straks efter Bangs hjemkomst herfra i
                   december 1904, og kort før hans store Danmarksturné fra 3.1.1905</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Hotel Kongen af Danmark.</p>
-                <p rend="right">Torsdag.</p>
-                <p>Min Ven.</p>
-                <p>Ja – her er jeg.</p>
-                <p>Dette lille russiske Helgenbillede har slet ingen Værdi. Men jeg har købt det i
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hotel Kongen af Danmark.</p>
+            <p rend="right">Torsdag.</p>
+            <p>Min Ven.</p>
+            <p>Ja – her er jeg.</p>
+            <p>Dette lille russiske Helgenbillede har slet ingen Værdi. Men jeg har købt det i
                   <placeName key="Rumænien">Rumænien</placeName>. Vil De ha'e det?</p>
-                <p>Kom herhen i en Vogn Klokken to. Her er ingen til at forstyrre Dem .... Og jeg længes
+            <p>Kom herhen i en Vogn Klokken to. Her er ingen til at forstyrre Dem .... Og jeg længes
                saa meget efter at sé Dem.</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,112 +1,132 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19011006001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 346</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider. Fortrykt brevpapir: <q>Dr.med. Torrild.</q> og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19011006001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 346</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider. Fortrykt brevpapir: <q>Dr.med. Torrild.</q> og
                                     <q>Aalborg d.</q>
-                                            </ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="dr. Torrild">
-                                        <ab>Brevet er dikteret til lægen Johannes Torrild (1870-1908), som også har
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="johannes-torrild">
+                              <ab>Brevet er dikteret til lægen Johannes Torrild (1870-1908), som også har
                                  skrevet Bangs underskrevne navn</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1901-10-06" notBefore="9999-99-99" notAfter="9999-99-99">1901. 6. oktober [søndag]<note>Bang var september-november
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1901-10-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1901-10-06"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1901. 6. oktober [søndag]<note>Bang var september-november
                   1901 indlagt på dr. Torrilds nerveklinik i Aalborg</note>
-                </date>
-                <placeName cert="high">Aalborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">
-                    <app>
-                        <lem>[Aalborg d.]</lem>
-                        <rdg>"Dr.med. Torrild" samt "Aalborg d. " er trykt som brevpapirets hoved.</rdg>
-                    </app> 6-X-1901
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <app>
+                  <lem>[Aalborg d.]</lem>
+                  <rdg>"Dr.med. Torrild" samt "Aalborg d. " er trykt som brevpapirets hoved.</rdg>
+               </app> 6-X-1901
             </p>
-                <p>Kære Nansen.</p>
-                <p>Hjærtelig Tak for dit Brev. Naar jeg en Gang sagde nej til det Gyldendalske Forlag,
-               véd du jo godt at det var af menneskelige Grunde overfor <persName key="Hirschsprung, Aage">Hirschsprung</persName>
-                    <note>Aage Hirschsprung (Einar Aage Hirschsprung) (1869-1909), forlægger. Han var 1893-1908 sammen med J.L. Lybecker (1862-1923) direktør for J.H. Schubothes Boghandel og Det Schubotheske Forlag, derefter meddirektør i Gyldendal</note>. Nu har han selv sprængt disse Grunde og jeg vil
+            <p>Kære Nansen.</p>
+            <p>Hjærtelig Tak for dit Brev. Naar jeg en Gang sagde nej til det Gyldendalske Forlag,
+               véd du jo godt at det var af menneskelige Grunde overfor <persName key="Hirschsprung_Aage">Hirschsprung</persName>
+               <ref target="n1"/>. Nu har han selv sprængt disse Grunde og jeg vil
                intet hellere end tilhøre det Gyldendalske Forlag.</p>
-                <p>Men derom skal jeg altsammen skrive, naar "<title key="Det graa Hus">det graa
-                  Hus</title>" er færdigt. Idag vil jeg kun bede dig om du, uagtet du har saa meget
+            <p>Men derom skal jeg altsammen skrive, naar "<!--start title reference--><title key="Det_graa_Hus">det graa
+                  Hus</title>
+               <!--end title reference-->" er færdigt. Idag vil jeg kun bede dig om du, uagtet du har saa meget
                at gøre, vil læse en Korrektur paa "det graa Hus" ligesom du gjorde paa de andre
                Bøger af en lignende Betydning. Hvor du synes Sproget er for knudret, maa du gærne
-               rette med et Par Streger, men noget <emph>afgørende</emph> Ord kan i denne Bog ikke
-               slettes. Jeg haaber at være færdig paa Lørdag<note>Dvs. 12.10.1901</note> og
+               rette med et Par Streger, men noget <hi rend="italics">afgørende</hi> Ord kan i denne Bog ikke
+               slettes. Jeg haaber at være færdig paa Lørdag<ref target="n2"/> og
                Romanen, som foregaar i Hs. Excellences Hus paa en eneste Dag, er paa
                halvtredjehundrede Sider.</p>
-                <p>Med Hilsener til <persName key="Nansen, Betty">Thora Parsberg</persName>
-                    <note>Dvs. Betty Nansen, der spillede den kvindelige titelrolle i <persName key="Bjørnson, Bjørnstjerne">Bjørnstjerne Bjørnson</persName>s skuespil <title key="Paul                      Lange og Tora Parsberg">Paul Lange og Tora
-                     Parsberg</title>, première på Dagmarteatret 28.4.1901</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Med Hilsener til <persName key="Nansen_Betty">Thora Parsberg</persName>
+               <ref target="n3"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

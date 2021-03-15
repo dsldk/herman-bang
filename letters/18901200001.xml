@@ -1,111 +1,118 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18901200001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 97</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1890-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1890.  december]<note>Dateres i forhold til Bangs korte
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18901200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 97</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Fredensborg</placeName>
+               <date when="1890-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890.  december]<note>Dateres i forhold til Bangs korte
                   tekst i Politiken</note>
-                </date>
-                <placeName cert="high">Fredensborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fredensborg.</p>
-                <p>Kære Nansen.</p>
-                <p>Jeg har i de tre sidste Dage faaet to Breve fra <persName key="Brock, Louise">Fruen</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note>, om jeg ikke kunde sende hende 100 Kr. Desværre har jeg
-               slet intet og har endnu intet Svar paa en Henvendelse til "København"<note>Dvs.
-                  avisen København, hvortil Bang i 1889-91 leverede artikler</note>. Faar jeg
-               noget, sender jeg, hvad jeg kan. Hun <emph>vil</emph> – og <emph>maa</emph> maaske –
+            </date>
+            <placeName cert="high">Fredensborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredensborg.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg har i de tre sidste Dage faaet to Breve fra <persName key="Brock_Louise">Fruen</persName>
+               <ref target="n1"/>, om jeg ikke kunde sende hende 100 Kr. Desværre har jeg
+               slet intet og har endnu intet Svar paa en Henvendelse til "København"<ref target="n2"/>. Faar jeg
+               noget, sender jeg, hvad jeg kan. Hun <hi rend="italics">vil</hi> – og <hi rend="italics">maa</hi> maaske –
                nu rejse. Gud véd, hvorhen. Den ulykkelige. Sikkert er det saare slemt. Ellers vilde
                hun vist ikke komme til mig, som hun véd, intet har.</p>
-                <p>– – Vil du optage vedlagte Stump. Det er <persName key="Hennings, Henrik">Hennings'
-               </persName> Geménhed, det Hele<note>Musikforlæggeren Henrik Hennings (1848-1923); den nøjere sammenhæng er ikke
-                  oplyst. Den stump tekst, Bang har medsendt brevet, blev trykt i rubrikken "Smæld
-                  og Smuld" i Politiken, 20.12.1890. Det vedrører koncertagentbranchen, som Henrik
-                  Hennings var en toneangivende dansk repræsentant for, og involverede blandt andre den norske pianist Erika Nissen (1845-1903). Bangs tekst i Politiken
-                  lyder: "<persName key="Nissen, Erika">Erika Nissen</persName>-Striden breder sig –
-                  synes det – viden over Tyskland. Det meget ansete Blad "Neue preussische Zeitung"
-                  har nu i Henhold til Fru Nissens Artikel optaget Kampen mod Agentur-Uvæsnet i en
-                  lang Artikel og mere skal følge. Fru Nissen selv vil ikke svare mere. Som det
-                  synes med Rette mener hun, at Arten af Agenternes Vaaben – herhjemme kendt gennem
-                  "Nationaltidendes" besynderlige Brudstykke af et <persName key="Wolff, Hermann">Hermann Wolffsk</persName>
-                        <note>Hentydning til den tyske koncertagent Hermann Wolff (1845-1902)</note> yderlig plumpt "Privatbrev" – fritager hende for
-                  alt yderligere personligt Svar. "Dagbladets" Kjøbenhavner-Korrespondents Interview
-                  er sendt i Oversættelse til berlinske Kritikere."</note>. Brevet er til din
+            <p>– – Vil du optage vedlagte Stump. Det er <persName key="Hennings_Henrik">Hennings'
+               </persName> Geménhed, det Hele<ref target="n3"/>. Brevet er til din
                Samling.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

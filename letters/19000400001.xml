@@ -1,100 +1,115 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19000400001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 447</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Edvard Brandes</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1900-04-01">[1900, april ?] Mandag<note>Dateringsforslaget
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000400001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1900-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1900-04-01">[1900, april ?] Mandag<note>Dateringsforslaget
                         skal nok gøres bredere... men Bangs nye tilknytning som fast bidragyder til
                         Politiken begyndte i april 1900 ...</note>
-                </date>
-                <placeName cert="low">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Kære Dr: Brandes.</p>
-                <p>Jeg har saa længe søgt om en Form for hyppigt at skrive tyve Linjer i
-                    »Politiken«. Nu tror <emph>jeg</emph> at have fundet én. Vi talte en Gang om
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Dr: Brandes.</p>
+            <p>Jeg har saa længe søgt om en Form for hyppigt at skrive tyve Linjer i
+                    »Politiken«. Nu tror <hi rend="italics">jeg</hi> at have fundet én. Vi talte en Gang om
                     Telegrammerne, som ingen læste og som dog alle serveredes i Bladet.</p>
-                <p>Jeg tænkte nu: foreløbig <emph>daglig</emph> at udhæve et og med Petit at skrive
+            <p>Jeg tænkte nu: foreløbig <hi rend="italics">daglig</hi> at udhæve et og med Petit at skrive
                     en Randbemærkning.</p>
-                <p>Hvad mener De?</p>
-                <p>Jeg kan jo nu skrive nogle Stykker paa Prøve.</p>
-                <p>Naar jeg i saa »vigtig en Sag« ikke kommer selv, er det, fordi jeg ikke ret vel
+            <p>Hvad mener De?</p>
+            <p>Jeg kan jo nu skrive nogle Stykker paa Prøve.</p>
+            <p>Naar jeg i saa »vigtig en Sag« ikke kommer selv, er det, fordi jeg ikke ret vel
                     taaler at gaa ud.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

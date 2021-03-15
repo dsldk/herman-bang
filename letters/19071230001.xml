@@ -1,178 +1,191 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19071230001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Nr. 33</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 11 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-12-30" notBefore="9999-99-99" notAfter="9999-99-99">1907. 30. december [mandag]<note>empty</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fasanenstrasse 58.</p>
-                <p rend="right">Berlin. W.</p>
-                <p rend="right">30.12. 1907.</p>
-                <p>Min egen, min kære Ven.</p>
-                <p>De skal have det første Julebrev. Ja, virkelig det første. Og det faar De til Nytaar.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19071230001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 33</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 11 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-12-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-12-30"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 30. december [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">30.12. 1907.</p>
+            <p>Min egen, min kære Ven.</p>
+            <p>De skal have det første Julebrev. Ja, virkelig det første. Og det faar De til Nytaar.
                Men Julen blev i Stilhed lidt svær og broget for mig. Dog bar jeg det med rankt Hoved
-               og en god Samvittighed. Det vigtigste var jo til Side: <persName key="Ernst, Knud">Ernst</persName>
-                    <note>Knud Ernst</note> var kommen hjem til sin Ferie, Husets Førelse var sikret –
+               og en god Samvittighed. Det vigtigste var jo til Side: <persName key="Ernst_Knud">Ernst</persName>
+               <ref target="n1"/> var kommen hjem til sin Ferie, Husets Førelse var sikret –
                det var kun alle de sidste møjsomt sammenskrevne Penge, som ikke kom og saa blev der
                intet af Julepresenter og Telegrammer –</p>
-                <p>Naa, alt det vil <persName key="Houmark, Christian">Houmark</persName>
-                    <note>Christian Houmark (1869-1950), journalist, fra 1899 ved avisen København, fra 1921 ved Det Berlingske Hus; fra 1899 lejlighedsvis sekretær for Herman Bang</note> fortælle ... Han var her altsaa og jeg kom ikke til
+            <p>Naa, alt det vil <persName key="Houmark_Christian">Houmark</persName>
+               <ref target="n2"/> fortælle ... Han var her altsaa og jeg kom ikke til
                Skriveri. Saa rejste han. Og min Oplæsning fulgte. Indtrykket var vistnok endnu
-               stærkere end første Gang<note>Bangs første oplæsning i Berlin fandt sted torsdag
-                  28.11.1907 ved et offentligt arrangement i Verein für Kunst; han læste her af
-                     <title key="Mikaël">Mikaël</title>. Forud holdtes en privat generalprøve i
-                  familien Wasbutzkis hjem</note>. De vilde maaske undres ved at sé og høre mig paa
+               stærkere end første Gang<ref target="n3"/>. De vilde maaske undres ved at sé og høre mig paa
                Tysk. Jeg er elegant og koldblodig og døende og elskovsfyldt og friseret, saa man
                knap sér Skaldetheden.</p>
-                <p>... Og saa kom Deres Billede<note>Uoplyst</note>.</p>
-                <p>Aa, hvor skønt det er. Dette Billede, som De selv har digtet, er dog tifold mere
-               skønt og mere talende og mere ligt end den store <persName key="Zorn, Anders">Zorns</persName>
-                    <note>Den svenske billedkunstner Anders Zorns (1860-1920) radering, et portræt af Betty Nansen, udført 1905</note>. Tak og atter Tak
-               for det. Tak ogsaa <persName key="Nansen, Peter">Peter</persName>
-                    <note>Peter Nansen</note> for det Svineri, han sendte mig<note>Uoplyst</note>. Fælt
-               er det og glæder dog – et gammelt Hjerte ... Hos <persName key="Fischer, Samuel">Fischers</persName>
-                    <note>Ægteparret Hedwig og Samuel Fischer, indehaver af S. Fischer Verlag, Berlin</note> saá
+            <p>... Og saa kom Deres Billede<ref target="n4"/>.</p>
+            <p>Aa, hvor skønt det er. Dette Billede, som De selv har digtet, er dog tifold mere
+               skønt og mere talende og mere ligt end den store <persName key="Zorn_Anders">Zorns</persName>
+               <ref target="n5"/>. Tak og atter Tak
+               for det. Tak ogsaa <persName key="Nansen_Peter">Peter</persName>
+               <ref target="n6"/> for det Svineri, han sendte mig<ref target="n7"/>. Fælt
+               er det og glæder dog – et gammelt Hjerte ... Hos <persName key="Fischer_Samuel">Fischers</persName>
+               <ref target="n8"/> saá
                jeg igaar, da jeg paa en Biltur var der et Øjeblik, Peters Julekort. De var meget
                glade for det. Jeg tror virkelig, at Sammy (det er Fischer) lidt efter lidt faar (saa
                vidt han kan, den Pengepung) noget, som ligner Venskab for mig. Dels, fordi jeg
                aldrig plager ham med at tale om mine Bøger. Dels, fordi han, ved Besøg her i Huset
                og ved at sé min ganske Færd, vistnok har vundet den Overbevisning, at der er ingen
                Fare for, at jeg skal ville plyndre hans Portemonnæ. Himlen bevares, hvor er <app>
-                        <lem>deres</lem>
-                        <rdg>Ordet er tilsyneladende rettet fra: Deres</rdg>
-                    </app> Palais i Grunewald<note>Familien Fischer havde siden 1905 boet i den store
-                  villa Erdener Strasse 8 i det mondæne villakvarter <placeName key="Grunewald">Grunewald</placeName> sydvest for Berlins centrum</note> skønt –
-               fordringsløst og dejligt. Og <persName key="Fischer, Hedwig">Hedvig</persName>
-                    <note>Hedwig Fischer (1871-1952), gift 1893 med forlæggeren Samuel Fischer</note> er i Virkeligheden velvillig og rar. Den Kone sendte mig
+                  <lem>deres</lem>
+                  <rdg>Ordet er tilsyneladende rettet fra: Deres</rdg>
+               </app> Palais i Grunewald<ref target="n9"/> skønt –
+               fordringsløst og dejligt. Og <persName key="Fischer_Hedwig">Hedvig</persName>
+               <ref target="n10"/> er i Virkeligheden velvillig og rar. Den Kone sendte mig
                til Julen et lille Kaffeservice og Sammy en dejlig Kurv med henkogte Frugter. Det
                hjalp altsammen. En ung polsk Frue, som jeg slet ikke kender men hvis Vinduer nok
                vender ud til vor Have (saa hun vist har set mig disse Maaneder paa min ensomme
                Balkon) sendte mig et nydeligt lille Juletræ. Det var jo udmærket. For ellers havde
                vi intet haft, ser De. Og for Houmarks Skyld vilde det naturligvis have rent ud
                smertet mig, at det blev saa fattigt. Men nu stod det lille polske Træ for Enden af
-               Bordet. Og <persName key="Wasbutzki, Berta">Mm. Wasbutzki</persName>
-                    <note>Madame Berta Wasbutzki, gift med læge Max Wasbutzki, Berlin</note>, <persName key="Wasbutzki, Max">min Læge</persName>s Frue, havde sendt en Skaal med Konfekt.
+               Bordet. Og <persName key="Wasbutzki_Berta">Mm. Wasbutzki</persName>
+               <ref target="n11"/>, <persName key="Wasbutzki_Max">min Læge</persName>s Frue, havde sendt en Skaal med Konfekt.
                Saa det havde vi ogsaa. ... Naturligvis kunde jeg godt have sendt Bud efter Penge.
                Men i et fremmed Land kan man ikke lade staa til. Men maa regne alting ud. Og nu skal
-               jeg jo desuden snart gaa langt ned i Gage .... <emph>En</emph> stor Glæde havde jeg i
-               Julen. <persName key="Melnik, Josef">Hr. Melnik</persName>
-                    <note>Den polskfødte russiske litterat Josef Melnik (1881-1931), bosat i Berlin; ofte omtalt under sit kælenavn Ossip Melnik</note> er blevet Redaktør for et stort og meget fornemt
-                  Tidsskrift<note>Ikke identificeret</note>. Han er et Under af Opofrelse – det maa
+               jeg jo desuden snart gaa langt ned i Gage .... <hi rend="italics">En</hi> stor Glæde havde jeg i
+               Julen. <persName key="Melnik_Josef">Hr. Melnik</persName>
+               <ref target="n12"/> er blevet Redaktør for et stort og meget fornemt
+                  Tidsskrift<ref target="n13"/>. Han er et Under af Opofrelse – det maa
                disse Russere i det Hele være – og hvad enten det er Helg eller Søgn eller Jul <app>
-                        <lem>, han</lem>
-                        <rdg>Komma og ord er rettet fra: . Han</rdg>
-                    </app> kommer paa Slaget og læser for mig sine to Timer og gaar igen. Hver Dag; og
+                  <lem>, han</lem>
+                  <rdg>Komma og ord er rettet fra: . Han</rdg>
+               </app> kommer paa Slaget og læser for mig sine to Timer og gaar igen. Hver Dag; og
                det skønt han dog er ung og mit Selskab vel ikke altid er lige muntert. Og hans
                bestandigt funklende Hjerne spreder adskilligt Lys i mine Stuer, hvor der en Gang
                imellem er lidt mørkt ... Saa det var mig en stor Glæde, at han nu har faaet saa
                glimrende en Stilling, en virkelig Førerstilling. Og han er kun seks og tyve Aar
                ..... Hver Morgen sér jeg efter, om De spiller den Aften. Men saa sjældent spiller
-               De. Men nu maa der da for Satan blive Plads, naar <persName key="Hennings, Betty">den
+               De. Men nu maa der da for Satan blive Plads, naar <persName key="Hennings_Betty">den
                   gamle Medaille</persName>
-                    <note>Skuespillerinden Betty Hennings (1850-1939), jf. Kvam, s. 88 øverst</note> gaaer og <persName key="Thomsen, Emma">Emma</persName>
-                    <note>Skuespillerinden Emma Thomsen (1863-1910), født Lange</note> døer og Bloch'ene<note>Skuespillerinden <persName key="Bloch, Anna">Anna Bloch</persName> (1868-1953), født Lindemann, og Det Kongelige Teaters sceneinstruktør<persName key="Bloch, William">William
-                  Bloch</persName> (1845-1926), gift 1887</note> rejser ad Helvede til, jeg mener, til Nørregade<note>Dvs.
-                  til Folketeatret</note>. Naar bare hele Operaen ogsaa pakkede sit Tøj.</p>
-                <p>Jeg har nu sagt til Sammy, den kære, at jeg en Dag, inden min Rejse<note>Januar-april 1908 foretog Bang en oplæsningsrejse til <placeName key="Breslau">Breslau</placeName> (nuværende Wroclaw, Polen), <placeName key="Wien">Wien</placeName>, <placeName key="Prag">Prag</placeName> og <placeName key="Hamburg">Hamburg</placeName>
-                    </note> til Breslau og Wien, vil sammen med <persName key="Hollaender, Felix">Felix Hollaender</persName>
-                    <note>Felix Hollaender (1867-1931), tysk forfatter og senere teaterleder</note> (<persName key="Reinhardt, Max">Max Reinhardt</persName>s højre Haand). Saa begynder jeg paa
-               Kampagnen for "<title key="Agnete">Agnete</title>"<note>Skuespil af den norske forfatter Amalie Skram (1846-1905); se også brevet 19071214</note>
-               og Resten – – – Apropos: Vilde De ikke sende mig <persName key="Poulsen, Karen">Karen
+               <ref target="n14"/> gaaer og <persName key="Thomsen_Emma">Emma</persName>
+               <ref target="n15"/> døer og Bloch'ene<ref target="n16"/> rejser ad Helvede til, jeg mener, til Nørregade<ref target="n17"/>. Naar bare hele Operaen ogsaa pakkede sit Tøj.</p>
+            <p>Jeg har nu sagt til Sammy, den kære, at jeg en Dag, inden min Rejse<ref target="n18"/> til Breslau og Wien, vil sammen med <persName key="Hollaender_Felix">Felix Hollaender</persName>
+               <ref target="n19"/> (<persName key="Reinhardt_Max">Max Reinhardt</persName>s højre Haand). Saa begynder jeg paa
+               Kampagnen for "<!--start title reference--><title key="Agnete">Agnete</title>
+               <!--end title reference-->"<ref target="n20"/>
+               og Resten – – – Apropos: Vilde De ikke sende mig <persName key="Poulsen_Karen">Karen
                   Poulsen</persName>
-                    <note>Skuespiller <persName key="Poulsen, Olaf">Olaf Poulsen</persName>s datter, skuespillerinde Karen Poulsen (1881-1953), optrådte første gang på
-                  Folketeatret i 1903</note>s Adresse (men skriv den lidt tydeligt. Folk skriver altid
+               <ref target="n21"/>s Adresse (men skriv den lidt tydeligt. Folk skriver altid
                Adresser, saa ingen Kat eller Fanden selv kan læse dem) – jeg vilde gerne sende hende
                en Hilsen i det nye Aar. Hende er der vist kun faa, som husker. Ikke sandt: "Hvor
                "den Gamle" dog er betænksom" ..... Ah, véd De hvad, man har i sin Ensomhed saa lidt
                at tænke paa.</p>
-                <p>– – – Og nu "Lev vel". Om Ønsker kunde gøre andre lykkelige, da vilde De og Peter
+            <p>– – – Og nu "Lev vel". Om Ønsker kunde gøre andre lykkelige, da vilde De og Peter
                blive meget, meget lykkelige i det nye Aar. En Kreds vil mine Tanker slaa om
-                  48<note>Nørrevold 48, København, familien Nansens adresse</note> paa Aarets
+                  48<ref target="n22"/> paa Aarets
                sidste Aften. De Gamle har saa lidet at ønske for sig selv. Deres Tanker slaaer en
                Kæde om de Faa, de holder af – men Ønsker nytter saa lidet, saa lidet.
-                  <emph>Et</emph> Ønske havde dog jeg, at vi til Sommer (naar De i Juni havde tjent
+                  <hi rend="italics">Et</hi> Ønske havde dog jeg, at vi til Sommer (naar De i Juni havde tjent
                styrtende med Penge paa en Tournée) kunde være sammen et Par Uger i Tyrol .... Der er
                saa let at aande paa de høje Bjerge. Og Menneskene og alt, hvad deres Skidt er,
                bliver saa langt borte.</p>
-                <p>Lev da vel. Og kys <persName key="Nansen, Esther">Esther</persName>
-                    <note>Esther Nansen (1897-1972), datter af Peter og Betty Nansen</note> fra mig og bed hende ikke helt at glemme "den Gamle", som
+            <p>Lev da vel. Og kys <persName key="Nansen_Esther">Esther</persName>
+               <ref target="n23"/> fra mig og bed hende ikke helt at glemme "den Gamle", som
                holder saa meget af hendes Fader og Moder.</p>
-                <p rend="right">Adieu.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Adieu.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

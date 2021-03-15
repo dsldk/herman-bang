@@ -1,117 +1,128 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18861000001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider. Fortrykt brevpapir: monogram HB under
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861000001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider. Fortrykt brevpapir: monogram HB under
                                                 en femtakket krone</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-10-01">[1886, oktober?]<note>empty</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Prag.</p>
-                <p>Tusind Tak, kære Jules, for dit Kort med Pengene fra »Illustreret«.</p>
-                <p>Men min »Situation« <app>
-                        <lem>bedrer</lem>
-                        <rdg>Ordet er rettet fra: bedres</rdg>
-                    </app> de rigtignok ikke.</p>
-                <p>»Politiken« ‒ 29 Gylden!</p>
-                <p>»Ill« ‒ 15 Gylden</p>
-                <p>44 fl<note>Almindelig forkortelse for Floriner, der i samtiden [vistnok] var
-                        synomym med Gylden (= møntfoden i kejserriget Østrig-Ungarn)</note>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-10-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-10-01">[1886, oktober?]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Tusind Tak, kære Jules, for dit Kort med Pengene fra »Illustreret«.</p>
+            <p>Men min »Situation« <app>
+                  <lem>bedrer</lem>
+                  <rdg>Ordet er rettet fra: bedres</rdg>
+               </app> de rigtignok ikke.</p>
+            <p>»Politiken« ‒ 29 Gylden!</p>
+            <p>»Ill« ‒ 15 Gylden</p>
+            <p>44 fl<ref target="n1"/>
                     Maanedsindtægt</p>
-                <p>Hvor er Madam »Erdmann«<note>Bangs novelle »Madam Erdmann" blev trykt 6.4.1887 i
-                        Bergens Tidende</note>? Og Aftryk?</p>
-                <p><emph>Kan</emph> du tage »Danserinden«<note>Bangs novelle »Danserinden Frøken
-                        Irene Holm«</note> nu, og <emph>saasnart</emph> den er trykt, lade
-                        <emph>Expeditionen</emph> sende mig Pengene, <emph>da gør det</emph>.</p>
-                <p>Og fremfor alt <emph>maa</emph> Schou sende mig Pengene <emph>Arkvis</emph>.
+            <p>Hvor er Madam »Erdmann«<ref target="n2"/>? Og Aftryk?</p>
+            <p>
+               <hi rend="italics">Kan</hi> du tage »Danserinden«<ref target="n3"/> nu, og <hi rend="italics">saasnart</hi> den er trykt, lade
+                        <hi rend="italics">Expeditionen</hi> sende mig Pengene, <hi rend="italics">da gør det</hi>.</p>
+            <p>Og fremfor alt <hi rend="italics">maa</hi> Schou sende mig Pengene <hi rend="italics">Arkvis</hi>.
                     Ellers kommer vi atter ud i Ørkenen, hvor jeg intet kan arbeide. Lørdag sender
-                    jeg <emph>Resten</emph> af I Capitel. Men Pengene for det første, maa du sørge
-                    for, at Schou sender <emph>senest strax</emph> efter Modtagelsen af dette, hvis
-                    de ikke <emph>er</emph> sendte. For du har da faaet Manuskriptet? Alt ængster
+                    jeg <hi rend="italics">Resten</hi> af I Capitel. Men Pengene for det første, maa du sørge
+                    for, at Schou sender <hi rend="italics">senest strax</hi> efter Modtagelsen af dette, hvis
+                    de ikke <hi rend="italics">er</hi> sendte. For du har da faaet Manuskriptet? Alt ængster
                     mig og gør mig urolig.</p>
-                <p>Altsaa: tryk snarest »Danserinden« for Pengenes Skyld.</p>
-                <p>Madam Erdmann. Hvor skal den hen? Aftryk.</p>
-                <p>Schou. Som maa sende Penge for det alt modtagne Mskrpt<note>Forkortelse for:
-                        Manuskript</note>. Og fremdeles Arkvis.</p>
-                <p>Mit Hoved er tungt af Forhaabninger, man har slaaet for Panden; Bekymringer; og
-                    Artikler, som <emph>maa</emph> skrives. Er <emph>mit</emph> Liv et
-                        <emph>Liv</emph>.</p>
-                <p rend="right">Din Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Altsaa: tryk snarest »Danserinden« for Pengenes Skyld.</p>
+            <p>Madam Erdmann. Hvor skal den hen? Aftryk.</p>
+            <p>Schou. Som maa sende Penge for det alt modtagne Mskrpt<ref target="n4"/>. Og fremdeles Arkvis.</p>
+            <p>Mit Hoved er tungt af Forhaabninger, man har slaaet for Panden; Bekymringer; og
+                    Artikler, som <hi rend="italics">maa</hi> skrives. Er <hi rend="italics">mit</hi> Liv et
+                        <hi rend="italics">Liv</hi>.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

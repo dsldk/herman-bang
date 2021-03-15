@@ -1,43 +1,36 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19111102002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2009/148. Det 67.brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Olga Dahl</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="postkort">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Postkort; billedsiden viser Berlingske Tidendes
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111102002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 67.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="postkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Postkort; billedsiden viser Berlingske Tidendes
                                                 avishoved med dato »Mandag Morgen den 12. Juni 1911«
                                                 samt tre spalters opsætning og tekst med
                                                 overskriften: »En Mesterbager.« Midterspalten
@@ -52,57 +45,78 @@
                                                 Erfaringer, han gør undervejs, for, vel hjemkommen,
                                                 at lære vore hjemlige Bagere Udlandets
                                                 Bagekunst.«</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Med blæk i fremmed hånd på postkortets billedside:
-                                            <emph>3/11 1911</emph>, formentlig skrevet af Olga
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blæk i fremmed hånd på postkortets billedside:
+                                            <hi rend="italics">3/11 1911</hi>, formentlig skrevet af Olga
                                         Dahl</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1911-11-02">1911, 2. November [torsdag] <note>Postkort,
-                        frankeret med et 5 öres frimærke, poststemplet <emph>Landskrona
-                            2.11.[...]</emph>; adressefeltet udfyldt i Bangs håndskrift: <emph>Fru
-                            Olga Dahl / København. V / Prinsesse Maries Allée 14.</emph> Dateres
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Landskrona, Skåne</placeName>
+               <date when="1911-11-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-11-02">1911, 2. November [torsdag] <note>Postkort,
+                        frankeret med et 5 öres frimærke, poststemplet <hi rend="italics">Landskrona
+                            2.11.[...]</hi>; adressefeltet udfyldt i Bangs håndskrift: <hi rend="italics">Fru
+                            Olga Dahl / København. V / Prinsesse Maries Allée 14.</hi> Dateres
                         efter poststemplet</note>
-                </date>
-                <placeName cert="high">Landskrona, Skåne</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Min Ven. Dette Kort fik jeg paa en Station af en rejsende ‒ Kollega.</p>
-                <p rend="right">Herman B.</p>
-
-            </div>
-        </body>
-    </text>
+            </date>
+            <placeName cert="high">Landskrona, Skåne</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Min Ven. Dette Kort fik jeg paa en Station af en rejsende ‒ Kollega.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

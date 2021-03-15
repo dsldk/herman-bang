@@ -1,90 +1,105 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19050328002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 874</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Oluf Heise</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1905-03-28">1905, 28. Marts [tirsdag] <note>empty</note>
-                </date>
-                <placeName cert="high">Ærøskøbing</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Ærøskøbing 28.3.1905.</p>
-                <p>Kære Venner.</p>
-                <p>Ja, saa skrives dette paa Ærø og paa Ærøs Papir (det er forresten meget nydeligt)
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050328002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 874</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Ærøskøbing</placeName>
+               <date when="1905-03-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-03-28">1905, 28. Marts [tirsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Ærøskøbing</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Ærøskøbing 28.3.1905.</p>
+            <p>Kære Venner.</p>
+            <p>Ja, saa skrives dette paa Ærø og paa Ærøs Papir (det er forresten meget nydeligt)
                     og den gamle By har jeg sét og Huset fra 1641 og de Kobber-Dørhamre og Deres
                     Onkels Hus, som er et helt Palæ. Alt har jeg set. Da jeg stod paa Torvet, saá
-                        Borgmesteren<note>... ... borgmester i Ærøskøbing ... ???</note> mig fra sit
+                        Borgmesteren<ref target="n1"/> mig fra sit
                     Vindue og kom ud paa Gaden og viste mig det altsammen. Og en Frue gav sig i Snak
                     med mig og fortalte mig alt det samme, som Øvrighedspersonen havde fortalt og ‒
                     med et dulgt Haab om, at jeg maaske kunde skaffe hende en Lejer ude fra den
@@ -92,15 +107,14 @@
                     passende for en svagelig Person: »For her er Fred«, sagde hun, og Lejligheden er
                     saa dejlig ‒ og den er billig. Alt er billigt her... vil Forfatteren ikke se
                     Lejligheden?«... Men, det vilde Forfatteren nu ikke.</p>
-                <p>Kl. to kører vi til Marstal. Men, sagde Borgmesteren, »i Marstal er det Parvenuer
+            <p>Kl. to kører vi til Marstal. Men, sagde Borgmesteren, »i Marstal er det Parvenuer
                     ‒ med tykke Maver og store Piber, hvis Spidser de fægter med i Luften. De vil
                     ikke føle Dem saa vel i Marstal«...</p>
-                <p>Naa, der er i hvert Fald udsolgt i Marstal. Her fik jeg Blomster med
+            <p>Naa, der er i hvert Fald udsolgt i Marstal. Her fik jeg Blomster med
                     Guldbogstaver.</p>
-                <p>Tusind Hilsener ‒</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Tusind Hilsener ‒</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

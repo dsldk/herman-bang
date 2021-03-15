@@ -1,141 +1,153 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19070614002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 525</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Josef Melnik</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-06-14">1907, 14. Juni [fredag] <note>Bang rejste onsdag
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070614002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 525</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Frederikshavn</placeName>
+               <date when="1907-06-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-06-14">1907, 14. Juni [fredag] <note>Bang rejste onsdag
                         3.7.1907 fra Frederikshavn til Berlin og bosatte sig i lejligheden
                         Nürnbergerstrasse 36. Ossip Melnik havde i tiden forud forberedt alle slags
                         praktiske detaljer for Bang i Berlin</note>
-                </date>
-                <placeName cert="high">Frederikshavn</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Frederikshavn. Dänemark.</p>
-                <p rend="right">14.6.1907.</p>
-                <p>Mein lieber Freund.</p>
-                <p>Nein ich bin nicht in Kopenhagen aber hier um die letzten Wochen hier in der Nähe
+            </date>
+            <placeName cert="high">Frederikshavn</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Frederikshavn. Dänemark.</p>
+            <p rend="right">14.6.1907.</p>
+            <p>Mein lieber Freund.</p>
+            <p>Nein ich bin nicht in Kopenhagen aber hier um die letzten Wochen hier in der Nähe
                     des Gutes meiner Väter ‒ Bangsbo ‒ zu verbringen.</p>
-                <p>Also: eine Wohnung.</p>
-                <p>Sie muss 4 Zimmer haben:</p>
-                <p>1 Wohnzimmer.</p>
-                <p>1 <app>
-                        <lem>Schlafzimmer</lem>
-                        <rdg>Bang har rettet en skrivefejl i de første bogstaver i ordet</rdg>
-                    </app> für mich (recht gross)</p>
-                <p>1 Zimmer für meinen Sekretair</p>
-                <p>1 Zimmer für die Haushälterin, die aus Dänemark kommt.</p>
-                <p>Was kostet also eine solche gute Wohnung mit Badez:, Küche u:s:w:?</p>
-                <p>Und dann:</p>
-                <p>Man hat mir gesagt, das beste wäre die Möbel zu <emph>miethen</emph>. Ganz
+            <p>Also: eine Wohnung.</p>
+            <p>Sie muss 4 Zimmer haben:</p>
+            <p>1 Wohnzimmer.</p>
+            <p>1 <app>
+                  <lem>Schlafzimmer</lem>
+                  <rdg>Bang har rettet en skrivefejl i de første bogstaver i ordet</rdg>
+               </app> für mich (recht gross)</p>
+            <p>1 Zimmer für meinen Sekretair</p>
+            <p>1 Zimmer für die Haushälterin, die aus Dänemark kommt.</p>
+            <p>Was kostet also eine solche gute Wohnung mit Badez:, Küche u:s:w:?</p>
+            <p>Und dann:</p>
+            <p>Man hat mir gesagt, das beste wäre die Möbel zu <hi rend="italics">miethen</hi>. Ganz
                     einfach. Korbmöbel fürs Wohnzimmer. Man sagt mir, es giebt grosse
                     Etablissements, wo man Möbel miethen kann. Fragen Sie nach, was alles kosten
                     wird ‒ auch Bette und alles.</p>
-                <p>Ich werde dann das Geld dafür schicken.</p>
-                <p><emph>Wir müssen vom ersten Juli ab miethen</emph>. Denn Anfangs Juli denke ich
+            <p>Ich werde dann das Geld dafür schicken.</p>
+            <p>
+               <hi rend="italics">Wir müssen vom ersten Juli ab miethen</hi>. Denn Anfangs Juli denke ich
                     in Berlin zu sein.</p>
-                <p>Alles muss nett aber sehr einfach sein. <app>
-                        <lem>Vorhänge und</lem>
-                        <rdg>Bang har først skrevet: Gardiner og</rdg>
-                    </app> so etwas werde ich selber kaufen.</p>
-                <p>Meine Sachen sind jetzt so geordnet, dass ich 800 Mark pr: Monat verdienen werde
+            <p>Alles muss nett aber sehr einfach sein. <app>
+                  <lem>Vorhänge und</lem>
+                  <rdg>Bang har først skrevet: Gardiner og</rdg>
+               </app> so etwas werde ich selber kaufen.</p>
+            <p>Meine Sachen sind jetzt so geordnet, dass ich 800 Mark pr: Monat verdienen werde
                     ‒ Kleidung habe ich ja »kostenfrei« von hier und meine Einnahmen von Deutschland
                     sind nicht darin <app>
-                        <lem>einbegriffen</lem>
-                        <rdg>Ordets første bogstav er rettet fra: l</rdg>
-                    </app>.</p>
-                <p>Suchen Sie also eine Wohnung <app>
-                        <lem>und</lem>
-                        <rdg>Ordets første bogstav er rettet, vistnok fra: ei</rdg>
-                    </app> fragen Sie nach Möbeln. Ich muss im Schlafzimmer arbeiten können und
+                  <lem>einbegriffen</lem>
+                  <rdg>Ordets første bogstav er rettet fra: l</rdg>
+               </app>.</p>
+            <p>Suchen Sie also eine Wohnung <app>
+                  <lem>und</lem>
+                  <rdg>Ordets første bogstav er rettet, vistnok fra: ei</rdg>
+               </app> fragen Sie nach Möbeln. Ich muss im Schlafzimmer arbeiten können und
                     wünsche in diesem Zimmer die nettesten Sachen.</p>
-                <p>Ich danke Ihnen, lieber Freund, im Voraus für alle Ihre Mühe ‒</p>
-                <p rend="right">Immer Ihr</p>
-                <p rend="right">Herman Bang.</p>
-                <p>Ich möchte am liebsten in einer <emph>Seitenstrasse</emph> in Charlottenburg, in
+            <p>Ich danke Ihnen, lieber Freund, im Voraus für alle Ihre Mühe ‒</p>
+            <p rend="right">Immer Ihr</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Ich möchte am liebsten in einer <hi rend="italics">Seitenstrasse</hi> in Charlottenburg, in
                     der Nähe von Ihnen, <app>
-                        <lem>im</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app>
-                    <emph>vierten oder fünften Stock wohnen</emph> ‒ vornehmes Haus.</p>
-                <p>Die dänische Haushälterin kommt erst Anfangs September an<note>Magdalene Thune
-                        (1872-1957) ankom til Berlin 21.9.1907, ifølge Bangs oplysning på et
-                        postkort til Christian Houmark denne dato</note>. Muss also bis dahin eine
+                  <lem>im</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app>
+               <hi rend="italics">vierten oder fünften Stock wohnen</hi> ‒ vornehmes Haus.</p>
+            <p>Die dänische Haushälterin kommt erst Anfangs September an<ref target="n1"/>. Muss also bis dahin eine
                     deutsche Aufwärterin haben.</p>
-
-
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

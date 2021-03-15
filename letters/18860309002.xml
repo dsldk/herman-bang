@@ -1,132 +1,136 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860309002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 5002, 4to</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">A.P. Holst (Bangs svoger)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider, med den tilhørende kuvert, der er
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860309002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5002, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider, med den tilhørende kuvert, der er
                                                 frankeret med to østrigske 5 Kreuzer-frimærker,
-                                                poststemplet <emph>Josefstadt 10/3 7 F Wien</emph>;
-                                                udskrift i Bangs håndskrift: <emph>Hrn. Peter
-                                                  Holst</emph>, Godsinspektør. / Adlershus / pr:
+                                                poststemplet <hi rend="italics">Josefstadt 10/3 7 F Wien</hi>;
+                                                udskrift i Bangs håndskrift: <hi rend="italics">Hrn. Peter
+                                                  Holst</hi>, Godsinspektør. / Adlershus / pr:
                                                 Eiby Station. Fyenske Jernb. / Fyen. /
                                                 Dänemark.</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-03-09">[1886, 9. marts] Tirsdag <note>Dateres efter den
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>A.P. Holst (Bangs svoger)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-03-09">[1886, 9. marts] Tirsdag <note>Dateres efter den
                         tilhørende kuverts poststempel i kombination med Bangs angivelse af ugedag
                         og hans daværende adresse</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Hotel Hammerand. VIII Bezirk. Wien</p>
-                <p rend="right">Tirsdag.</p>
-                <p>Da jeg ankom hertil eller rettere da jeg med en Dags Varsel fik Udvisningsordre
-                    fra Meiningen<note>Bang modtog 18.2.1886 en ordre til udvisning af hertugdømmet
-                        Sachsen-Meiningen, der skulle efterkommes inden for 24 timer</note> skrev
-                    jeg til Nini<note>Nini Holst (1853-1922, døbt Nicoline Sophie Bang), søster til
-                        Herman Bang, gift 1879 med exam.jur. Alfred Peter Holst (1842-99), fra 1884
-                        godsforvalter ved grevskabet Wedellsborg ved Lillebælt, syd for
-                        Middelfart</note> om min Stilling. Alt, hvad jeg har eiet, er opslugt af
-                    mine Udvisninger. Jeg staar foran <emph>Nøden</emph>. Hun svarede mig, at hun
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hotel Hammerand. VIII Bezirk. Wien</p>
+            <p rend="right">Tirsdag.</p>
+            <p>Da jeg ankom hertil eller rettere da jeg med en Dags Varsel fik Udvisningsordre
+                    fra Meiningen<ref target="n1"/> skrev
+                    jeg til Nini<ref target="n2"/> om min Stilling. Alt, hvad jeg har eiet, er opslugt af
+                    mine Udvisninger. Jeg staar foran <hi rend="italics">Nøden</hi>. Hun svarede mig, at hun
                     kunde ikke bede om Penge til mig.</p>
-                <p>Jeg stred i otte Dage og skrev og skrev. Da blev jeg syg. Og syg maatte jeg
+            <p>Jeg stred i otte Dage og skrev og skrev. Da blev jeg syg. Og syg maatte jeg
                     forlade min Bolig, fordi jeg ikke kunde betale min Leie. Jeg har nu været syg i
                     otte Dage. Jeg har knap kunnet skrive. Alt, hvad jeg har haft, er nu solgt eller
                     pantsat. Jeg kender ikke et Menneske her. Og Hoteleieren sagde mig idag ‒ jeg
                     maatte fra mit Privatlogis tage herind, da jeg var for syg til at søge om
-                    Leilighed ‒ at jeg kun kunde blive her til Søndag<note>Bang flyttede til Wien
-                        24.2.1886, boede først et par dage i Hotel Metropole og derpå i
-                        Alsterstrasse 8, IX Bezirk, som antageligvis var en lejlighed. Fra cirka
-                        1.3.1886 havde han adresse i Hotel Hammerand, VIII Bezirk, hvorpå han cirka
-                        15.3. flyttede til Universitätsstrasse 4, IX Bezirk</note>.</p>
-                <p>»Politiken« har tilbudt mig Ed. Brandes Stilling<note>Redaktør Viggo Hørups
-                        telegrafiske forespørgsel og tilbud 7.3.1886 havde Bang samme dag
-                        telegrafisk besvaret med et nej</note>. Men jeg har <emph>intet</emph> til
+                    Leilighed ‒ at jeg kun kunde blive her til Søndag<ref target="n3"/>.</p>
+            <p>»Politiken« har tilbudt mig Ed. Brandes Stilling<ref target="n4"/>. Men jeg har <hi rend="italics">intet</hi> til
                     Hjemreisen. Reisepengene kan jeg vel fordre af Bladet men Penge til mine Klæder
-                    og her? Jeg véd, at disse Ulykker <emph>kan</emph> ingen forudsé, at jeg har
-                    kæmpet som en gal Mand mod denne Skæbne. Jeg <emph>kan</emph> ikke mere. Jeg
-                        <emph>maa</emph> skrive til Jer, som er mine nærmeste. At I dog véd, hvordan
-                    det er, og om I <emph>vil</emph> hjælpe.</p>
-                <p>100 Gylden er nødvendigt.</p>
-                <p>Nu ser det vel ud, som om jeg aldrig kunde betale tilbage. Men selv da ‒ der er
-                    Tider, hvor den ene <emph>maa</emph> hjælpe den anden.</p>
-                <p>Og det ender vel ‒ ja, Himlen véd, hvordan, hvis ingen Hjælp.</p>
-                <p>Skriv ingen Breve. Der er <emph>intet</emph> Forsvar for den,<app>
-                        <lem>som</lem>
-                        <rdg>De to første bogstaver er rettet fra: u</rdg>
-                    </app>, uden at hjælpe, sér denne Elendighed. I kan jo blot tie.</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+                    og her? Jeg véd, at disse Ulykker <hi rend="italics">kan</hi> ingen forudsé, at jeg har
+                    kæmpet som en gal Mand mod denne Skæbne. Jeg <hi rend="italics">kan</hi> ikke mere. Jeg
+                        <hi rend="italics">maa</hi> skrive til Jer, som er mine nærmeste. At I dog véd, hvordan
+                    det er, og om I <hi rend="italics">vil</hi> hjælpe.</p>
+            <p>100 Gylden er nødvendigt.</p>
+            <p>Nu ser det vel ud, som om jeg aldrig kunde betale tilbage. Men selv da ‒ der er
+                    Tider, hvor den ene <hi rend="italics">maa</hi> hjælpe den anden.</p>
+            <p>Og det ender vel ‒ ja, Himlen véd, hvordan, hvis ingen Hjælp.</p>
+            <p>Skriv ingen Breve. Der er <hi rend="italics">intet</hi> Forsvar for den,<app>
+                  <lem>som</lem>
+                  <rdg>De to første bogstaver er rettet fra: u</rdg>
+               </app>, uden at hjælpe, sér denne Elendighed. I kan jo blot tie.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

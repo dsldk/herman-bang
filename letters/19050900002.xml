@@ -1,130 +1,131 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19050900002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 974</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Oluf Heise</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1905-03-28">1905, cirka september?<note>Ud fra håndskrift og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050900002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 974</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1905-03-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1905-03-28">1905, cirka september?<note>Ud fra håndskrift og
                         flere af brevets oplysninger foreslås en datering til sensommer 1905 ‒ og
                         forud for kontrakten i oktober 1905 med Casino om at være fast
                         sceneinstruktør ved teatret</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Gamle Kongevej 25</p>
-                <p rend="right">København. B.</p>
-                <p>Kære Hr. Heise.</p>
-                <p>Jeg maa komme og hyle for Dem. For hele det sidste Halvaar har været en bundløs
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gamle Kongevej 25</p>
+            <p rend="right">København. B.</p>
+            <p>Kære Hr. Heise.</p>
+            <p>Jeg maa komme og hyle for Dem. For hele det sidste Halvaar har været en bundløs
                     Elendighed af en Grund, som jeg er uden Skyld i. Da jeg holdt op at »læse
-                        op«<note>Bang havde selv proklameret sin store oplæsningsturné rundt i
-                        landet 3.1.-19.4.1905 som afslutningen på sin oplæsningsvirksomhed</note>,
-                    havde jeg ordnet alt, saa jeg kunde komme ud af det: Forlaget<note>Bangs forhold
-                        til Gyldendal</note> ‒ »København«<note>Avisen København. hvor Bang siden
-                        1902 var journalistisk bidragyder</note> ‒ Kasino<note>Teatret Casino,
-                        Amaliegade i København. Ifølge en notits i Politiken 1.8.1905 blev Bang fra
-                        denne dag litterær konsulent for Casino; måske denne aftale glippede senere
-                        i august...??? I oktober 1905 blev han knyttet til Casino som
-                        sceneinstruktør og virkede som sådan frem til maj 1907</note>.</p>
-                <p>Men saa glap Kasino, hvor jeg havde Slutseddel om 2600 om Aaret og <app>
-                        <lem>maanedlig</lem>
-                        <rdg>Bang havde skrevet: maanedlige, men har overstreget det sidste e</rdg>
-                    </app> Udbetaling af »Gagen«. Jeg fik ikke Kontrakt, maatte lade mig sjofle ‒ og
+                        op«<ref target="n1"/>,
+                    havde jeg ordnet alt, saa jeg kunde komme ud af det: Forlaget<ref target="n2"/> ‒ »København«<ref target="n3"/> ‒ Kasino<ref target="n4"/>.</p>
+            <p>Men saa glap Kasino, hvor jeg havde Slutseddel om 2600 om Aaret og <app>
+                  <lem>maanedlig</lem>
+                  <rdg>Bang havde skrevet: maanedlige, men har overstreget det sidste e</rdg>
+               </app> Udbetaling af »Gagen«. Jeg fik ikke Kontrakt, maatte lade mig sjofle ‒ og
                     stod der. Det var i de Dage jeg skrev til Dem og fik halvtreds Kroner. Men hele
                     min Sommer blev ødelagt i den Grad, at jeg havde ikke et glad Døgn og tilsidst
                     blev jeg syg, saa Lægen, som sædvanlig, paabød Luftforandring, og jeg rejste
-                        hjem<note>Bang mener muligvis: hjem fra Marienlyst, hvor han opholdt sig
-                        juni-august 1905</note>. Men her er det kun blevet værre og jeg er en hel
-                    Maaned tilbage med alting ‒ endogsaa med min Søster<note>Bang sigter til sin
-                        løbende huslejebetaling til søsteren Nini Holst (1853-1922); siden 1900
-                        boede de to i den samme lejlighed, Gammel Kongevej 25</note>, hvad der er
+                        hjem<ref target="n5"/>. Men her er det kun blevet værre og jeg er en hel
+                    Maaned tilbage med alting ‒ endogsaa med min Søster<ref target="n6"/>, hvad der er
                     det forskrækkeligste af det Hele. Og nu staar jeg foran den store Styrkeprøve:
-                    den nye Bog<note>Bangs roman De uden Fædreland ‒, der udkom 4.12.1906 hos
-                        Gyldendal</note>. Det er grufuldt og ufortjent. Og jeg skal ogsaa betale
-                        Rodemesteren<note>I byerne i datidens Danmark var en rodemester
-                        skatteopkræver i en bestemt bydel (rode)</note>, som har sat mig op i Skat.
+                    den nye Bog<ref target="n7"/>. Det er grufuldt og ufortjent. Og jeg skal ogsaa betale
+                        Rodemesteren<ref target="n8"/>, som har sat mig op i Skat.
                     I fast Indtægt har jeg jo ‒ trods Kasinos Svigten ‒ saa meget, at jeg vel kan
                     klare det. Men naar jeg først var i Gang.... Naa, nu har jeg hylet og vil holde
                     op. For det er kun urimeligt at hyle for andre.</p>
-                <p>Hos Dahls<note>Olga og Kristian Dahl</note> sagde de, at De og Fru
-                        Heise<note>>Inger Heise (1864-1932), født Groot, gift 1893 med
-                        overretssagfører Oluf Heise, København</note> var i Hornbæk men nu snart
-                    flyttede hen paa Nyvej<note>Nyvej på Frederiksberg</note>. Gud ske Tak. Saa kan
+            <p>Hos Dahls<ref target="n9"/> sagde de, at De og Fru
+                        Heise<ref target="n10"/> var i Hornbæk men nu snart
+                    flyttede hen paa Nyvej<ref target="n11"/>. Gud ske Tak. Saa kan
                     jeg da komme og besøge Dem ligesom paa Niels Ebbesensvej.</p>
-                <p>Mange Hilsener til Fru Heise og Dem selv</p>
-                <p rend="right">‒ H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Mange Hilsener til Fru Heise og Dem selv</p>
+            <p rend="right">‒ H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

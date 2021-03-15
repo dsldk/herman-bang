@@ -1,102 +1,111 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18981201001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Dateringen »1/12 98« er tilføjet med blyant, formodentlig af
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18981201001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »1/12 98« er tilføjet med blyant, formodentlig af
                                         Aage Hirschsprung</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1898-12-01">[1898, 1. december] Torsdag <note>empty</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Torsdag.</p>
-                <p>Kære H.</p>
-                <p>Vil De ikke sende et Eksemplar af »Ved Vejen«<note>Den første selvstændige
-                        bogudgave var udkommet 9.11.1898 på Det Schubotheske Forlag</note> til</p>
-                <p>Hrn. S. Fischer<note>Den tyske forlægger Samuel Fischer (1859-1934), der i 1886
-                        havde grundlagt S. Fischer Verlag, Berlin</note></p>
-                <p>Berlin. W.</p>
-                <p>Bülowstrasse 91.</p>
-                <p>Imorgen faar De Resten af »Den Hvide Paaske«<note>Bangs novelle med denne titel
-                        blev trykt som føljeton i Hver 8. Dag mellem 23.10. og 4.12.1898; med ny
-                        titel »En Fortælling om Lykken« gjorde Bang den til den første af tre
-                        noveller i <emph>Liv og Død</emph>, der udkom 13.5.1899 på Det Schubotheske
-                        Forlag</note>, som skal hedde »En Fortælling om Lykken«. Vil De give
-                        Sofie<note>Sofie, Bangs husholderske og tjenestepige</note> femten Kr.</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-12-01">[1898, 1. december] Torsdag <note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Kære H.</p>
+            <p>Vil De ikke sende et Eksemplar af »Ved Vejen«<ref target="n1"/> til</p>
+            <p>Hrn. S. Fischer<ref target="n2"/>
+            </p>
+            <p>Berlin. W.</p>
+            <p>Bülowstrasse 91.</p>
+            <p>Imorgen faar De Resten af »Den Hvide Paaske«<ref target="n3"/>, som skal hedde »En Fortælling om Lykken«. Vil De give
+                        Sofie<ref target="n4"/> femten Kr.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

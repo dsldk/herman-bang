@@ -1,100 +1,118 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18891223001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 190</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1899-12-23" notBefore="9999-99-99" notAfter="9999-99-99">[1889. 23. december, cirka]<note>Brevet må være skrevet nogle
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18891223001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 190</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Odense?]</placeName>
+               <date when="1899-12-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1899-12-23"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1889. 23. december, cirka]<note>Brevet må være skrevet nogle
                   dage efter brevet 1889. 19. december. . Hvis den foreslåede datering holder stik, er det
                   påfaldende, at julen ikke omtales, – men kan måske skyldes Bangs psykiske
                   tilstand</note>
-                </date>
-                <placeName cert="low">[Odense?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Nansen.</p>
-                <p>Har du ikke faaet mit Brev<note>Sigter til 18891219001</note> eller har du anset det
-               for <emph>saa</emph> umuligt, at du ikke har fundet det nødigt at svare? Jeg vil da,
+            </date>
+            <placeName cert="low">[Odense?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Nansen.</p>
+            <p>Har du ikke faaet mit Brev<ref target="n1"/> eller har du anset det
+               for <hi rend="italics">saa</hi> umuligt, at du ikke har fundet det nødigt at svare? Jeg vil da,
                om Pengene til Rejsen ej kan skaffes, helst paa en Sindssygeanstalt – hvor vel
                Journalistforeningen betalte nogen Tid –, ti denne Tilstand er ej at bære. Om jeg
                rejste direkte til <placeName key="Roskilde">Roskilde</placeName>, kunde jeg vel
-               melde mig selv paa Hospitalet<note>Sankt Hans Hospital ved Boserup Skov umiddelbart
-                  uden for Roskilde var en behandlingsinstitution for sindslidende, i datiden kaldet
-                  sindssygeanstalt</note>. Men jeg vilde jo gerne høre fra dig først. Jeg kan ikke
+               melde mig selv paa Hospitalet<ref target="n2"/>. Men jeg vilde jo gerne høre fra dig først. Jeg kan ikke
                skrive mere, da det koster mig saa stort Besvær.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-                <p>Hils.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+            <p>Hils.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

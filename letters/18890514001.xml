@@ -1,126 +1,132 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18890514001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 5159, 4to. Blyantsnummer 2</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Margarethe Jørgensen, født
-                                        Dreyer</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Et par blyantsnotitser på brevet er sandsynligvis skrevet af
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890514001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5159, 4to. Blyantsnummer 2</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Et par blyantsnotitser på brevet er sandsynligvis skrevet af
                                         modtagerens søn, arkitekt Carl Jørgensen (1888-1973), som i
                                         1967 afleverede de breve, som Bang havde skrevet til hans
                                         forældre, til Det Kgl. Bibliotek. Disse blyantsnotitser
                                         identificerer fejlagtigt Bangs netop afsluttede bog med
                                         »(Fædra)«, og brevet er derfor ligeså fejlagtigt foreslået
                                         dateret til »[18]83«</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1889-05-14">[1889, 14. maj] Tirsdag <note>Oplysningen om at
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Nakskov]</placeName>
+               <date when="1889-05-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Margarethe Jørgensen, født
+                                        Dreyer</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-05-14">[1889, 14. maj] Tirsdag <note>Oplysningen om at
                         Bang netop var færdig med at skrive romanen Tine peger ifølge andre kilder
                         på dagene midt i maj 1889</note>
-                </date>
-                <placeName cert="high">[Nakskov]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Kære Ven.</p>
-                <p>Desværre har jeg kun en Hjobspost<note>Dvs. en ubehagelig nyhed, et sørgeligt
-                        budskab</note> at melde ‒ siden jeg kom her, den største.</p>
-                <p>De kendte min Situation, som den var, da jeg var i Maribo i Lørdags. De véd, jeg
-                    skulde tilbringe denne Uge med at skrive en Novelle til en Almanak<note>Uoplyst
-                        hvilken almanak der var tale om</note>. Prisen var aftalt til 200 Kroner.
-                    Igaar faar jeg ‒ min Bog blev færdig igaar<note>Dvs. Bangs manuskript til
-                        romanen Tine</note> ‒ Underretning om, at Forlæggeren af Almanaken er død og
+            </date>
+            <placeName cert="high">[Nakskov]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Ven.</p>
+            <p>Desværre har jeg kun en Hjobspost<ref target="n1"/> at melde ‒ siden jeg kom her, den største.</p>
+            <p>De kendte min Situation, som den var, da jeg var i Maribo i Lørdags. De véd, jeg
+                    skulde tilbringe denne Uge med at skrive en Novelle til en Almanak<ref target="n2"/>. Prisen var aftalt til 200 Kroner.
+                    Igaar faar jeg ‒ min Bog blev færdig igaar<ref target="n3"/> ‒ Underretning om, at Forlæggeren af Almanaken er død og
                     man har ikke mere Brug for ‒ Novellen!</p>
-                <p>Det var med disse Penge, jeg skulde komme hæderlig herfra. Det var disse Penge,
+            <p>Det var med disse Penge, jeg skulde komme hæderlig herfra. Det var disse Penge,
                     der skulde betale mine Klæder, min Rest af Regning og min Rejse.</p>
-                <p>Nu skal altsaa denne By have Lov til at kalde mig en Slubbert og en Slyngel ‒
+            <p>Nu skal altsaa denne By have Lov til at kalde mig en Slubbert og en Slyngel ‒
                     efter at jeg i fire Maaneder har fuldendt under saa usigelige Anstrængelser en
                     stor Bog.</p>
-                <p>Dødskampen kan ikke være forfærdeligere end de moralske Lidelser, som belejrer
+            <p>Dødskampen kan ikke være forfærdeligere end de moralske Lidelser, som belejrer
                     mig. Jeg hverken spiser eller sover. Og der er ikke en Gang Tid til at faa
                     Pengene fra Norge ‒ hvor jeg jo nok kunde faa Forskud paa mine Forelæsninger.
                     Men nu er det umuligt.</p>
-                <p>Aa ‒ Gud. Under de Forhold tror jeg ikke, jeg kommer til Maribo. I Virkeligheden
+            <p>Aa ‒ Gud. Under de Forhold tror jeg ikke, jeg kommer til Maribo. I Virkeligheden
                     er jeg knækket.</p>
-                <p>Og fra ingen faar jeg Svar eller Bud.</p>
-                <p>Lev vel. Giv mig Lov til at maatte jamre min Nød. Er Arkitekten<note>Bang
-                        hentyder sikkert til Margarethe Jørgensens mand Peder Jørgensen, der var
-                        arkitekt i Maribo</note> allerede paa Bornholm? Ja ‒ paa Onsdag Aften
-                        <emph>skal</emph> jeg staa i Rønne<note>Bang optrådte med en sanger og en
-                        pianistinde i bornholmske byer i dagene 20.-25.5.1889. Denne turné skildrede
-                        han siden meget selvironisk i »Kunstrejse paa Bornholm«, trykt i hans bog Ti
-                        Aar, 1891</note>. Hvor Livet er let at leve og at bære.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Og fra ingen faar jeg Svar eller Bud.</p>
+            <p>Lev vel. Giv mig Lov til at maatte jamre min Nød. Er Arkitekten<ref target="n4"/> allerede paa Bornholm? Ja ‒ paa Onsdag Aften
+                        <hi rend="italics">skal</hi> jeg staa i Rønne<ref target="n5"/>. Hvor Livet er let at leve og at bære.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

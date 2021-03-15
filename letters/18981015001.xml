@@ -1,131 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18981015001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1898-10-15">[1898, 15. oktober] Lørdag
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18981015001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-10-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-10-15">[1898, 15. oktober] Lørdag
                         <note>Dateringsforslaget bygger bl.a. på premieren på »Første Violin« på
                         Folketeatret 18.10.1898</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lørdag.</p>
-                <p>Kære Hirschsprung.</p>
-                <p>Jeg sender her Begyndelsen til »Den hvide Paaske«<note>Bangs novelle blev med
-                        denne titel trykt som føljeton i Hver 8. Dag mellem 23.10. og 4.12.1898; med
-                        ny titel »En Fortælling om Lykken« gjorde Bang den til den første af tre
-                        noveller i <emph>Liv og Død</emph>, der udkom 13.5.1899 på Det Schubotheske
-                        Forlag</note> ‒ en Fjerdedel af hvad jeg har skrevet. Det øvrige er ikke
-                    sat, fordi Sven Lange først skulde have offenliggjort en Komedie<note>Sven Lange
-                        (1868-1930); måske har bogtrykkeriet ‒ Thieles Bogtrykkeri ‒ været
-                        midlertidigt optaget af at sætte og trykke Langes komedie <emph>Iris eller
-                            Den usaarlige Frue</emph>, som havde premiere på Det Kongelige Teater
-                        7.10.1898</note>. Naar jeg sender det, er det... Nej, først om
-                    Slutningskorrekturen til »Det hvide Hus«<note>Bangs roman, der udkom 26.11.1898
-                        på Det Schubotheske Forlag</note>. Den er meget anstrængende og »Første
-                    Violin« har taget al min Tid<note>Bang iscenesatte komedien »Første Violin«, der
-                        havde premiere på Folketeatret 18.10.1898; den er skrevet af Gustav Wied og
-                        Jens Petersen og blev en stor publikumssucces</note>. Men naar den paa
-                    Onsdag er spillet ud<note>Onsdag 19.10.1898, altså dagen efter premieren på
-                        »Første Violin«</note>, skal De faa den. Jeg sender »Paasken«, fordi jeg ‒
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Jeg sender her Begyndelsen til »Den hvide Paaske«<ref target="n1"/> ‒ en Fjerdedel af hvad jeg har skrevet. Det øvrige er ikke
+                    sat, fordi Sven Lange først skulde have offenliggjort en Komedie<ref target="n2"/>. Naar jeg sender det, er det... Nej, først om
+                    Slutningskorrekturen til »Det hvide Hus«<ref target="n3"/>. Den er meget anstrængende og »Første
+                    Violin« har taget al min Tid<ref target="n4"/>. Men naar den paa
+                    Onsdag er spillet ud<ref target="n5"/>, skal De faa den. Jeg sender »Paasken«, fordi jeg ‒
                     desværre ‒ idag igen maa bede om Husholdningspenge. Teatret har
-                        Landesorg<note>Dronning Louise var død 29.9.1898 og danske teatre har
-                        formentlig været lukket i en periode med landesorg</note> og ‒ ‒ til idag
-                    har Johan Knudsen<note>Johan Knudsen (1865-1942), ejer 1891-1909 af godset
-                        Bangsbo ved Frederikshavn, bror til Dagmarteatrets direktør C.
-                        Riis-Knudsen</note> meldt sig til at bo her!!! Midt under mine Anstrængelser
-                    for hans Venners Stykke<note>Forfatterne Gustav Wied og Jens Petersen tilhørte
-                        begge Bangsbokredsen, i lighed med Herman Bang selv</note> jager han mig ud
+                        Landesorg<ref target="n6"/> og ‒ ‒ til idag
+                    har Johan Knudsen<ref target="n7"/> meldt sig til at bo her!!! Midt under mine Anstrængelser
+                    for hans Venners Stykke<ref target="n8"/> jager han mig ud
                     af min Seng og jeg maa ligge paa en Chaiselongue.....</p>
-                <p>Hvis dette ikke var saa komisk, vilde det være ret besynderligt.</p>
-                <p>De maa give Budet de halvtreds. Resten af »Paasken« har Grøn<note>George C. Grøn,
-                        (1864-1923), der fra oktober 1897 var redaktør af ugebladet Hver 8. Dag, som
-                        blev udgivet af Gyldendal. Bangs novelle »Den hvide Paaske« blev trykt som
-                        føljeton i seks dele, Hver 8. Dag, mellem 23.10. og 4.12.1898</note> lovet
-                    til Onsdag. Med den tredje Novelle<note>Bang sigter til »En Fortælling om
-                        Elskov«, der på dette tidspunkt endnu ikke var skrevet</note> ‒ den fra
-                        »Danmark«<note>Bangs novelle »Gamle Folk« blev trykt i <emph>Danmark.
-                            Illustreret Familiealmanak for 1899</emph>, som udkom 1.12.1898. Denne
-                        novelle gav Bang senere titlen »En Fortælling om dem der skal dø«, og den
-                        indgik som den tredje i hans bog <emph>Liv og Død</emph>, der udkom
-                        13.5.1899 på Det Schubotheske Forlag</note> er altsaa No. 1 ‒ bliver det et
-                        Bind<note>Nemlig bogen <emph>Liv og Død</emph>. Det Schubotheske Forlag
-                        1899</note>.</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Hvis dette ikke var saa komisk, vilde det være ret besynderligt.</p>
+            <p>De maa give Budet de halvtreds. Resten af »Paasken« har Grøn<ref target="n9"/> lovet
+                    til Onsdag. Med den tredje Novelle<ref target="n10"/> ‒ den fra
+                        »Danmark«<ref target="n11"/> er altsaa No. 1 ‒ bliver det et
+                        Bind<ref target="n12"/>.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

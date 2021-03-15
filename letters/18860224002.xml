@@ -1,137 +1,154 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860224002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 398</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 5 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-02-24">1886, 24. Februar [onsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Wien. 24.2.86.</p>
-                <p>Kære Kammerraad.</p>
-                <p>Takke Dem ‒ kan jeg <emph>nu</emph> ikke. Men der kommer vel den Tid.</p>
-                <p>Efter Deres Raad tog jeg over München pg blev der en Nat og nogle Timer af en Dag
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860224002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 398</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 5 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-02-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-02-24">1886, 24. Februar [onsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien. 24.2.86.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Takke Dem ‒ kan jeg <hi rend="italics">nu</hi> ikke. Men der kommer vel den Tid.</p>
+            <p>Efter Deres Raad tog jeg over München pg blev der en Nat og nogle Timer af en Dag
                     for at tale med Schorer. Jeg talte meget indtrængende med ham og sagde ham:</p>
-                <p><emph>at</emph> jeg, hvis jeg kunde levere en »Serie wöchenlicher Novellen« for
-                    Familienblatt« vilde gaa ind paa <emph>ikke</emph> at skrive i andre tyske
-                        <emph>Ugeblade</emph>. Derimod frit i Tysklands Dagblade.</p>
-                <p><emph>at</emph> jeg i modsat Fald maatte forsøge at knytte andre
+            <p>
+               <hi rend="italics">at</hi> jeg, hvis jeg kunde levere en »Serie wöchenlicher Novellen« for
+                    Familienblatt« vilde gaa ind paa <hi rend="italics">ikke</hi> at skrive i andre tyske
+                        <hi rend="italics">Ugeblade</hi>. Derimod frit i Tysklands Dagblade.</p>
+            <p>
+               <hi rend="italics">at</hi> jeg i modsat Fald maatte forsøge at knytte andre
                     Forbindelser.</p>
-                <p>De øvrige Forhandlinger vilde <emph>De</emph> føre.</p>
-                <p>Jeg forpligtede mig til, hvis Schorer <app>
-                        <lem>ikke</lem>
-                        <rdg>Bang har tilsyneladende glemt at skrive: vil gaa</rdg>
-                    </app> ind paa Serie i denne Form i Løbet af den allernærmeste Tid at levere
+            <p>De øvrige Forhandlinger vilde <hi rend="italics">De</hi> føre.</p>
+            <p>Jeg forpligtede mig til, hvis Schorer <app>
+                  <lem>ikke</lem>
+                  <rdg>Bang har tilsyneladende glemt at skrive: vil gaa</rdg>
+               </app> ind paa Serie i denne Form i Løbet af den allernærmeste Tid at levere
                     endnu fire Noveller, for at der kunde være Stof nok.</p>
-                <p>For at hidse Manden for Planen gav jeg ham Løfte om »Hendes Høihed«. Jeg sagde
+            <p>For at hidse Manden for Planen gav jeg ham Løfte om »Hendes Høihed«. Jeg sagde
                     fremdeles, at »Fels und Meer« havde nogle Billeder fra København, til hvilke der
                     skulde skrives Tekst. (Jeg gjorde naturligvis dette for at fremtvinge en
-                    Afgørelse.) Schorer bad mig <emph>foreløbig</emph> at lade dette være, til han
-                    havde talt med Dem og Dr. H.<note>... Hirsch (18....</note></p>
-                <p>To Gange maanedlig vilde han gerne have Wiener-Dame-Breve.</p>
-                <p>Jeg bad ham sørge for Billeder fra Brüssel, hvor jeg vil lade en længere Novelle
+                    Afgørelse.) Schorer bad mig <hi rend="italics">foreløbig</hi> at lade dette være, til han
+                    havde talt med Dem og Dr. H.<ref target="n1"/>
+            </p>
+            <p>To Gange maanedlig vilde han gerne have Wiener-Dame-Breve.</p>
+            <p>Jeg bad ham sørge for Billeder fra Brüssel, hvor jeg vil lade en længere Novelle
                     spille, og fra Ostende, som vi maa til at tænke paa nu, hvor Foraar med
                     Sommerbestemmelser nærmer sig.</p>
-                <p>Schorer vilde nu tale med Dem.</p>
-                <p><emph>En</emph> Ting ligger mig haardest paa Sinde: at, kære Kammerraad,
-                        <emph>Deres</emph> Sager ordnes vis-à-vis <app>
-                        <lem>Schorer</lem>
-                        <rdg>Bang har ved en fejl stavet: Shorer</rdg>
-                    </app>. Grib dog nu Leiligheden.</p>
-                <p>Jeg ved ikke, hvorfra disse 300 Mark var skaffet. Men <emph>det</emph> ved jeg,
-                    at <emph>De</emph> nu maa have Deres Honorarer. Jeg lider for meget ved at tænke
+            <p>Schorer vilde nu tale med Dem.</p>
+            <p>
+               <hi rend="italics">En</hi> Ting ligger mig haardest paa Sinde: at, kære Kammerraad,
+                        <hi rend="italics">Deres</hi> Sager ordnes vis-à-vis <app>
+                  <lem>Schorer</lem>
+                  <rdg>Bang har ved en fejl stavet: Shorer</rdg>
+               </app>. Grib dog nu Leiligheden.</p>
+            <p>Jeg ved ikke, hvorfra disse 300 Mark var skaffet. Men <hi rend="italics">det</hi> ved jeg,
+                    at <hi rend="italics">De</hi> nu maa have Deres Honorarer. Jeg lider for meget ved at tænke
                     paa, at De i al Evighed maa vente.</p>
-                <p>Jeg synes, De skrev, vi skulde have 340 Mark for Arket. Deraf er jo Halvdelen
-                    Deres. <emph>Slaa dette fast</emph>. Og hvad den anden Halvdel angaar, da opnaa,
-                    at den i den <emph>første Tid</emph> ‒ hvor min Stilling er saa vanskelig ‒
-                        <emph>deles</emph>, saa at jeg modtager Halvdelen; Halvdelen (altsaa
+            <p>Jeg synes, De skrev, vi skulde have 340 Mark for Arket. Deraf er jo Halvdelen
+                    Deres. <hi rend="italics">Slaa dette fast</hi>. Og hvad den anden Halvdel angaar, da opnaa,
+                    at den i den <hi rend="italics">første Tid</hi> ‒ hvor min Stilling er saa vanskelig ‒
+                        <hi rend="italics">deles</hi>, saa at jeg modtager Halvdelen; Halvdelen (altsaa
                     Kvartparten af det hele) gaar til TIlbagebetaling. Sender jeg ogsaa
                     »Wiener-Breve«, kan vi dog vel regne 1½ à 2 Ark maanedlig.</p>
-                <p>Schorer sagde mig, at No. 10-11 begge havde <emph>to</emph> Bidrag fra os under
+            <p>Schorer sagde mig, at No. 10-11 begge havde <hi rend="italics">to</hi> Bidrag fra os under
                     forskellige Mærker.</p>
-                <p>Om »Berlineren« talte jeg <emph>ikke</emph>. <emph>Der</emph> har De ene
+            <p>Om »Berlineren« talte jeg <hi rend="italics">ikke</hi>. <hi rend="italics">Der</hi> har De ene
                     Bestemmelsesretten. Send mig Manuskriptet tilbage.</p>
-                <p>Ministeren var i Meiningen selv hos mig og sagde mig, at han havde givet
+            <p>Ministeren var i Meiningen selv hos mig og sagde mig, at han havde givet
                     Hertugdømmets Presse Ordrer til at tie om min Udvisning.</p>
-                <p>Lev nu vel ‒ kære Kammerraad ‒ og Tak. Vær ikke altfor utaalmodig. Selv lider jeg
+            <p>Lev nu vel ‒ kære Kammerraad ‒ og Tak. Vær ikke altfor utaalmodig. Selv lider jeg
                     grusomst under alt dette.</p>
-                <p>Jeg vilde gerne skrive mer ‒ men mit Hoved taaler det ikke.</p>
-                <p rend="right">H. de B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Jeg vilde gerne skrive mer ‒ men mit Hoved taaler det ikke.</p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

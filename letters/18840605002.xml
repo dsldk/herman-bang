@@ -1,110 +1,122 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18840605002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 52</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1884-06-05" notBefore="9999-99-99" notAfter="9999-99-99">[1884] 5.juni, Torsdag<note>Sendt under Herman Bang
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840605002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 52</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Hjørring?]</placeName>
+               <date when="1884-06-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1884-06-05"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884] 5.juni, Torsdag<note>Sendt under Herman Bang
                   Tourneen 3.-12. juni 1884, som skuespiller Johannes Marer deltog i</note>
-                </date>
-                <placeName cert="low">[Hjørring?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Torsdag 5 Juni.</p>
-                <p>Kære Peter!</p>
-                <p>Jeg lader <persName key="Marer, Johannes">Marer</persName>
-                    <note>Johannes Marer (1861-1922), skuespiller, debut 1883 på Casino, del af Herman Bang Tourneen i juni 1884, hvorefter han virkede ved Folketeatret 1884-87</note> skrive uden alle Deklamationer, da jeg selv er for syg
-               dertil. Hvad der er sket, lader sig ikke redressere<note>Af fr.: genoprette, råde bod
-                  på</note>; det gør mig kun meget ondt for dem, der er med mig. Jeg betragter
-               uvægerligt dette som en Afslutning, ti Mængden har altid Ret<note>Måske en allusion
-                  til den norske dramatiker <persName key="Ibsen, Henrik">Henrik Ibsen</persName>s skuespil <title key="En folkefjende">En folkefjende</title> (1882). Under en central debat i
-                  stykket (i 4. akt) udbryder redaktør Hovstad: "Flertallet har altid retten på sin
-                  side", mens det i doktor Stockmanns lidenskabelige svarreplik bl.a. hedder:
-                  "Flertallet har <emph>magten</emph> – desværre –; men <emph>retten</emph> har det
-                  ikke. Retten har jeg og de andre få, de enkelte. Minoriteten har altid
-                  retten"</note>, og det er umuligt at overbevise den. Naturligvis forlader jeg
+            </date>
+            <placeName cert="low">[Hjørring?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag 5 Juni.</p>
+            <p>Kære Peter!</p>
+            <p>Jeg lader <persName key="Marer_Johannes">Marer</persName>
+               <ref target="n1"/> skrive uden alle Deklamationer, da jeg selv er for syg
+               dertil. Hvad der er sket, lader sig ikke redressere<ref target="n2"/>; det gør mig kun meget ondt for dem, der er med mig. Jeg betragter
+               uvægerligt dette som en Afslutning, ti Mængden har altid Ret<ref target="n3"/>, og det er umuligt at overbevise den. Naturligvis forlader jeg
                Nationaltidende, min Forbliven i det offentlige Liv paa den Maade, vilde alt for ofte
                minde mig om et skrækkeligt Nederlag, ti mine Fjender vilde ikke vise nogen Skaansel.
-               Jeg har i de sidste Dage tænkt meget paa Børnenes og <persName key="Astrup, Ida Marie">Fruens</persName>
-                    <note>Jordemoder Ida Marie Astrup (født ca. 1845), der
-                  var enke og enlig mor til Louise (født ca. 1874) og Ida (født ca. 1877). Hun var i 1881-83 udlejer og husbestyrerinde for Herman Bang, Frederiksborggade 28, 1.sal, København</note> ulykkelige Stilling, selv
+               Jeg har i de sidste Dage tænkt meget paa Børnenes og <persName key="Astrup_Ida_Marie">Fruens</persName>
+               <ref target="n4"/> ulykkelige Stilling, selv
                vil jeg jo for Fremtiden ikke kunne gøre noget for dem. Jeg ønsker hurtigst at spille
                i Roeskilde og beder dig gøre alt, for at saa mange som mulig tager derhen. Det er et
                Venskabsbevis, hvorom jeg beder jer: dér vil i det mindste findes en og anden, der
                forstaar, at det har været min Persons Kamp for at overbevise andre, som har ført til
                alt dette.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,116 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19100615001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2009/148. Det 51.brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Olga Dahl</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider, med tilhørende kuvert, frankeret med
-                                                et 10 øres frimærke, poststemplet: <emph>Rønne
-                                                  16.6.10.12-2E</emph> og postvæsenets
-                                                modtagerstempel på bagsiden: <emph>Kjøbenhavn 1.OMB
-                                                  [...]</emph>; udskrift i Bangs håndskrift:
-                                                  <emph>Fru Olga Dahl. / København. K. /
-                                                  Frederiksborggade.</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Øverst på kuverten med blyant i fremmed hånd:
-                                            <emph>16-6-10</emph>, rimeligvis skrevet af Olga
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19100615001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 51.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider, med tilhørende kuvert, frankeret med
+                                                et 10 øres frimærke, poststemplet: <hi rend="italics">Rønne
+                                                  16.6.10.12-2E</hi> og postvæsenets
+                                                modtagerstempel på bagsiden: <hi rend="italics">Kjøbenhavn 1.OMB
+                                                  [...]</hi>; udskrift i Bangs håndskrift:
+                                                  <hi rend="italics">Fru Olga Dahl. / København. K. /
+                                                  Frederiksborggade.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Øverst på kuverten med blyant i fremmed hånd:
+                                            <hi rend="italics">16-6-10</hi>, rimeligvis skrevet af Olga
                                         Dahl</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1910-06-15">1910, 15. Juni [onsdag] <note>Bang turnerede i
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Rønne</placeName>
+               <date when="1910-06-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1910-06-15">1910, 15. Juni [onsdag] <note>Bang turnerede i
                         Bornholms byer i juni 1910. Et eftersyn i lokale avisomtaler må kunne vise,
                         om han optrådte alene eller som del af en trup ... ?</note>
-                </date>
-                <placeName cert="high">Rønne</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Rønne. <app>
-                        <lem>15.6.1910</lem>
-                        <rdg>6-tallet er rettet fra: 10</rdg>
-                    </app></p>
-                <p>Min egen Ven.</p>
-                <p>Det er ikke gaaet løs endnu. Men imorgen begynder det ‒ i Nexø. Paa Grund af
-                        »Bjørnehjælp«<note>Formodentlig Bangs humoristiske ord for den årlige
-                        Børnehjælpsdag</note> her. Saa bliver jeg ved i syv Dage, tagende den ganske
+            </date>
+            <placeName cert="high">Rønne</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Rønne. <app>
+                  <lem>15.6.1910</lem>
+                  <rdg>6-tallet er rettet fra: 10</rdg>
+               </app>
+            </p>
+            <p>Min egen Ven.</p>
+            <p>Det er ikke gaaet løs endnu. Men imorgen begynder det ‒ i Nexø. Paa Grund af
+                        »Bjørnehjælp«<ref target="n1"/> her. Saa bliver jeg ved i syv Dage, tagende den ganske
                     Ø, ogsaa Gudhjem.</p>
-                <p>Heden er uudholdelig og bogstavelig hver Mundfuld jeg faar ned, kaster jeg op
+            <p>Heden er uudholdelig og bogstavelig hver Mundfuld jeg faar ned, kaster jeg op
                     igen. Saadan har det været, siden jeg kom hertil. Den tyske Dame, som var i
                     København, arriverede ‒ hertil Tirsdag Morgen og har, som det synes, sluttet sig
-                    til Truppen. Det er en ny »Elise«<note>... ?? ...</note>. Det var det eneste,
+                    til Truppen. Det er en ny »Elise«<ref target="n2"/>. Det var det eneste,
                     jeg trængte til.</p>
-                <p>Men <emph>De</emph>? Skal De og Søster<note>Signe Dahl (født ca. 1890), kaldet
-                        Søster, yngste datter af Olga og Kristian Dahl</note> sidde den ganske Tid i
+            <p>Men <hi rend="italics">De</hi>? Skal De og Søster<ref target="n3"/> sidde den ganske Tid i
                     den gloende By. Det er da for rædselsfuldt. Skriv mig et lille Ord til Allinge.
                     Tusind Hilsener</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">Herman B</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman B</p>
+         </div>
+      </body>
+   </text>
 </TEI>

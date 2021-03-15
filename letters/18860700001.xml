@@ -1,129 +1,143 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860700001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Brevpapiret har Bang først benyttet i sit skønlitterære
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860700001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Brevpapiret har Bang først benyttet i sit skønlitterære
                                         arbejde. På brevets sidste side har han overstreget følgende
                                         ufuldendte sætning, skrevet på en anden led af papiret:
-                                            »<emph>Saadan</emph> skulde de gaa«</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-07-01">[1886. juli] Fredag<note>... eller måske snarere
+                                            »<hi rend="italics">Saadan</hi> skulde de gaa«</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-07-01">[1886. juli] Fredag<note>... eller måske snarere
                         fra juni 1886 ??</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Fredag.</p>
-                <p>Kære Jules.</p>
-                <p>Tak for dit Brev. Jeg beklager sikkert <emph>mest</emph>, at jeg ikke har kunnet
-                    arbeide paa min Bog. Det er mig ligegyldigt, naar And:<note>Andreas Schou</note>
-                    nu trykker den, men det er mig nødvendigt, at han <emph>betaler</emph> den Ark
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Jules.</p>
+            <p>Tak for dit Brev. Jeg beklager sikkert <hi rend="italics">mest</hi>, at jeg ikke har kunnet
+                    arbeide paa min Bog. Det er mig ligegyldigt, naar And:<ref target="n1"/>
+                    nu trykker den, men det er mig nødvendigt, at han <hi rend="italics">betaler</hi> den Ark
                     for Ark.</p>
-                <p>Hør, om den Mand har Grund til Vrede.</p>
-                <p>Ingen Forlægger ‒ større ‒ i Verden vilde under alle de Skæbner som her har ramt <app>
-                        <lem>mig</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app>, <emph>for sit eget Renomées Skyld</emph> (spørg en Gang Larsen hos
-                    Hegel) have undgaaet at understøtte mig med <emph>tusind</emph>.
-                        And:<note>Andreas Schou</note> har givet <emph>et</emph> hundrede. Jeg har
+            <p>Hør, om den Mand har Grund til Vrede.</p>
+            <p>Ingen Forlægger ‒ større ‒ i Verden vilde under alle de Skæbner som her har ramt <app>
+                  <lem>mig</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app>, <hi rend="italics">for sit eget Renomées Skyld</hi> (spørg en Gang Larsen hos
+                    Hegel) have undgaaet at understøtte mig med <hi rend="italics">tusind</hi>.
+                        And:<ref target="n2"/> har givet <hi rend="italics">et</hi> hundrede. Jeg har
                     ikke bedt om mere. Men naar han nu er »smækvred« fordi jeg for at rette mig har
                     slidt mig op i Artikler, som jeg ofte har skrevet mellem to Besvimelser (ti
                     saadan er min Tilstand og har den været her i Wien) ‒ da er det
-                        <emph>stærkt</emph>. Da »I Krogene« begyndtes, sad jeg i Meiningen og kunde
-                    ikke vide, hvad videre ske vilde. <emph>Nu</emph> skriver jeg igen, skønt jeg
+                        <hi rend="italics">stærkt</hi>. Da »I Krogene« begyndtes, sad jeg i Meiningen og kunde
+                    ikke vide, hvad videre ske vilde. <hi rend="italics">Nu</hi> skriver jeg igen, skønt jeg
                     endnu er meget lidende.</p>
-                <p>Men jeg gentager det: selv om han har givet mig <emph>et</emph> hundrede i
-                    Forskud, maa for <emph>hvert</emph> Ark, du modtager, Pengene, som tilkommer
-                    mig, sendes mig. Ti jeg er <emph>saa</emph> svag, at mit Liv koster at holde
+            <p>Men jeg gentager det: selv om han har givet mig <hi rend="italics">et</hi> hundrede i
+                    Forskud, maa for <hi rend="italics">hvert</hi> Ark, du modtager, Pengene, som tilkommer
+                    mig, sendes mig. Ti jeg er <hi rend="italics">saa</hi> svag, at mit Liv koster at holde
                     oppe ved kunstige Midler, og jeg lever kun fra Dag til Dag.</p>
-                <p>Mine nordiske Forbindelser glider mig af Hænderne; og for Tyskland kan jeg ikke
-                    arbeide, naar jeg skal skrive Bog. To <emph>hede</emph> Jern tillader mine
+            <p>Mine nordiske Forbindelser glider mig af Hænderne; og for Tyskland kan jeg ikke
+                    arbeide, naar jeg skal skrive Bog. To <hi rend="italics">hede</hi> Jern tillader mine
                     Kræfter mig ikke for Tiden.</p>
-                <p>Jeg sender atter inat Manuskript. Men jeg <emph>maa</emph> have Penge for hver
+            <p>Jeg sender atter inat Manuskript. Men jeg <hi rend="italics">maa</hi> have Penge for hver
                     Sending.</p>
-                <p>Ellers kan jeg enten ikke arbeide eller jeg maa sælge »Hendes Høihed« og
-                    »Stationskonen« til Neergaard og Galschiøtt. Jeg <emph>kan</emph> ikke
+            <p>Ellers kan jeg enten ikke arbeide eller jeg maa sælge »Hendes Høihed« og
+                    »Stationskonen« til Neergaard og Galschiøtt. Jeg <hi rend="italics">kan</hi> ikke
                     anderledes.</p>
-                <p>Jeg sendte det første Ark iforgaars under din nye Adresse. Jeg haaber, du har
+            <p>Jeg sendte det første Ark iforgaars under din nye Adresse. Jeg haaber, du har
                     faaet det. Jeg var meget bange for at afsende det. Jeg beder dig nu, saa snart
                     du har faaet dette, min Ven, sende mig Pengene for det første Ark »Høihed« og
                     for »Mellem« og »Ægteskabskandidater«.</p>
-                <p>Jeg lider forfærdeligt om Nætterne. Hele mit Bryst og min Ryg svulmer ud med
+            <p>Jeg lider forfærdeligt om Nætterne. Hele mit Bryst og min Ryg svulmer ud med
                     store Vabler, der brænder som Saar.</p>
-                <p>Det er en græsselig Tilstand.</p>
-                <p rend="right">Din Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Det er en græsselig Tilstand.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

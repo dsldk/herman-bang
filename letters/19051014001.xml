@@ -1,124 +1,127 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19051014001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 212</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1905-10-14" notBefore="9999-99-99" notAfter="9999-99-99">[1905. 14. oktober,  lørdag]<note>Dateret i forhold til
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19051014001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 212</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1905-10-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1905-10-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1905. 14. oktober,  lørdag]<note>Dateret i forhold til
                   interviewet med Peter Nansen i Adresse-Avisen</note>
-                </date>
-                <placeName cert="low">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Nansen.</p>
-                <p>Tak for dine Ord i "Adresseavisen"<note>Fredag 13.10.1905 blev det 8. afsnit af literaturkritikeren
-                     <persName key="Rimestad, Christian">Christian Rimestad</persName>s (1878-1943)
-                  interviewserie "Digtere i Forhør" trykt i Adresse-Avisen: "Hos Peter Nansen". Midt
-                  i teksten citeres Peter Nansen for udsagnet: "Det varede jo meget længe, inden
-                  Herman Bang naaede frem til den Beundring, som han nu, med Rette mener jeg, er
-                  Genstand for. I Firserne var han endnu den ekscentriske og affekterte Skribent,
-                  men for et Par Aar siden fik Mikhaël en enstemmig Anerkendelse[...]". I bogform findes
-                  interviewet optrykt i Christian Rimestad: Digtere i Forhør, Gyldendal 1906, s.
-                  10-13</note>. De gjorde mig oprigtig godt og dobbelt, fordi de kom fra dig. Jeg
-               synes ellers, at alt er ret græsseligt. <persName key="Knudsen, Johan">Johan</persName>
-                    <note>Godsejer Johan Knudsen (1865-1942), Bangsbo ved Frederikshavn, og skuespillerinden Elisabeth Riis (1867-1929) blev skilt i 1906</note>s Skilsmisse,
-                  <persName key="Lange, Sven">Lange</persName>s "Død"<note>Den samme dag,
-                  13.10.1905, kunne Adresse-Avisen under overskriften: "Sven Lange kloralforgiftet"
-                  fortælle, at forfatteren og dramatikeren  Sven Lange (1868-1930) i bevidstløs tilstand var blevet hasteindlagt
-                  med kloralforgiftning; han "bruger ofte som Sovemiddel Kloral, men har formentlig
-                  igaar ved en Fejltagelse taget saa meget, at det om Formiddagen ikke var muligt at
-                  vække ham. Hans Hustru blev da ængstelig og tilkaldte deres Huslæge, der
-                  øjeblikkelig beordrede Ambulancen fra Frederiksberg Hospital. Her blev han
-                  udpumpet af Lægerne, men Giften havde allerede da faaet god Tid til at virke i
-                  hans Konstitution[...]". Dagen efter kunne avisen berolige sine læsere med, at
-                  Sven Lange nu var kommet til bevidsthed</note> (som jeg frygter har meget
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Nansen.</p>
+            <p>Tak for dine Ord i "Adresseavisen"<ref target="n1"/>. De gjorde mig oprigtig godt og dobbelt, fordi de kom fra dig. Jeg
+               synes ellers, at alt er ret græsseligt. <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n2"/>s Skilsmisse,
+                  <persName key="Lange_Sven">Lange</persName>s "Død"<ref target="n3"/> (som jeg frygter har meget
                haandgribelige Aarsager) – alt griber mig an. Foruden den Anspændelse, det er mig at
                "digte". Og iaften skal jeg, efter Brev fra Johan, rejse til <placeName key="Bangsbo">Bangsbo</placeName> og derfra til <placeName key="Aarhus">Aarhus</placeName>(!)
                for at tale med Johan .....</p>
-                <p>Men rejse maa jeg jo og Penge har jeg ikke. Jeg har af min Gage kun
-                  <emph>December</emph> tilbage. Det er en Elendighed. Men jeg maa ha'e 150 Kroner
-               af de Penge. For med mindre tør jeg ikke møde <persName key="Riis, Elisabeth">Fru
+            <p>Men rejse maa jeg jo og Penge har jeg ikke. Jeg har af min Gage kun
+                  <hi rend="italics">December</hi> tilbage. Det er en Elendighed. Men jeg maa ha'e 150 Kroner
+               af de Penge. For med mindre tør jeg ikke møde <persName key="Riis_Elisabeth">Fru
                   Elisabeth</persName>
-                    <note>Skuespillerinden Elisabeth Riis, gift 1901-06 med Johan Knudsen, ejer af Bangsbo</note>. Jeg skal telegrafere dig, hvordan det gaar.
-                  <persName key="Ernst, Knud">Ernst</persName>
-                    <note>Knud Ernst</note> følger mig, da <persName key="Eskildsen">Eskildsen</persName>
-                    <note>Eskildsen, Bangs medhjælp</note>
-                    <app>
-                        <lem>jo</lem>
-                        <rdg>Bang har glemt at skrive: er</rdg>
-                    </app> rejst – – til <placeName key="Amerika">Amerika</placeName>, hvor han bliver
+               <ref target="n4"/>. Jeg skal telegrafere dig, hvordan det gaar.
+                  <persName key="Ernst_Knud">Ernst</persName>
+               <ref target="n5"/> følger mig, da <persName key="Eskildsen">Eskildsen</persName>
+               <ref target="n6"/>
+               <app>
+                  <lem>jo</lem>
+                  <rdg>Bang har glemt at skrive: er</rdg>
+               </app> rejst – – til <placeName key="Amerika">Amerika</placeName>, hvor han bliver
                borte i seks Uger. Har man hørt noget saa skørt?</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

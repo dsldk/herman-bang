@@ -1,132 +1,138 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19120103002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 954</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Oluf Heise</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider, skrevet på fortrykt brevpapir:
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19120103002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 954</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider, skrevet på fortrykt brevpapir:
                                                 Pension Steinplatz / Charlottenburg, den ... / 197
                                                 Uhlandstrasse / Ecke Steinplatz samt et trykt
                                                 telefonnummer</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Brevet er bilagt en egenhændig fuldmagt af Bang, skrevet på
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Brevet er bilagt en egenhændig fuldmagt af Bang, skrevet på
                                         langs af et tilsvarende brevpapir fra Pension Steinplatz:
                                         »Overretssagfører Oluf Heise hæver paa mine Vegne
                                         Honorarerne for alle Noveller og Skitser, som Redaktionen
                                         under min Verdensrejse gennem Hr. Heise modtager. / Berlin
                                         3.1.1912. / Herman Bang.«</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1912-01-03">1912, 3. Januar [onsdag] <note>empty</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">3.1.1912.</p>
-                <p>Kære Ven.</p>
-                <p>Mine Lidelser hører ikke op: i Rusland<note>Bang hentyder til de første tre uger
-                        af december 1911, som han tilbragte på en oplæsningsrejse i Sankt Petersborg
-                        og Moskva</note> blev jeg bedraget for alt, hvad jeg havde tjent. I Angst og
-                    Skræk naaede jeg Berlin<note>Bang ankom via Warszawa til Berlin
-                        24.12.1911</note> ‒ hvor min Angst kun voksede: tre af mine Blade var falden
-                        fra<note>Bang hentyder til forhåndsaftaler med aviser og tidsskrifter om at
-                        bringe nogle af hans tekster hjemsendt fra USA og den øvrige
-                        verdensrejse</note>.</p>
-                <p>Paa Lørdag skal jeg rejse. Billetterne er betalt ‒ jeg skal rejse, hvor jeg
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1912-01-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1912-01-03">1912, 3. Januar [onsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">3.1.1912.</p>
+            <p>Kære Ven.</p>
+            <p>Mine Lidelser hører ikke op: i Rusland<ref target="n1"/> blev jeg bedraget for alt, hvad jeg havde tjent. I Angst og
+                    Skræk naaede jeg Berlin<ref target="n2"/> ‒ hvor min Angst kun voksede: tre af mine Blade var falden
+                        fra<ref target="n3"/>.</p>
+            <p>Paa Lørdag skal jeg rejse. Billetterne er betalt ‒ jeg skal rejse, hvor jeg
                     kommer til at tilbringe fem Maaneder, bogstavelig talt, under ubeskrivelige
                     Lidelser.</p>
-                <p>Nu vilde jeg bede Dem:</p>
-                <p>Jeg skriver paa Rejsen 3-4 »eksotiske Noveller«. Jeg tilstiller Dem dem. De
+            <p>Nu vilde jeg bede Dem:</p>
+            <p>Jeg skriver paa Rejsen 3-4 »eksotiske Noveller«. Jeg tilstiller Dem dem. De
                     sender No. I til »Tilskueren«, No. II til »Gads Magazin«, No III til »Ord och
                     Bild« (Stockholm). Dog maa De først tage, lade tage en Kopi af hvert Manuskript
                     og sende hver Novelle til</p>
-                <p>Mme Bertha Wasbutzki</p>
-                <p>Berlin. W.</p>
-                <p>Viktoria-Luisenplatz 7.</p>
-                <p>Fru Wasbutzki<note>Berta Wasbutzki, gift med den tyske læge Max Wasbutzki,
-                        Berlin</note> sender Novellerne til de tyske Tidsskrifter, der indbetaler
-                    Honorarerne til Dr: Fritz Demuth<note>... ??? ...</note>, Syndikus<note>Dvs. en
-                        juridisk rådgiver</note> i Berlins Handelskammer.</p>
-                <p>Hr. Demuth tilstiller derpaa Dem Pengene. <emph>Dette er ordnet</emph>.</p>
-                <p>Det bliver vel i Danmark og Tyskland en tusind Mark ialt. Men gør mig den
+            <p>Mme Bertha Wasbutzki</p>
+            <p>Berlin. W.</p>
+            <p>Viktoria-Luisenplatz 7.</p>
+            <p>Fru Wasbutzki<ref target="n4"/> sender Novellerne til de tyske Tidsskrifter, der indbetaler
+                    Honorarerne til Dr: Fritz Demuth<ref target="n5"/>, Syndikus<ref target="n6"/> i Berlins Handelskammer.</p>
+            <p>Hr. Demuth tilstiller derpaa Dem Pengene. <hi rend="italics">Dette er ordnet</hi>.</p>
+            <p>Det bliver vel i Danmark og Tyskland en tusind Mark ialt. Men gør mig den
                     Tjeneste af disse Penge at telegrafere som Forskud (hvad der kommer ind mere,
                     kan De betale til Heinrich <app>
-                        <lem>Møller</lem>
-                        <rdg>Utydeligt om Bang har skrevet Møller eller Müller</rdg>
-                    </app>)<note>Heinrich Müller eller Møller ... ??? ...</note> femhundrede Mark
+                  <lem>Møller</lem>
+                  <rdg>Utydeligt om Bang har skrevet Møller eller Müller</rdg>
+               </app>)<ref target="n7"/> femhundrede Mark
                     til Herman Bang. Hamburger Hof Hamburg ‒ saasnart Dem muligt er.</p>
-                <p>Fuldmagt er vedlagt<note>Fuldmagten er bevaret sammen med brevet; se ordlyden
-                        ovenfor</note>.</p>
-                <p>Jeg er mere forstyrret end jeg er klog og tør ikke en Gang købe mig en Kappe til
+            <p>Fuldmagt er vedlagt<ref target="n8"/>.</p>
+            <p>Jeg er mere forstyrret end jeg er klog og tør ikke en Gang købe mig en Kappe til
                     Rejsen.</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

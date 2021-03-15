@@ -1,100 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19000403001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 236</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1900-04-03" notBefore="1900-04-03" notAfter="1900-04-03">[1900. 3. april. ] Tirsdag<note>Folketeatrets direktør
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19000403001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 236</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-04-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1900-04-03"
+                  notBefore="1900-04-03"
+                  notAfter="1900-04-03">[1900. 3. april. ] Tirsdag<note>Folketeatrets direktør
                   Severin Abrahams (1843-1900), skuespiller ved Folketeatret, 1879-82 ved Casino, fra 1884 direktør for Folketeatret med svingende økonomisk udbytte; hans dødsbo erklæredes fallit var pludselig død lørdag 31.3.1900</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Kære Ven.</p>
-                <p>
-                    <persName key="Witzansky, Harald">Witzansky</persName>
-                    <note>Harald Witzansky (1862-1940), forretningsfører ved Politiken</note> beder mig sige dig, at naar han ikke har optaget
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Ven.</p>
+            <p>
+               <persName key="Witzansky_Harald">Witzansky</persName>
+               <ref target="n1"/> beder mig sige dig, at naar han ikke har optaget
                "Folketeatrets" Redegørelse, da er det kun fordi han allerede havde mine Par
-                  Ord<note>Bangs artikel "Paa Deling", der blev trykt i Politiken, 5.4.1900,
-                  omhandler Folketeatrets usikre økonomi efter Severin Abrahams (1843-1900), skuespiller ved Folketeatret, 1879-82 ved Casino, fra 1884 direktør for Folketeatret med svingende økonomisk udbytte; hans dødsbo erklæredes fallit' uventede
-                  død</note>, som var skrevne allerede i Søndags<note>Dvs. søndag
-               1.4.1900</note>.</p>
-                <p>"Politiken" er nu sød – paa alle Maader. Men send mig <emph>strax</emph> et Bud, naar
-               jeg kan udrette noget. Nu <emph>kan</emph> jeg det, da jeg endelig har overbevist Hr.
+                  Ord<ref target="n2"/>, som var skrevne allerede i Søndags<ref target="n3"/>.</p>
+            <p>"Politiken" er nu sød – paa alle Maader. Men send mig <hi rend="italics">strax</hi> et Bud, naar
+               jeg kan udrette noget. Nu <hi rend="italics">kan</hi> jeg det, da jeg endelig har overbevist Hr.
                W.</p>
-                <p rend="right">Din hengivne</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

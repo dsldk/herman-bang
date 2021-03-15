@@ -1,103 +1,111 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18990808001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side, skrevet med blyant</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1899-08-08">[1899, 8. august] Tirsdag <note>Bang var siden
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990808001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, skrevet med blyant</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Assens]</placeName>
+               <date when="1899-08-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-08-08">[1899, 8. august] Tirsdag <note>Bang var siden
                         30.6.1899 indlagt på Assens Sygehus</note>
-                </date>
-                <placeName cert="high">[Assens]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag Aften.</p>
-                <p>Kære Ven.</p>
-                <p>Jeg skriver ‒ og kan ikke.</p>
-                <p>Men Frk: Husum<note>Frøken Pauline Husum var Bangs sygeplejerske, som fra
-                        København var blevet kaldt til Assens, se Bangs telegram til Aage
-                        Hirschsprung, 30.6.1899. Se også Bangs brev til Hirschsprung,
-                        7.8.1899</note> er nu sagt op af sin Vært og skal betale 25 Kr. paa Lørdag.
-                    Send dem under hendes Adresse<note>Dvs. Enkefru Thomsens Pensionat i Assens, se
-                        Bangs brev til Hirschsprung, 7.8.1899</note>. Lægen<note>Karl Lind
-                        (1850-1910), privatpraktiserende læge i Assens siden 1877</note> taler
+            </date>
+            <placeName cert="high">[Assens]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag Aften.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg skriver ‒ og kan ikke.</p>
+            <p>Men Frk: Husum<ref target="n1"/> er nu sagt op af sin Vært og skal betale 25 Kr. paa Lørdag.
+                    Send dem under hendes Adresse<ref target="n2"/>. Lægen<ref target="n3"/> taler
                     overalt i Byen om, at »han vist næppe faar sine Penge.«... Er dette da ikke
                     skrækkeligt. Derfor telegraferede jeg til »Politiken« for at faa Fred, betal den
                     hele Bande forud..‒</p>
-                <p>Kan ikke skrive mere.</p>
-                <p rend="right">Herman.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Kan ikke skrive mere.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

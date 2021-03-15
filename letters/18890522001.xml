@@ -1,109 +1,118 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18890522001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Carl Feilberg</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1889-05-22">1889, 22. Maj [onsdag] <note>En lille trup
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890522001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Rønne]</placeName>
+               <date when="1889-05-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Carl Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-05-22">1889, 22. Maj [onsdag] <note>En lille trup
                         bestående af en koncertsanger, en ung pianistinde og Herman Bang rejste
                         20.5.1889 på turné på Bornholm. Turneen 20.-25.5.1889, der i alle henseender
                         var en fiasko, har Bang skildret i »Kunstrejse paa Bornholm«, trykt i hans
                         bog Ti Aar, 1891. Heraf fremgår også, at tenoren rejste hjem efter truppens
                         optræden i Rønne, der var den første by på turneen</note>
-                </date>
-                <placeName cert="high">[Rønne]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">22.<app>
-                        <lem>5.</lem>
-                        <rdg>Bang har rettet månedstallet fra et vanskeligt læseligt ciffer</rdg>
-                    </app>89.</p>
-                <p>Kære Doktor F.</p>
-                <p>Kun to Ord kan jeg sende.</p>
-                <p>I <emph>Formiddag</emph> vilde allerede vor Tenorist<note>Tenorens navn var
-                        Jachimo Tagnerelli; se Sten Rasmussens udgave af Ti Aar, Det Danske Sprog-
-                        og Litteraturselskab/Gyldendal 2013, s. 227</note> rejse. Han var
-                    Kassemester. Vi to andre<note>Navnet på den nyuddannede pianistinde kendes
-                        ikke</note> havde intet. Jeg vidste ikke, hvad gribe til. Saa telegraferede
+            </date>
+            <placeName cert="high">[Rønne]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">22.<app>
+                  <lem>5.</lem>
+                  <rdg>Bang har rettet månedstallet fra et vanskeligt læseligt ciffer</rdg>
+               </app>89.</p>
+            <p>Kære Doktor F.</p>
+            <p>Kun to Ord kan jeg sende.</p>
+            <p>I <hi rend="italics">Formiddag</hi> vilde allerede vor Tenorist<ref target="n1"/> rejse. Han var
+                    Kassemester. Vi to andre<ref target="n2"/> havde intet. Jeg vidste ikke, hvad gribe til. Saa telegraferede
                     jeg ‒ men jeg haaber fra denne skønne Ø at kunne returnere Hjælpen. Tusind
                     Tak.</p>
-                <p>Hils Deres Frue<note>Anna Feilberg (1846-1923), født Krabbe, gift 1876 med læge
-                        Carl Feilberg (1844-1937), København</note> saa meget.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Hils Deres Frue<ref target="n3"/> saa meget.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

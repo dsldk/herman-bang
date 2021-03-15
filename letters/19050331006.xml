@@ -1,128 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19050331006</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4858, 4to; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Christian Houmark</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1905-03-31">1905, 31. Marts [fredag] <note>Bang var på sin
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050331006</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Rødby,Lolland</placeName>
+               <date when="1905-03-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-03-31">1905, 31. Marts [fredag] <note>Bang var på sin
                         sidste store oplæsningsturné »rundt i landet«, januar-april 1905</note>
-                </date>
-                <placeName cert="high">Rødby,Lolland</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Rødby 31.3.1905.</p>
-                <p>Kære Lilje.</p>
-                <p>Tak for Deres lange og indholdsrige Brev. Ja, Bertha<note>Bertha Holst
-                        (1881-1929), lærerinde, (adoptiv)datter af Nini Holst og dermed nièce til
-                        Herman Bang. I 1905 fik hun konstateret tuberkulose og blev indlagt på
-                        tuberkulosesanatoriet i Silkeborg</note>. Ogsaa det. Fru Holst<note>Nini
-                        Holst (1853-1922), søster til Herman Bang, (adoptiv)mor til Bertha
-                        Holst</note> har en lykkelig Haand. Min Søster Ingeborg<note>Ingeborg Bang
-                        (1864-1898), lillesøster til Nini Holst og Herman Bang</note> drev hendes
+            </date>
+            <placeName cert="high">Rødby,Lolland</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Rødby 31.3.1905.</p>
+            <p>Kære Lilje.</p>
+            <p>Tak for Deres lange og indholdsrige Brev. Ja, Bertha<ref target="n1"/>. Ogsaa det. Fru Holst<ref target="n2"/> har en lykkelig Haand. Min Søster Ingeborg<ref target="n3"/> drev hendes
                     Jalousi ud i Sindssygen. Bertha ‒ ‒ Naa, hun er jo ikke tilregnelig mere. Det
                     tør vel undskylde hende. Men at hun ikke idetmindste har sendt min
-                        Kusine<note>... ??? ...</note> derned til Rørvig<note>Bertha Holst var leder
-                        af en skole i Rørvig fra 1901, indtil hun blev ramt af tuberkulose i
-                        1905</note>, nu, da Katastrofen kom ‒ <emph>det</emph> forstaar man jo ikke.
+                        Kusine<ref target="n4"/> derned til Rørvig<ref target="n5"/>, nu, da Katastrofen kom ‒ <hi rend="italics">det</hi> forstaar man jo ikke.
                     Saasnart min Rejse ‒ den attende ‒ er endt, tager jeg til Silkeborg. Jeg har min
                     stærke Formodning om, at min Søsters udpræget økonomiske Foranstaltninger er <app>
-                        <lem>hverken</lem>
-                        <rdg>Ordet har Bang tilføjet over linjen</rdg>
-                    </app> hensigtssvarende eller tilstrækkelige..... Naar skal vel Fru Holst's
+                  <lem>hverken</lem>
+                  <rdg>Ordet har Bang tilføjet over linjen</rdg>
+               </app> hensigtssvarende eller tilstrækkelige..... Naar skal vel Fru Holst's
                     naive og hensynsløse Egoisme have fejret sin sidste Triumf? ‒ ‒ Af
-                        Witzansky<note>Harald Witzansky (1862-1940), redaktør fra 1902 af avisen
-                        København, hvor Bang var journalistisk medarbejder</note> har jeg ikke ondt.
+                        Witzansky<ref target="n6"/> har jeg ikke ondt.
                     Naar Folk er saa personligt emsige og ærgerrige, maa de idetmindste være kloge.
-                    Og han er uhyre dum i sin Politik og i sit »Streberei«<note>Vist et hjemmelavet
-                        tysk ord; skal betyde: stræben, stræberi</note> ‒ ‒ Skrive noget til
-                        Bladet<note>Dvs. avisen København</note> kan jeg s'gu ikke. Vil De høre,
+                    Og han er uhyre dum i sin Politik og i sit »Streberei«<ref target="n7"/> ‒ ‒ Skrive noget til
+                        Bladet<ref target="n8"/> kan jeg s'gu ikke. Vil De høre,
                     hvordan Dagen gik igaar? Kl. 7½ op i Tranekær paa Langeland. Besigtigelse af
                     Slottet. I Vogn to Mil til Spodsbjerg. Fra Spodsbjerg 1½ Time paa Dampskib til
                     Nakskov. Fra Nakskov paa Jernbane til Maribo. I Maribo 1½ Time. Fra Maribo pr.
                     Bane til Holeby. I Holeby Oplæsning. Fra Holeby i Vogn til Rødby, hvor jeg ankom
                     Kl. 11 1/4. Mon man saa kunde skrive ovenikøbet? Og Indtægterne. Ja, de var
                     forholdsvis smaa, da Brutto'en var stor. Saa De kan begribe, at de er
-                        <emph>saare</emph> beskedne nu, hvor Brutto'en ‒ paa »saa smaa Pladser« ‒
-                    naturnødvendigt maa være stærkt begrænset ‒ ‒Ja, Axel<note>Axel ... ??? ...
-                        ...</note>.... den Mand er i Bund og Grund umulig. Jeg gruer for Fremtiden.
+                        <hi rend="italics">saare</hi> beskedne nu, hvor Brutto'en ‒ paa »saa smaa Pladser« ‒
+                    naturnødvendigt maa være stærkt begrænset ‒ ‒Ja, Axel<ref target="n9"/>.... den Mand er i Bund og Grund umulig. Jeg gruer for Fremtiden.
                     Hvis jeg ikke døer forinden, kommer det Menneske til at gøre mig mere Sorg og
                     Ulykke end nogen hidtil har gjort.... Nu tordner det. Jeg tager det som et
                     Varsel. Lynet blinkede over Papiret, da jeg skrev Ordet »Ulykke«.</p>
-                <p>Af Nyt? Intet. Jeg tænker Dag og Nat paa Bertha.</p>
-                <p rend="right">Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Af Nyt? Intet. Jeg tænker Dag og Nat paa Bertha.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

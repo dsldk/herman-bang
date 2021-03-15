@@ -1,111 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18990401001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Dateringen »1/4 99« er tilføjet med blyant, formodentlig af
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990401001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »1/4 99« er tilføjet med blyant, formodentlig af
                                         Aage Hirschsprung</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1899-04-01">[1899, 1. april] Lørdag <note>Datering: den
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1899-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-04-01">[1899, 1. april] Lørdag <note>Datering: den
                         angivne ugedag i kombination med brevets sekundært anførte datering; denne
                         er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lørdag.</p>
-                <p>Kære Ven.</p>
-                <p>Sikken Ladning. Og saa er det tilmed fortræffeligt. Idag, imorgen og iovermorgen
-                    serveres Resten ‒ saa De har den ganske Genstand paa Tirsdag<note>At dømme efter
-                        oplysninger i flere foregående breve manglede Bang på dette tidspunkt at
-                        færdigskrive sin novelle »En Fortælling om Elskov«, som er trykt i <emph>Liv
-                            og Død</emph>, der udkom 13.5.1899 på Det Schubotheske Forlag</note>.
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Ven.</p>
+            <p>Sikken Ladning. Og saa er det tilmed fortræffeligt. Idag, imorgen og iovermorgen
+                    serveres Resten ‒ saa De har den ganske Genstand paa Tirsdag<ref target="n1"/>.
                     Det er da flinkt, véd jeg. De maa give Bud'et 40 Kr. Naar jeg har givet min
-                        Oplæsning<note>... uoplyst hvilken oplæsning, Bang sigter til ... ??</note>,
-                    skal De holde de 150 tilbage, som jeg fik, da jeg flyttede<note>I København var
-                        Bang 9.3.1899 flyttet fra Østerbro til Hotel Hafnia på Vestervold. De 150
-                        kroner, Bang sigter til, havde han udbedt sig med sit brev af 9.3.1899 til
-                        Aage Hirschsprung</note>. Hvilken Dag er det, jeg skal til Selskab hos
+                        Oplæsning<ref target="n2"/>,
+                    skal De holde de 150 tilbage, som jeg fik, da jeg flyttede<ref target="n3"/>. Hvilken Dag er det, jeg skal til Selskab hos
                     Dem?</p>
-                <p>Af »Grønne Henrik«<note><emph>Den grønne Henriks Roman</emph>, en dansk
-                        oversættelse i to bind af den schweiziske forfatter Gottfried Kellers roman
-                            <emph>Der grüne Heinrich</emph>, 1854-55, var i 1883-84 udkommet på
-                        forlaget I.H. Schubothe</note> fik jeg to <emph>første</emph> Dele ‒ og
-                    ingen anden. Her er den ene første tilbage. Lad saa Budet faa <emph>en</emph>
+            <p>Af »Grønne Henrik«<ref target="n4"/> fik jeg to <hi rend="italics">første</hi> Dele ‒ og
+                    ingen anden. Her er den ene første tilbage. Lad saa Budet faa <hi rend="italics">en</hi>
                     anden i Stedet.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

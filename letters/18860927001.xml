@@ -1,176 +1,164 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860927001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Rigsarkivet</repository>
-                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860927001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
                                     blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Niels Neergaard</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-09-27">[1886, 27. september] Mandag <note>Brevet skal
-                        dateres i forhold til Bangs artikel i <emph>Tilskueren</emph>, oktober 1886.
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-09-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-09-27">[1886, 27. september] Mandag <note>Brevet skal
+                        dateres i forhold til Bangs artikel i <hi rend="italics">Tilskueren</hi>, oktober 1886.
                         Udgiverens dateringsforslag er skønsmæssigt, bedømt i forhold dels til Bangs
                         to andre breve til Niels Neergaard, ca. 15.9. og ca. 1.10.1886, dels til
                         tidspunktet for Bangs kendskab til Nansens, Schiøtts og Møllers skriftlige
                         ytringer om hans endnu upublicerede novelle »Ved Vejen«. ‒ Niels Neergaard
                         (1854-1936) var 1884-1892 redaktør af tidsskriftet
-                        <emph>Tilskueren</emph></note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag Mandag.</p>
-                <p>Hermed, kære Redaktør, sender jeg »Meiningerne« tilbage<note>Bang sigter til sit
-                        rettede korrekturtryk af artiklen »Sceniske Reform-Forsøg«, trykt i
-                            <emph>Tilskueren</emph>s oktoberhæfte 1886, jf. hans brev til Ǹeergaard,
-                        ca. 15.9.1886</note> ‒ bedende om et Aftryk af anden Korrektur, ikke for at
+                        <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Mandag.</p>
+            <p>Hermed, kære Redaktør, sender jeg »Meiningerne« tilbage<ref target="n1"/> ‒ bedende om et Aftryk af anden Korrektur, ikke for at
                     rette deri, men for at benytte det til Oversættelsen til tysk, hvor Artiklen
-                    skal frem i »Die Nation«<note>Det kan ikke påvises, at Bangs artikel »Sceniske
-                        Reform-Forsøg« blev offentliggjort i Tyskland... Så vidt det i 2018 er
-                        registreret, rummer tidsskriftet <emph>Die Nation</emph> i øvrigt ingen
-                        bidrag af Bang</note>. Det har været mig nødvendigt at tilføie i det siste
+                    skal frem i »Die Nation«<ref target="n2"/>. Det har været mig nødvendigt at tilføie i det siste
                     Afsnit, som jeg nu saa var langt fra paa Høide med det øvrige, saameget som vel
-                    en Kvart Side. Da det føies ind <emph>mellem</emph> de forskellige Stykker, er
+                    en Kvart Side. Da det føies ind <hi rend="italics">mellem</hi> de forskellige Stykker, er
                     det ikke saa besværligt. Men pas paa, det kommer rigtigt ind.</p>
-                <p>Og det var nødvendigt for at Afslutningen af Udviklingen kunde blive ligeligere i
+            <p>Og det var nødvendigt for at Afslutningen af Udviklingen kunde blive ligeligere i
                     Værd med Udviklingen selv. Jeg haaber, at have sagt i Artiklen et og andet, som
-                    selv E.B.<note>Edvard Brandes (1847-1931), forfatter, dramatiker, teaterkritiker
-                        og journalist, senere politiker; i 1884 var han medstifter af dagbladet
-                        Politiken og redaktør af samme</note> (han holder saa meget af, naar jeg
+                    selv E.B.<ref target="n3"/> (han holder saa meget af, naar jeg
                     skriver om Teater) <app>
-                        <lem>maa</lem>
-                        <rdg>Ordets første bogstav er rettet fra: M</rdg>
-                    </app> finde ret sandt.</p>
-                <p>Min nye Bogs store Fortælling<note>Dvs. novellen »Ved Vejen« i <emph>Stille
-                            Eksistenser</emph>, der udkom i København 27.10.1886</note> erklæres af
-                    de forskelligste Dommere for mit bedste Arbeide<note>Bang sigter til de
-                        svarbreve, som han sidst i september 1886 modtog fra sine tre fortrolige
-                        venner i København: Peter Nansen, Julius Schiøtt og Vilhelm Møller, der alle
-                        havde læst manuskriptet til »Ved Vejen«</note>. De siger, den har alle
+                  <lem>maa</lem>
+                  <rdg>Ordets første bogstav er rettet fra: M</rdg>
+               </app> finde ret sandt.</p>
+            <p>Min nye Bogs store Fortælling<ref target="n4"/> erklæres af
+                    de forskelligste Dommere for mit bedste Arbeide<ref target="n5"/>. De siger, den har alle
                     »excentriske Novellers« tekniske Fortrin og saa foregaar <app>
-                        <lem>hjemme</lem>
-                        <rdg>Bang har glemt at skrive sætningens substantiv: den</rdg>
-                    </app> og ikke har nogen ‒ »Franz Pander«<note>Bangs bog <emph>Excentriske
-                            Noveller</emph> udkom 4.12.1885. Den ene af bogens tre noveller, »Franz
-                        Pander«, udspiller sig i Hamburg i et internationalt artistmiljø</note>.
+                  <lem>hjemme</lem>
+                  <rdg>Bang har glemt at skrive sætningens substantiv: den</rdg>
+               </app> og ikke har nogen ‒ »Franz Pander«<ref target="n6"/>.
                     Selv haaber jeg, at de Godtfolk Ret maatte <app>
-                        <lem>»hafve«</lem>
-                        <rdg>Efter dette ord havde Bang skrevet: Ret ‒ og selv slettet det ved
+                  <lem>»hafve«</lem>
+                  <rdg>Efter dette ord havde Bang skrevet: Ret ‒ og selv slettet det ved
                             overstregning</rdg>
-                    </app><note>Dvs.: måtte have ret. Verbets stavemåde var i 1800-tallet forlængst
-                        forældet, hvad der tyder på, at Bang associerer til et sted i dansk
-                        litteratur fra 1500-, 1600- eller 1700-tallet eller i en dansk
-                        bibeloversættelse fra samme tidsrum ....???</note>.</p>
-                <p>De vilde gøre mig en stor Glæde, kære Neergaard, om jeg i »Tilskueren« maatte
-                    anmelde de <emph>Debutarbeider</emph> ‒ af Laurids Bruun<note>Laurids Bruun
-                        (1864-1935), forfatter, cand.polit i 1887. Han dubuterede i 1886 med
-                        novellesamlingen <emph>Historier. En Kjøbstadidyl</emph>, P.G. Philipsens
-                        Forlag. En af bogens noveller, »For god«, var oprindelig blevet
-                        offentliggjort i <emph>Tilskueren</emph>, nov.-dec. 1885</note>,
-                        Stuckenberg<note>Viggo Stuckenberg (1863-1905), lyriker og forfatter,
-                        debuterede med bogen <emph>Digte</emph>, der udkom i oktober 1886 på P.G.
-                        Philipsens Forlag</note> o:s:v: ‒ som udkommer nu. Bøgerne kunde dog saa
-                    nemt sendes mig under Korsbaand<note>En postal forsendelsesform, forbeholdt
-                        tryksager og dermed til en billigere porto</note>. Og De véd, hvor gerne og
-                    hvor forstaaende jeg anmelder just <emph>unge</emph> Bøger.</p>
-                <p>Og saa var det da ogsaa et Slags svagt Baand mellem mig og de ‒ som kommer. Det
+               </app>
+               <ref target="n7"/>.</p>
+            <p>De vilde gøre mig en stor Glæde, kære Neergaard, om jeg i »Tilskueren« maatte
+                    anmelde de <hi rend="italics">Debutarbeider</hi> ‒ af Laurids Bruun<ref target="n8"/>,
+                        Stuckenberg<ref target="n9"/> o:s:v: ‒ som udkommer nu. Bøgerne kunde dog saa
+                    nemt sendes mig under Korsbaand<ref target="n10"/>. Og De véd, hvor gerne og
+                    hvor forstaaende jeg anmelder just <hi rend="italics">unge</hi> Bøger.</p>
+            <p>Og saa var det da ogsaa et Slags svagt Baand mellem mig og de ‒ som kommer. Det
                     var en Gang mit største Haab at kunne gøre meget mer for disse Unge.</p>
-                <p>Men ‒ enfin<note>fr.: kort sagt; altså</note> ‒ maaske er det allerede en Aftale,
-                    at en anden, som er mer »dans le mouvement«<note>fr.: er med på noderne; følger
-                        med tiden</note>, skal anmelde Bøgerne. Og i hvert Fald: je resterai sans
-                        rancune<note>fr.: jeg vedbliver at være uden nag</note>.</p>
-                <p>Jeg kender i Virkeligheden ikke »Tilskuerens« Betalingsskala. Sér nu, at
-                    »Meiningerne« jo er et »ganske« Ark<note>Dvs. fylder lige så meget som et helt
-                        trykark, som i en bog normalt er på 16 bogsider</note>. Har jeg saaledes
+            <p>Men ‒ enfin<ref target="n11"/> ‒ maaske er det allerede en Aftale,
+                    at en anden, som er mer »dans le mouvement«<ref target="n12"/>, skal anmelde Bøgerne. Og i hvert Fald: je resterai sans
+                        rancune<ref target="n13"/>.</p>
+            <p>Jeg kender i Virkeligheden ikke »Tilskuerens« Betalingsskala. Sér nu, at
+                    »Meiningerne« jo er et »ganske« Ark<ref target="n14"/>. Har jeg saaledes
                     noget til Gode mer end de 60 Kroner ‒ Gud give det! ‒ da send mig det, bedste
                     Neergaard, efter Modtagelsen af dette. <app>
-                        <lem>Penge</lem>
-                        <rdg>Bang har først skrevet: Penger</rdg>
-                    </app> er altid som Himlens Manna for en landflygtig.</p>
-                <p>Og svar mig om Bøgerne. Det kunde jo være for Decemberheftet<note>I et brev til
-                        Peter Nansen fra [8.12.1886] fortæller Bang, at han til
-                            <emph>Tilskueren</emph> har færdigskrevet en artikel om forfatterne J.P.
-                        Jacobsen, Gustav Esmann, Peter Nansen og Viggo Stuckenberg. En sådan artikel
-                        af Bang blev imidlertid aldrig trykt</note>. Og Esmanns<note>Gustav Esmann
-                        (1860-1904), forfatter og dramatiker. Med »Stykker« mener Bang de af hans
-                        teaterstykker, der (også) offentliggjordes i bogform</note> Stykker kunde
-                    gaa med som Bøger ‒ n'est-ce-pas?<note>fr.: er det ikke rigtigt?</note></p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman B.</p>
-                <p><emph>Weinberge.</emph></p>
-                <p><emph>Prag.</emph></p>
-                <p>Balbingasse 192.</p>
-
-
-            </div>
-        </body>
-    </text>
+                  <lem>Penge</lem>
+                  <rdg>Bang har først skrevet: Penger</rdg>
+               </app> er altid som Himlens Manna for en landflygtig.</p>
+            <p>Og svar mig om Bøgerne. Det kunde jo være for Decemberheftet<ref target="n15"/>. Og Esmanns<ref target="n16"/> Stykker kunde
+                    gaa med som Bøger ‒ n'est-ce-pas?<ref target="n17"/>
+            </p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman B.</p>
+            <p>
+               <hi rend="italics">Weinberge.</hi>
+            </p>
+            <p>
+               <hi rend="italics">Prag.</hi>
+            </p>
+            <p>Balbingasse 192.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,142 +1,152 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19111227001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2009/148. Det 96.brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Olga Dahl</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider, skrevet på fortrykt brevpapir:
-                                                  <emph>Pension Steinplatz / Charlottenburg, den ...
-                                                  / 197 Uhlandstrasse / Ecke Steinplatz</emph> samt
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111227001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 96.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider, skrevet på fortrykt brevpapir:
+                                                  <hi rend="italics">Pension Steinplatz / Charlottenburg, den ...
+                                                  / 197 Uhlandstrasse / Ecke Steinplatz</hi> samt
                                                 et trykt telefonnummer; den tilhørende kuvert er
                                                 frankeret med et tysk 20 Pfennigs frimærke,
                                                 poststemplet er utydeligt, og med dansk
-                                                modtagerstempel på bagsiden: <emph>Kjøbenhavn V.
-                                                  3.OMB 30.12.11</emph>; udskrift i Bangs
-                                                håndskrift: <emph>Mme. Olga Dahl. / Kopenhagen. V /
-                                                  Prinsesse Maries Allée 14.</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Med blyant i fremmed hånd på kuverten: <emph>28/12
-                                            1911</emph>, formentlig skrevet af Olga Dahl</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1911-12-27">1911, 27. December [onsdag] <note>empty</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">27.12.1911.</p>
-                <p>Min egen Ven.</p>
-                <p>Ja ‒ saa er Turnéen endt. Og <emph>en</emph> Ting har jeg erfaret, at mit Navn
+                                                modtagerstempel på bagsiden: <hi rend="italics">Kjøbenhavn V.
+                                                  3.OMB 30.12.11</hi>; udskrift i Bangs
+                                                håndskrift: <hi rend="italics">Mme. Olga Dahl. / Kopenhagen. V /
+                                                  Prinsesse Maries Allée 14.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant i fremmed hånd på kuverten: <hi rend="italics">28/12
+                                            1911</hi>, formentlig skrevet af Olga Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1911-12-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-12-27">1911, 27. December [onsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">27.12.1911.</p>
+            <p>Min egen Ven.</p>
+            <p>Ja ‒ saa er Turnéen endt. Og <hi rend="italics">en</hi> Ting har jeg erfaret, at mit Navn
                     gaar langt videre over Landene end jeg drømte om. Og saa er det ikke værdt at
-                    tale mere om den Ting... Vi er <emph>alle</emph> altfor lidt til at nogen af os
+                    tale mere om den Ting... Vi er <hi rend="italics">alle</hi> altfor lidt til at nogen af os
                     tør have store Tanker om sig selv.</p>
-                <p>Vi kom hertil Søndag Morgen ‒ Juleaftens Dag ‒ direkte fra Moskwa. Rejsen var
+            <p>Vi kom hertil Søndag Morgen ‒ Juleaftens Dag ‒ direkte fra Moskwa. Rejsen var
                     rentud frygtelig, da vi kun <app>
-                        <lem>havde</lem>
-                        <rdg>Bang har skrevet: have</rdg>
-                    </app> Sovevogn det første Døgn og maatte sidde op og ned den sidste Nat,
+                  <lem>havde</lem>
+                  <rdg>Bang har skrevet: have</rdg>
+               </app> Sovevogn det første Døgn og maatte sidde op og ned den sidste Nat,
                     forstyrrede af Toldsyn, Passyn og alt det andet Slags »Syn'en«, der værner »det
                     hellige Rusland«, baade naar man skal ud, og man skal ind. Det er simpelthen
                     utroligt. Paa Vejen maatte vi ogsaa skifte Tog og køre i en Vogn gennem det hele
-                        Warschau<note>Warszawa</note> ‒ en By fuld af Paladser, Monumenter og skønne
+                        Warschau<ref target="n1"/> ‒ en By fuld af Paladser, Monumenter og skønne
                     Mennesker.... Da vi naaede Berlin, var jeg komplet udaset af Træthed og
                     Melankoli. Min Melankoli vokser jo bestandig paa Rejser. Og der er mange Dage,
                     hvor det koster mig et uhyre Besvær at sige blot ti Ord. Jeg vil helst tie hele
                     Tiden. Og i Moskwa stod ikke Døren den hele Dag for fremmede Folk, som vilde
-                    tale med mig. Saa jeg maatte konversere, <emph>saa</emph> paa tysk,
-                        <emph>saa</emph> paa fransk, den ganske Dag. Man <emph>skal</emph> være
+                    tale med mig. Saa jeg maatte konversere, <hi rend="italics">saa</hi> paa tysk,
+                        <hi rend="italics">saa</hi> paa fransk, den ganske Dag. Man <hi rend="italics">skal</hi> være
                     aandfuld og den eneste Sætning, man havde Lyst til at sige er: Gaa Fanden i
-                    Vold.... For Frk: Thune<note>Magdalene Thune (1872-1957), Bangs husbestyrerinde
-                        og rejseledsager indtil december 1911</note> nærmer sig Hjemrejsens Stund.
-                    Vi boer i Berlins fornemste Pensionat. Men Moskaus<note>Dvs. Moskvas</note> Mad
-                    er det ikke. <emph>Der</emph> var Dagens Maaltider: The, Smør og Brød, Kl. 1
+                    Vold.... For Frk: Thune<ref target="n2"/> nærmer sig Hjemrejsens Stund.
+                    Vi boer i Berlins fornemste Pensionat. Men Moskaus<ref target="n3"/> Mad
+                    er det ikke. <hi rend="italics">Der</hi> var Dagens Maaltider: The, Smør og Brød, Kl. 1
                     Frokost: en uhyre Portion Fisk med Mayonaise, en uhyre Kødret, Kager, Kl. 5½ Thé
                     med indbagte Ferskner eller Abrikoser. Kl. 8: Diner: 6 Retter Mad <app>
-                        <lem>(iøvrigt vidunderlig)</lem>
-                        <rdg>Ordene er tilføjet over linjen</rdg>
-                    </app>. Kl: 10 »et Par smaa Stykker Mad«, som Frk: Th: kaldte det, naar hun
+                  <lem>(iøvrigt vidunderlig)</lem>
+                  <rdg>Ordene er tilføjet over linjen</rdg>
+               </app>. Kl: 10 »et Par smaa Stykker Mad«, som Frk: Th: kaldte det, naar hun
                     spiste to Skiver tyk Skinke til Smør og Brød. Efter at have nydt denne
                     Forplejning tre Uger i Rusland halvsulter Frk: Th: her med 4 Retter til Middag
-                    og 3 til Aften. Hun sagde nu ved Femtéen<note>Dvs. servering af te kl. 17</note>
+                    og 3 til Aften. Hun sagde nu ved Femtéen<ref target="n4"/>
                     (med Tærter) at hun mærkede nok, at denne Mad var ikke saa nærende som den
                     russiske.... Men nu har al den Mad jo snart Ende, og rørende hengiven er hun.
-                    Men en Bog kunde jeg skrive om dette Stykke Tranebjerg<note>Magdalene Thune var
-                        født og opvokset på Samsø som datter af boghandler Carl Mathias Thune i
-                        Tranebjerg; hun var bosat i København senest fra ca. 1900</note> paa
+                    Men en Bog kunde jeg skrive om dette Stykke Tranebjerg<ref target="n5"/> paa
                     Stor-Turnée... Mennesker har jeg her, Himlen være lovet, ikke sét. Men imorgen
-                    maa jeg til det ‒ den 6 Januar er ikke ret langt borte<note>Datoen for Bangs
-                        afrejse med dampskibet S/S Moltke fra Cuxhaven til New York</note>. Tusinde
-                    Hilsener til Søster<note>Signe Dahl (født ca. 1890), kaldet Søster, yngste
-                        datter af Olga og Kristian Dahl</note> og Dem.</p>
-                <p rend="right">Altid Deres Ven</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+                    maa jeg til det ‒ den 6 Januar er ikke ret langt borte<ref target="n6"/>. Tusinde
+                    Hilsener til Søster<ref target="n7"/> og Dem.</p>
+            <p rend="right">Altid Deres Ven</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

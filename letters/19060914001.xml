@@ -1,145 +1,152 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19060914001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Nr. 19</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1906-09-14" notBefore="9999-99-99" notAfter="9999-99-99">1906. 14. september [fredag]<note>Brevet er skrevet til Betty
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060914001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 19</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Randers]</placeName>
+               <date when="1906-09-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-09-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 14. september [fredag]<note>Brevet er skrevet til Betty
                   Nansen, der opholdt sig (måske i følge med sin mand?) som gæst hos Julie og Jacob
                   Hegel (direktør for Gyldendal) på landstedet Skovgaard i Ordrup</note>
-                </date>
-                <placeName cert="high">[Randers]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">14.9. 1906.</p>
-                <p>Min kære Ven.</p>
-                <p>Det er ingen Paatrængenhed, at jeg skriver til Dem igen idag og til Skovgaard<note>Gyldendaldirektør
-          <persName key="Hegel, Jacob">Jacob Hegel</persName>s landsted i Ordrup nord for København</note>, hvor
+            </date>
+            <placeName cert="high">[Randers]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">14.9. 1906.</p>
+            <p>Min kære Ven.</p>
+            <p>Det er ingen Paatrængenhed, at jeg skriver til Dem igen idag og til Skovgaard<ref target="n1"/>, hvor
                man maa faa et noget overdrevet Indtryk af vor – min – Korrespondance. Men Deres Brev
                behagede mig ikke. Jeg kender ikke Deres Helbred og hvad det tillader. Men min Mening
-               er, at meget andet <emph>ikke</emph> tillader, at De foreløbig "sidder hen" her i
-               Landet .... Saalænge hvad man "refererer Dem"<note>Dvs. hvad man fortæller
-                  Dem</note> gør Indtryk paa Dem, vilde det være meget formaalstjenligere, at De
+               er, at meget andet <hi rend="italics">ikke</hi> tillader, at De foreløbig "sidder hen" her i
+               Landet .... Saalænge hvad man "refererer Dem"<ref target="n2"/> gør Indtryk paa Dem, vilde det være meget formaalstjenligere, at De
                opholdt Dem paa Steder, hvor man intet refererer Dem. Du store Himmel, naar man kan
-               referere Dem, at jeg iscenesætter "<title key="Løgnens Ansigter">Løgnens
-                  Ansigter</title>"<note>Skuespil af <persName key="Rye, Stellan">Stellan
-                     Rye</persName> (1880-1914) med musik af <persName key="Sonne, Harding"/>Harding Sonne,
-                  premiere på Dagmarteatret 5.9.1906; iscenesættelse ved forfatteren</note>, turde
+               referere Dem, at jeg iscenesætter "<!--start title reference--><title key="Løgnens_Ansigter">Løgnens
+                  Ansigter</title>
+               <!--end title reference-->"<ref target="n3"/>, turde
                der knap være Grænser for de Løgne-Gobelins, man kan <app>
-                        <lem>præstere</lem>
-                        <rdg>Ordets første bogstaver er rettet fra: ko</rdg>
-                    </app>. Hvem refererer desuden? I bedste Fald de Tankeløse de halve Løgne, som de har
+                  <lem>præstere</lem>
+                  <rdg>Ordets første bogstaver er rettet fra: ko</rdg>
+               </app>. Hvem refererer desuden? I bedste Fald de Tankeløse de halve Løgne, som de har
                hørt. I værre Fald de nysgerrige, som vil sé, hvad Indtryk det gør. I værste Fald de
                ondsindede, der vil bringe os Smerte – –</p>
-                <p>Eller har jeg ikke Ret?</p>
-                <p>Men det nytter jo lidet. Saalænge alle disse Ting gør Dem ondt, er De ikke helbredet
+            <p>Eller har jeg ikke Ret?</p>
+            <p>Men det nytter jo lidet. Saalænge alle disse Ting gør Dem ondt, er De ikke helbredet
                og saa længe burde De hellere befinde Dem i <placeName key="Paris">Paris</placeName>
                eller <placeName key="Berlin">Berlin</placeName> eller <placeName key="Helsingfors">Helsingfors</placeName> – saasnart De kan og under hvilket Paaskud som helst.</p>
-                <p>Dette mellem os.</p>
-                <p>Nej, desværre, det er jo netop "Sygdommen" i min Sjæl, at jeg har mistet "Troen" paa,
+            <p>Dette mellem os.</p>
+            <p>Nej, desværre, det er jo netop "Sygdommen" i min Sjæl, at jeg har mistet "Troen" paa,
                at det betyder noget. Hvis man kunde leve af at spytte ud af Vinduet, vilde det være
                ligesaa fornuftigt at spytte seks Timer i Rad – som det er at "digte". ...</p>
-                <p>
-                    <emph>Men</emph> – én Ting vil <emph>jeg</emph> jo ikke: som <persName key="Larsen, Karl">Karl Larsen</persName> flytte <placeName key="Heidelberg">Heidelberg</placeName> til <placeName key="Coimbra">Coimbra</placeName>
-                    <note>Bang
-                  hentyder til Karl Larsens (1860-1931) danske oversættelse af Wilhelm Meyer-Försters skuespil
-                     <title key="Alt-Heidelberg">Alt-Heidelberg</title>, der på dansk blev til
-                     <title key="Hans Højhed">Hans Højhed</title>, opført på Folketeatret 1903-06
-                  ialt 123 gange. Coimbra (som er en universitetsby mellem Porto og Lissabon,
-                  Portugal) hentyder til Karl Larsens eget skuespil <title key="Inez fra Coimbra">Inez fra Coimbra</title>, se note til brevet 19060907</note>. Eller som
-                  <persName key="Wied, Gustav">Wied</persName> fortsætte de stakkels
-                  "Mus"<note>Forfatteren Gustav Wieds satyrspil <title key="Dansemus">Dansemus</title>, udgivet
-                  1905 hos Gyldendal; dramatiseret s.m. Emma Gad og opført 1914 under titlen <title key="Kærlighedens Kispus">Kærlighedens Kispus</title>
-                    </note>. Eller som
-                  <persName key="Gjellerup, Karl">Gjellerup</persName>
-                    <note>Forfatteren Karl Gjellerup (1857-1919), fra 1892 bosat i Dresden</note>
+            <p>
+               <hi rend="italics">Men</hi> – én Ting vil <hi rend="italics">jeg</hi> jo ikke: som <persName key="Larsen_Karl">Karl Larsen</persName> flytte <placeName key="Heidelberg">Heidelberg</placeName> til <placeName key="Coimbra">Coimbra</placeName>
+               <ref target="n4"/>. Eller som
+                  <persName key="Wied_Gustav">Wied</persName> fortsætte de stakkels
+                  "Mus"<ref target="n5"/>. Eller som
+                  <persName key="Gjellerup_Karl">Gjellerup</persName>
+               <ref target="n6"/>
                blive galdesyg, fordi han ikke er en levende <app>
-                        <lem>Digter"</lem>
-                        <rdg>Uvist hvor Bang har glemt at sætte det første anførelsestegn i
+                  <lem>Digter"</lem>
+                  <rdg>Uvist hvor Bang har glemt at sætte det første anførelsestegn i
                      sætningen</rdg>
-                    </app>. Eller som <persName key="Lehmann, Julius">"Jubilaren, der rider"</persName>
-                    <note>Uvist hvad Bang sigter til med dette udtryk, men formentlig menes Julius
-                  Lehmann (1861-1931), fra 1893 sceneinstruktør ved Det Kongelige Teater, hvor Hans Beck (1861-1952) siden
-                  1894 var balletmester</note> lade <persName key="Beck, Hans">Hans Beck</persName>
+               </app>. Eller som <persName key="Lehmann_Julius">"Jubilaren, der rider"</persName>
+               <ref target="n7"/> lade <persName key="Beck_Hans">Hans Beck</persName>
                og Dekorationsmaleren og Belysningsmesteren og Orkestret digte for sig –</p>
-                <p>Derfor vilde jeg være Diplomat, og jeg kommer aldrig over, at jeg ikke blev det. Ti
-               jeg bliver det ikke. Og derfor saá jeg saadan ud i Sommer<note>Uvist hvad Bang sigter
-                  til</note>.</p>
-                <p>Men skidt i mig, som er gammel. Dem gælder det. Berlins "Verein für Kunst" giver i
+            <p>Derfor vilde jeg være Diplomat, og jeg kommer aldrig over, at jeg ikke blev det. Ti
+               jeg bliver det ikke. Og derfor saá jeg saadan ud i Sommer<ref target="n8"/>.</p>
+            <p>Men skidt i mig, som er gammel. Dem gælder det. Berlins "Verein für Kunst" giver i
                Januar en stor "Herman-Bang-Aften" under min Medvirkning. Alle disse Skridt i
                Tyskland glæder mig, fordi de maaske en Dag kan hjælpe Dem. Det er oprigtig sandt. Ti
                mig personlig er det fuldkommen ligegyldigt.</p>
-                <p rend="right">Herman</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>

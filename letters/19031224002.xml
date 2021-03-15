@@ -1,113 +1,124 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19031224002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Gyldendals arkiv B4c</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1903-12-24" notBefore="9999-99-99" notAfter="9999-99-99">1903. 24. december.  [torsdag]<note>Årstal for dette brev følger
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19031224002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København?]</placeName>
+               <date when="1903-12-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1903-12-24"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1903. 24. december.  [torsdag]<note>Årstal for dette brev følger
                   af artiklen i "Julebogen" 1903</note>
-                </date>
-                <placeName cert="high">[København?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Juleaftens Dag.</p>
-                <p>Kære Nansen.</p>
-                <p>Det vedkommer <app>
-                        <lem>mig</lem>
-                        <rdg>Ordets første bogstav med rettelse, vistnok fra: ik</rdg>
-                    </app> jo ikke. Men af "Julebogens" Bidrag om <persName key="Wiehe, Michael">Michael
+            </date>
+            <placeName cert="high">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Juleaftens Dag.</p>
+            <p>Kære Nansen.</p>
+            <p>Det vedkommer <app>
+                  <lem>mig</lem>
+                  <rdg>Ordets første bogstav med rettelse, vistnok fra: ik</rdg>
+               </app> jo ikke. Men af "Julebogens" Bidrag om <persName key="Wiehe_Michael">Michael
                   Wiehe</persName>
-                    <note>Forfatter og bibliotekar A.C. Larsen (1840-1914): "<title key="Michael Wiehe">Michael Wiehe</title>", trykt i Julebogen. Fortællinger og Skildringer af
-                  danske Forfattere. Anden Aargang, H. Hagerups Forlag 1903, s. 27-52. Bang
-                  fremhævede dette bidrag i sin artikel om den nye Julebog, "Michael Wiehe og hans
-                  Hustru", København, 23.12. 1903. Michael Wiehe (1820-64) var skuespiller ved Det Kongelige Teater, farbror til skuespilleren Wilhelm Wiehe (1858-1916)</note> fremgaar det, at <persName key="Wiehe, Emilie">Fru Michael Wiehe</persName>
-                    <note>Emilie Wiehe (1821-91), født Thorsen, gift 1844 med skuespiller Michael Wiehe</note> har efterladt sig nogle "Erindringer", hvoraf i
-               "Julebogen" kun findes Brudstykker<note>A.C. Larsen i den anførte artikel, s. 34:
-                  "Først vil jeg lade hende føre Ordet, idet jeg ud af hendes efterladte Erindringer
-                  tager nogle Brudstykker, som kan vise, hvorledes Forholdet mellem dem udviklede
-                  sig fra først af til den Dag, da de holdt Bryllup." I 1912 udgav skuespilleren og teaterhistorikeren <persName key="Neiiendam, Robert">Robert Neiiendam</persName> (1880-1966) alle Emilie Wiehes
-                  erindringer (i Breve og Erindringer fra danske Skuespillere, bd. 2). – A.C. Larsen
-                  og Emilie Wiehe var beslægtede, idet deres mødre begge var født
-               Øckenholt</note>.</p>
-                <p>Tilsammen kunde maaske disse "Erindringer" danne en Bog. Manden, som ejer den, synes
-               jo at være <persName key="Larsen, A.C.">A.C. Larsen</persName>.</p>
-                <p>Under Titlen:</p>
-                <p>"Michael Wiehes Hustru"</p>
-                <p>maatte det jo blive en enestaaende Salgs-Sukces.</p>
-                <p>Tilgiv denne Indblanden.</p>
-                <p>En glædelig Jul for dig, som elsker Julen.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+               <ref target="n1"/> fremgaar det, at <persName key="Wiehe_Emilie">Fru Michael Wiehe</persName>
+               <ref target="n2"/> har efterladt sig nogle "Erindringer", hvoraf i
+               "Julebogen" kun findes Brudstykker<ref target="n3"/>.</p>
+            <p>Tilsammen kunde maaske disse "Erindringer" danne en Bog. Manden, som ejer den, synes
+               jo at være <persName key="Larsen_A.C.">A.C. Larsen</persName>.</p>
+            <p>Under Titlen:</p>
+            <p>"Michael Wiehes Hustru"</p>
+            <p>maatte det jo blive en enestaaende Salgs-Sukces.</p>
+            <p>Tilgiv denne Indblanden.</p>
+            <p>En glædelig Jul for dig, som elsker Julen.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,102 +1,118 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18970419001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 187</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1897-04-19" notBefore="9999-99-99" notAfter="9999-99-99">[1897. 19. april, mandag], Anden Påskedag<note>Passus om "de
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18970419001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 187</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1897-04-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1897-04-19"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1897. 19. april, mandag], Anden Påskedag<note>Passus om "de
                   sidste møbler" og "huset er i orden" hentyder til Bangs nylige indflytning i
                   Slagelsegade 22, stueetagen, Østerbro i København. </note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Anden Paaskedag.</p>
-                <p>I er vel kommet hjem?<note>Fra <placeName key="Berlin">Berlin</placeName>, jf. brevet
-                  18970413</note>
-                </p>
-                <p>Af Fødselsdagsgilde<note>Bang fyldte 40 år 20.4.1897</note> bliver der intet, da
-                  <persName key="Nansen, Betty">Kunstnerinden</persName>
-                    <note>Ifølge avisannoncer opførte Det Kongelige Teater 19.4. <persName key="Drachmann, Holger">Drachmann</persName>s (1846-1908) skuespil <title key="Strandby Folk">Strandby Folk</title> (Betty Nansen spillede Gertrud) og
-                  20.4. de franske dramatikere <persName key="Meilhac, Henri">Henri Meilhac</persName> (1831-97) og <persName key="Halévy, Ludovic">Ludovic Halévy</persName>s (1834-1908) lille lystspil <title key="Efteraarssol">Efteraarssol</title> (Betty Nansen spillede
-                  Adrienne)</note> jo skal spille og Snedkeren har snydt mig med de sidste Møbler
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Anden Paaskedag.</p>
+            <p>I er vel kommet hjem?<ref target="n1"/>
+            </p>
+            <p>Af Fødselsdagsgilde<ref target="n2"/> bliver der intet, da
+                  <persName key="Nansen_Betty">Kunstnerinden</persName>
+               <ref target="n3"/> jo skal spille og Snedkeren har snydt mig med de sidste Møbler
                og jeg er for syg .....</p>
-                <p>Naar jeg har besørget Krigen<note>Formentlig Bangs artikel "Judas" om den
-                  græsk-tyrkiske konflikt, Aftenbladet, 19.4.1897</note>, maa jeg sikkert som alle
+            <p>Naar jeg har besørget Krigen<ref target="n4"/>, maa jeg sikkert som alle
                andre Dage gaa i Seng.</p>
-                <p>Men Asparges og Kyllinger skal I faa den første Dag, Huset er i Orden.</p>
-                <p>Mange Hilsener.</p>
-                <p rend="right">Herman</p>
-            </div>
-        </body>
-    </text>
+            <p>Men Asparges og Kyllinger skal I faa den første Dag, Huset er i Orden.</p>
+            <p>Mange Hilsener.</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>

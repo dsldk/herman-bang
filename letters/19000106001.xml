@@ -1,107 +1,114 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19000106001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Dateringen »6/1 1900« er tilføjet med blyant, formodentlig
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000106001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »6/1 1900« er tilføjet med blyant, formodentlig
                                         af Aage Hirschsprung</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1900-01-06">[1900, 6. januar] Lørdag <note>Datering: den
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-01-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-01-06">[1900, 6. januar] Lørdag <note>Datering: den
                         angivne ugedag i kombination med brevets sekundært anførte datering; denne
                         er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lørdag.</p>
-                <p>Min kære Hirschsprung.</p>
-                <p>Hermed det rettede »Hvide Hus«<note>Bang sigter til sit forberedende arbejde med
-                        2. oplag af <emph>Det hvide Hus</emph>, der udkom i 1901; se også Bangs brev
-                        til Aage Hirschsprung, 1.1.1900</note>. De vil maaske sige ‒ eller i hvert
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Min kære Hirschsprung.</p>
+            <p>Hermed det rettede »Hvide Hus«<ref target="n1"/>. De vil maaske sige ‒ eller i hvert
                     Fald tænke ‒ at disse Rettelser er til liden Gavn. Men De tager fejl. Der maatte
                     bringes mere Sammenhæng mellem Bogens første og sidste Halvdel. Ellers vilde
-                    senere Mennesker sikkert opdage Husets Bygnings-Brøst<note>Dvs. bygningsmangler
-                        eller byggefejl</note>. Nu tror jeg, vi trøstigere kan overlade den til ‒ ‒
+                    senere Mennesker sikkert opdage Husets Bygnings-Brøst<ref target="n2"/>. Nu tror jeg, vi trøstigere kan overlade den til ‒ ‒
                     »Eftertiden«.</p>
-                <p>Sig mig, paa hvilket Forlag er Oversættelsen af Lombrosos Bog om Sindssyge og
-                        Forbrydelse<note>Den italienske psykiater og kriminalantropolog Cesare
-                        Lombroso (1835-1909) udgav i 1876 bogen <emph>L'uomo delinquente</emph>; den
-                        er tilsyneladende ikke kommet i en dansk oversættelse, men Bang kan måske
-                        tænkes at spørge efter en oversættelse til et andet sprog...??? </note>
+            <p>Sig mig, paa hvilket Forlag er Oversættelsen af Lombrosos Bog om Sindssyge og
+                        Forbrydelse<ref target="n3"/>
                     udkommen?</p>
-                <p rend="right">Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

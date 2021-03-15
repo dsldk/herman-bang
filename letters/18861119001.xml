@@ -1,140 +1,142 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18861119001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Rigsarkivet</repository>
-                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861119001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
                                     blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Niels Neergaard</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-11-19">[1886, 19. november] Fredag <note>Brevet kan
-                        dateres ud fra den omtalte boganmeldelse i <emph>Dagbladet</emph>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-11-19">[1886, 19. november] Fredag <note>Brevet kan
+                        dateres ud fra den omtalte boganmeldelse i <hi rend="italics">Dagbladet</hi>
                         (Kristiania), søndag 14.11.1886. Tidsmæssigt placeres det efter Bangs
                         udaterede brev til Niels Neergaard [ca. 10.11.1886] og før hans brev »Mandag
                         Aften« [29.11.1886]; det er et svar til Niels Neergaard, der må have
                         forkastet Bangs manuskript, men åbnet for den mulighed, at Bang kunne
                         omarbejde det til en artikel om unge danske forfattere; »De Unge og de
-                        Yngste« ses ikke at være blevet trykt, hverken i <emph>Tilskueren</emph>
+                        Yngste« ses ikke at være blevet trykt, hverken i <hi rend="italics">Tilskueren</hi>
                         eller andetsteds. Redaktionens forkastelse fremgår tillige af Bangs breve
                         til Emil Jonas, dateret Søndag [28.11.1886] og til Peter Nansen, dateret
                         Mandag [29.11.1886]. ‒ Niels Neergaard (1854-1936) var 1884-1892 redaktør af
-                        tidsskriftet <emph>Tilskueren</emph></note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Fredag.</p>
-                <p>Kære Neergaard.</p>
-                <p>Tak for Deres Brev. Gid det var kommet noget før. Saa havde jeg vidst, at den Del
+                        tidsskriftet <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Fredag.</p>
+            <p>Kære Neergaard.</p>
+            <p>Tak for Deres Brev. Gid det var kommet noget før. Saa havde jeg vidst, at den Del
                     af min Maanedsindtægt maatte erstattes af andet.</p>
-                <p>Tak fremdeles for Deres gode Tilbud om Omarbeide. For at <emph>kunne</emph>
+            <p>Tak fremdeles for Deres gode Tilbud om Omarbeide. For at <hi rend="italics">kunne</hi>
                     omarbeide maatte jeg imidlertid først og fremst have ‒ mit Arbeide. Jeg har
-                    nemlig kun dette ene Manuskript, som <emph>De</emph> har, kære N., og som De ‒
+                    nemlig kun dette ene Manuskript, som <hi rend="italics">De</hi> har, kære N., og som De ‒
                     saare fiffigt! ‒ ikke har sendt mig tilbage.</p>
-                <p>Naar De nu <emph>strax</emph> sender mig dette værdifulde Forsøg paa at skabe
-                        Stuckenberg<note>Forfatteren Viggo Stuckenberg (1863-1905) debuterede i
-                        oktober 1886 med bogen <emph>Digte</emph>, P.G. Philipsens Forlag,
-                        København</note> Udødeligheden ‒ vil jeg læse det og ‒ sandsynligvis sende
-                    det til Göteborg<note>Dvs. til redaktionen af <emph>Göteborgs Handels- och
-                            Sjöfarts-Tidning</emph>, som Bang i ny og næ leverede artikler
-                        til</note>. Ti De siger nok: udvid Betragtningen, tag flere og mere med! Men
+            <p>Naar De nu <hi rend="italics">strax</hi> sender mig dette værdifulde Forsøg paa at skabe
+                        Stuckenberg<ref target="n1"/> Udødeligheden ‒ vil jeg læse det og ‒ sandsynligvis sende
+                    det til Göteborg<ref target="n2"/>. Ti De siger nok: udvid Betragtningen, tag flere og mere med! Men
                     hvad og hvem? og hvorhen udvide?</p>
-                <p>Det hele er jo ikke <emph>om</emph> »Digteren« »V. Stb.« men et Apropos til ham.
+            <p>Det hele er jo ikke <hi rend="italics">om</hi> »Digteren« »V. Stb.« men et Apropos til ham.
                     Og jeg ved ikke ret, hvordan han skulde forsvinde ud af »Betragtningerne«. Men ‒
-                    send mig nu Manuskriptet, og jeg skal læse det, og <emph>kan</emph> det ændres
-                    paa det væsenlige, skal <emph>De</emph> faa det igen.</p>
-                <p>Jeg modstaar ikke Lysten til at sende Dem indlagte ‒ et lille Bevis paa,
-                    hvorledes en »Meningsfælle«<note>Bangs medsendte avisudklip er ikke bevaret
-                        sammen med brevet. Som antydet i brevets efterskrift har Bang vedlagt den
-                        usignerede anmeldelse af <emph>Stille Eksistenser</emph> i den norske avis
-                            <emph>Dagbladet</emph> (Kristiania), 14.11.1886. Avisrubrikken
-                        »Literaturtidende« blev redigeret af redaktionssekretær Johan Daniel Irgens
-                        Hansen (1854-1895), og anmeldelsen kan være skrevet af ham</note> finder det
+                    send mig nu Manuskriptet, og jeg skal læse det, og <hi rend="italics">kan</hi> det ændres
+                    paa det væsenlige, skal <hi rend="italics">De</hi> faa det igen.</p>
+            <p>Jeg modstaar ikke Lysten til at sende Dem indlagte ‒ et lille Bevis paa,
+                    hvorledes en »Meningsfælle«<ref target="n3"/> finder det
                     passende at behandle Forfatteren af »Slægterne« ‒ »Fædra« ‒ »Vidunderbarnet« ‒
-                    »Ved Vejen«<note>Bang sigter med disse fire titler til henholdsvis
-                            <emph>Haabløse Slægter</emph>, 1880, <emph>Fædra</emph>, 1883, novellen
-                        »Charlot Dupont« i <emph>Excentriske Noveller</emph>, 1885, og novellen »Ved
-                        Vejen« i <emph>Stille Eksistenser</emph>, 1886</note> og »nogle« Kritiker.
+                    »Ved Vejen«<ref target="n4"/> og »nogle« Kritiker.
                     Det er rørende at være saa »elsket«.</p>
-                <p>Send mig saa allenfals Manuskriptet ‒ hvis De da ikke skulde finde Raad for ved
-                    nogle <emph>mindre</emph> Ændringer at lægge Artiklen til rette.</p>
-                <p>Quant à moi ‒ je resterai sans rancune le vôtre<note>fr.: For mit vedkommende ‒
-                        jeg forbliver uden nag Deres</note>.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">Herman B.</p>
-                <p>Bladet er »Kristiania Dagblad«. Hvorlænge vil det forblive muligt saaledes at
-                    behandle mig en canaille?<note>fr.: sjofelt, pøbelagtigt</note></p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Send mig saa allenfals Manuskriptet ‒ hvis De da ikke skulde finde Raad for ved
+                    nogle <hi rend="italics">mindre</hi> Ændringer at lægge Artiklen til rette.</p>
+            <p>Quant à moi ‒ je resterai sans rancune le vôtre<ref target="n5"/>.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman B.</p>
+            <p>Bladet er »Kristiania Dagblad«. Hvorlænge vil det forblive muligt saaledes at
+                    behandle mig en canaille?<ref target="n6"/>
+            </p>
+         </div>
+      </body>
+   </text>
 </TEI>

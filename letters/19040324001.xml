@@ -1,97 +1,115 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19040324001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Gyldendals arkiv B4c</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="telegram">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Telegram, indleveret fra Kolding kl. 12.20, adresseret til:
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040324001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="telegram">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Telegram, indleveret fra Kolding kl. 12.20, adresseret til:
                                     <q>Peter Nansen / Gyldendalske Boghandel / Kbh</q>
-                                            </ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="telegram">
-                                        <ab>empty</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1904-03-24" notBefore="9999-99-99" notAfter="9999-99-99">1904. 24. marts.  [torsdag]<note>Telegram vedrørende
-               trykningen af <title key="Mikaël">Mikaël</title>, sendt under Bangs turné rundt i landet</note>
-                </date>
-                <placeName cert="high">Kolding</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Da jeg ikke har faaet Korrektur paa Smudstitlen<note>Det blad med bogens titel, som
-                  er placeret før titelbladet i en bog. Mikaël bærer ingen trykt tilegnelse</note>
-               og ikke husker om der i mit Manuskript fandtes en Tilegnelse til <persName key="Marie, prinsesse">Prinsesse Marie</persName>, beder jeg Dig, hvis den findes,
-               at udtage den. Den maa <emph>ikke</emph> staa i Bogen. Dels kunde Romanens Tendens
-               mulig skade Prinsessen ved det kronprinselige Hof<note>Prinsesse Marie (1865-1909), franskfødt hertuginde af Orléans, var siden 1885 gift med
-                  prins <persName key="Valdemar, prins">Valdemar</persName> (1858-1939), en lillebror til kronprins
-                     <persName key="Frederik 8."/>Frederik (8.)</note>. Dels vil jeg, at Mikael
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="telegram">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Kolding</placeName>
+               <date when="1904-03-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-03-24"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 24. marts.  [torsdag]<note>Telegram vedrørende
+               trykningen af <!--start title reference--><title key="Mikaël">Mikaël</title>
+                  <!--end title reference-->, sendt under Bangs turné rundt i landet</note>
+            </date>
+            <placeName cert="high">Kolding</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Da jeg ikke har faaet Korrektur paa Smudstitlen<ref target="n1"/>
+               og ikke husker om der i mit Manuskript fandtes en Tilegnelse til <persName key="Marie_prinsesse">Prinsesse Marie</persName>, beder jeg Dig, hvis den findes,
+               at udtage den. Den maa <hi rend="italics">ikke</hi> staa i Bogen. Dels kunde Romanens Tendens
+               mulig skade Prinsessen ved det kronprinselige Hof<ref target="n2"/>. Dels vil jeg, at Mikael
                udkommer uden noget som helst, der kan se ud som Reklame. Jeg stoler paa, at det
                sker, som jeg ønsker.</p>
-                <p rend="right">Herman Bang.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

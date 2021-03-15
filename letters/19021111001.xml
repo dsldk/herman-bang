@@ -1,92 +1,108 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19021111001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19021111001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
                                     20</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Jacob Hegel</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 7 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær; underskriften er egenhændig</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1902-11-11">1902, 11. November [tirsdag]<note>I brev af
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 7 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; underskriften er egenhændig</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1902-11-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Jacob Hegel</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1902-11-11">1902, 11. November [tirsdag]<note>I brev af
                         14.11.1902 meddelte Jacob Hegel til Schubothe, at Gyldendal nu var indtrådt
                         i Bangs rettigheder over for Schubothe (N-B.Wamberg 1970, s.232)</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Gml. Kongevej 25, d 11/11. 02.</p>
-                <p>Kære Hr. Hegel.</p>
-                <p>Tilgiv, at jeg dikterer dette. Men lige hjemkommen fra en Rejse er jeg for træt
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gml. Kongevej 25, d 11/11. 02.</p>
+            <p>Kære Hr. Hegel.</p>
+            <p>Tilgiv, at jeg dikterer dette. Men lige hjemkommen fra en Rejse er jeg for træt
                     til at skrive selv. I Parantes sagt, har jeg paa Turen gjort en kraftig Reklame
                     for Salget af mine Bøger.</p>
-                <p>Efter Nansens Raad beder jeg Dem henvende Dem til de Herrer i Silkegade for at
+            <p>Efter Nansens Raad beder jeg Dem henvende Dem til de Herrer i Silkegade for at
                     udbede Dem ‒ De, som nu varetager mine Rettigheder ‒ en Opgørelse over
                     Restoplaget af mine Bøger, vel at mærke, Resten af sælgelige Exemplarer. Jeg
                     troer ikke, at der af Romanen »Fædra« findes ét eneste sælgeligt Bind. Oplaget
@@ -103,27 +119,25 @@
                     den i Schubothes Factura var opført til 6 Kr. Men paa Telefonforespørgsel lod
                     Hr. Hirschsprung svare, at »Stuk« ganske vist var nedsat. Det var en
                     Forglemmelse. Man bliver i Sandhed aldrig træt af at undres over de Herrer.</p>
-                <p>Det er derfor min Bøn til Dem og Hr. Nansen, at De fra et Forlæggerstandpunkt gør
+            <p>Det er derfor min Bøn til Dem og Hr. Nansen, at De fra et Forlæggerstandpunkt gør
                     de Herrer ret kraftigt opmærksomme paa, at deres Færd dog vistnok har sine
                     Pletter. Stærke Ord har altid været mig meget imod. Men det synes mig, at
                     Firmaet i lidt for høj en Grad har benyttet sig af visse Egenskaber ved min
                     Karakter.</p>
-                <p>Hvad Forespørgelsen angaaende Dr Funch angaar, da ønsker jeg ikke, at Hr. Funchs
+            <p>Hvad Forespørgelsen angaaende Dr Funch angaar, da ønsker jeg ikke, at Hr. Funchs
                     Regning betales. Jeg har i Sommer sagt Hr. Funch at Regningen ikke maatte
                     indsendes, før min Tilladelse var indhentet. Jeg vilde ikke, at den betaltes,
-                    før jeg havde indleveret tilstrækkeligt <emph>nyt</emph> Manuskript til
+                    før jeg havde indleveret tilstrækkeligt <hi rend="italics">nyt</hi> Manuskript til
                     Forlaget. Grunden til at den overhovedet udstedtes var den, at Schubothe betalte
                     mine Læger.</p>
-                <p>Jeg tilføjer at det naturligvis var de eneste Regninger Firmaet betalte. Nu skal
+            <p>Jeg tilføjer at det naturligvis var de eneste Regninger Firmaet betalte. Nu skal
                     den i ethvert Fald ikke betales før 1 Januar, hvad jeg nu meddeler Hr. Funch ‒
                     hvis jeg da ikke, hvad jeg haaber selv kan sende ham Pengene efter mine
                     københavnske Forelæsninger. Om nogle Dage skal jeg sende Hr. Nansen det første
                     Manuskript til »Ravnene«.</p>
-                <p rend="right">Jeg forbliver Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Jeg forbliver Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

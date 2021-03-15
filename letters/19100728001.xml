@@ -1,110 +1,128 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19100728001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 27</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1910-07-28" notBefore="9999-99-99" notAfter="9999-99-99">[1910. 28. juli?], Torsdag<note>Fra et Bangbrev i privateje
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19100728001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 27</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1910-07-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1910-07-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1910. 28. juli?], Torsdag<note>Fra et Bangbrev i privateje
                   vides det, at Berta Wasbutzki opholdt sig i København nogle dage sidst i juli
                   1910. Se også hendes erindringer om Herman Bang, som i dansk oversættelse er trykt
                   i tidsskriftet Spring, nr. 36, 2014</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Torsdag.</p>
-                <p rend="right">Lille Strandstræde 20</p>
-                <p>Kære Ven.</p>
-                <p>Jeg læser, du rejser til <placeName key="Blidstrup">Blidstrup</placeName>
-                    <note>
-                        <persName key="Knudsen, Johan">Godsejer Johan
-                     Knudsen</persName>s (1865-1942) gård på Mors, Nordjylland</note> men forhaabenlig ikke
-               idag, for jeg maa bede dig om en Hærskare af Tjenester – og alt skyldes det <persName key="Wasbutzki, Berta">Fru Wasbutzki</persName>
-                    <note>Berta Wasbutzki, gift med den tyske læge Max Wasbutzki, Berlin</note>. Konen er kommen iaften. Det var tidligt, synes jeg, og
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p rend="right">Lille Strandstræde 20</p>
+            <p>Kære Ven.</p>
+            <p>Jeg læser, du rejser til <placeName key="Blidstrup">Blidstrup</placeName>
+               <ref target="n1"/> men forhaabenlig ikke
+               idag, for jeg maa bede dig om en Hærskare af Tjenester – og alt skyldes det <persName key="Wasbutzki_Berta">Fru Wasbutzki</persName>
+               <ref target="n2"/>. Konen er kommen iaften. Det var tidligt, synes jeg, og
                – sidst paa Maaneden. Ved alle Guder, alt var istand og indrettet og lavet og ordnet,
                saa jeg var i Havn. Men nu kommer den Kone to Dage før Gagedag og for uigenkaldelig
-               sidste Gang maa jeg have hundrede Kroner. Du maa sige, det er for "<title key="Masker og                   Mennesker">Masker og
-                  Mennesker</title>"<note>Bogen udkom hos Gyldendal 28.9.1910</note>.</p>
-                <p>Men dernæst: Fru W: spiser her idag Kl. 7. I Søndags bespiste jeg en russisk Kritiker
+               sidste Gang maa jeg have hundrede Kroner. Du maa sige, det er for "<!--start title reference--><title key="Masker_og___________________Mennesker">Masker og
+                  Mennesker</title>
+               <!--end title reference-->"<ref target="n3"/>.</p>
+            <p>Men dernæst: Fru W: spiser her idag Kl. 7. I Søndags bespiste jeg en russisk Kritiker
                – Konversation: fransk – med det Resultat, at jeg maatte ligge i Mandags. Nu beder
                jeg dig deltage i Middagen idag og bære en Smule af Konversationens Last.</p>
-                <p>Og tilsist: hvis du kom Kl. 6½, kunde vi opsætte Brevet til Ministeriet. <persName key="Bergsøe, Vilhelm">Bergsøe</persName>
-                    <note>Forfatteren Vilhelm Bergsøe (1835-1911); sammenhængen vedrører formentlig Det Anckerske Legat</note> er
-                  einverstanden<note>ty.: indforstået, dvs. er informeret om sagen og erklærer sig
-                  enig</note>.</p>
-                <p>Giv <persName key="Hartmann, Max">Hartmann</persName>
-                    <note>Max Hartmann</note> Svar paa alting.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Og tilsist: hvis du kom Kl. 6½, kunde vi opsætte Brevet til Ministeriet. <persName key="Bergsøe_Vilhelm">Bergsøe</persName>
+               <ref target="n4"/> er
+                  einverstanden<ref target="n5"/>.</p>
+            <p>Giv <persName key="Hartmann_Max">Hartmann</persName>
+               <ref target="n6"/> Svar paa alting.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

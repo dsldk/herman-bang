@@ -1,118 +1,131 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18850506001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 172</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1885-05-06" notBefore="1885-05-06" notAfter="1885-05-06">[1885. 6. maj,  onsdag]<note>Brevets datering er usikker,
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850506001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 172</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Sankt Petersborg]</placeName>
+               <date when="1885-05-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1885-05-06"
+                  notBefore="1885-05-06"
+                  notAfter="1885-05-06">[1885. 6. maj,  onsdag]<note>Brevets datering er usikker,
                   men må antages at være skrevet på Bangs første dag i Sankt Petersborg</note>
-                </date>
-                <placeName cert="high">[Sankt Petersborg]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Peter.</p>
-                <p>Kan du bruge dette?</p>
-                <p>Jeg sender dig et Manuskript, skrevet af "det unge Finlands" første Kritiker,
-                  <persName key="Neiglick, Hjalmar">Hjalmar Neiglick</persName>
-                    <note>Hjalmar Neiglick (1860-89), finsk psykolog, i 1885 bosat i København, hvor han samarbejdede med Alfred Lehmann; 1887 docent i experimentel psykologi i Helsingfors</note>. Om Osvald<note>Dvs.
-                  om den norske dramatiker <persName key="Ibsen, Henrik">Henrik Ibsen</persName>s skuespil <title key="Gengangere">Gengangere</title>
-                    </note>. Det vilde glæde mig meget, om det
-               kunde blive optaget i "Politiken".<note>En eventuel artikel i Politiken har ikke
-                  kunnet identificeres</note>
-                </p>
-                <p>Jeg gider ei læse igennem, hvad jeg har skrevet. <emph>En</emph> Dag i Peterburg er
-               netop <emph>saa</emph> meget, at man bliver Idiot.</p>
-                <p rend="right">Din Herman</p>
-                <p>Idag spiser jeg hos den <persName key="Kiær, Fritz">danske Gesandt</persName>
-                    <note>Dvs. den danske ambassadør i Sankt Petersborg, på daværende tidspunkt Fritz Kiær (1825-93)</note>, imorgen <app>
-                        <lem>spiser jeg hos</lem>
-                        <rdg>Disse tre ord har Bang i denne og næste linje i brevet skrevet som
+            </date>
+            <placeName cert="high">[Sankt Petersborg]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Peter.</p>
+            <p>Kan du bruge dette?</p>
+            <p>Jeg sender dig et Manuskript, skrevet af "det unge Finlands" første Kritiker,
+                  <persName key="Neiglick_Hjalmar">Hjalmar Neiglick</persName>
+               <ref target="n1"/>. Om Osvald<ref target="n2"/>. Det vilde glæde mig meget, om det
+               kunde blive optaget i "Politiken".<ref target="n3"/>
+            </p>
+            <p>Jeg gider ei læse igennem, hvad jeg har skrevet. <hi rend="italics">En</hi> Dag i Peterburg er
+               netop <hi rend="italics">saa</hi> meget, at man bliver Idiot.</p>
+            <p rend="right">Din Herman</p>
+            <p>Idag spiser jeg hos den <persName key="Kiær_Fritz">danske Gesandt</persName>
+               <ref target="n4"/>, imorgen <app>
+                  <lem>spiser jeg hos</lem>
+                  <rdg>Disse tre ord har Bang i denne og næste linje i brevet skrevet som
                      gentagelsestegn</rdg>
-                    </app> Keiserens <persName key="Kraemer, Oskar von">Generaladjudant</persName>
-                    <note>I
-                  henhold til Bangs oplysning i brevet 1885, 13.maj, må det dreje sig om den finske adelsmand og officer Oskar von
-                  Kraemer (1829-1904), skønt han – ifølge <emph>Finsk biografisk handbok</emph>, Helsingfors 1903 – først i
-                  1886 blev generaladjudant hos den russiske kejser Aleksander 3</note>, iovermorgen spiser jeg
+               </app> Keiserens <persName key="Kraemer_Oskar_von">Generaladjudant</persName>
+               <ref target="n5"/>, iovermorgen spiser jeg
                hos den <app>
-                        <lem>svenska</lem>
-                        <rdg>Øjensynlig rettet fra: svenske</rdg>
-                    </app>
-                    <persName key="Due, Frederik">Minister</persName>
-                    <note>Dvs. den svensk-norske
-                  ambassadør i Sankt Petersborg, på daværende tidspunkt Frederik Due</note>.</p>
-                <p>Ce est bien arrangé?</p>
-                <p>n'est ce pas?<note>fr.: Det er godt tilrettelagt? ikke sandt?</note>
-                </p>
-            </div>
-        </body>
-    </text>
+                  <lem>svenska</lem>
+                  <rdg>Øjensynlig rettet fra: svenske</rdg>
+               </app>
+               <persName key="Due_Frederik">Minister</persName>
+               <ref target="n6"/>.</p>
+            <p>Ce est bien arrangé?</p>
+            <p>n'est ce pas?<ref target="n7"/>
+            </p>
+         </div>
+      </body>
+   </text>
 </TEI>

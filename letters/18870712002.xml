@@ -1,169 +1,183 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870712002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 412</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 6 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-07-12">1887, 12. Juli [tirsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag 12.7.87.</p>
-                <p>Kære Langhoff.</p>
-                <p>Hjertelig Tak for Deres Brev ‒ som var saameget nødigere, bedste Paul, som jeg
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870712002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 412</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 6 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-07-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-07-12">1887, 12. Juli [tirsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag 12.7.87.</p>
+            <p>Kære Langhoff.</p>
+            <p>Hjertelig Tak for Deres Brev ‒ som var saameget nødigere, bedste Paul, som jeg
                     befinder mig i en frygtelig Tilstand af Forstemthed. At tale har jeg glemt. En
                     dansk Lyd har jeg ikke hørt et halvt Aar ‒ og mit Arbejde synes mig mest saa
                     ganske ørkesløst. Under de Omstændigheder er den Skildring af Familien Gravesen,
-                    som jeg igaar sendte Schiøtt<note>Julius Schiøtt</note> blevet overordenlig
+                    som jeg igaar sendte Schiøtt<ref target="n1"/> blevet overordenlig
                     »humoristisk«. Jeg tror vel, at dette Interiør er lykkedes mig ‒ jeg har selv
                     lèt meget, mens jeg skrev det. Aa ‒ kære Paul ‒ gennem hvor megen Lidelse,
                     Skuffelser og Ubehag har <app>
-                        <lem>jeg ikke</lem>
-                        <rdg>Over ordene har Bang tilføjet et lille »2« og »1«; han må hermed have
+                  <lem>jeg ikke</lem>
+                  <rdg>Over ordene har Bang tilføjet et lille »2« og »1«; han må hermed have
                             ønsket en omvendt rækkefølge af disse to ord</rdg>
-                    </app> maattet lære at lé.</p>
-                <p>Det hele Gravesenske Afsnit vil være af dem, der vil synes Folk saa lette at
+               </app> maattet lære at lé.</p>
+            <p>Det hele Gravesenske Afsnit vil være af dem, der vil synes Folk saa lette at
                     skrive. Ti, naar man er naaet til den fuldkomne Livagtighed, synes Kunsten jo
                     altid som Fod i Hose. At der hører nogle Dage og Nætter til at hensætte sig
                     saaledes i andres hele Existens ‒ det fatter kun de, som selv har forsøgt det.
                     Ægteparret Petersen (Kaptejnens) har glædet mig uhyre. Han er designeret til at
                     være én af Hovedpersonerne i min næste »store« Bog: Romanen om de politiske
                     Klubber: »Fra 10-12 Dans i Haven«. Apropos: Om ét Aar er min Kontrakt med Schou
-                    ude, og jeg fornyer den <emph>ikke</emph>. Min Plan er efter »Stuk« at skrive en
+                    ude, og jeg fornyer den <hi rend="italics">ikke</hi>. Min Plan er efter »Stuk« at skrive en
                     Novelle ‒ en Kærlighedshistorie mellem Herlufs Fader og Degnens Tine, der
                     begynder samme Aften, hvor Fru B. og Herl. rejser; har Kanonaden ved Dybbøl til
                     Akkompagnement, og som viser Demoralisationen, som følger med Nederlaget: Tine
                     giver sig hen til ham i Fortvivlelsen over al Dybbøl-Gruen.</p>
-                <p>De vil finde denne samme Tanke antydet nu i III. Ja ‒ III! Det Kapitel er egenlig
+            <p>De vil finde denne samme Tanke antydet nu i III. Ja ‒ III! Det Kapitel er egenlig
                     Bogens vigtigste, og jeg tilstaar, jeg gyser derfor. Vi er enige om, at »vor«
                     Bog ingen almindelig »Komposition« har. Men for at bøde herpaa, har den en meget
-                    streng <emph>Arkitektur</emph>. De har sét første Del. I I og II bygges Huset og
+                    streng <hi rend="italics">Arkitektur</hi>. De har sét første Del. I I og II bygges Huset og
                     Bogen. III fører os ind i <app>
-                        <lem>de</lem>
-                        <rdg>Bang har sat lette overstregninger over dette ord</rdg>
-                    </app> Følelses-Ejendommelighederne hos de Agerende ‒ deres Forhold til
+                  <lem>de</lem>
+                  <rdg>Bang har sat lette overstregninger over dette ord</rdg>
+               </app> Følelses-Ejendommelighederne hos de Agerende ‒ deres Forhold til
                     Kærligheden, hvor de viser sig afmægtige. Saa i IV og V staar Dramaet i Flor:
                     Stukhuset straaler.</p>
-                <p>Enfin ‒ anden Del er just ligedan inddélt.</p>
-                <p>I og II viser lidt efter lidt Revnerne i Huset og i det <app>
-                        <lem>økonomiske</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> Liv, der leves om og i det.</p>
-                <p>Og III viser os, hvorledes alle disse Menneskers Kærlighedshandler er just som
+            <p>Enfin ‒ anden Del er just ligedan inddélt.</p>
+            <p>I og II viser lidt efter lidt Revnerne i Huset og i det <app>
+                  <lem>økonomiske</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> Liv, der leves om og i det.</p>
+            <p>Og III viser os, hvorledes alle disse Menneskers Kærlighedshandler er just som
                     »Stukket« i deres Huse: her er Grunden til det altsammen. Og her gives stille
                     Nøglen.</p>
-                <p>1) Fru Duncker løber fra Manden med Scheele. Og hele den Canthske Kreds er
-                    forbitret, forfærdet: <emph>det</emph> var ikke Meningen. Dette hos Canths er
-                    sletikke <emph>Kærlighedsforhold</emph> ‒ det er Tomt med <emph>Skin</emph> af
+            <p>1) Fru Duncker løber fra Manden med Scheele. Og hele den Canthske Kreds er
+                    forbitret, forfærdet: <hi rend="italics">det</hi> var ikke Meningen. Dette hos Canths er
+                    sletikke <hi rend="italics">Kærlighedsforhold</hi> ‒ det er Tomt med <hi rend="italics">Skin</hi> af
                     Utilladelighed og Fru Canth siger til Herluf: Man kan vel more sig, lille
                     Herluf, uden »at synde«. Stuk ‒ Stuk ‒ Stuk.</p>
-                <p>2) Herluf og Frøken Heltz ‒ ‒ »Vi har vel alle«, siger hun og mener dermed, at
-                        <emph>ogsaa</emph> hun har haft Skyld i Forholdets Vaghed, »været Tvivlere
+            <p>2) Herluf og Frøken Heltz ‒ ‒ »Vi har vel alle«, siger hun og mener dermed, at
+                        <hi rend="italics">ogsaa</hi> hun har haft Skyld i Forholdets Vaghed, »været Tvivlere
                     om det Hellige« .... Stuk!</p>
-                <p>3) Erhard og Mathilde. Ja ‒ bedste Paul. Lynet slaar ned i hende, da hun føler
+            <p>3) Erhard og Mathilde. Ja ‒ bedste Paul. Lynet slaar ned i hende, da hun føler
                     sig svanger, og han, ærgerlig og dog ogsaa forventningsfuld, fremfor alt
                     nysgerrig, gaar rundt en Maanedstid, hvor hun er blevet saa »underlig« ‒ og han
                     spørger sig selv, om det skulde være »dét«? Og det er dét. Og hun kommer en
                     Aften i de to Stuer, og han, som er halvflov o:s:v: gør alle de gamle
                     Barnekunster ‒ til hun sér med en pludselig Forfærdelse baade ham ‒ som aldrig
-                    var Barn og nu bliver <emph>Dreng</emph> i sin Kærlighed (ti egenlig elsker han
+                    var Barn og nu bliver <hi rend="italics">Dreng</hi> i sin Kærlighed (ti egenlig elsker han
                     hende virkelig) og sig selv som i Lys af et Lyn...... og løber, løber bort med
-                    Barnet, hun bærer under sit Hjerte og som ikke <emph>kan</emph> have denne
-                        <emph>Dreng</emph> til Fader! Han, Erh. G. som <emph>Fader</emph>!</p>
-                <p>Og han forstaar hende ‒ med en Smerte, som æder en Kræft ind i hans hele moralske
+                    Barnet, hun bærer under sit Hjerte og som ikke <hi rend="italics">kan</hi> have denne
+                        <hi rend="italics">Dreng</hi> til Fader! Han, Erh. G. som <hi rend="italics">Fader</hi>!</p>
+            <p>Og han forstaar hende ‒ med en Smerte, som æder en Kræft ind i hans hele moralske
                     Liv..... Stuk ‒ Stuk ‒ Stuk.</p>
-                <p>4) Den unge Adolf kommer fortvivlet hjem fra Hein: Han vil ikke mere prolongere
+            <p>4) Den unge Adolf kommer fortvivlet hjem fra Hein: Han vil ikke mere prolongere
                     Vekslerne. Og inde i Kontoret falder han sammen og hulker vanvittigt. Frøken
                     Hansen bringer ham et Glas Vand. Hun vil trøste ham ‒ ‒ ‒ og i et pludseligt
                     Fortvivlelsens Begær griber han hende (som han aldrig har saameget som
-                        <emph>attraaet</emph>, og hun »bliver hans« paa den gamle Sofa i
+                        <hi rend="italics">attraaet</hi>, og hun »bliver hans« paa den gamle Sofa i
                     Pulterkamret under »Kineseren«. Ikke en Gang Lidenskaben er ægte ‒ kun en Form
                     for Desperationen: Stuk ‒ Stuk ‒ Stuk.</p>
-                <p>Naa ‒ det lyder nu altsammen doktrinært og uklart. Men naar det leves i lutter
+            <p>Naa ‒ det lyder nu altsammen doktrinært og uklart. Men naar det leves i lutter
                     Scener for Deres Øjne ‒ vil det, haaber jeg, ligge klart.</p>
-                <p>Og i IV og V ruller saa Katastrofens Torden nærmere og nærmere ‒ til alt er
+            <p>Og i IV og V ruller saa Katastrofens Torden nærmere og nærmere ‒ til alt er
                     forbi.</p>
-                <p>.... Kære Paul, De er en sær Patron. De siger, De kan intet skrive. Sludder. Sin
+            <p>.... Kære Paul, De er en sær Patron. De siger, De kan intet skrive. Sludder. Sin
                     Mening kan man altid skrive. Naar man skriver den rentud. Først naar man vil
                     skjule noget af sin Mening begynder Vanskelighederne.</p>
-                <p>Torsdag Aften afsendes Slutn: af II.</p>
-                <p>Lev vel og skriv mig nu jævnligt til ‒ det er den eneste Afveksling i mit Liv at
+            <p>Torsdag Aften afsendes Slutn: af II.</p>
+            <p>Lev vel og skriv mig nu jævnligt til ‒ det er den eneste Afveksling i mit Liv at
                     læse et Brev.</p>
-                <p rend="right">Adieu ‒</p>
-                <p rend="right">H de B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Adieu ‒</p>
+            <p rend="right">H de B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

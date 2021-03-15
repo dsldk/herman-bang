@@ -1,109 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860317001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 5002, 4to</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">A.P. Holst (Bangs svoger)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider. Under brevets afsluttende underskrift
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860317001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5002, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider. Under brevets afsluttende underskrift
                                                 er hele den nederste halvdel af brevets side 2
                                                 afrevet; uvist om dette har medført teksttab</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-03-17">[1886, cirka 17. marts] <note>Dateres i forhold
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>A.P. Holst (Bangs svoger)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-03-17">[1886, cirka 17. marts] <note>Dateres i forhold
                         til Bangs brev dateret Tirsdag [9.3.1886] til A.P. Holst og til Bangs nye
                         adresse i Wien fra medio marts 1886</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Wien. Universitätsstrasse 4. IX Bezirk.</p>
-                <p rend="right">(Parterre)</p>
-                <p>Det kunde tænkes, at et almindeligt Brev ikke havde naaet Eder<note>Bang hentyder
-                        til sit brev 9.3.1886 til svogeren A.P. Holst</note>. Jeg vil derfor skrive
-                    endnu en Gang. Den Dag, da jeg trods alle mine Anstrængelser <emph>maa</emph>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien. Universitätsstrasse 4. IX Bezirk.</p>
+            <p rend="right">(Parterre)</p>
+            <p>Det kunde tænkes, at et almindeligt Brev ikke havde naaet Eder<ref target="n1"/>. Jeg vil derfor skrive
+                    endnu en Gang. Den Dag, da jeg trods alle mine Anstrængelser <hi rend="italics">maa</hi>
                     opgive Kampen og bogstavelig her ligger paa <app>
-                        <lem>Gaden</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> ‒ hvor man i civiliserede Lande ikke tør ligge ‒ vil det jo ikke gaa
+                  <lem>Gaden</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> ‒ hvor man i civiliserede Lande ikke tør ligge ‒ vil det jo ikke gaa
                     sporløst hen. Man vil den Dag, da Herman Bang bukker under for disse siste
                     Ulykker spørge ‒ og offenligt spørge ‒: havde dette Menneske da slet ingen
                     Slægt?</p>
-                <p>Som det var at vente, er jeg ikke mer i Hotellet<note>Hotel Hammerand, Wien, VIII
-                        Bezirk, hvorfra Bang cirka 15.3.1886 flyttede til Universitätsstrasse 4 i
-                        byens IX Bezirk</note>. Et Svar vil endnu kunne træffe mig her, hvor jeg har
+            <p>Som det var at vente, er jeg ikke mer i Hotellet<ref target="n2"/>. Et Svar vil endnu kunne træffe mig her, hvor jeg har
                     fundet Rum for en Uge. Jeg vilde kunne faa Arbeide og Stilling her; men
                     hvorledes skal jeg leve indtil da?</p>
-                <p>Jeg skal nu ikke falde til Byrde med flere Breve.</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Jeg skal nu ikke falde til Byrde med flere Breve.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

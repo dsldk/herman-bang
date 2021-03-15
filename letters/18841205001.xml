@@ -1,103 +1,110 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18841205001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Rigsarkivet</repository>
-                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18841205001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
                                     blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Niels Neergaard</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1884-12-05">1884, 5. December [fredag] <note>Niels Neergaard
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1884-12-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1884-12-05">1884, 5. December [fredag] <note>Niels Neergaard
                         (1854-1936) var 1884-1892 redaktør af tidsskriftet
-                        <emph>Tilskueren</emph></note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">d. 5.12.84.</p>
-                <p>Denne til det sindssyge forvirrede, usammenhængende »Studie« sendes
-                        herved<note>Uklart hvilket manuskript til »Tilskueren«, som Bang her taler
-                        om; se også hans brev herom til Neergaard, 4.12.1884. Formodentlig er dette
-                        manuskript aldrig blevet trykt</note>.</p>
-                <p rend="right">Venlig Hilsen</p>
-                <p rend="right">H. B.</p>
-                <p>Send saa, kære Hr. N. Pengenes Anvisning til Ottesen<note>Otto Andreas Ottesen
-                        (født ca. 1835), ejer af ejendommen Studiestræde 4, København. Fra
-                        eftersommeren 1884 boede Bang i lejligheden på 1. sal; Ottesen og hans kone,
-                        Christine Margrethe Ottesen (født ca. 1843), var således Bangs værtsfolk, og
-                        han betalte sin månedlige husleje til dem. Se også Bangs brev til Neergaard,
-                        28.10.1884</note>.</p>
-
-
-            </div>
-        </body>
-    </text>
+                        <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">d. 5.12.84.</p>
+            <p>Denne til det sindssyge forvirrede, usammenhængende »Studie« sendes
+                        herved<ref target="n1"/>.</p>
+            <p rend="right">Venlig Hilsen</p>
+            <p rend="right">H. B.</p>
+            <p>Send saa, kære Hr. N. Pengenes Anvisning til Ottesen<ref target="n2"/>.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

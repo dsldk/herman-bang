@@ -1,100 +1,119 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Peter Nansen</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19040215002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040215002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
                                 Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Gyldendals arkiv B2, Kopibog: Breve fra forlaget
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B2, Kopibog: Breve fra forlaget
                         15.10.1903-8.4.1904, s. 667</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Peter Nansen</persName> til <persName role="recipient">Herman Bang</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="Peter Nansen">
-                                        <ab>Kopien viser, at brevet var egenhændigt skrevet af Peter Nansen</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1904-02-15" notBefore="9999-99-99" notAfter="9999-99-99">1904. 15. februar.  [mandag]<note>Gyldendals ufuldstændigt bevarede kopibøger rummer fortløbende
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="peter-nansen">
+                              <ab>Kopien viser, at brevet var egenhændigt skrevet af Peter Nansen</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1904-02-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-02-15"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 15. februar.  [mandag]<note>Gyldendals ufuldstændigt bevarede kopibøger rummer fortløbende
                 nummererede blade med nøjagtig kopi af forlagets afsendte breve</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">15/2 [190]4</p>
-                <p>Kære Bang!</p>
-                <p>Græbe<note>Græbes Bogtrykkeri, København</note> har misforstaaet. Omslaget
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">15/2 [190]4</p>
+            <p>Kære Bang!</p>
+            <p>Græbe<ref target="n1"/> har misforstaaet. Omslaget
                         bliver efter dit Ønske ganske enkelt.</p>
-                <p>Det, der er Tale om, er en Smule <emph>Bind</emph>dekoration. Vi havde tænkt os
+            <p>Det, der er Tale om, er en Smule <hi rend="italics">Bind</hi>dekoration. Vi havde tænkt os
                         at lade lave nogle Pergament-Bind, og paa Pergament skulde der gærne lidt <app>
-                        <lem>stilfuld</lem>
-                        <rdg>Et afsluttende "e" er slettet</rdg>
-                    </app> Guld-Ornamentering. Det er det hele.</p>
-                <p>Ang. "Ved Vejen" o.s.v. skal jeg søge nærmere Oplysninger<note>Jf. brevet
-                                19040212</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">P.N.</p>
-            </div>
-        </body>
-    </text>
+                  <lem>stilfuld</lem>
+                  <rdg>Et afsluttende "e" er slettet</rdg>
+               </app> Guld-Ornamentering. Det er det hele.</p>
+            <p>Ang. "Ved Vejen" o.s.v. skal jeg søge nærmere Oplysninger<ref target="n2"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">P.N.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

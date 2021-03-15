@@ -1,116 +1,114 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18851206001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 159</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1885-12-06" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 6. december], Søndag<note>empty</note>
-                </date>
-                <placeName cert="high">[Berlin]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Helt kort – tak min Ven for Anmeldelsen<note>
-                        <title key="Excentriske Noveller">Excentriske Noveller</title> blev anmeldt i Politiken, lørdag 5.12.1885,
-          signeret E.B., dvs. Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note>.</p>
-                <p>Den var klog og udmærket.</p>
-                <p>Maatte det blot hjælpe.</p>
-                <p>Skriv mig privat, om <persName key="Brandes, Edvard">E.B.</persName>
-                    <note>Edvard
-                  Brandes</note> ikke gør Løier med sin Estime<note>fr.: agtelse,
-                  ærbødighed</note> for Giovanni. Tænk dig, jeg synes, den er slem, saa jeg vilde
-               slet ikke spørge dig, hvad du syntes om den hjemme<note>Giovanni, en jockei (dvs.
-                  jockey, rytter) og artist i cirkus, er hovedperson i novellen "<title key="Fratelli Bedini">Fratelli Bedini</title>" i Excentriske Noveller. I sin
-                  anmeldelse refererer Edvard Brandes hver af de tre noveller omtrent lige
-                  udførligt. Omtalen af "Fratelli Bedini" indleder han således: "Og Jockeyen fra
-                  Cirkus, hvad er det for en Fyr? Aften efter Aften vover han Springet paa Liv og
-                  Død; pirrer Faren ham og fryder han sig ved sit Legems Styrke, eller gribes han af
-                  Angst for den Lemlæstelse, der truer Manegens forvovne Ryttere? Og hvad er hans
-                  Liv udenfor Aften-Ridtet og Stalden? [...] Det er Faren og Angsten, som giver
-                  Akrobatens Tilværelse dens Præg. Hr. Bang viser i det hele en beundringsværdig
-                  Kendskab til Cirkuslivet, han kender disse Menneskers ejendommelige Udtryk og
-                  afstumpede Følelsesindhold", og efter at have refereret løvindens drab på Batty,
-                  Giovannis ven, afrunder Brandes sin udførlige anmeldelse: "Ganske glimrende er
-                  dette beskrevet. Og alt er her fortræffeligt, hele Fortællingen ud. Hr. Bangs Stil
-                  kan undertiden blive lidt smaahakket, og af lutter Stræben efter Naturlighed noget
-                  skødesløs, men der er stor Fart over dette Afsnit [...] Ekscentriske Noveller
-                  betegner et kunstnerisk Fremskridt hos Hr. Bang. Det Overlæssede er svundet fra
-                  Stilen, det Affekterte fra Følelsen. Hr. Bang har dresseret sig godt og er yderst
-                  sikker i sit Arbejde [...]"</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-                <p>Hermed et Brev<note>Sandsynligvis manuskript til et bidrag til Politiken, hvor Bang
-                  21.12.1885 fik trykt "Berliner-Breve"</note>.</p>
-            </div>
-        </body>
-    </text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851206001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 159</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1885-12-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-12-06"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 6. december], Søndag<note>empty</note>
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Helt kort – tak min Ven for Anmeldelsen<ref target="n1"/>.</p>
+            <p>Den var klog og udmærket.</p>
+            <p>Maatte det blot hjælpe.</p>
+            <p>Skriv mig privat, om <persName key="Brandes_Edvard">E.B.</persName>
+               <ref target="n2"/> ikke gør Løier med sin Estime<ref target="n3"/> for Giovanni. Tænk dig, jeg synes, den er slem, saa jeg vilde
+               slet ikke spørge dig, hvad du syntes om den hjemme<ref target="n4"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Hermed et Brev<ref target="n5"/>.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

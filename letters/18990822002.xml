@@ -1,121 +1,124 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18990822002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1899-08-22">1899, 22. August [tirsdag] <note>Bang blev
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990822002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Assens]</placeName>
+               <date when="1899-08-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-08-22">1899, 22. August [tirsdag] <note>Bang blev
                         26.8.1899 udskrevet fra Assens Sygehus</note>
-                </date>
-                <placeName cert="high">[Assens]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">22.8.99.</p>
-                <p>Min kære Ven.</p>
-                <p>Jeg skriver dette ved et Skrivebord. Og skønt Stinget er meget stærkt, holder jeg
+            </date>
+            <placeName cert="high">[Assens]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">22.8.99.</p>
+            <p>Min kære Ven.</p>
+            <p>Jeg skriver dette ved et Skrivebord. Og skønt Stinget er meget stærkt, holder jeg
                     det dog ud.</p>
-                <p>Lægen<note>Karl Lind (1850-1910), privatpraktiserende læge i Assens siden
-                        1877</note> vil imidlertid nu, at jeg skal herfra. Sygehusluften er umulig
-                    for mine Lunger og man vil have mig til Silkeborg<note>Dvs. til
-                        tuberkulosesanatoriet i Silkeborg</note> i Naaleskov i fire Uger.</p>
-                <p>Jeg skulde rejse paa Lørdag ‒ mener man, ledsaget af Hospitalets
-                        Sygeplejerske<note>Frøken Schack, sygeplejerske på Assens Sygehus. Hun er
-                        afbildet på et gruppebillede af Herman Bang som patient på Assens Sygehus,
-                        se <emph>Livsbilleder. Fotografiske portrætter af Herman Bang</emph>, 2014,
-                        s. 181 med en forklarende tekst s. 298</note>. Ti alene tør man ikke lade
+            <p>Lægen<ref target="n1"/> vil imidlertid nu, at jeg skal herfra. Sygehusluften er umulig
+                    for mine Lunger og man vil have mig til Silkeborg<ref target="n2"/> i Naaleskov i fire Uger.</p>
+            <p>Jeg skulde rejse paa Lørdag ‒ mener man, ledsaget af Hospitalets
+                        Sygeplejerske<ref target="n3"/>. Ti alene tør man ikke lade
                     mig rejse.</p>
-                <p>Vil De da sende mig Pengene til Opbrud'et ‒ ↄ: Drikkepenge her, Rejse o:s:v: ‒
+            <p>Vil De da sende mig Pengene til Opbrud'et ‒ ↄ: Drikkepenge her, Rejse o:s:v: ‒
                     saa jeg kan naa Silkeborg, hvor jeg har skrevet om Pension o:s:v:</p>
-                <p>Om mine Noveller<note>Bang sigter til det påbegyndte arbejde med bogen
-                            <emph>Udvalgte Fortællinger</emph>, der udkom 1.12.1899 på Det
-                        Schubotheske Forlag</note> skal jeg skrive fra Silkeborg. Vi maa dele dem i
+            <p>Om mine Noveller<ref target="n4"/> skal jeg skrive fra Silkeborg. Vi maa dele dem i
                     to Dele:</p>
-                <p>I Ungdomsnoveller</p>
-                <p>II Senere Noveller eller, rettere sagt, Fortællinger.</p>
-                <p>Det er mit bestemte Haab at jeg i Silkeborg kan skrive rask paa »Det graa
-                        Hus«<note>Bangs roman udkom 26.11.1901 på Det Schubotheske Forlag</note>,
+            <p>I Ungdomsnoveller</p>
+            <p>II Senere Noveller eller, rettere sagt, Fortællinger.</p>
+            <p>Det er mit bestemte Haab at jeg i Silkeborg kan skrive rask paa »Det graa
+                        Hus«<ref target="n5"/>,
                     som maa ud. Jeg har ikke saa længe at leve.</p>
-                <p>Igaar var N.V. Dorph<note>Niels V. Dorph (1862-1931), maler, der 1893-1902
-                        tillige var kunstanmelder ved dagbladet Politiken. Dorphs tegning af Bang
-                        blev i december 1899 offentliggjort i julehæftet Juleroser, sammen med Carl
-                        Snoilskys tre sonetter til Herman Bang</note> her og tegnede mig i Sengen.
+            <p>Igaar var N.V. Dorph<ref target="n6"/> her og tegnede mig i Sengen.
                     Tegningen er ej ilde. De skulde skrive til ham (ad: »Politiken«) om De maatte sé
                     den.</p>
-                <p>Mange Hilsener.</p>
-                <p rend="right">H. B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Mange Hilsener.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

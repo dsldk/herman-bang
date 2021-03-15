@@ -1,121 +1,134 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870903001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 441</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-09-03">[1887, 3. september]
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870903001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 441</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Teplitz [Teplice]</placeName>
+               <date when="1887-09-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-09-03">[1887, 3. september]
                         Lørdag<note>Dateringsforslaget hos Torbjörn Nilsson s. 342 note 23 og s. 290
                         nr. 30 følges</note>
-                </date>
-                <placeName cert="high">Teplitz [Teplice]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Teplitz. Poste restante. Lørdag.</p>
-                <p>Kære Paul.</p>
-                <p>Desværre tror jeg, at saavel De som Schiøtt<note>Julius Schiøtt</note> har ladet
-                    Dem dupere af V. Den store Kraft i <emph>Fantasien</emph>, det saa
-                    virkningsfuldt <emph>tænkte</emph> Optrin har saameget lettere kunnet tage Dem
+            </date>
+            <placeName cert="high">Teplitz [Teplice]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Teplitz. Poste restante. Lørdag.</p>
+            <p>Kære Paul.</p>
+            <p>Desværre tror jeg, at saavel De som Schiøtt<ref target="n1"/> har ladet
+                    Dem dupere af V. Den store Kraft i <hi rend="italics">Fantasien</hi>, det saa
+                    virkningsfuldt <hi rend="italics">tænkte</hi> Optrin har saameget lettere kunnet tage Dem
                     fangen, som jeg ustridig er den eneste nordiske Forfatter, der raader over et
                     saa livfuldt Sceneri som dette i disse Optrin.</p>
-                <p>Men ‒ Udførelsen staar hélt sikkert ikke paa Højde med Tanken. Fremstillingen
+            <p>Men ‒ Udførelsen staar hélt sikkert ikke paa Højde med Tanken. Fremstillingen
                     fortaber sig i den Detaille-Uro, som i IV, V og I-II saa lykkeligt var <app>
-                        <lem>overvunden</lem>
-                        <rdg>Ordets sidste bogstav er rettet fra: t</rdg>
-                    </app> for atter at dukke frem i IIIs Begyndelse.</p>
-                <p>Det er ikke nok, at Læseren her bøjer sig for alt hvad jeg har
-                        <emph>villet</emph> og for Tankens Konsekvents; jeg maa her uvægerligt vise,
-                    hvad jeg har lært at <emph>kunne</emph> og jeg maa sejre ved Udførelsens siste
+                  <lem>overvunden</lem>
+                  <rdg>Ordets sidste bogstav er rettet fra: t</rdg>
+               </app> for atter at dukke frem i IIIs Begyndelse.</p>
+            <p>Det er ikke nok, at Læseren her bøjer sig for alt hvad jeg har
+                        <hi rend="italics">villet</hi> og for Tankens Konsekvents; jeg maa her uvægerligt vise,
+                    hvad jeg har lært at <hi rend="italics">kunne</hi> og jeg maa sejre ved Udførelsens siste
                     Magt.</p>
-                <p>Men nu vil jeg først skrive IV. Saa sér vi, om jeg overhovedet bliver rask og kan
+            <p>Men nu vil jeg først skrive IV. Saa sér vi, om jeg overhovedet bliver rask og kan
                     levere noget bedre.</p>
-                <p>Ak, kære Paul, hvor sørgeligt med mit Helbred. Nu, just nu, hvor <emph>de</emph>,
+            <p>Ak, kære Paul, hvor sørgeligt med mit Helbred. Nu, just nu, hvor <hi rend="italics">de</hi>,
                     som havde troet paa mig (troet paa mig udover Dusin-Dygtigheden) syntes maaske
                     at kunne faa Ret ‒ just nu skal alt dette komme. Det er jo dog, som jeg tænkte.
                     Ikke mer Nerverne alene men et rent lokalt og yderst smerteligt Onde. Maaske
                     kommet af Overarbejde, maaske af de bestandige Sjælslidelser i disse to Aar.
                     Saaledes er Frugten blevet endelig ormstukken, mens den modnedes.</p>
-                <p>»Og den Ro og fuldstændige Skaansel«, som vilde kunne afværge videre Ødelæggelse
+            <p>»Og den Ro og fuldstændige Skaansel«, som vilde kunne afværge videre Ødelæggelse
                     er det mig jo dog ikke muligt at naa. Jeg vil i næste Uge skrive Bladartikler og
                     saa genoptage Arbejdet paa »Stuk«. Endnu kan jeg slet intet og maa ligge den
                     meste Tid. Selv et Brev som dette bringer mig idag store Smerter ‒ da jeg idag
                     føler mig meget slettere,</p>
-                <p>Og mine syge og svage Tanker flagrer da altid trætte om »Stuk«.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Og mine syge og svage Tanker flagrer da altid trætte om »Stuk«.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

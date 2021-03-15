@@ -1,133 +1,151 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18891219001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 79</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider. Et enkeltblad foldet til fire små sider; med et
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18891219001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 79</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider. Et enkeltblad foldet til fire små sider; med et
                                  lille "H.B." trykt i sort i papirets oprindelige venstre
                                  hjørne</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1889-12-19" notBefore="9999-99-99" notAfter="9999-99-99">[1889. 19. december. ] Torsdag<note>Brevets faktiske dato må
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1889-12-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1889-12-19"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1889. 19. december. ] Torsdag<note>Brevets faktiske dato må
                   ligge efter 17.12.1889, da Bangs Digte udkom</note>
-                </date>
-                <placeName cert="high">Odense</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Odense. Torsdag.</p>
-                <p>Kære Nansen.</p>
-                <p>Det er en meget stor Sag, jeg beder dig, hvis du kunde, at ordne. Men dette gaar
+            </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Odense. Torsdag.</p>
+            <p>Kære Nansen.</p>
+            <p>Det er en meget stor Sag, jeg beder dig, hvis du kunde, at ordne. Men dette gaar
                absolut ikke længer, og det er bogstavelig mine sidste Kræfter, jeg tager sammen for
-               at naa at skrive dette Brev. Siden mine "<title key="Digte">Digte</title>"<note>Digte
-                  udkom 17.12.1889</note> udkom, har jeg været mér end syg. Jeg lider af
+               at naa at skrive dette Brev. Siden mine "<!--start title reference--><title key="Digte">Digte</title>
+               <!--end title reference-->"<ref target="n1"/> udkom, har jeg været mér end syg. Jeg lider af
                Forfølgelsesvanvid i en Grad, saa jeg ikke har Ro hverken Dag eller Nat. I de sidste
                tre Dage falder jeg af den ene Besvimelse i den anden. Bedst vilde det vel være, om
                jeg lagde mig ind paa et Sindssygehospital; men det skader mig altfor meget som
                Forfatter.</p>
-                <p>Blive ved som det nu er, kan det imidlertid ikke. Uendelige Mængder af Cognac og
+            <p>Blive ved som det nu er, kan det imidlertid ikke. Uendelige Mængder af Cognac og
                Portvin skaffer mig kun et Par Timers Søvn, og jeg ødelægges ganske.</p>
-                <p>Der er kun én Mulighed – den, at rejse. Jeg er altid raskere i Udlandet. I Norge
+            <p>Der er kun én Mulighed – den, at rejse. Jeg er altid raskere i Udlandet. I Norge
                kunde jeg ogsaa ubemærket lægge mig ind paa et Sanatorium, hvis ikke Opholdet i en
                lille fjern By hjalp. Saasnart jeg saa blev nogenlunde, vilde jeg da tage den store
                Rejse – enten til Japan eller Sydamerika.</p>
-                <p>Men for at kunne rejse, maa jeg have Penge. Mit Regnskab med <persName key="Langhoff, Paul">Langhoff</persName>
-                    <note>Forlæggeren Paul Langhoff (1862-94), Det Schubotheske Forlag</note> staar, saa jeg skylder ham 1450
+            <p>Men for at kunne rejse, maa jeg have Penge. Mit Regnskab med <persName key="Langhoff_Paul">Langhoff</persName>
+               <ref target="n2"/> staar, saa jeg skylder ham 1450
                Kr., hvoraf 800 er fra gamle Dage – fra dem "sér han foreløbig bort" – og Resten er
-               for min Novellesamling<note>
-                        <title key="Under                            Aaget">Under
-                     Aaget</title>, der udkom 15.5.1890</note>, som han beregner til 900 Kr. Hos
-               Langhoff kan jeg altsaa sikkert <emph>direkte</emph> intet faa. Men nu er det, jeg
-               spørger: Om du ikke kunde henvende dig til f:Ex: <persName key="Cantor, Alexander">Cantor</persName>
-                    <note>Alexander Cantor (1853-1924), cand.jur., 1880-1910 overretssagfører i København</note> og sé at ordne det saaledes:</p>
-                <p>At jeg fik et eller andetsteds et Laan paa 6-900 Kr (600 er det mindste, jeg maatte
+               for min Novellesamling<ref target="n3"/>, som han beregner til 900 Kr. Hos
+               Langhoff kan jeg altsaa sikkert <hi rend="italics">direkte</hi> intet faa. Men nu er det, jeg
+               spørger: Om du ikke kunde henvende dig til f:Ex: <persName key="Cantor_Alexander">Cantor</persName>
+               <ref target="n4"/> og sé at ordne det saaledes:</p>
+            <p>At jeg fik et eller andetsteds et Laan paa 6-900 Kr (600 er det mindste, jeg maatte
                have) og Langhoff saa sikrede disse Penge, jeg mener: erklærede at ville udbetale en
                vis lille Sum for hvert Ark, jeg skrev, til de var betalt. Og hvis jeg døde eller
                blev sindssyg da sikrede dem i et eventuelt nyt Oplag af én af mine gamle Bøger.</p>
-                <p>Kunde ikke dette ordnes?</p>
-                <p>Mon ikke Cantor vilde hjælpe – ialfald med et Raad – til en Ordning af dette?</p>
-                <p>Jeg véd meget vel, at dette, kære Nansen, er et stort Besvær og maaske umuligt. Men
-               jeg <emph>kan</emph> ikke mere udholde denne Tilstand, og jeg beder dig derfor
+            <p>Kunde ikke dette ordnes?</p>
+            <p>Mon ikke Cantor vilde hjælpe – ialfald med et Raad – til en Ordning af dette?</p>
+            <p>Jeg véd meget vel, at dette, kære Nansen, er et stort Besvær og maaske umuligt. Men
+               jeg <hi rend="italics">kan</hi> ikke mere udholde denne Tilstand, og jeg beder dig derfor
                forsøge alle Udveje – <app>
-                        <lem>og</lem>
-                        <rdg>Skrevet oven i papirets oprindelige trykte initialer H.B., omvendt i forhold
+                  <lem>og</lem>
+                  <rdg>Skrevet oven i papirets oprindelige trykte initialer H.B., omvendt i forhold
                      til disse</rdg>
-                    </app>
-                    <emph>hastigt</emph>, ti Tiden er kostbar. Jeg vil ikke bruge store Ord om mine
+               </app>
+               <hi rend="italics">hastigt</hi>, ti Tiden er kostbar. Jeg vil ikke bruge store Ord om mine
                Lidelser. Men du faar tro, at jeg nu har baaret dem saalænge jeg kan. Jeg maa enten
                rejse eller indlægges paa en Sindssygeanstalt. Og det sidste er saa skæbnesvangert,
                at det bør undgaaes saa længe som muligt er.</p>
-                <p>Svar mig nu hurtigst. Hele min Tilværelse er jo kun Venten, til jeg faar et Svar.</p>
-                <p>Hils <persName key="Brock, Louise">din Kone</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> fra</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Svar mig nu hurtigst. Hele min Tilværelse er jo kun Venten, til jeg faar et Svar.</p>
+            <p>Hils <persName key="Brock_Louise">din Kone</persName>
+               <ref target="n5"/> fra</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

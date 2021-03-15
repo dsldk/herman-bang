@@ -1,102 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19080117002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4685, 4to; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Christian Houmark</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="postkort">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Postkort; billedsiden viser en tegning af en udsigt
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19080117002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4685, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="postkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Postkort; billedsiden viser en tegning af en udsigt
                                                 over Wien ved Ringen med bl.a. Parlamentet og
-                                                Rådhuset, og med den trykte tekst: <emph>Gruss aus
-                                                  Wien / Franzens-Ring</emph>. Bang har skrevet sin
+                                                Rådhuset, og med den trykte tekst: <hi rend="italics">Gruss aus
+                                                  Wien / Franzens-Ring</hi>. Bang har skrevet sin
                                                 korte brevtekst på kortets billedside. Kortet er
                                                 frankeret med et 10 Hellers-frimærke og poststemplet
                                                 i Wien 16.1.08; med det danske postvæsens to
-                                                modtagerstempler: <emph>Kjøbenhavn 0 OMB.
-                                                  19.1.08</emph> og <emph>1 OMB. 20.1.08</emph>.
+                                                modtagerstempler: <hi rend="italics">Kjøbenhavn 0 OMB.
+                                                  19.1.08</hi> og <hi rend="italics">1 OMB. 20.1.08</hi>.
                                                 Adressefeltet er udfyldt i Bangs håndskrift:
-                                                  <emph>Hr. Christian Houmark. / »Hotel Kongen af
-                                                  Danmark«. / Kopenhagen / K.</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1908-01-17">1908, 17. Januar [fredag] <note>Dateres efter
+                                                  <hi rend="italics">Hr. Christian Houmark. / »Hotel Kongen af
+                                                  Danmark«. / Kopenhagen / K.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1908-01-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1908-01-17">1908, 17. Januar [fredag] <note>Dateres efter
                         poststemplet. ‒ I januar-april 1908 foretog Bang flere oplæsningsrejser til
                         bl.a. Breslau (Wroclaw), Wien og Prag; ind imellem disse rejser var han
                         hjemme på sin bopæl i Berlin</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Mange Hilsener fra »Berømtheden«. ‒ uh.</p>
-
-
-            </div>
-        </body>
-    </text>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Mange Hilsener fra »Berømtheden«. ‒ uh.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

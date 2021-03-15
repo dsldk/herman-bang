@@ -1,103 +1,114 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18910208001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2009/148. Det 122.brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Kristian Dahl</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Skråt over Bangs datering er med fremmed hånd skrevet:
-                                            <emph>8 Febr. 1891</emph> (årstallet er rettet fra:
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18910208001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 122.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Skråt over Bangs datering er med fremmed hånd skrevet:
+                                            <hi rend="italics">8 Febr. 1891</hi> (årstallet er rettet fra:
                                         1890) efter en overstregning af: Første Halvdel af Februar,
                                         antagelig af Kr. Dahl. På side 2 et blyantsnummer: 23</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1891-02-08">[1891, 8. februar, søndag] <note>Den sekundært
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Fredensborg</placeName>
+               <date when="1891-02-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Kristian Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1891-02-08">[1891, 8. februar, søndag] <note>Den sekundært
                         påførte datering skyldes formentlig brevmodtageren. Dette dateringsforslag
                         tages til følge</note>
-                </date>
-                <placeName cert="high">Fredensborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fredensborg.</p>
-                <p>Min kære Dahl.</p>
-                <p>Ja ‒ jeg er her, som et sygt Dyr i sit Bur.</p>
-                <p>Hvad jeg mener om »théâtre libre«?<note>Der er næppe tale om teaterscenen af
-                        dette navn i Paris 1887-1896, ledet af André Antoine (1858-1943). Snarere om
-                        Studentersamfundets fri Teater i København ... [‒ En samtidig artikel i
-                        Politiken om emnet skal eftersøges... !]</note> Naa ‒</p>
-                <p>Officielt har man ikke spurgt mig om at lede det. Og jeg antager, at man ‒ efter
+            </date>
+            <placeName cert="high">Fredensborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredensborg.</p>
+            <p>Min kære Dahl.</p>
+            <p>Ja ‒ jeg er her, som et sygt Dyr i sit Bur.</p>
+            <p>Hvad jeg mener om »théâtre libre«?<ref target="n1"/> Naa ‒</p>
+            <p>Officielt har man ikke spurgt mig om at lede det. Og jeg antager, at man ‒ efter
                     Overvejelser paa mange Kanter ‒ ogsaa her vil gaa mig forbi ‒ ‒ ‒ til en mere
                     ansét Mand i Staten.</p>
-                <p>Lev godt.</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Lev godt.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

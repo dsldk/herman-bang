@@ -1,158 +1,154 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18890406001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Anna Feilberg</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1889-04-06">[1889, 6. april] Lørdag <note>Skal dateres ud
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890406001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Nakskov</placeName>
+               <date when="1889-04-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-04-06">[1889, 6. april] Lørdag <note>Skal dateres ud
                         fra brevets omtale af statsunderstøttelsen til Henrik Pontoppidan og Bertel
                         Elmgaard</note>
-                </date>
-                <placeName cert="high">Nakskov</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Nakskov. Lørdag.</p>
-                <p>Det er i Virkeligheden, kære Fru Feilberg, den første Dag, hvor jeg har kunnet
+            </date>
+            <placeName cert="high">Nakskov</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nakskov. Lørdag.</p>
+            <p>Det er i Virkeligheden, kære Fru Feilberg, den første Dag, hvor jeg har kunnet
                     skrive til Dem. Jeg begyndte forleden Aften derpaa, men jeg var saa syg at jeg
                     maatte give tabt, da jeg havde skrevet ti Linjer. Nu har jeg igaar afsendt
                     Manuskript og aander saa lettere idag.</p>
-                <p>Men hvad skal jeg skrive?</p>
-                <p>Min Tilværelse er givet i <emph>det</emph> ene: jeg skriver Bog<note>Under
-                        opholdet 13.1.-19.5.1889 på Hotel Skandinavien i Nakskov skrev Bang sin
-                        roman Tine, der udkom 24.10.1889</note>. Det vil sige at jeg gennemgaar alle
+            <p>Men hvad skal jeg skrive?</p>
+            <p>Min Tilværelse er givet i <hi rend="italics">det</hi> ene: jeg skriver Bog<ref target="n1"/>. Det vil sige at jeg gennemgaar alle
                     de nervøse Lidelser, som overhovedet findes. Jeg hugger mig frem gennem dette
-                    uhyre Stof under usigelig Anspændelse ‒ og om noget deraf <emph>lykkes</emph>,
+                    uhyre Stof under usigelig Anspændelse ‒ og om noget deraf <hi rend="italics">lykkes</hi>,
                     det tør jeg ikke en Gang sige. Produktion er en Sygdom. Alle disse fremmede
                     Billeder og Forestillinger afsættes kun under en sygelig Proces i vor Hjerne. Og
-                    for mig er denne »Sygdom« saa pinlig<note>Dvs. pinagtig, pinefuld</note>, at det
+                    for mig er denne »Sygdom« saa pinlig<ref target="n2"/>, at det
                     undertiden næsten synes, jeg maatte kunne dø af det, min Hjerne sprænges. Det
-                    er, som havde jeg Ild i Ryggen. Da jeg skrev »Ved Vejen«<note>Novelle i Stille
-                        Eksistenser, der udkom i oktober 1886</note> tror jeg, jeg følte mig mindre
+                    er, som havde jeg Ild i Ryggen. Da jeg skrev »Ved Vejen«<ref target="n3"/> tror jeg, jeg følte mig mindre
                     syg ‒ og maaske bliver det just min eneste sande Bog. Desværre.</p>
-                <p>‒ Jeg sér, at iaar næsten alle Forfattere har faaet Stats-Penge. Nu ogsaa
-                    Pontoppidan og Elmgaard<note>Forfatterne Henrik Pontoppidan (1857-1943) og
-                        Bertel Elmgaard (1861-1894). Kultusministeriet offentliggjorde 5.4.1889, at
-                        de fik tilkendt en treårig forfatterunderstøttelse</note>. Ja ‒ jeg kan da
+            <p>‒ Jeg sér, at iaar næsten alle Forfattere har faaet Stats-Penge. Nu ogsaa
+                    Pontoppidan og Elmgaard<ref target="n4"/>. Ja ‒ jeg kan da
                     ikke søge. Den Regering, som har faaet mig dømt for utugtig Literatur, kan da
                     ikke give mig Understøttelse, og jeg kan <app>
-                        <lem>heller</lem>
-                        <rdg>Det første bogstav har Bang rettet, vistnok fra: d</rdg>
-                    </app> ikke ansøge den derom. Hvem mon der har faaet det Anckerske
-                        Legat?<note>Det Anckerske Legat blev i 1889 tildelt forfatteren Alfred
-                        Ipsen. I et brev dateret Nakskov 23,2,1889 havde Bang allerede rettet det
-                        samme spørgsmål til Kristian Dahl</note> Det var nu <emph>tredje</emph> Aar,
-                    jeg søgte det. Spørg Fru Skram<note>Forfatteren Amalie Skram (1846-1905)</note>,
+                  <lem>heller</lem>
+                  <rdg>Det første bogstav har Bang rettet, vistnok fra: d</rdg>
+               </app> ikke ansøge den derom. Hvem mon der har faaet det Anckerske
+                        Legat?<ref target="n5"/> Det var nu <hi rend="italics">tredje</hi> Aar,
+                    jeg søgte det. Spørg Fru Skram<ref target="n6"/>,
                     hvem der faaet det. Tænk, at jeg endnu ikke har læst
-                        »Fjeldmennesker«<note>Forfatterægteparret Amalie Skram (1846-1905) og Erik
-                        Skram (1847-1923) havde i fællesskab skrevet lystspillet Fjældmennesker
-                        (trykt 1889, opført 1892 på Dagmarteatret i København)</note>. Jeg har nu
-                    skrevet til Langhoff<note>Forlæggeren Paul Langhoff (1862-94), indtil 1893
-                        indehaver af J.H. Schubothes Forlag, København. Bangs brev er ikke
-                        bevaret</note> om at faa det. Synes De om det? Hvorfor har det ikke staaet
+                        »Fjeldmennesker«<ref target="n7"/>. Jeg har nu
+                    skrevet til Langhoff<ref target="n8"/> om at faa det. Synes De om det? Hvorfor har det ikke staaet
                     nogen Kritik endnu? Gid de maatte faa megen Glæde deraf. Jeg ønsker det saameget
                     for Fru Skrams Skyld ‒ hendes heftige Sind skulde have mild Tid og lun Luft alle
                     Dage. Vi andre er fødte til Modgangen. Jeg er saa vant dertil, at jeg vilde
                     undre mig, om en Dag atter Sol skinnede. Men saa har jeg da ogsaa lært at fordre
                     saare lidt af Verden.</p>
-                <p>‒ ‒ Hvad der skal ské ud i Fremtiden, er svært at vide og sige. Her bliver jeg,
+            <p>‒ ‒ Hvad der skal ské ud i Fremtiden, er svært at vide og sige. Her bliver jeg,
                     til min Bog er færdig. Saa vil jeg ‒ forhaabenlig midt i Mai ‒ tage fjorten
-                    eller otte Dage til Bornholm og læse op<note>Bang har sidenhen skildret denne
-                        turné 20.-25.5.1889 i »Kunstrejse paa Bornholm«, trykt i hans bog Ti Aar,
-                        1891</note> og saa rejser jeg til Bergen for at holde
-                        Forelæsninger<note>Sidst i maj 1889 rejste Bang til Norge, hvor han opholdt
-                        sig til oktober; i Bergen holdt han offentlige foredrag om henholdsvis J.P.
-                        Jacobsen, Amalie Skram og Arne Garborg</note>. Maaske kan jeg
-                        <emph>der</emph> tjene ikke saa lidt. Jeg maa leve <emph>i</emph> det Haab
-                    og næsten <emph>af</emph> det. Ti her er det slemt. Jeg troer ikke, De vil
-                    trykke mere af mig i »Politiken«. (Og tænk, saa <emph>siger</emph> man mig det
+                    eller otte Dage til Bornholm og læse op<ref target="n9"/> og saa rejser jeg til Bergen for at holde
+                        Forelæsninger<ref target="n10"/>. Maaske kan jeg
+                        <hi rend="italics">der</hi> tjene ikke saa lidt. Jeg maa leve <hi rend="italics">i</hi> det Haab
+                    og næsten <hi rend="italics">af</hi> det. Ti her er det slemt. Jeg troer ikke, De vil
+                    trykke mere af mig i »Politiken«. (Og tænk, saa <hi rend="italics">siger</hi> man mig det
                     ikke en Gang; men man kaster stille H.B's Skidt i Kurven!). Fra Norge venter jeg
                     nu i Maaneder forgæves Penge. Jo ‒ det er en net Métier. Paa Onsdag skal jeg
                     betale. Jeg havde haabet imorgen at skulle læse op i Rødby (sic!) ‒ men man
-                    bestemte sig om. <emph>Der</emph> havde jeg tjent de 70 Kroner. Men nu blev det
+                    bestemte sig om. <hi rend="italics">Der</hi> havde jeg tjent de 70 Kroner. Men nu blev det
                     Vind. Naa ‒ tænkelig falder der nogle Pengesække ned fra Himlen lige ned i min
                     Seng de allerførste Dage. Naar de saa bare ikke rammer mig paa Næsen.</p>
-                <p>Jeg skrev Dem saa gerne noget morsomt til. Men jeg véd intet mellem Himmel og
+            <p>Jeg skrev Dem saa gerne noget morsomt til. Men jeg véd intet mellem Himmel og
                     Jord at berette. Nakskov skal atter spille Komedie. Damer og Herrer af Staden
                     har Holberg paa Stabel til Fordél for de Fattige. I Provinsen er intet
                     helligt.</p>
-                <p>Lev vel, kære Fru Feilberg og hils Doktoren<note>Carl Feilberg (1844-1937), fra
-                        1876 læge ved Øresundshospitalet i København; gift 1876 med Anna Feilberg
-                        (1846-1923), født Krabbe</note> og Børnene og Skram mange Gange</p>
-                <p rend="right">fra Deres Ven</p>
-                <p rend="right">H. B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Lev vel, kære Fru Feilberg og hils Doktoren<ref target="n11"/> og Børnene og Skram mange Gange</p>
+            <p rend="right">fra Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,101 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19070629001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 527</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Josef Melnik</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="telegram">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Telegram, indleveret i Frederikshavn 29.6.1907 kl.
-                                                13.4, adresseret til: <emph>melnik
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070629001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 527</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="telegram">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Telegram, indleveret i Frederikshavn 29.6.1907 kl.
+                                                13.4, adresseret til: <hi rend="italics">melnik
                                                   holtzendorffstrasse 13 / charlottenburg
-                                                  berlin</emph>. Øverst til højre på
+                                                  berlin</hi>. Øverst til højre på
                                                 telegramblanketten er sat et poststempel før
                                                 blankettens udbringning til modtageren:
-                                                  <emph>Charlottenburg / 29.6.07. 1.40N</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-06-29">1907, 29. Juni [lørdag] <note>Telegrammet skal
+                                                  <hi rend="italics">Charlottenburg / 29.6.07. 1.40N</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Frederikshavn</placeName>
+               <date when="1907-06-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-06-29">1907, 29. Juni [lørdag] <note>Telegrammet skal
                         læses i forlængelse af Bangs telegram til Melnik, 19.6.1907; Bang flyttede
                         3.7.1907 til Berlin</note>
-                </date>
-                <placeName cert="high">Frederikshavn</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>sehr gut = herman bank.+</p>
-                <p><app>
-                        <lem>vgl. ac.+</lem>
-                        <rdg>Denne telegraflinje for neden på blanketten er blevet streget over med
+            </date>
+            <placeName cert="high">Frederikshavn</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>sehr gut = herman bank.+</p>
+            <p>
+               <app>
+                  <lem>vgl. ac.+</lem>
+                  <rdg>Denne telegraflinje for neden på blanketten er blevet streget over med
                             en blyant</rdg>
-                    </app></p>
-
-
-            </div>
-        </body>
-    </text>
+               </app>
+            </p>
+         </div>
+      </body>
+   </text>
 </TEI>

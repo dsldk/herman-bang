@@ -1,101 +1,114 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860110002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 395</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider (rødt brevpapir)</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-01-10">[1886, cirka 10. januar] Søndag<note>Det
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860110002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 395</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider (rødt brevpapir)</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1886-01-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-01-10">[1886, cirka 10. januar] Søndag<note>Det
                         omtrentlige dateringsforslag forholder sig bl.a. til Bangs brev til Peter
                         Nansen, 15.1.1886, og til Harry Jacobsen bd. 3, s.130 nederst</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Kære Kammerraad.</p>
-                <p>Jeg leiede igaar<note>Siden sin ankomst til Berlin i de første dage af december
-                        1885 havde Bang boet på hotel. Ifølge brevets oplysning havde han nu indgået
-                        aftale om at leje en lejlighed i Berlin</note> og gav ud al mit Eie. Jeg
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Jeg leiede igaar<ref target="n1"/> og gav ud al mit Eie. Jeg
                     faar først Penge hjemmefra Onsdag. Jeg beder Dem indtil da at laane mig 30 Mark,
                     at jeg ikke skal sidde uden. Og De er her det eneste Menneske, jeg kender.
                     Onsdag Formiddag bringer jeg dem igen.</p>
-                <p>Imorgen tidlig faar De Manuskript til Schorer. Jeg skal skrive tydeligt.</p>
-                <p><emph>Alt er afgjort</emph> om »die wöchenliche Novelle« hos Schorer.</p>
-                <p>Giv Buddet Svar.</p>
-                <p rend="right">Herman B.</p>
-                <p>NB. Men læg Pengene i en Konvolut.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Imorgen tidlig faar De Manuskript til Schorer. Jeg skal skrive tydeligt.</p>
+            <p>
+               <hi rend="italics">Alt er afgjort</hi> om »die wöchenliche Novelle« hos Schorer.</p>
+            <p>Giv Buddet Svar.</p>
+            <p rend="right">Herman B.</p>
+            <p>NB. Men læg Pengene i en Konvolut.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

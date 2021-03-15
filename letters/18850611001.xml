@@ -1,288 +1,275 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Peter Nansen</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18850611001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850611001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
                                                 Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 136</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Peter Nansen</persName>
-                                                  til <persName role="recipient">Herman
-                                                  Bang</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 9 sider. Brevpapir med trykt
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 136</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 9 sider. Brevpapir med trykt
                                                   slyngmonogram HJB (uden krone)</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>På brevets sidste side (s. 9) har Peter Nansen
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevets sidste side (s. 9) har Peter Nansen
                                                   skrevet følgende blyantskommentar: <q>Betty
                                                   Varburg, skal maaske være Warburg, Prof. W.s Kone,
                                                   Stella Kleve var vist Fru Mathilde Mallings
                                                   Pseudonym som ung og Larsen – mon det kan være
                                                   Karl L?</q>
-                                    </ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. XXIII</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1885-06-11" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 11. juni], Torsdag<note>Dateringen i Vandreaar s. 122 følges.
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XXIII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[Bergen]</placeName>
+               <date when="1885-06-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman
+                                                  Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-06-11"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 11. juni], Torsdag<note>Dateringen i Vandreaar s. 122 følges.
                                                 Brevet er ifølge egen oplysning skrevet færdigt om
                                                 formiddagen fredag 12.6.1885</note>
-                </date>
-                <placeName cert="high">[Bergen]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Torsdag.</p>
-                <p>Min kære Peter.</p>
-                <p>Du vil have modtaget Bladene og deraf have sét, hvordan man har
-                                        behandlet mig.<note>Norske avisomtaler af Bangs fiasko på Bergens Teater mandag 8. juni, hvor han spillede rollen som Osvald i 3. akt af den norske dramatiker Henrik Ibsens skuespil Gengangere. Se også Bangs egen senere skildring heraf i kapitlet "Osvald udi Bergen", trykt i hans bog Ti Aar. Erindringer og Hændelser, der udkom 1891</note>
-                    <emph>Ikke</emph>, hvordan det er gaaet mig.
+            </date>
+            <placeName cert="high">[Bergen]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Min kære Peter.</p>
+            <p>Du vil have modtaget Bladene og deraf have sét, hvordan man har
+                                        behandlet mig.<ref target="n1"/>
+               <hi rend="italics">Ikke</hi>, hvordan det er gaaet mig.
                                         Men derom senere. Stemningen er nemlig allerede slaaet om,
-                                        og hvis jeg <emph>vilde</emph>, kunde jeg vistnok opnaa selv
-                                        som Osvald at gøre Lykke her<note>I note 1 i Vandreaar, s.
-                                                122, ridses datoer og rute op for Bangs norske
-                                                foredrags- og skuespilturné</note>.</p>
-                <p>Da jeg saa, at jeg ikke havde slaaet igennem, sank jeg sammen. Ti
+                                        og hvis jeg <hi rend="italics">vilde</hi>, kunde jeg vistnok opnaa selv
+                                        som Osvald at gøre Lykke her<ref target="n2"/>.</p>
+            <p>Da jeg saa, at jeg ikke havde slaaet igennem, sank jeg sammen. Ti
                                         det er tungt, naar man tror at staa ved
-                                                <emph>Begyndelsen</emph> til Enden, da at sé, at man
-                                        først er Halvparten af <emph>Marchens</emph> Vei.</p>
-                <p>Imidlertid er jeg ikke nu – som ifjor – noget Barn og at synke
+                                                <hi rend="italics">Begyndelsen</hi> til Enden, da at sé, at man
+                                        først er Halvparten af <hi rend="italics">Marchens</hi> Vei.</p>
+            <p>Imidlertid er jeg ikke nu – som ifjor – noget Barn og at synke
                                         sammen er nu at hvile ud, det er ikke at opgive. Jeg
                                         begyndte hurtigt at ræsonnere.</p>
-                <p>Men først om Aftenens Gang. Jeg spillede paa et Teater, hvor man
-                                        den foregaaende Aften lo himmelhøit af "<title key="En Forlovelse">En Forlovelse</title>
-                                                s"<note>Skuespil i to akter af <persName key="Brandes, Edvard">Edvard Brandes</persName> (1847-1931),
-                                                udkom 1884</note> Effekter (spillet af Teatrets
+            <p>Men først om Aftenens Gang. Jeg spillede paa et Teater, hvor man
+                                        den foregaaende Aften lo himmelhøit af "<!--start title reference--><title key="En_Forlovelse">En Forlovelse</title>
+               <!--end title reference-->
+                                                s"<ref target="n3"/> Effekter (spillet af Teatrets
                                         egne Skuespillere). – Aftenen begyndte med et Par
                                         Novelletter, som blev modtaget køligt, hvad der er
-                                        fuldkommen egalt<note>fr.: lige meget, ligegyldigt</note>.
-                                        Derpaa fulgte "<title key="Gengangere">Gengangere</title>".
+                                        fuldkommen egalt<ref target="n4"/>.
+                                        Derpaa fulgte "<!--start title reference--><title key="Gengangere">Gengangere</title>
+               <!--end title reference-->".
                                         Jeg spillede stærkt men langt jævnere, ogsaa bedre end i
                                                 <placeName key="Helsingfors">Helsingfors</placeName>. Publikum sad i forstenet Taushed
-                                        under hele Akten. Fru Alving<note>Rollen som fru Alving blev
-                                                spillet af den norske skuespillerinde <persName key="Sperati, Octavia">Octavia Sperati</persName> (1847-1918), født Svendsen, siden 1876 knyttet til Den Nationale Scene i Bergen;
-                                                hun omtaler opførelsen i sine erindringer Fra det
-                                                gamle komediehus, Bergen 1916; jf. også Herman Bang:
-                                                  <title key="Ti Aar">Ti Aar</title>, DSL 2013, s.
-                                                112</note> sagde til mig: De sidder i Andagt. Og vi
+                                        under hele Akten. Fru Alving<ref target="n5"/> sagde til mig: De sidder i Andagt. Og vi
                                         spillede. Da Tæppet faldt, applauderede man, hvorpaa man
                                         hyssede ganske lidt. Jeg reiste mig fra Gulvet og sagde: Saa <app>
-                        <lem>De</lem>
-                        <rdg>Skrivefejlen med stort D er ikke rettet af
+                  <lem>De</lem>
+                  <rdg>Skrivefejlen med stort D er ikke rettet af
                                                   Bang</rdg>
-                    </app> hysser? og saa ud ad Tæppet. Da – paa <emph>et</emph>
+               </app> hysser? og saa ud ad Tæppet. Da – paa <hi rend="italics">et</hi>
                                         Minut – var <app>
-                        <lem>de</lem>
-                        <rdg>rettet fra: De</rdg>
-                    </app> ligesom flygtet.</p>
-                <p>Men der var udbrudt en Panik. Og i den, ophidsede og uforstaaende
+                  <lem>de</lem>
+                  <rdg>rettet fra: De</rdg>
+               </app> ligesom flygtet.</p>
+            <p>Men der var udbrudt en Panik. Og i den, ophidsede og uforstaaende
                                         (begge Dele) faldt alt over mig: Det var for stærkt,
-                                        saaledes <emph>spiller</emph> man ikke. Om Morgenen paa
+                                        saaledes <hi rend="italics">spiller</hi> man ikke. Om Morgenen paa
                                         Prøven ved min Entré, spurgte Fru Alving mig: Men, Hr. Bang,
                                         er De syg? – Nei, jeg spiller min Rolle – – Ja saa – men er
-                                        De ikke <emph>virkelig</emph> syg? ... Og om Aftenen, da Fru
+                                        De ikke <hi rend="italics">virkelig</hi> syg? ... Og om Aftenen, da Fru
                                         Alving løber ud af Døren, sprang en ung Dame, der ikke
                                         kendte Stykket, ud af Logen og sagde: Nei – nei – hun raaber
                                         om Hjælp ....</p>
-                <p>Det er jo i og for sig naturligt, at sligt giver Panik. Den ene
+            <p>Det er jo i og for sig naturligt, at sligt giver Panik. Den ene
                                         Kritiker sagde: Jeg maatte gaa den halve Nat paa Gaden og
                                         kunde ikke finde Ro – i en saadan Irritation var jeg kommet
                                         ...</p>
-                <p>To Mennesker kom strax til mig. Den ene sagde – en ung
+            <p>To Mennesker kom strax til mig. Den ene sagde – en ung
                                         Skuespiller ved Teatret – : Tak, det var genialt. Jeg smilte
                                         og sagde: Hm – – saa sagde han: "Ja – glem ikke, om nogle
-                                        Aar, at <emph>jeg</emph> takkede Dem." Manden var ikke dum.
+                                        Aar, at <hi rend="italics">jeg</hi> takkede Dem." Manden var ikke dum.
                                         Næste Dag sendte jeg hans Frue en Buket, og jeg skal ikke
                                         glemme ham.</p>
-                <p>Den anden, en af Byens rigeste Mænd, sagde: "Undskyld – men jeg
+            <p>Den anden, en af Byens rigeste Mænd, sagde: "Undskyld – men jeg
                                         er den og den. Jeg har set al Verdens Skuespilkunst og jeg
                                         siger Dem, at De hører til de største."</p>
-                <p>Næste Dag gav alle Mennesker de opskræmte Ret. Og saa havde jeg
+            <p>Næste Dag gav alle Mennesker de opskræmte Ret. Og saa havde jeg
                                         heller ikke forstaaet Osvald. Om Aftenen mødte Bladene. Mig
                                         traf de i Sengen efter heftige Krampeanfald. Jeg læste dem
-                                        og saa, at ikke <emph>saa</emph> meget var tabt, ti dette
-                                        Rakkeri <emph>kan</emph> ikke forliges med mine Triumfer i
+                                        og saa, at ikke <hi rend="italics">saa</hi> meget var tabt, ti dette
+                                        Rakkeri <hi rend="italics">kan</hi> ikke forliges med mine Triumfer i
                                         Finland, hvis Teater er fuldt saa godt, og hvis Publikum
-                                        tillige har rigeste Leilighed til at sé i <placeName key="Sankt Petersborg">Petersburg</placeName> al
+                                        tillige har rigeste Leilighed til at sé i <placeName key="Sankt_Petersborg">Petersburg</placeName> al
                                         Verdens største Kunstnere. Man kan ikke være
-                                                <emph>gal</emph> i den ene By og <emph>genial</emph>
-                                        i den anden. Man kan til Nød blive <emph>kaldt</emph> det.
-                                        Dette sagde <emph>jeg</emph> til mig selv og fik paany
+                                                <hi rend="italics">gal</hi> i den ene By og <hi rend="italics">genial</hi>
+                                        i den anden. Man kan til Nød blive <hi rend="italics">kaldt</hi> det.
+                                        Dette sagde <hi rend="italics">jeg</hi> til mig selv og fik paany
                                         Krampe af Anstrængelsen ved at ræsonnere.</p>
-                <p>Publikum, der læste sine Aviser – velsagtens de Blade, det
+            <p>Publikum, der læste sine Aviser – velsagtens de Blade, det
                                         fortjener – blev forfjamsket og gav sig til at skælde
                                         Referenterne ud. Indsigelser begyndte at florere – og jeg
                                         tilkaldte Lægen for at give mig Sovemidler. Iaften skal jeg
-                                        tale om <persName key="Lie, Jonas">Lie</persName>
-                    <note>Den norske forfatter Jonas Lie (1833-1908)</note>. I Dag kom de første <emph>ti</emph>
+                                        tale om <persName key="Lie_Jonas">Lie</persName>
+               <ref target="n6"/>. I Dag kom de første <hi rend="italics">ti</hi>
                                         Visitkort, den første Invitation og den første Buket ...
-                                        Voilà le momen psychologique<note>fr.: Dér har vi det
-                                                psykologiske øjeblik. (Bang har fejlstavet ordet:
-                                                moment)</note>.</p>
-                <p>Du véd, at jeg i sligt er strictement<note>fr.:
-                                                nøjeregnende</note> sanddru. Jeg refererer, for at
+                                        Voilà le momen psychologique<ref target="n7"/>.</p>
+            <p>Du véd, at jeg i sligt er strictement<ref target="n8"/> sanddru. Jeg refererer, for at
                                         du skal sé ligesaa klart som jeg, og jeg skjuler intet, ti
                                         for at raade Bod paa et Nederlag maa man maale dets Omfang
                                         og Dybde. Aftenen <app>
-                        <lem>
-                            <emph>blev</emph>
-                        </lem>
-                        <rdg>Bang har understreget ordet tre gange</rdg>
-                    </app>
+                  <lem>
+                     <hi rend="italics">blev</hi>
+                  </lem>
+                  <rdg>Bang har understreget ordet tre gange</rdg>
+               </app>
                                         et Nederlag. Kunstnerisk skal jeg lære deraf, reelt –
                                         overfor Skandinaviens Publikum – er det naturligvis
-                                        beklageligt, <emph>ikke</emph> dræbende.</p>
-                <p>– Hvis jeg endnu var ung og opbrusende, vilde jeg fristes til at
+                                        beklageligt, <hi rend="italics">ikke</hi> dræbende.</p>
+            <p>– Hvis jeg endnu var ung og opbrusende, vilde jeg fristes til at
                                         skrive derom. Nu tier jeg og venter. Kun dig har jeg villet
                                         gøre klart Rede for noget, som maatte være dig en stor
                                         Overraskelse.</p>
-                <p>– – – Og saa til at takke dig for dit lange Brev, som endelig
+            <p>– – – Og saa til at takke dig for dit lange Brev, som endelig
                                         naaede mig her. Jeg har læst det mange Gange og saa at sige
                                         indsuget dets Luft, som er saa hjemlig. Nu vil jeg tale
                                         derom, som du har skrevet. eftersom det falder mig ind.</p>
-                <p>
-                    <persName key="Esmann, Gustav">Esmann</persName>s Bog<note>Den fælles ven Gustav Esmanns (1860-1904) debutbog <title key="Gammel Gæld">Gammel Gæld</title>. To Noveller, P.G.Philipsens Forlag 1885</note>. Ja – ser du – den er maaske
-                                        akkurat, hvad den <emph>skal</emph> være – men <app>
-                        <lem>den</lem>
-                        <rdg>rettet fra: dette</rdg>
-                    </app> er ikke <emph>meget</emph> – <emph>din</emph>
-                                                Bog<note>Peter Nansens debutbog <title key="Unge Mennesker">Unge Mennesker</title>,
-                                                1883</note> er ofte, som den <emph>ikke</emph>
-                                        skulde være – men <emph>den</emph> er <emph>noget</emph>.
-                                        Din Bog er noget nyt fra københavnsk <emph>Liv</emph>; hans
-                                        er noget nyt fra fransk <emph>Aand og Kunst</emph>. Finder
+            <p>
+               <persName key="Esmann_Gustav">Esmann</persName>s Bog<ref target="n9"/>. Ja – ser du – den er maaske
+                                        akkurat, hvad den <hi rend="italics">skal</hi> være – men <app>
+                  <lem>den</lem>
+                  <rdg>rettet fra: dette</rdg>
+               </app> er ikke <hi rend="italics">meget</hi> – <hi rend="italics">din</hi>
+                                                Bog<ref target="n10"/> er ofte, som den <hi rend="italics">ikke</hi>
+                                        skulde være – men <hi rend="italics">den</hi> er <hi rend="italics">noget</hi>.
+                                        Din Bog er noget nyt fra københavnsk <hi rend="italics">Liv</hi>; hans
+                                        er noget nyt fra fransk <hi rend="italics">Aand og Kunst</hi>. Finder
                                         du dette dumt, saa er det jo kun sagt til dig. Véd du hvad,
                                         det glæder mig ofte, at jeg ikke skriver offenligt mere. Saa
                                         har man, her i et Brev, Lov til at sige ogsaa Dumheder, og
                                         der er ofte saa megen Sandhed i et og andet, der lyder
                                         dumt.</p>
-                <p>Jeg læser meget – mest svensk men her kan jeg jo ogsaa faa danske
-                                        Bøger. "<title key="Et Brud">Et Brud</title>"<note>Skuespil
-                                                af Edvard Brandes, udkommet som bog hos P.G.Philipsens Forlag i 1885</note> har
+            <p>Jeg læser meget – mest svensk men her kan jeg jo ogsaa faa danske
+                                        Bøger. "<!--start title reference--><title key="Et_Brud">Et Brud</title>
+               <!--end title reference-->"<ref target="n11"/> har
                                         jeg læst. Men du tager feil – den er ikke betydelig. Den er
                                         atter for graa, og Konflikten er ikke ret til at tro. Ogsaa
                                         begynder Ensartetheden hos Konrad Reesen – Repholt-Neergaard
-                                        – Reimert<note>Personer i Edvard Brandes' tre skuespil
-                                                  <title key="Et Besøg">Et Besøg</title>, En
-                                                Forlovelse og Et Brud</note> at genere mig en
+                                        – Reimert<ref target="n12"/> at genere mig en
                                         Smule. Nogle Dumheder læste jeg forleden om Stykket i en
                                         Avis. Det er en saa forstandig Kritik, vi har. (Apropos –
                                         jeg kommer pludselig til at tænke paa en skøn
-                                                Føljeton<note>Ikke verificeret. </note> her blev
+                                                Føljeton<ref target="n13"/> her blev
                                         skrevet om mig. Den vedlægges.)</p>
-                <p>Saa har jeg med inderlig Glæde gjort mig bekendt med <persName key="Gjellerup, Karl">"Vennen Karls"</persName>
-                    <note>Forfatteren Karl Gjellerup (1857-1919) havde samme forår udgivet sin bog
-                                                Vandreaaret. Skildringer og Betragtninger (Andr.
-                                                Schous Forlag 1885) med blandt andet rejseindtryk
-                                                fra Sankt Petersborg (s. 385-458)</note>
-                                        Opmaalinger af Skt. Petersburg. <emph>Jeg</emph> har set
+            <p>Saa har jeg med inderlig Glæde gjort mig bekendt med <persName key="Gjellerup_Karl">"Vennen Karls"</persName>
+               <ref target="n14"/>
+                                        Opmaalinger af Skt. Petersburg. <hi rend="italics">Jeg</hi> har set
                                         Newski og ikke maalt den – han, Stakkel, har faaet den maalt
-                                        og glemt at sé<note>Nevskij Prospekt, hovedgaden i Sankt
-                                                Petersborg; i Karl Gjellerups beskrivelser indgår på
-                                                s. 396f. dens længde og bredde</note>. Øiner du ham
-                                        ikke ogsaa <emph>der</emph>, hvor han kælent leger med
-                                                Boa'en<note>Løs slangeformet damekrave af skind
-                                                eller fjer. I sin bog causerer Gjellerup s. 407 om
-                                                smukke russiske kvinder, alle arter af skønhed, som
-                                                kan have noget at sige. "Og man skuffes næppe med
-                                                Hensyn til dette selvstændige Indhold, hvis man
-                                                kommer til at tale med en af dem i en lykkelig
-                                                Selskabstime, medens man leger med hendes lange
-                                                Egern-Boa."</note>. Lad dig idetmindste paapege
-                                        dette glade Sted. Men hvad siger <persName key="Bendix, Eugenia">Eugenia</persName>
-                    <note>Eugenia Bendix (1852-1940), født Heusinger; efter skilsmisse fra musikeren Fritz
-                                                Bendix blev hun i 1887 gift med Karl
-                                                Gjellerup</note>? – ti hun hedder jo saaledes,
+                                        og glemt at sé<ref target="n15"/>. Øiner du ham
+                                        ikke ogsaa <hi rend="italics">der</hi>, hvor han kælent leger med
+                                                Boa'en<ref target="n16"/>. Lad dig idetmindste paapege
+                                        dette glade Sted. Men hvad siger <persName key="Bendix_Eugenia">Eugenia</persName>
+               <ref target="n17"/>? – ti hun hedder jo saaledes,
                                         Englen fra Bendix' Have. Ogsaa læste jeg en anden munter
-                                        Bog. "Et ubetydeligt Menneske"<note>Roman af F.C. van der
-                                                Burgh, pseudonym for <persName key="Christensen, Mathilde">Mathilde (kaldet Illa)
-                                                  Christensen</persName> (1851-1922), udgivet hos C.A. Reitzels Forlag 1885
-                                                (jf. Vandreaar, s. 127, note 3)</note>. Det var mig
+                                        Bog. "Et ubetydeligt Menneske"<ref target="n18"/>. Det var mig
                                         hele Tiden, som om jeg havde grædt over disse Skæbner i min
                                         Barndom – saa ofte, saa længesiden – nu forbausede det mig
                                         at jeg endnu skulde opleve at "græde" over dem.</p>
-                <p>– – – Du skriver, om jeg ikke vil <emph>savne</emph>
+            <p>– – – Du skriver, om jeg ikke vil <hi rend="italics">savne</hi>
                                         Journalistiken? Hm – næppe. Ser du, du véd, at jeg
-                                        undertiden <emph>taler</emph> noget om at forsøge at blive
+                                        undertiden <hi rend="italics">taler</hi> noget om at forsøge at blive
                                         lidt bedre – du véd maaske ogsaa, at jeg paa et og andet
                                         Punkt har forsøgt det, at gøre ialfald lidt godt – hvad der
                                         er en svag Form for det første: at blive bedre ... Naa – nu
                                         tror jeg sikkert, at intet er saa farligt for Moralen som
                                         Journalistik. Derfor vil jeg ikke savne den og kun
-                                                <emph>behøve</emph> den saa lidt som muligt.</p>
-                <p>– – Jeg fortsætter, hvor jeg slap igaar. Publikum var
-                                                iaftes<note>Emnet for Bangs foredrag 11.6. i Bergen
-                                                var Jonas Lies forfatterskab</note> talrigere end
+                                                <hi rend="italics">behøve</hi> den saa lidt som muligt.</p>
+            <p>– – Jeg fortsætter, hvor jeg slap igaar. Publikum var
+                                                iaftes<ref target="n19"/> talrigere end
                                         ved min første Forelæsning – der var vel en 400 af det Rak –
                                         og Jubelen var ubeskrivelig. Alle klappede som vanvittige.
                                         Jeg hilste ved min Entré kun ved at bøie Hovedet, og jeg tog
                                         kun en passant Blomsterne op. Til sist klappede de som
                                         rasende, men jeg viste mig ikke mere. Jeg var – som jeg nu
-                                        altid er paa <emph>Scenen</emph> – i sort Kjole, Vest og
+                                        altid er paa <hi rend="italics">Scenen</hi> – i sort Kjole, Vest og
                                         Benklæder – ingen blanke mer og kun et helt lille hvidt
-                                        Slips om den høie Flip<note>Jf. billednummer 56 i
-                                                Livsbilleder. Fotografiske portrætter af Herman
-                                                Bang, Odense 2014</note>. Jeg tror nok, jeg saa ud
+                                        Slips om den høie Flip<ref target="n20"/>. Jeg tror nok, jeg saa ud
                                         som en Hertug.</p>
-                <p>– – Jeg har allerede (Klokken er ti om Morgenen) faaet tre
+            <p>– – Jeg har allerede (Klokken er ti om Morgenen) faaet tre
                                         Buketter og tre-fire Anmodninger om dog for Guds Skyld at
                                         spille Osvald – en Gang endnu! Iaftes efter Foredraget kom
                                         en Recensent – han havde skrevet i sin Avis, at jeg havde
@@ -291,8 +278,8 @@
                                         gerne at takke Dem." – "For hvad?" – "For Osvald. Han sagde
                                         mig idag, at hvert et Træk i Deres Spil var sandt og
                                         mesterligt."</p>
-                <p>Hvad synes du? Det kommer <emph>han</emph> og siger?</p>
-                <p>– – Du skriver, at jeg er fanatisk i mit Venskab. Ser du, det
+            <p>Hvad synes du? Det kommer <hi rend="italics">han</hi> og siger?</p>
+            <p>– – Du skriver, at jeg er fanatisk i mit Venskab. Ser du, det
                                         kommer deraf, at et Liv som mit er den skaanselsløseste
                                         Læremester i Menneskenes fuldstændigt idéforladte Lumpenhed.
                                         Man ser saa megen Lavhed, Misundelse, tom Begeistring,
@@ -302,17 +289,12 @@
                                         halvkold Grød af Væmmelse og Menneskeforagt. I mine bedste
                                         Øieblikke kan jeg omskabe Foragten til Medlidenhed – ti, ser
                                         du, det er et sandt Ord: De ved ikke, hvad de
-                                                gør<note>Bibelallusion, jf. Luk. 23,34</note> – men
+                                                gør<ref target="n21"/> – men
                                         til daglig (og alt, hvad jeg her skriver, er ikke dikteret
                                         af mit Osvald-Uheld, som jeg nu nærmest finder komisk)
                                         bliver det hele til en halvt haansk Ligegyldighed for den
                                         Livets Pøbel, som lever i moralsk Dumhed og Idioti.</p>
-                <p>Men saa er det, at paa denne store Baggrund, kære Don<note>Som
-                                                det fremgår af flere af Bangs følgende breve, er Don
-                                                et kælenavn, som Bang kaldte Peter Nansen, men altid
-                                                kun i tiltaleform. På spansk var Don (af lat.:
-                                                "dominus", herre) i ældre tid en titel knyttet til en
-                                                mand af høj social position, jf. eng.: Sir</note>,
+            <p>Men saa er det, at paa denne store Baggrund, kære Don<ref target="n22"/>,
                                         Mindet om de enkelte Øieblikke stiger frem, hvor man mødte
                                         et Blik, fik et Haandtryk, hørte et sagte næsten lydløst
                                         kommende Ord, hvori der laa en virkelig Hengivenhed. Og de
@@ -323,37 +305,29 @@
                                         dem klynger man sig maaske til fanatisk eller bedre, tror
                                         jeg, man vil omgive dem med en vis stilfærdig, men uden
                                         Bulder offervillig Sympati? Er dette mon ikke saaledes?</p>
-                <p>Jeg fik i dette Nu et langt Brev fra <persName key="Warburg, Betty">Betty Varburg</persName>
-                    <note>Betty Warburg (1854-1923), født Drucker, danskfødt kvinde, gift 1877 med den svenske journalist Karl Warburg, Göteborg</note> i <placeName key="Göteborg">Göteborg</placeName>. Hun var begeistret over
-                                                <persName key="Malling, Mathilda">Stella
+            <p>Jeg fik i dette Nu et langt Brev fra <persName key="Warburg_Betty">Betty Varburg</persName>
+               <ref target="n23"/> i <placeName key="Göteborg">Göteborg</placeName>. Hun var begeistret over
+                                                <persName key="Malling_Mathilda">Stella
                                                 Kleve</persName>
-                    <note>Pseudonym for den svenskfødte forfatter Mathilda Malling (1864-1942), født Kruse, fra 1890 bosat i København; hendes debutroman
-                                                Berta Funcke, der udkom i Stockholm 1885, havde i
-                                                Bangs danske oversættelse forud været trykt som
-                                                føljeton i Nationaltidendes Literaturtidende (25.9.,
-                                                2. og 9.10.1884) under den af Bang givne titel:
-                                                Flirtations</note>s Bog. Hun siger, at den er et
+               <ref target="n24"/>s Bog. Hun siger, at den er et
                                         rent Dokument, og hendes Dom gælder meget, da hun er
                                         intelligent og sanddru.</p>
-                <p>– – Naar du tænker dig til, Peter, nu vil <persName key="Ottesen, Otto Andreas">Ottesen</persName>
-                    <note>Otto Andreas Ottesen (født ca. 1835), Bangs husvært i Studiestræde 4,
-                                                København</note> sagsøge <persName key="Larsen, ">Larsen</persName>
-                    <note>Ikke identificeret; muligvis en pengeudlåner, jf.
-                                                brevet 1884, 17.juni</note> for nogle Penge. Larsen –
+            <p>– – Naar du tænker dig til, Peter, nu vil <persName key="Ottesen_Otto_Andreas">Ottesen</persName>
+               <ref target="n25"/> sagsøge <persName key="Larsen_">Larsen</persName>
+               <ref target="n26"/> for nogle Penge. Larsen –
                                         skriver Breve, Ottesen skriver Breve, og jeg sender stadig
                                         begge Penge. Mon Larsen vil slaaes med Ottesen? Det raader
                                         jeg ham fra – men vilde iøvrigt gerne sé det.</p>
-                <p>– – Jeg arbeider paa et Foredrag om <persName key="Jacobsen, J.P.">I.P.J.</persName>
-                    <note>Forfatteren J.P. Jacobsen (1847-85), hvis forbogstaver (for Jens Peter) traditionelt bliver udtalt, som Bang staver dem</note>. Jeg skal holde det første Gang
+            <p>– – Jeg arbeider paa et Foredrag om <persName key="Jacobsen_J.P.">I.P.J.</persName>
+               <ref target="n27"/>. Jeg skal holde det første Gang
                                         her til Afsked. Forresten taber jeg Penge her i Staden – det
-                                                <emph>er</emph> da tydeligt.</p>
-                <p>Adieu, cher – hils <persName key="Nansen, Immanuel">Hvalpen</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> og sig ham, at man nu ikke er
-                                                comme-il-faut<note>Dvs. man er ikke med på
-                                                moden</note>, naar man ikke gaar med Ringe.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+                                                <hi rend="italics">er</hi> da tydeligt.</p>
+            <p>Adieu, cher – hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n28"/> og sig ham, at man nu ikke er
+                                                comme-il-faut<ref target="n29"/>, naar man ikke gaar med Ringe.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

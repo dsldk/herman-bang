@@ -1,100 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19021201001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 13</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1902-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1902. 1. december. ] Mandag<note>Otto K. Rasmussen var ansat
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19021201001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 13</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1902-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1902. 1. december. ] Mandag<note>Otto K. Rasmussen var ansat
                   som Bangs sekretær ca. 1.9.1902 og et årstid frem</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Kære Nansen!</p>
-                <p>Det er godt nok, at <persName key="Rosenkrantz, Palle">Baron Rosenkrantz</persName>
-                    <note>Måske forfatteren, baron Palle Rosenkrantz (1867-1941). Sammenhængen må have at gøre med to korte tekster af
-                  Bang: "Til Billedet af min Moder" og "Til Oplæser-Billedet", begge trykt i
-                  Gyldendalske Boghandels Juletidende, 15.12.1902, s. 4</note> løber med baade
-                  <persName key="Bang, Thora">min Moder</persName>
-                    <note>Thora Bang (1829-71), født Blach, gift med Frederik Ludvig Bang, mor til Herman Bang</note> og mig.
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Nansen!</p>
+            <p>Det er godt nok, at <persName key="Rosenkrantz_Palle">Baron Rosenkrantz</persName>
+               <ref target="n1"/> løber med baade
+                  <persName key="Bang_Thora">min Moder</persName>
+               <ref target="n2"/> og mig.
                Men jeg maa jo dog vide, hvilket af Billederne I bruger, thi jeg maa dog skrive
-               forskelligt til de to Billeder. Giv derfor, "brave Ravne-Fader" <persName key="Rasmussen, Otto K.">Rasmussen</persName>
-                    <note>Otto K. Rasmussen (1878-1968), der som Bangs sekretær renskrev trykmanuskriptet til Ravnene
-                  og ved leveringen af dette brev har ventet på at få Nansens svar med tilbage til
-                  Bang</note> Besked.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+               forskelligt til de to Billeder. Giv derfor, "brave Ravne-Fader" <persName key="Rasmussen_Otto_K.">Rasmussen</persName>
+               <ref target="n3"/> Besked.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

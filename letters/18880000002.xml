@@ -1,119 +1,131 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18880000002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 377</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1888-01-01">[1888, nærmere datering er foreløbig uvis]
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18880000002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 377</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1888-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1888-01-01">[1888, nærmere datering er foreløbig uvis]
                         Mandag<note>Brevet refererer bl.a. til den store nordiske udstilling i
                         København i sommeren 1888</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Kære Hr. Kammerraad.</p>
-                <p>Af stærk Forkølelse har jeg ligget nogle Dage og har ikke kunnet besvare Deres
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Hr. Kammerraad.</p>
+            <p>Af stærk Forkølelse har jeg ligget nogle Dage og har ikke kunnet besvare Deres
                     Brev, hvis Tone i saa høj en Grad har forbauset mig. Sandsynligvis maa jeg ved
                     et eller andet have krænket Dem. Jeg ved det ikke og har i alle Fald ikke villet
                     det.</p>
-                <p>Det Tyske, som De ‒ sikkert med Rette ‒ gør Nar af, har jeg <emph>ikke</emph>
+            <p>Det Tyske, som De ‒ sikkert med Rette ‒ gør Nar af, har jeg <hi rend="italics">ikke</hi>
                     skrevet. De véd, jeg skriver ikke tysk. Det er altsammen efter
-                        <emph>Rejseforeningens Bestemmelse oversat af en herværende
-                        Translatør</emph>. Manden maatte jo bo her i Byen for ej ved hver enkelt
+                        <hi rend="italics">Rejseforeningens Bestemmelse oversat af en herværende
+                        Translatør</hi>. Manden maatte jo bo her i Byen for ej ved hver enkelt
                     lille Meddelelse ‒ oftest paa en 8-10 Linjer ‒ at forhale Tiden, før Bladene fik
-                    den. Det er Grunden, hvorfor Oversættelsen til <emph>alle</emph> Sprog maatte
+                    den. Det er Grunden, hvorfor Oversættelsen til <hi rend="italics">alle</hi> Sprog maatte
                     foretages her.</p>
-                <p>Hvad mine »store Indtægter« angaar, da har jeg, ‒ <emph>hvad jeg kan
-                        bevise</emph> ‒ i det Hele for alt mit Arbejde i Sommer for Udstillingen
-                    modtaget: <emph>325</emph> Kroner. Og jeg har aldrig tjent saa lidt som
+            <p>Hvad mine »store Indtægter« angaar, da har jeg, ‒ <hi rend="italics">hvad jeg kan
+                        bevise</hi> ‒ i det Hele for alt mit Arbejde i Sommer for Udstillingen
+                    modtaget: <hi rend="italics">325</hi> Kroner. Og jeg har aldrig tjent saa lidt som
                     iaar.</p>
-                <p>De vil derfor forstaa, kære Kammerraad, at det vilde være mig svært nu at betale
+            <p>De vil derfor forstaa, kære Kammerraad, at det vilde være mig svært nu at betale
                     Deres Penge. Jeg véd ikke en Gang, hvormeget jeg skylder Dem. Noget deraf maa De
-                    vel kunne faa ind ved »Vom F: zum M:«<note>Det tyske tidsskrift Vom Fels zum
-                        Meer</note> for hin lange Artikel og ved »Bazar«, hvor »Kammeraten« jo er
-                        antaget<note>Bangs novelle »Mein alter Studiengenosse« tryktes i Der Bazar
-                        27.2.1888</note>. Naar jeg nu om et Par Uger kommer paa Landet, hvor jeg
+                    vel kunne faa ind ved »Vom F: zum M:«<ref target="n1"/> for hin lange Artikel og ved »Bazar«, hvor »Kammeraten« jo er
+                        antaget<ref target="n2"/>. Naar jeg nu om et Par Uger kommer paa Landet, hvor jeg
                     skal tilbringe hele Vinteren, begynder jeg jo atter at skrive Skitser, som kan
                     oversættes.</p>
-                <p>Hvormed jeg har fornærmet Dem, véd jeg ikke. Den Sum, som jeg skylder Dem, skal
+            <p>Hvormed jeg har fornærmet Dem, véd jeg ikke. Den Sum, som jeg skylder Dem, skal
                     jeg, hvis ikke Honorar for oversatte Skitser kan udligne den, afdrage i
                     Efteraarets og Vinterens Løb. Tilbage bliver kun, at et Brev som det sidste gør
                     mig meget ondt.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman Bang</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,108 +1,126 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19040508001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 29</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1904-05-08" notBefore="9999-99-99" notAfter="9999-99-99">[1904. 8. maj, cirka], Søndag<note>Kan dateres til en
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040508001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 29</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">empty</placeName>
+               <date when="1904-05-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1904-05-08"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1904. 8. maj, cirka], Søndag<note>Kan dateres til en
                   søndag efter brevet 1904. 2. maj,  og 8.5. er den første søndag. Afsenderstedet er
                   uvist</note>
-                </date>
-                <placeName cert="low">empty</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Kære Nansen.</p>
-                <p>Det var da rart.</p>
-                <p>Mest, fordi der dog saa kommer lidt Liv i Bøgerne igen.</p>
-                <p>Jeg synes, "<title key="Ved Vejen">Ved Vejen</title>" skulde være 3000 Ekspl:,
-               ligesom sidst<note>Den første selvstændige bogudgave af Ved Vejen (2.udgave, 1.oplag)
-                  udsendtes i 1898 i 3000 ekspl., det nye 2.oplag i 1904 i 2000 ekspl., begge Det
-                  Schubotheske Forlag</note> – det var <emph>500</emph> Kr., jeg fik, og ikke 600 –
-               men dem om det. "<title key="Fædra">Fædra</title>" skal naturligvis kun være 1000
-               Ekspl. Det er s'gu alt nok<note>Fædra, 2.udgave 1904, udsendtes i 1000 ekspl., Det
-                  Schubotheske Forlag</note>. Jeg har begyndt at gennemrette Værket ("Fædra"). Du
+            </date>
+            <placeName cert="low">empty</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Kære Nansen.</p>
+            <p>Det var da rart.</p>
+            <p>Mest, fordi der dog saa kommer lidt Liv i Bøgerne igen.</p>
+            <p>Jeg synes, "<!--start title reference--><title key="Ved_Vejen">Ved Vejen</title>
+               <!--end title reference-->" skulde være 3000 Ekspl:,
+               ligesom sidst<ref target="n1"/> – det var <hi rend="italics">500</hi> Kr., jeg fik, og ikke 600 –
+               men dem om det. "<!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->" skal naturligvis kun være 1000
+               Ekspl. Det er s'gu alt nok<ref target="n2"/>. Jeg har begyndt at gennemrette Værket ("Fædra"). Du
                kan tro, det er et sødt Arbejde.</p>
-                <p>"Brevet" lægger jeg ved.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-                <p>
-                    <persName key="Prozor, Maurice">Grev Prozor</persName>
-                    <note>Den russiske greve og diplomat Maurice Prozor (1849-1928), født i Vilnius, 1881-84 gesandtskabssekretær i Stockholm og gift med en svensk grevinde Gyllenstolpe, født Bonde; Maurice Prozor oversatte bøger af flere skandinaviske samtidsforfattere til fransk</note> skriver mig fra Weimar, at han nu begynder paa den
-               franske Oversættelse af "<title key="Mikaël">Mikaël</title>". I Tyskland er den i
-                  Gang<note>Nogen fransk oversættelse af Mikaël ses ikke at være udkommet. I 1906
-                  udkom Michael hos S. Fischer Verlag, Berlin, oversat af <persName key="Koppel, Julia">Julia Koppel</persName>
-                    </note>.</p>
-            </div>
-        </body>
-    </text>
+            <p>"Brevet" lægger jeg ved.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+            <p>
+               <persName key="Prozor_Maurice">Grev Prozor</persName>
+               <ref target="n3"/> skriver mig fra Weimar, at han nu begynder paa den
+               franske Oversættelse af "<!--start title reference--><title key="Mikaël">Mikaël</title>
+               <!--end title reference-->". I Tyskland er den i
+                  Gang<ref target="n4"/>.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

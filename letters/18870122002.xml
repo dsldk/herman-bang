@@ -1,103 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870122002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-01-22">1887, 22. januar [lørdag]<note>empty</note>
-                </date>
-                <placeName cert="high">[Prag]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">22.1.87.</p>
-                <p>Tak, min egen Ven, for dit Brev og Manuskriptet. I næste Uge begynder jeg saa ‒
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870122002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1887-01-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-01-22">1887, 22. januar [lørdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">22.1.87.</p>
+            <p>Tak, min egen Ven, for dit Brev og Manuskriptet. I næste Uge begynder jeg saa ‒
                     antagelig Onsdag eller Torsdag. Jeg paa samme Tid er angst og glæder mig
                     dertil.</p>
-                <p>Véd du, at jeg er ret angst for din »Nordstjerne« ‒ den Politik tager Interessen
+            <p>Véd du, at jeg er ret angst for din »Nordstjerne« ‒ den Politik tager Interessen
                     fra alt andet. Sig mig aabent, hvordan Kvartalet er gaaet. Jeg tænker hver Dag
                     derpaa.</p>
-                <p>Hermed sender jeg en »Skitze« ‒ hvis Tanke svært har grebet mig selv. Denne
+            <p>Hermed sender jeg en »Skitze« ‒ hvis Tanke svært har grebet mig selv. Denne
                     Hotelelevator, som løfter Godtfolk ind i Døden. Tag den til »Stjernen« om du
-                    vil. Eller giv den til Galschiøtt. Pengene fra »Illustreret Tidende« <emph>har
-                        jeg ikke faaet. Send dem</emph>. Og om du kan tage noget op i din »Stjerne«,
+                    vil. Eller giv den til Galschiøtt. Pengene fra »Illustreret Tidende« <hi rend="italics">har
+                        jeg ikke faaet. Send dem</hi>. Og om du kan tage noget op i din »Stjerne«,
                     da gør det til min Flytning med Kvartalshusleje. Tror du en »Almanak« var umulig
                     at kapre?</p>
-                <p>For Guds Skyld, min Ven, vær forsigtig i denne Tid, for dit Blads Skyld. Smil
+            <p>For Guds Skyld, min Ven, vær forsigtig i denne Tid, for dit Blads Skyld. Smil
                     tilhøjre og tryk Haand tilvenstre.</p>
-                <p>Hils din Kone og kys de Smaa.</p>
-                <p rend="right">Din Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Hils din Kone og kys de Smaa.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

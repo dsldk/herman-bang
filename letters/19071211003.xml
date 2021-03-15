@@ -1,111 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19071211003</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2751, folio; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Christian Houmark</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-12-11">1907, 11. December [onsdag] <note>Brevet sidder
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19071211003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2751, folio; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-12-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-12-11">1907, 11. December [onsdag] <note>Brevet sidder
                         indklæbet i veksellerer Johan Levins brevsamling, 3. Bog; Johan Levin
                         (1877-1959) erhvervede i 1920 et antal breve fra Christian Houmark</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fasanenstrasse 58.</p>
-                <p rend="right">Berlin. W.</p>
-                <p rend="right">11.12.1907.</p>
-                <p>Min kære Houmark.</p>
-                <p>Jeg beder Dem om saa mange Ting. Men vil De gøre mig endnu en Tjeneste:</p>
-                <p>S. Fischer-Verlag<note>S. Fischer Verlag i Berlin var Bangs vigtigste tyske
-                        forlagsforbindelse siden udgivelsen af Die vier Teufel i 1897</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">11.12.1907.</p>
+            <p>Min kære Houmark.</p>
+            <p>Jeg beder Dem om saa mange Ting. Men vil De gøre mig endnu en Tjeneste:</p>
+            <p>S. Fischer-Verlag<ref target="n1"/>
                     udsender i Januar en elegant Brochure om Hr. Herman Bang ‒ denne Herre afbildes
                     og omhandles nu i Sandhed livligt ‒ men til Teksten vilde nogle af Udtalelser
-                    fra »Jubilæumsnumret« af »København«<note>... NB. det skal efterses, om avisen
-                        København bragte en sådan hyldestside i forbindelse med Bangs 25-års
-                        forfatterjubilæum ca. 21.11.1903 ... !!!</note> være ubetalelige. Vil De
+                    fra »Jubilæumsnumret« af »København«<ref target="n2"/> være ubetalelige. Vil De
                     ofre en Formiddagstime paa at afskrive nogle Linjer af Udtalelserne af de
-                    Mennesker ‒ Høfding<note>Harald Høffding (1843-1931), filosof og forfatter,
-                        professor i filosofi 1883-1915 ved Københavns Universitet</note>,
-                        »Karin«<note>Karin Michaëlis (1872-1950), forfatter</note>, Wied
-                        <note>Gustav Wied (1858-1914), forfatter og dramatiker</note>, Carl
-                        Ewald<note>Carl Ewald (1856-1908), forfatter</note> o:s:v: ‒ der har noget
+                    Mennesker ‒ Høfding<ref target="n3"/>,
+                        »Karin«<ref target="n4"/>, Wied
+                        <ref target="n5"/>, Carl
+                        Ewald<ref target="n6"/> o:s:v: ‒ der har noget
                     Navn i Tyskland og saa sende mig dem? Men det maa være meget snart.... Jeg
                     arbejder nu som en vanvittig, for at Julen kan blive saa rar som muligt indenfor
                     disse fire ensomme Mure.</p>
-                <p rend="right">H. B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

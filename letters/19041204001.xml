@@ -1,92 +1,107 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19041204001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 863</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Nini Holst (Bangs søster)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider, den første side på fortrykt
-                                                brevpapir: <emph>Grand Hôtel Hungaria / Budapest,
-                                                  ....</emph> mv. og med trykte tegninger af
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19041204001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 863</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider, den første side på fortrykt
+                                                brevpapir: <hi rend="italics">Grand Hôtel Hungaria / Budapest,
+                                                  ....</hi> mv. og med trykte tegninger af
                                                 hotellet og udsigt over byen med flere broer hen
                                                 over Donau</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1904-12-04">1904, 4. December [søndag] <note>Ledsaget af
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Budapest</placeName>
+               <date when="1904-12-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1904-12-04">1904, 4. December [søndag] <note>Ledsaget af
                         Knud Ernst rejste Bang i november-december 1904 til Prag, Wien, Budapest,
                         Bukarest mv.</note>
-                </date>
-                <placeName cert="high">Budapest</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">[Budapest,...] Søndag. 4.12.1904.</p>
-                <p>Ja, kære Nini, saa er vi i Budapest ‒ i Grand Hotel Hungaria, hvor Guld og Marmor
+            </date>
+            <placeName cert="high">Budapest</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Budapest,...] Søndag. 4.12.1904.</p>
+            <p>Ja, kære Nini, saa er vi i Budapest ‒ i Grand Hotel Hungaria, hvor Guld og Marmor
                     har indgaaet en pragtstraalende Forening. Foran mine Vinduer ligger Donau,
                     kantet med Paladser. Jernbroer i svungne Buer fører over den.... Jeg har jo før
                     været i Budapest. Men Byen bliver alt skønnere. Og dens Luft er klar og om
@@ -94,17 +109,16 @@
                     vide og dejlige Verden. Hvert mit Blik og hvert mit Skridt er et Farvel. Selv om
                     jeg levede, vilde jeg jo for Fremtiden ikke være velhavende nok til at gensé
                     Europa og dets store Stæder. Og ‒ det kan saamænd ogsaa være det Samme.</p>
-                <p>Paa Torsdag tager vi til Bukarest og derfra til Belgrad ‒ maaske til Sofia.
-                    Rejser i Europa er jo ikke Rejser. Vi fløj<note> Bang sigter til togets
-                        hastighed; rejsen foregik med jernbane</note> fra Wien til Budapest paa fire
+            <p>Paa Torsdag tager vi til Bukarest og derfra til Belgrad ‒ maaske til Sofia.
+                    Rejser i Europa er jo ikke Rejser. Vi fløj<ref target="n1"/> fra Wien til Budapest paa fire
                     Timer ‒ i vanvittig Fart. Og alle de Rejser, som staar tilbage, tager jeg om
                     Natten, saa mærkes Turen slet ikke: Sovekahytterne er saa gode, som laa man i
                     sin Seng.</p>
-                <p>Mange Hilsener til dig og den Adrætte<note>... ??? ...</note></p>
-                <p rend="right">fra</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Mange Hilsener til dig og den Adrætte<ref target="n2"/>
+            </p>
+            <p rend="right">fra</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

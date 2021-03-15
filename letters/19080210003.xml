@@ -1,101 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19080210003</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 449</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1908-02-10" notBefore="9999-99-99" notAfter="9999-99-99">1908. 10. februar [mandag]<note>Tre breve til Peter Nansen på
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19080210003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 449</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1908-02-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1908-02-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1908. 10. februar [mandag]<note>Tre breve til Peter Nansen på
                   den samme dato</note>
-                </date>
-                <placeName cert="high">[Berlin]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">10.2.1908.</p>
-                <p>Min kære Ven.</p>
-                <p>Den unge <persName key="Bondy, Hans">Bondy</persName>
-                    <note>Hans Bondy (1881-1917), tysk forlægger, Berlin</note> var tilstede, mens jeg skrev til dig.</p>
-                <p>Derfor i al Hast disse yderligere Oplysninger:</p>
-                <p>Han er af Millionærfamilien Bondy-Cassirer<note>Hans Bondy var søn af den østrigske forretningsmand <persName key="Bondy, Otto">Otto
-                     Bondy</persName> (1844-1928), industrimagnat i Wien, og hans hustru <persName key="Bondy, Julie">Julie</persName> (1860-1914); moderen var født Cassirer, og blandt
-                  Hans Bondys fætre var den tyske filosof <persName key="Cassirer, Ernst">Ernst
-                     Cassirer</persName> (1874-1945) og den tyske forlægger og kunsthandler <persName key="Cassirer, Bruno">Bruno
-                     Cassirer</persName> (1872-1941)</note>. Har aabnet et Forlag. Interesserer sig – med
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">10.2.1908.</p>
+            <p>Min kære Ven.</p>
+            <p>Den unge <persName key="Bondy_Hans">Bondy</persName>
+               <ref target="n1"/> var tilstede, mens jeg skrev til dig.</p>
+            <p>Derfor i al Hast disse yderligere Oplysninger:</p>
+            <p>Han er af Millionærfamilien Bondy-Cassirer<ref target="n2"/>. Har aabnet et Forlag. Interesserer sig – med
                Forstaaelse – levende for nordisk Litteratur. Er vist meget hæderlig og – paa Grund
                af hans kendte Familje og Forbindelser – er hans Forlag sikkert fint.</p>
-                <p>Skriv til <persName key="Lie, Jonas">Jonas Lie</persName>
-                    <note>Den norske forfatter Jonas Lie (1833-1908)</note> om Sagen. Hils <persName key="Nansen, Betty">Betty</persName>
-                    <note>Betty Nansen</note>. Og sig hende, jeg skriver ikke, før hun har skrevet.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Skriv til <persName key="Lie_Jonas">Jonas Lie</persName>
+               <ref target="n3"/> om Sagen. Hils <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n4"/>. Og sig hende, jeg skriver ikke, før hun har skrevet.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

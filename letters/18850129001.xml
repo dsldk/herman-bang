@@ -1,120 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18850129001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Rigsarkivet</repository>
-                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18850129001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
                                     blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Niels Neergaard</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider; brevpapiret er foldet og lukket,
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; brevpapiret er foldet og lukket,
                                                 således at papirets brevside danner en kuvert. Bang
-                                                har skrevet brevets udskrift: <emph>Hr. Redaktør
-                                                  Neergaard / 56 Nørrefarimagsgade. / K.</emph>, og
+                                                har skrevet brevets udskrift: <hi rend="italics">Hr. Redaktør
+                                                  Neergaard / 56 Nørrefarimagsgade. / K.</hi>, og
                                                 det er frankeret med et 4-øres frimærke,
                                                 poststemplet Kjøbenhavn 29/1; på bagsiden af den
                                                 foldede papirkuvert ses postvæsenets
-                                                modtagerstempel: <emph>K. / OMB.6 /
-                                                29.1.-85</emph>.</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>For neden på brevets tekstside har Neergaard skrevet:
-                                            <emph>B 30/1.</emph>, B for: Besvaret</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1885-01-29">1885, 29. Januar [torsdag] <note>Niels Neergaard
+                                                modtagerstempel: <hi rend="italics">K. / OMB.6 /
+                                                29.1.-85</hi>.</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>For neden på brevets tekstside har Neergaard skrevet:
+                                            <hi rend="italics">B 30/1.</hi>, B for: Besvaret</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1885-01-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1885-01-29">1885, 29. Januar [torsdag] <note>Niels Neergaard
                         (1854-1936) var 1884-1892 redaktør af tidsskriftet
-                        <emph>Tilskueren</emph></note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">29.1.85.</p>
-                <p>Kære Neergaard.</p>
-                <p>Det er umuligt ikke at medtage »et Besøg«, som gaar paa Mandag<note>Edvard
-                        Brandes' skuespil <emph>Et Besøg</emph> havde premiere mandag 2.2.1885 på
-                        Dagmarteatret i København. Bangs anmeldelse af stykket indgår i hans faste
-                        rubrik »Teatrene« i <emph>Tilskueren</emph>s februarhæfte 1885</note>. Før
+                        <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">29.1.85.</p>
+            <p>Kære Neergaard.</p>
+            <p>Det er umuligt ikke at medtage »et Besøg«, som gaar paa Mandag<ref target="n1"/>. Før
                     Torsdag kan De altsaa ikke have Revuen ‒ ti skrive om en saadan »Begivenhed«
                     lige Dagen efter ‒ kan og tør jeg ikke.</p>
-                <p>Jeg tror, at det siste<note>Bang hentyder vel til det senest udkomne nummer af
-                            <emph>Tilskueren</emph></note> har gjort Lykke. Peter<note>Peter Nansen
-                        (1861-1918), journalist og nær ven af Herman Bang</note> fortalte mig noget
+            <p>Jeg tror, at det siste<ref target="n2"/> har gjort Lykke. Peter<ref target="n3"/> fortalte mig noget
                     derom.</p>
-                <p>Sig Fru Arne Wendt, at hendes Studie var beundringsværdig<note>Forfatteren Erna
-                        Juel-Hansen (1845-1922) havde ved sin romandebut i 1881 anvendt navnet Arne
-                        Wendt [dvs. Erna omvendt] som pseudonym. Bang sigter formentlig til Erna
-                        Juel-Hansens novelle »De tolv smaa Profeter«, der blev offentliggjort i
-                            <emph>Tilskueren</emph>s januarhæfte 1885</note>.
-                        G.B.<note>Litteraturkritikeren og samfundsdebatøren Georg Brandes
-                        (1842-1927), bror til Edvard Brandes</note> tog Têten paa det kønslige ‒
-                    »enfin soyons gais«<note>fr.: »Kort og godt, lad os være fornøjede«</note></p>
-                <p rend="right">H. de B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Sig Fru Arne Wendt, at hendes Studie var beundringsværdig<ref target="n4"/>.
+                        G.B.<ref target="n5"/> tog Têten paa det kønslige ‒
+                    »enfin soyons gais«<ref target="n6"/>
+            </p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,123 +1,127 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19011002002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 815</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Oluf Heise</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1901-10-02">[1901, 2. oktober] Onsdag <note>Bang opholdt sig
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19011002002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 815</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1901-10-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1901-10-02">[1901, 2. oktober] Onsdag <note>Bang opholdt sig
                         september-november 1901 i Aalborg og var i oktober patient ved dr. Torrilds
                         nerveklinik i byen</note>
-                </date>
-                <placeName cert="high">Aalborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Aalborg. Onsdag.</p>
-                <p>Paa ét Punkt, kære Hr. Heise, har De misforstaaet mig: det er aldrig faldet mig
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Aalborg. Onsdag.</p>
+            <p>Paa ét Punkt, kære Hr. Heise, har De misforstaaet mig: det er aldrig faldet mig
                     ind, at jeg overhovedet kunde modtage nogen yderligere, selv den foreløbigste
                     Hjælp af Dem.</p>
-                <p>Paa Hirschsprung<note>Aage Hirschsprung (Einar Aage Hirschsprung) (1869-1909),
-                        forlægger. Han var 1893-1908 sammen med J.L. Lybecker (1862-1923) direktør
-                        for J.H. Schubothes Boghandel og Det Schubotheske Forlag</note> vil Ansvaret
+            <p>Paa Hirschsprung<ref target="n1"/> vil Ansvaret
                     falde tungt.</p>
-                <p>Der var Forskel paa mine Fordringer i Søndags og igaar ‒ efter Læges
-                        Raad<note>Johannes Torrild (1870-1908), neurolog med almen praksis i
-                        København 1898-1900 og med egen nerveklinik i Aalborg fra juli 1901. Bang
-                        har muligvis allerede haft ham som læge i København 1898-1900</note>. Ti min
+            <p>Der var Forskel paa mine Fordringer i Søndags og igaar ‒ efter Læges
+                        Raad<ref target="n2"/>. Ti min
                     Tilstand er saa slet, at ogsaa hans Ansvar er stort.</p>
-                <p>Jeg sender her det første af tredje Del<note>Manuskript til begyndelsen af den
-                        tredje og sidste del af Det graa Hus, der udkom 26.11.1901 hos Det
-                        Schubotheske Forlag</note> ‒ hvad jeg har skrevet idag. Jeg vedbliver
-                    dermed, til jeg modtager Forlagets<note>Det Schubotheske Forlag</note> Svar paa
+            <p>Jeg sender her det første af tredje Del<ref target="n3"/> ‒ hvad jeg har skrevet idag. Jeg vedbliver
+                    dermed, til jeg modtager Forlagets<ref target="n4"/> Svar paa
                     mit Brev igaar. Men Forlaget, der ved, at jeg slet intet har at leve af, burde
                     maaske ikke tøve med at sende en Syg dette afgørende Svar.</p>
-                <p>Vil De tilstille Forlaget det vedlagte Blad Manuskript.</p>
-                <p>Ved en Fejltagelse af min Læge var der igaar lagt to Ark Korrektur i
-                        Brevet<note>Dvs. i brevet 1.10.1901, som Bang havde dikteret til lægen
-                        Johannes Torrild. Der er tale om korrekturtryk af den første del af Det graa
-                        Hus</note>. Kun det første var rettet. Men jeg har et andet Aftryk og skal
+            <p>Vil De tilstille Forlaget det vedlagte Blad Manuskript.</p>
+            <p>Ved en Fejltagelse af min Læge var der igaar lagt to Ark Korrektur i
+                        Brevet<ref target="n5"/>. Kun det første var rettet. Men jeg har et andet Aftryk og skal
                     sende Ark 2 imorgen. Det er mit Haab i alle Fald at faa Korrekturerne paa det
                     alt færdige rettede, saa idetmindste »Det graa Hus'« to Dele kunde foreligge
                     færdige, hvis noget indtraf. Men da Faren for min Tilstands Forværrelse
                     bestandig er tilstede, beder jeg Forlaget være af den Godhed at sende
                     Korrekturerne paa Resten saa hurtigt som muligt.</p>
-                <p>Jeg skal nu skrive til Nansen<note>Peter Nansen (1861-1918), fra 1896 litterær
-                        direktør i forlaget Gyldendal; se Bangs brev til Peter Nansen,
-                        2.10.1901</note>, som sandsynligvis vil komme til Dem. Sæt ham da ind i
+            <p>Jeg skal nu skrive til Nansen<ref target="n6"/>, som sandsynligvis vil komme til Dem. Sæt ham da ind i
                     Striden fuldtud og vis ham Opgørelser o:s:v:</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

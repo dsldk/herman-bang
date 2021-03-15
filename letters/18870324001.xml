@@ -1,189 +1,202 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18870324001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 109</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXX. – Trykt i forkortet facsimile i <q>Bogvennen.
-                                 Gyldendals Literaturtidende</q>, marts 1912, s. 8-9. De samme
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870324001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 109</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXX. – Trykt i forkortet facsimile i <hi rend="italics">Bogvennen.
+                                 Gyldendals Literaturtidende</hi>, marts 1912, s. 8-9. De samme
                               udeladelser i brevets ordlyd har den version af brevteksten, som er
                               trykt i Vandreaar</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-03-24" notBefore="9999-99-99" notAfter="9999-99-99">[1887. 24. marts], Torsdag Aften<note>Kan dateres til efter
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-03-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1887-03-24"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1887. 24. marts], Torsdag Aften<note>Kan dateres til efter
                   balletdanser Daniel Krums selvmord i Charlottenlund Skov 22.3.1887. – Vandreaar, s. 263, afstår fra en
                   mere præcis datering af brevet</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Torsdag Aften.</p>
-                <p>Min kære Don.</p>
-                <p>
-                    <emph>Saa</emph>længe siden jeg skrev. Grunden er egenlig saa simpel: der er intet,
-               slet ikke det aller bitterste at skrive om. Mit Liv er min Bog<note>Dvs. Bangs
-                  igangværende arbejde med at skrive romanen Stuk</note>. Med høj Pande de Par
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Torsdag Aften.</p>
+            <p>Min kære Don.</p>
+            <p>
+               <hi rend="italics">Saa</hi>længe siden jeg skrev. Grunden er egenlig saa simpel: der er intet,
+               slet ikke det aller bitterste at skrive om. Mit Liv er min Bog<ref target="n1"/>. Med høj Pande de Par
                Dage, hvor jeg er i fuld Besiddelse af mit Talent; trist, pint, forfulgt af
                allehaande nervøse Anfald og Angster de Dage, hvor mit Hoved tvinger mig til delvis
                Uvirksomhed. Et Par Timer om Dagen kan jeg dog sædvanlig sætte mig i den Tilstand,
-               som er nødvendig for at <emph>sé</emph> og <emph>gengive</emph> de Scener, i hvilke
+               som er nødvendig for at <hi rend="italics">sé</hi> og <hi rend="italics">gengive</hi> de Scener, i hvilke
                min Bog afspilles. En Scenerække er Bogen. Hvad det koster for en Magt over det indre
-               Syn saaledes at lade en hundrede Mennesker <emph>leve</emph> foran Læsernes Øjne –
+               Syn saaledes at lade en hundrede Mennesker <hi rend="italics">leve</hi> foran Læsernes Øjne –
                naa, derom har ingen noget Begreb. Min Træthed er bagefter en Afmagtstilstand lig, og
-               jeg tilbringer undertiden hele Timer i et Stumpsind<note>En tilstand af stumpt sind,
-                  dvs. at være dvask, dorsk, sløv</note>, som er ulideligt.</p>
-                <p>
-                    <emph>Hvorledes</emph> Bogen bliver, kan jeg jo alligevel ikke sige. Min Skyhed for
+               jeg tilbringer undertiden hele Timer i et Stumpsind<ref target="n2"/>, som er ulideligt.</p>
+            <p>
+               <hi rend="italics">Hvorledes</hi> Bogen bliver, kan jeg jo alligevel ikke sige. Min Skyhed for
                "store Ord" og min Angst for at "blotte mig" vil skade Helhedsindtrykket af et Værk,
                som burde besidde nogen Pathos (i god Forstand) – men i Enkelthederne vilde det være
                dumt, om jeg nægtede, at jeg som Interiør-Maler (og det er jo en Række Interiørs, det
                Hele) ikke staar tilbage for nogen. Der er i disse Skildringer henrivende Ting ......
                Men, men, men – det "store Drag", det, som til syvende og sist løfter En op blandt de
-               Udvalgte, <emph>det</emph> griber jeg <emph>dog</emph> næppe. Er det, fordi min
+               Udvalgte, <hi rend="italics">det</hi> griber jeg <hi rend="italics">dog</hi> næppe. Er det, fordi min
                Hjerne er for træt, mit Legeme for svagt; fordi jeg maa skrive for hurtigt, eller
                fordi jeg er blevet sky ved Kritik og Modgang; eller – fordi "den Udvalgte" har Geni
                og jeg kun et til det yderste anspændt men ogsaa med hundrede Fejl behængt Talent?
                ... Ja, du – det er vel det siste.</p>
-                <p>Men ikkedesto mindre vil forhaabentlig i <emph>vor</emph> Literatur "<title key="Stuk">Stuk</title>" afgive et Bevis for "et ikke ringe Fremskridt hos den saa
+            <p>Men ikkedesto mindre vil forhaabentlig i <hi rend="italics">vor</hi> Literatur "<!--start title reference--><title key="Stuk">Stuk</title>
+               <!--end title reference-->" afgive et Bevis for "et ikke ringe Fremskridt hos den saa
                flittige Forfatter".</p>
-                <p>Og du? Hvor lever Peter Sygepasser og hvordan? Pér Anden<note>Et af Peter Nansens
-                  pseudonymer som journalist</note> er død, og de andre offentlige "P.N."'er synes
+            <p>Og du? Hvor lever Peter Sygepasser og hvordan? Pér Anden<ref target="n3"/> er død, og de andre offentlige "P.N."'er synes
                jeg ogsaa er forsvundet. Maa du rede saa mange Senge, at du slet ikke kan være
-               Journalist? Eller "hur"? Højt forfærdede mig jo "<title key="Kærlighed">Kærlighed</title>"<note>Skuespil i fire akter af Edvard Brandes, premiere
-                  20.3.1887 på Det Kongelige Teater, udgivet samme år hos P.G. Philipsens
-                  Forlag</note>s Skæbne. I Fryd over, at der er "skænket vor Literatur" et nyt
-               "Besøg" – det var <persName key="Esmann, Gustav">Es'</persName> Anmeldelse
-                  <note>Forfatteren Gustav Esmann (1860-1904) skrev en signeret anmeldelse af skuespillet og opførelsen i
-                  Politiken, 21.3.1887</note>, jeg havde læst – skrev jeg til <persName key="Brandes, Edvard">Edvard</persName>
-                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> en Lykønskning, og modtog Dagen efter (med <persName key="Ottesen, Christine Margrethe">Fru Ottesens</persName>
-                    <note>Christine Margrethe Ottesen (født ca. 1843), Bangs værtinde i Studiestræde 4, København</note> venlige Haand) – Avisen
-               med dens Citat-Række<note>Eftersøgt forgæves</note>. Jeg var forbløffet som – efter
-                  Valgene<note>Folketings- og landstingsvalget 28.1. 1887</note>. Tænder I slige
+               Journalist? Eller "hur"? Højt forfærdede mig jo "<!--start title reference--><title key="Kærlighed">Kærlighed</title>
+               <!--end title reference-->"<ref target="n4"/>s Skæbne. I Fryd over, at der er "skænket vor Literatur" et nyt
+               "Besøg" – det var <persName key="Esmann_Gustav">Es'</persName> Anmeldelse
+                  <ref target="n5"/>, jeg havde læst – skrev jeg til <persName key="Brandes_Edvard">Edvard</persName>
+               <ref target="n6"/> en Lykønskning, og modtog Dagen efter (med <persName key="Ottesen_Christine_Margrethe">Fru Ottesens</persName>
+               <ref target="n7"/> venlige Haand) – Avisen
+               med dens Citat-Række<ref target="n8"/>. Jeg var forbløffet som – efter
+                  Valgene<ref target="n9"/>. Tænder I slige
                Glædesblus hver Fastelavn, saa skal Eders Autoritet nok drysse af "Tønden". Men
-               hvordan <emph>var</emph> Stykket? Og hvor stak Fejlen. Det er sikkert, at Fablen,
+               hvordan <hi rend="italics">var</hi> Stykket? Og hvor stak Fejlen. Det er sikkert, at Fablen,
                godt udført, kunde være som det velførte Snit lige i Publikums Kød. Var det
-                  <emph>derfor</emph>, man hylte? Eller var Kniven stump og havde hverken Skaft
+                  <hi rend="italics">derfor</hi>, man hylte? Eller var Kniven stump og havde hverken Skaft
                eller Blad? For der er nok visse Samfundskomedier, som ligner hin berømmelige
                Kniv.</p>
-                <p>Ellers er det en net Suppe, I sidder i. Jeg aabner snart ikke "Politiken" uden med
-               Angst i Bukserne, for at jeg skal opdage, at jeg <emph>selv</emph> har stjaalet af en
+            <p>Ellers er det en net Suppe, I sidder i. Jeg aabner snart ikke "Politiken" uden med
+               Angst i Bukserne, for at jeg skal opdage, at jeg <hi rend="italics">selv</hi> har stjaalet af en
                Kasse eller skrevet et Par af Næstens Navne efter. Og dét, uagtet jeg virkelig gør
-               Fremskridt i den saakaldte Hæderlighed ..... Hvad i al Verden er det med <persName key="Krum, Johanne">
-                        <emph>Fru</emph> Krum</persName>
-                    <note>Skuespillerinden Johanne Krum (1853-1929), født Schmidt, gift 1875 med balletdanser Daniel Krum</note>? Hvad har Konen gjort, og er det virkelig "Tenoren med den
-               frygtelige Dolk", som har hængt <persName key="Krum, Daniel">Krum</persName>
-                    <note>Daniel Krum (1850-87), solodanser og balletkomponist, gift 1875 med Johanne Krum, forældre til skuespillerinden Gerda Krum; han begik selvmord</note>? Slige Spørgsmaal kan jeg jo uden Risiko for Svar roligt
+               Fremskridt i den saakaldte Hæderlighed ..... Hvad i al Verden er det med <persName key="Krum_Johanne">
+                  <hi rend="italics">Fru</hi> Krum</persName>
+               <ref target="n10"/>? Hvad har Konen gjort, og er det virkelig "Tenoren med den
+               frygtelige Dolk", som har hængt <persName key="Krum_Daniel">Krum</persName>
+               <ref target="n11"/>? Slige Spørgsmaal kan jeg jo uden Risiko for Svar roligt
                gøre mig selv. Men interessere – gør det mig endda, alt det, som jeg spørger om ud i
-               den blaa Luft. For det lugter af København, du. <persName key="Møller, Vilhelm">Vilhelm Møller</persName>
-                    <note>Vilhelm Møller (1846-1904), forfatter, litteraturkritiker og tidsskriftredaktør</note> skrev mig idag, <emph>naar</emph> jeg kom hjem. Naa –
+               den blaa Luft. For det lugter af København, du. <persName key="Møller_Vilhelm">Vilhelm Møller</persName>
+               <ref target="n12"/> skrev mig idag, <hi rend="italics">naar</hi> jeg kom hjem. Naa –
                Tid vil det tage. Og sandsynligvis skér det aldrig. Men hænge ved Jer derhjemme, og
-               hver Nat saa redeligt slide Jeres Brosten – <emph>det</emph> vil <emph>jeg</emph> vel
+               hver Nat saa redeligt slide Jeres Brosten – <hi rend="italics">det</hi> vil <hi rend="italics">jeg</hi> vel
                gøre til min Død ..... Maatte den komme snart den "Døden". Verden vil ikke blive en
                "Fjerlille" fattigere, og jeg vilde være til Ro.</p>
-                <p>Véd du, at jeg under Pennen haver et filosofisk Digt:</p>
-                <p>Mægtige Jord – du hellige!</p>
-                <p>Du det levende Støvs Ophav, Grav – og <emph>Herre</emph>.</p>
-                <p>Jord, Guddom, du eneste!</p>
-                <p>Det er saa dybt, at jeg undertiden ikke selv øjner Bunden. Men det gør ikke noget, da
+            <p>Véd du, at jeg under Pennen haver et filosofisk Digt:</p>
+            <p>Mægtige Jord – du hellige!</p>
+            <p>Du det levende Støvs Ophav, Grav – og <hi rend="italics">Herre</hi>.</p>
+            <p>Jord, Guddom, du eneste!</p>
+            <p>Det er saa dybt, at jeg undertiden ikke selv øjner Bunden. Men det gør ikke noget, da
                jeg ikke har i Sinde at plage nogen med at læse det. Idéen er stor nok og god nok –
                saadan et stort Taagebjerg, som Tanken aldrig klavrer op paa – med Evighedens Tanker,
                ubarmhjertige som de store Gletcheres bidende Is ..... Jeg skal dog ikke (da jeg
                kender din souveræne Ligegyldighed for <app>
-                        <lem>"filosopiske"</lem>
-                        <rdg>Ordets indledende f er rettet fra et p; det følgende p er enten en skrivefejl
+                  <lem>"filosopiske"</lem>
+                  <rdg>Ordets indledende f er rettet fra et p; det følgende p er enten en skrivefejl
                      eller en morsomhed</rdg>
-                    </app> Fantasier) plage dig med mine gigantiske Rimerier, der er graciøse i Rytmerne
-               som dansende Mammutdyr .... <persName key="Nansen, Immanuel">Immanuel
+               </app> Fantasier) plage dig med mine gigantiske Rimerier, der er graciøse i Rytmerne
+               som dansende Mammutdyr .... <persName key="Nansen_Immanuel">Immanuel
                   Hvalp</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> beder jeg dig at hilse. Jeg udfærdigede et Brev til
-               hans "Geburtsdag"<note>19.2.1887 fyldte Immanuel Nansen 20 år</note>, som han i
-               ungdommelig Ubehøvlethed har ladet ubesvaret. Medmindre Hr. Hvass<note>En af Immanuel
-                  Nansens studiekammerater på jurastudiet, enten <persName key="Hvass, Hans Henrik">Hans Henrik Hvass</persName> eller <persName key="Hvass, Frants Michael">Frants Michael Hvass</persName>. De var brødre og blev cand.jur. i henholdsvis
-                  1890 og 1891</note> skulde være Svaret. Isaafald var Svaret raaere end en
+               <ref target="n13"/> beder jeg dig at hilse. Jeg udfærdigede et Brev til
+               hans "Geburtsdag"<ref target="n14"/>, som han i
+               ungdommelig Ubehøvlethed har ladet ubesvaret. Medmindre Hr. Hvass<ref target="n15"/> skulde være Svaret. Isaafald var Svaret raaere end en
                hversomhelst Taushed. <app>
-                        <lem>Hvass</lem>
-                        <rdg>Tilsyneladende rettet fra: Han</rdg>
-                    </app> kiler rundt med en Baedecker<note>Udbredt tysk bogserie af internationale
-                  rejseguides</note> og studerer Samfundstilstandene ved at notere sig Avisernes
-               Navne i de forskellige Byer. Han ligner i ydre "<title key="den pantsatte                   Bondedreng">den pantsatte
-                  Bondedreng</title>"<note>Komedie af Ludvig Holberg (1684-1754)</note>, og noget indre har jeg
+                  <lem>Hvass</lem>
+                  <rdg>Tilsyneladende rettet fra: Han</rdg>
+               </app> kiler rundt med en Baedecker<ref target="n16"/> og studerer Samfundstilstandene ved at notere sig Avisernes
+               Navne i de forskellige Byer. Han ligner i ydre "<!--start title reference--><title key="den_pantsatte___________________Bondedreng">den pantsatte
+                  Bondedreng</title>
+               <!--end title reference-->"<ref target="n17"/>, og noget indre har jeg
                ikke faaet Øje paa. Han noterede i sin Lommebog de zchekiske Skildter og gjorde mig
                til Skamme ved at vide, hvad Urtekræmmer hed paa bøhmisk. Han vil vende hjem med en
                uvurdérlig Skat af de mest forskelligartede Kundskaber.</p>
-                <p>Om du har en liden Stund en Gang, da lad mig sé din Haandskrift – selv om det er paa
-               et Brevkort. To Gange har jeg bedt om Dramaet "Kærlighed"<note>af Edvard Brandes, jf.
-                  ovenfor</note> men har det endnu ikke. Hils <persName key="Brock, Louise">Frøken
+            <p>Om du har en liden Stund en Gang, da lad mig sé din Haandskrift – selv om det er paa
+               et Brevkort. To Gange har jeg bedt om Dramaet "Kærlighed"<ref target="n18"/> men har det endnu ikke. Hils <persName key="Brock_Louise">Frøken
                   B.</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> og dig selv fra</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+               <ref target="n19"/> og dig selv fra</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

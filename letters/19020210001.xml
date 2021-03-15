@@ -1,101 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19020210001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 359</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1902-02-10" notBefore="9999-99-99" notAfter="9999-99-99">1902. 10. februar.  Mandag<note>empty</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Gl. Kongevej 25.<hi rend="sup">4</hi>
-                </p>
-                <p rend="right">Mandag 10/2 02.</p>
-                <p>Kære Ven.</p>
-                <p>Ja, det har taget nogle Dage. Men da det kom til Stykket, vidste jeg sgu ikke,
-               hvordan Pokker jeg skulde forme saadan noget<note>Det drejer sig formodentlig om
-                  Bangs artikel "Jonas Lie –", trykt i København, 15.4.1902 i anledning af
-                  udsendelsen af det andet hæfte til bind 1 af den norske forfatter Jonas Lies (1833-1908) Samlede Værker, Gyldendal
-                  1902-04</note>.</p>
-                <p>Nej, hvis jeg, som <persName key="Lie, Jonas">hans</persName> første Lærling, skulde
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19020210001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 359</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1902-02-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1902-02-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1902. 10. februar.  Mandag<note>empty</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gl. Kongevej 25.<hi rend="sup">4</hi>
+            </p>
+            <p rend="right">Mandag 10/2 02.</p>
+            <p>Kære Ven.</p>
+            <p>Ja, det har taget nogle Dage. Men da det kom til Stykket, vidste jeg sgu ikke,
+               hvordan Pokker jeg skulde forme saadan noget<ref target="n1"/>.</p>
+            <p>Nej, hvis jeg, som <persName key="Lie_Jonas">hans</persName> første Lærling, skulde
                skrive en Essay om Manden – et Slags Bagord til Udgaven, da vilde det være noget
                ganske andet. Nu ved jeg virkelig ikke om Du kan bruge dette Bavl.</p>
-                <p>Til Lykke med <placeName key="Aarhus">Aarhus</placeName>
-                    <note>Ikke
-               oplyst</note>.</p>
-                <p rend="right">Din hengivne</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Til Lykke med <placeName key="Aarhus">Aarhus</placeName>
+               <ref target="n2"/>.</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

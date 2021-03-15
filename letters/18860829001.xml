@@ -1,133 +1,148 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860829001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4508, 4to</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-08-29">[1886, 29. august] Søndag<note>Brevet slutter med
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860829001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4508, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1886-08-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-08-29">[1886, 29. august] Søndag<note>Brevet slutter med
                         en efterskrift, dateret »Mandag«, dvs. 30. august. ‒ Til støtte for mit
                         dateringsforslag er især brevets reference til "den første" i næste måned og
                         til Bangs afsendelse 24.8. og "idag"</note>
-                </date>
-                <placeName cert="high">[Prag]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Søndag.</p>
-                <p>Kære Ven.</p>
-                <p>Jeg sender hermed første Halvdel af Kapitel VI. Jeg vilde have ventet og imorgen
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg sender hermed første Halvdel af Kapitel VI. Jeg vilde have ventet og imorgen
                     tidlig have sendt det hele. Men det er mig umuligt, da Schou trods mine
                     Anmodninger ikke har sendt Penge for det sist afsendte Manuskript. Kære Julius ‒
-                    bestandig halvt bevogtet, kvalt af Angst, arbeider jeg <emph>otte Timer
-                        daglig</emph> paa denne Novelle ‒ ved Hjælp af en Blanding af Cognac,
+                    bestandig halvt bevogtet, kvalt af Angst, arbeider jeg <hi rend="italics">otte Timer
+                        daglig</hi> paa denne Novelle ‒ ved Hjælp af en Blanding af Cognac,
                     Champagne og Vand. Jeg kan ikke andet for ikke at falde sammen. Lægen erklærede
                     mig, at jeg naar Bogen var færdig, maatte bruge en Vandkur ‒ tre Uger.</p>
-                <p>Men det er Uret af Schou af bart Pedanteri ikke at bringe de arme Gylden hen paa
-                    Posten. Lad det <emph>nu</emph> ské. Ti jeg <emph>maa</emph> jo bruge meget.
+            <p>Men det er Uret af Schou af bart Pedanteri ikke at bringe de arme Gylden hen paa
+                    Posten. Lad det <hi rend="italics">nu</hi> ské. Ti jeg <hi rend="italics">maa</hi> jo bruge meget.
                     Skriver kun paa Bogen.</p>
-                <p>Send nu <emph>strax</emph>, at jeg paa <emph>en</emph> Gang kan sende alt det
+            <p>Send nu <hi rend="italics">strax</hi>, at jeg paa <hi rend="italics">en</hi> Gang kan sende alt det
                     siste. Siste Del af VI og VII. For at ogsaa »Afregning« kan komme og Andreasen
-                    blive betalt. Penge maa sendes <emph>strax</emph> ‒ ti jeg har ikke meget mer og
-                    har til den første næste <emph>ingen</emph> anden Indtægt.</p>
-                <p>Det er 8 + 8 Mark fra de forforrige Gange ‒ 16 Mark.</p>
-                <p>Manuskript afsendt 24.8. 44 Mark</p>
-                <p>Manuskript afsendt idag (Søndag.) 40 Mark</p>
-                <p>100 Mark.</p>
-                <p>Lad ham nu sende det, at vi kan blive færdig. Hilsener fra</p>
-                <p rend="right">Din Herman.</p>
-                <p>Af »Unge Piger«, som Schorer har trykt<note>»Aus allen Ecken«, trykt i Schorers
-                        Familienblatt, ca. 28.5.1886</note> ‒ det danske Manuskript har du ‒ gaar en
+                    blive betalt. Penge maa sendes <hi rend="italics">strax</hi> ‒ ti jeg har ikke meget mer og
+                    har til den første næste <hi rend="italics">ingen</hi> anden Indtægt.</p>
+            <p>Det er 8 + 8 Mark fra de forforrige Gange ‒ 16 Mark.</p>
+            <p>Manuskript afsendt 24.8. 44 Mark</p>
+            <p>Manuskript afsendt idag (Søndag.) 40 Mark</p>
+            <p>100 Mark.</p>
+            <p>Lad ham nu sende det, at vi kan blive færdig. Hilsener fra</p>
+            <p rend="right">Din Herman.</p>
+            <p>Af »Unge Piger«, som Schorer har trykt<ref target="n1"/> ‒ det danske Manuskript har du ‒ gaar en
                     Oversættelse fra tysk uden Forfatternavn gennem norske Blade.</p>
-
-                <p>Mandag.</p>
-                <p>Kære Julius. Da Posten var lukket igaar sender jeg idag det til, som jeg fik
-                    skrevet iaftes og tilmorgen. Nu kan der for <emph>dette</emph> Manuskript sendes
-                    60 Mark <emph>altsaa</emph>:</p>
-                <p><emph>‒ Mark 120.</emph></p>
-                <p><emph>Lad</emph> det nu sendes. Jeg har virkelig intet at betale med den første.
+            <p>Mandag.</p>
+            <p>Kære Julius. Da Posten var lukket igaar sender jeg idag det til, som jeg fik
+                    skrevet iaftes og tilmorgen. Nu kan der for <hi rend="italics">dette</hi> Manuskript sendes
+                    60 Mark <hi rend="italics">altsaa</hi>:</p>
+            <p>
+               <hi rend="italics">‒ Mark 120.</hi>
+            </p>
+            <p>
+               <hi rend="italics">Lad</hi> det nu sendes. Jeg har virkelig intet at betale med den første.
                     Og I sér jo dog, hvormeget det fylder. Pengene maa nu sendes strax.</p>
-                <p>Jeg modtog imorges Korrektur paa Ark 20, som hermed returneres (til Schou)</p>
-                <p>Men jeg har <emph>ikke</emph> haft Korrektur paa Ark 19 ↄ: paa hele Kapitel IV
-                        (Kulminationskapitlet)<note>I »Ved Vejen«s færdige form: kapitel III</note>;
-                    jeg <emph>maa</emph>, kære Ven, have denne Korrektur; det vigtige Kapitel kan
-                    ikke trykkes, før jeg har sét det. Lad det afsendes <emph>strax</emph>, samtidig
-                    med Pengene. Jeg har af Ark 19 kun haft den siste Stump af Skovturen<note>Dvs.
-                        kapitel III af »Ved Vejen«</note>, som du husker.</p>
-                <p><emph>Lad Schou nu ikke prutte med mig denne Gang.</emph></p>
-                <p rend="right">Din Herman</p>
-                <p>Men strax maa de sendes, da har jeg dem idetmindste den tredie<note>Dvs. fredag
-                        3.9.1886</note>.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Jeg modtog imorges Korrektur paa Ark 20, som hermed returneres (til Schou)</p>
+            <p>Men jeg har <hi rend="italics">ikke</hi> haft Korrektur paa Ark 19 ↄ: paa hele Kapitel IV
+                        (Kulminationskapitlet)<ref target="n2"/>;
+                    jeg <hi rend="italics">maa</hi>, kære Ven, have denne Korrektur; det vigtige Kapitel kan
+                    ikke trykkes, før jeg har sét det. Lad det afsendes <hi rend="italics">strax</hi>, samtidig
+                    med Pengene. Jeg har af Ark 19 kun haft den siste Stump af Skovturen<ref target="n3"/>, som du husker.</p>
+            <p>
+               <hi rend="italics">Lad Schou nu ikke prutte med mig denne Gang.</hi>
+            </p>
+            <p rend="right">Din Herman</p>
+            <p>Men strax maa de sendes, da har jeg dem idetmindste den tredie<ref target="n4"/>.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

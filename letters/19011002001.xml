@@ -1,135 +1,148 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19011002001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 345</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="Johannes Torrild">
-                                        <ab>Brevet er dikteret til lægen Johannes Torrild, der også har
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19011002001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 345</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="johannes-torrild">
+                              <ab>Brevet er dikteret til lægen Johannes Torrild, der også har
                                  skrevet Bangs underskrevne navn</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1901-10-02" notBefore="9999-99-99" notAfter="9999-99-99">1901. 2. oktober [onsdag]<note>Bang var september-november
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1901-10-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1901-10-02"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1901. 2. oktober [onsdag]<note>Bang var september-november
                   1901 indlagt på dr. Torrilds nerveklinik i Aalborg</note>
-                </date>
-                <placeName cert="high">Aalborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Aalborg. 2-X-1901</p>
-                <p>Kære Nansen.</p>
-                <p>Jeg dikterer min Læge, <persName key="Torrild, Johannes">Dr. Torrild</persName>
-                    <note>Lægen og neurologen Johannes Torrild (1870-1908) havde fra 1900 praksis i Aalborg</note> dette Brev fordi jeg er for syg til at skrive
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Aalborg. 2-X-1901</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg dikterer min Læge, <persName key="Torrild_Johannes">Dr. Torrild</persName>
+               <ref target="n1"/> dette Brev fordi jeg er for syg til at skrive
                selv.</p>
-                <p>Det kendes maaske paa anden Haand Striden mellem det Schubotheske Forlag og
-                  mig<note>Bang havde 11.10.1897 skrevet under på, at samtlige hans bøger udgivet
-                  hos Det Schubotheske Forlag nu var solgt til dette forlag, som dermed besad retten
-                  til senere oplag og udgaver; se Niels Birger Wamberg: Digterne og Gyldendal, 1970,
-                  s. 232. Mens Bang arbejdede på <title key="Det graa Hus">Det graa Hus</title>, var
-                  han på fast gage fra Det Schubotheske Forlag, se Harry Jacobsen: Den tragiske
-                  Herman Bang, s. 69</note>. Det var en Uafhængighedskamp, som jeg allerede havde
+            <p>Det kendes maaske paa anden Haand Striden mellem det Schubotheske Forlag og
+                  mig<ref target="n2"/>. Det var en Uafhængighedskamp, som jeg allerede havde
                vunden og som jeg nu staar i Begreb med uigenkaldelig at tabe, fordi jeg under mit
-               Ophold her, hvor jeg skulde fuldende "det graa Hus"<note>Det graa Hus udkom
-                  26.11.1901 hos Det Schubotheske Forlag</note>, blev meget syg, og har været det i
+               Ophold her, hvor jeg skulde fuldende "det graa Hus"<ref target="n3"/>, blev meget syg, og har været det i
                snart fem Uger. Nu havde jeg lige genoptaget Arbejdet, som kan føres til Ende paa
                fjorten Dage. Da min Tilstand imidlertid er betænkelig og jeg ikke kan læse op,
                maatte jeg bede Forlaget, som vilde afskrive hele Honoraret paa min Konto om Penge
                for en Maaned. Dette Forlangende har Forlaget afvist. Jeg er overfor denne Afvisning
-               tvungen til at søge andet Steds. En Samtale med Hr. Overretssagfører <persName key="Heise, Oluf">Heise</persName>
-                    <note>Oluf Heise (1862-1935), fra 1892 overretssagfører i København</note>, Nørregade, Folketheatrets Gaard, vil sætte dig ind i hele
+               tvungen til at søge andet Steds. En Samtale med Hr. Overretssagfører <persName key="Heise_Oluf">Heise</persName>
+               <ref target="n4"/>, Nørregade, Folketheatrets Gaard, vil sætte dig ind i hele
                Sagen, alle Opgør med Forlaget, hele mit Regnskab med Forlaget er i Heises Hænder og
-               staar til din og <persName key="Hegel, Jacob">Hr. Hegel</persName>
-                    <note>Jacob Hegel (1851-1918), fra 1887 eneejer af og direktør for forlaget Gyldendal</note>s Tjeneste. Dokumenterne vil vise dig, at jeg
+               staar til din og <persName key="Hegel_Jacob">Hr. Hegel</persName>
+               <ref target="n5"/>s Tjeneste. Dokumenterne vil vise dig, at jeg
                ikke staar i noget juridisk Forhold til Forlaget, om nogen moralsk Forpligtelse kan
                der endnu mindre være Tale.</p>
-                <p>Mit Spørgsmaal er nu dette, om du, efter at have sat dig ind i Sagen, uopholdelig vil
+            <p>Mit Spørgsmaal er nu dette, om du, efter at have sat dig ind i Sagen, uopholdelig vil
                forelægge den for Hr. Hegel. Naar jeg bliver rask nok til at beskæftige mig med
                Forretninger vil sagtens hele Sagen med en definitiv Overgang til Hegel kunne ordnes,
                men hvad jeg foreløbig beder om er, at Hr. Hegel mod at jeg forpligter mig til at
-               udgive min Roman "Fest"<note>Bangs arbejdstitel for <title key="Ravnene">Ravnene</title>, Gyldendal 1902. I november 1902 var Bang kontraktligt
-                  overgået til forlaget Gyldendal</note> paa hans Forlag i fire paa hinanden
+               udgive min Roman "Fest"<ref target="n6"/> paa hans Forlag i fire paa hinanden
                følgende Uger tilstaar mig 250 Kr.; saa at jeg kan have Ro til endelig at fuldende
                "Det graa Hus", på hvilken Bog (den er vel nok min <app>
-                        <lem>bedste</lem>
-                        <rdg>Efter ordet er en afsluttende parentes slettet og rettet til et komma</rdg>
-                    </app>, da <persName key="Bang, Oluf Lundt">min Bedstefader</persName>
-                    <note>Oluf Lundt Bang (1788-1877), læge, dr.med., 1818-74 professor, kongehusets læge, farfar til Herman Bang</note> er dens Hovedperson) jeg nu har arbejdet i to Aar. Naar
+                  <lem>bedste</lem>
+                  <rdg>Efter ordet er en afsluttende parentes slettet og rettet til et komma</rdg>
+               </app>, da <persName key="Bang_Oluf_Lundt">min Bedstefader</persName>
+               <ref target="n7"/> er dens Hovedperson) jeg nu har arbejdet i to Aar. Naar
                jeg maa bede om saa mange Penge, er det fordi jeg regner med min Sygdom og ikke
                senere vil komme med nye Krav. Iøvrigt vil Regnskabet med Schubothe bedst vise Hr.
                Hegel og dig <app>
-                        <lem>hvor</lem>
-                        <rdg>Ordet har et eller to bogstaver mere: hvorfe (?)</rdg>
-                    </app> lidet dyr en Forfatter jeg er et Forlag.</p>
-                <p>Men om ét beder jeg dig for gamle Dages Skyld og i Betragtning af min Sygdom, at du
+                  <lem>hvor</lem>
+                  <rdg>Ordet har et eller to bogstaver mere: hvorfe (?)</rdg>
+               </app> lidet dyr en Forfatter jeg er et Forlag.</p>
+            <p>Men om ét beder jeg dig for gamle Dages Skyld og i Betragtning af min Sygdom, at du
                vil handle hurtigt og strax efter din Afgørelse telegrafere mig Svaret og de første
                Penge. Thi jeg er nu pint nok. Maaske vil min Læge tilføje nogle Ord.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

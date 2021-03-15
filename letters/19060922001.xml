@@ -1,118 +1,124 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19060922001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 889</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Nini Holst (Bangs søster)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1906-09-22">1906, 22. September [lørdag] <note>Bang opholdt
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19060922001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 889</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Randers</placeName>
+               <date when="1906-09-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1906-09-22">1906, 22. September [lørdag] <note>Bang opholdt
                         sig i september-oktober 1906 i Randers for at færdigskrive sin roman De uden
                         Fædreland ‒</note>
-                </date>
-                <placeName cert="high">Randers</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Randers 22.9.1906.</p>
-                <p>Min kære Nini.</p>
-                <p>Velkommen hjem og gid du ikke maa faa noget Eftersmæk fra din Rejse. Glad er jeg,
+            </date>
+            <placeName cert="high">Randers</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Randers 22.9.1906.</p>
+            <p>Min kære Nini.</p>
+            <p>Velkommen hjem og gid du ikke maa faa noget Eftersmæk fra din Rejse. Glad er jeg,
                     at du tog derhen.</p>
-                <p>Mig gaar det nogenlunde og hver Dag ens. Men i den fuldkomne Ensomhed kan <app>
-                        <lem>man</lem>
-                        <rdg>Ordet synes at være stavet: maa</rdg>
-                    </app> jo dog altid faa noget gjort.</p>
-                <p>Ernsts<note>Knud Ernst, Bangs sekretær og praktiske medhjælp</note> Fader er død
-                    og den Agtede<note>Bangs kælenavn for Knud Ernst</note> har været hjemme hos sin
+            <p>Mig gaar det nogenlunde og hver Dag ens. Men i den fuldkomne Ensomhed kan <app>
+                  <lem>man</lem>
+                  <rdg>Ordet synes at være stavet: maa</rdg>
+               </app> jo dog altid faa noget gjort.</p>
+            <p>Ernsts<ref target="n1"/> Fader er død
+                    og den Agtede<ref target="n2"/> har været hjemme hos sin
                     Moder og til Begravelsen.</p>
-                <p>Ellers er her slet intet Nyt. Om alt gaar vel, kommer jeg hjem midt i Oktober.
+            <p>Ellers er her slet intet Nyt. Om alt gaar vel, kommer jeg hjem midt i Oktober.
                     Men det ved jeg forresten ikke.</p>
-                <p>Det var da dejligt med Fru Kromeyers<note>... uoplyst ...</note> tohundrede.</p>
-                <p>Mange Hilsener til Fru Bauditz<note>... ??? ...</note> og l'adroite<note>Af Bangs
-                        også kaldet den Adrætte; uoplyst hvem der sigtes til ... ???</note> og
-                    Frøken Thune<note>Magdalene Thune (1872-1957), Bangs husholderske</note> og det
+            <p>Det var da dejligt med Fru Kromeyers<ref target="n3"/> tohundrede.</p>
+            <p>Mange Hilsener til Fru Bauditz<ref target="n4"/> og l'adroite<ref target="n5"/> og
+                    Frøken Thune<ref target="n6"/> og det
                     Hele.</p>
-                <p rend="right">Din Herman.</p>
-                <p>Med den lille Trup gaar det storartet. De første 5 Forestillinger har givet en
-                    Indtægt af c: 1350 Kroner. Men i Begyndelsen har Boesen<note>Fritz Boesen
-                        (1877-1931), skuespiller, der i sæsonen 1905/06 som den første fik bevilling
-                        til med sin egen trup at spille komedie i de danske stationsbyer; se Breve
-                        til Fritz, s. 225 og 228</note> vist ogsaa meget at betale ‒ en ny
-                    Dekoration og Forfatterhonorarer o:s:v: Her spiller Fjelstrup<note>Skuespilleren
-                        Peter Fjelstrup (1866-1920), hvis teaterselskab i 1906 var i Randers på vej
-                        fra en Norgesturné</note> med Albrecht Schmidt<note>Albrecht Schmidt
-                        (1870-1945), skuespiller, del af »De Otte«s turné i Norge 1905-06 og af
-                        Peter Fjelstrups trup, der turnerede i 1906</note> o:s:v: Men de holder sig
+            <p rend="right">Din Herman.</p>
+            <p>Med den lille Trup gaar det storartet. De første 5 Forestillinger har givet en
+                    Indtægt af c: 1350 Kroner. Men i Begyndelsen har Boesen<ref target="n7"/> vist ogsaa meget at betale ‒ en ny
+                    Dekoration og Forfatterhonorarer o:s:v: Her spiller Fjelstrup<ref target="n8"/> med Albrecht Schmidt<ref target="n9"/> o:s:v: Men de holder sig
                     da borte... Badeanstalten er saa god og en meget flink Massør.</p>
-
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

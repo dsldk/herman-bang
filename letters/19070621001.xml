@@ -1,104 +1,115 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19070621001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 526</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Josef Melnik</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-06-21">1907, 21. Juni [fredag] <note>Bang rejste onsdag
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070621001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 526</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+               <date when="1907-06-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-06-21">1907, 21. Juni [fredag] <note>Bang rejste onsdag
                         3.7.1907 fra Frederikshavn til Berlin og bosatte sig i lejligheden
                         Nürnbergerstrasse 36. Ossip Melnik havde i tiden forud forberedt alle slags
                         praktiske detaljer for Bang i Berlin</note>
-                </date>
-                <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Frederikshavn. Bangsbo.</p>
-                <p rend="right">21.6.1907.</p>
-                <p>Mein lieber Melnik.</p>
-                <p>Ich war einige Tage recht krank. Deswegen habe ich Ihnen nicht gedankt. Ich thue
+            </date>
+            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Frederikshavn. Bangsbo.</p>
+            <p rend="right">21.6.1907.</p>
+            <p>Mein lieber Melnik.</p>
+            <p>Ich war einige Tage recht krank. Deswegen habe ich Ihnen nicht gedankt. Ich thue
                     es jetzt: Mein bester Dank für jede Mühe. Also ziehe ich in die
-                    Düsseldorferstrasse ein<note>En adresse i Berlin, der åbenbart må være opgivet
-                        til fordel for Nürnbergerstrasse 36</note>. Ach, wie ich mich danach sehne,
+                    Düsseldorferstrasse ein<ref target="n1"/>. Ach, wie ich mich danach sehne,
                     endlich, endlich 'mal athmen zu dürfen. Schon Hamlet, der arme Dänenprinz, hat
-                    es gesagt, dass Dänemarck ein Gefängsniss ist<note>William Shakespeare: Hamlet
-                        ...akt, ...scene</note>. Noch schlimmer ist es ‒ und doch das Vaterland.
-                        <emph>Das</emph> ist ja eben der Fluch.</p>
-                <p>Na, also, am 4 Juli komme ich an.</p>
-                <p rend="right">Auf Wiedersehen.</p>
-                <p rend="right">Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+                    es gesagt, dass Dänemarck ein Gefängsniss ist<ref target="n2"/>. Noch schlimmer ist es ‒ und doch das Vaterland.
+                        <hi rend="italics">Das</hi> ist ja eben der Fluch.</p>
+            <p>Na, also, am 4 Juli komme ich an.</p>
+            <p rend="right">Auf Wiedersehen.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,112 +1,129 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Peter Nansen</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19020410001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, 2to</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Peter Nansen</persName> til <persName role="recipient">Herman Bang</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider. Fortrykt brevpapir: <q>Gyldendalske Boghandel.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19020410001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, 2to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Fortrykt brevpapir: <q>Gyldendalske Boghandel.
                                     Kjøbenhavn, den .</q>
-                                            </ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="Peter Nansen">
-                                        <ab>empty</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1902-04-10" notBefore="9999-99-99" notAfter="9999-99-99">1902. 10. april.  [torsdag]<note>Brev fra Peter Nansen til
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="peter-nansen">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1902-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1902-04-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1902. 10. april.  [torsdag]<note>Brev fra Peter Nansen til
                   Herman Bang, indgået 1957 i Det Kongelige Bibliotek som del af købet af
                   antikvarboghandler Otto Linds "Herman Bang Samling af 1912"</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">10/4 1902</p>
-                <p>Kære Bang!</p>
-                <p>Jeg er meget glad paa dine Vegne over, at Du har faaet en god Bog færdig<note>
-                        <title key="Sommerglæder">Sommerglæder</title>, der udkom 21.11.1902 hos Det nordiske
-                  Forlag, Ernst Bojesen</note>. Men paa mine egne og Forlagets<note>Dvs.
-                  Gyldendal</note> Vegne er jeg virkelig ikke glad.</p>
-                <p>De Penge, Du hidtil har hævet her og som Du fremtidig hæver, er, ifølge din egen, af
-                  <persName key="Heise, Oluf">Overretssagf. Heise</persName>
-                    <note>Oluf Heise (1862-1935), fra 1892 overretssagfører i København</note>
-               udfærdigede Forsikring at betragte som Forskud paa <emph>fremtidigt literært</emph>
-          Arbejde. Og jeg véd ikke, hvordan jeg skal komme afsted med at fortælle <persName key="Hegel, Jacob">Hegel</persName>
-                    <note>Jacob Hegel (1851-1918), fra 1887 eneejer af og direktør for forlaget Gyldendal</note>, at den første nye
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">10/4 1902</p>
+            <p>Kære Bang!</p>
+            <p>Jeg er meget glad paa dine Vegne over, at Du har faaet en god Bog færdig<ref target="n1"/>. Men paa mine egne og Forlagets<ref target="n2"/> Vegne er jeg virkelig ikke glad.</p>
+            <p>De Penge, Du hidtil har hævet her og som Du fremtidig hæver, er, ifølge din egen, af
+                  <persName key="Heise_Oluf">Overretssagf. Heise</persName>
+               <ref target="n3"/>
+               udfærdigede Forsikring at betragte som Forskud paa <hi rend="italics">fremtidigt literært</hi>
+          Arbejde. Og jeg véd ikke, hvordan jeg skal komme afsted med at fortælle <persName key="Hegel_Jacob">Hegel</persName>
+               <ref target="n4"/>, at den første nye
                Bog, Du saa faar færdig, sælger Du til et andet Forlag. Du kunde hos os have faaet
                akkurat samme Honorar – 2000 eller 2500 for 5 Aars Ret – , saa jeg forstaar ikke,
                hvorfor Du er gaaet udenom os. Du har selvfølgelig ikke tænkt over, at Du gjorde
                noget, som kunde se mindre hensynsfuldt ud og som ogsaa er i Strid med de
                Kvitteringer, Du allerede i Fjor Efteraar underskrev til os.</p>
-                <p>Men Sagen maa jo let kunne ordnes, – jeg vil nødig give Hegel den ubehagelige
-          Overraskelse. Du har jo den gode Undskyldning overfor <persName key="Bojesen, Ernst">Bojesen</persName>
-                    <note>Ernst Bojesen (1849-1925), forlægger, skaber af bl.a. årsskriftet Blæksprutten 1889, chef for Det Nordiske Forlag, der i 1903 indgik i Gyldendal</note>, at Du ikke havde erindret Ordlyden
-               af din Forskrivning til os. Og som sagt: <emph>Du</emph> kan faa akkurat de samme
+            <p>Men Sagen maa jo let kunne ordnes, – jeg vil nødig give Hegel den ubehagelige
+          Overraskelse. Du har jo den gode Undskyldning overfor <persName key="Bojesen_Ernst">Bojesen</persName>
+               <ref target="n5"/>, at Du ikke havde erindret Ordlyden
+               af din Forskrivning til os. Og som sagt: <hi rend="italics">Du</hi> kan faa akkurat de samme
                Betingelser her. Og Summen udbetalt ubeskaaret og kontant.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Peter Nansen</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Peter Nansen</p>
+         </div>
+      </body>
+   </text>
 </TEI>

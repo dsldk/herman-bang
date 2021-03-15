@@ -1,122 +1,139 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18861207001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 113</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXIV</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-12-07" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 7. december. ] Tirsdag<note>Dateringen i Vandreaar s.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861207001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 113</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXIV</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-12-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-12-07"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 7. december. ] Tirsdag<note>Dateringen i Vandreaar s.
                   247 følges</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Tirsdag.</p>
-                <p>Kære Peter.</p>
-                <p>Hermed en Artikel<note>"Snart" –, trykt i Politiken, fredag 10.12.1886. Heri anser
-                  Bang den tyske generalfeltmarskal <persName key="Moltke, Helmuth von"/>Helmuth von
-                  Moltkes aktuelle forudsigelse af en snarlig europæisk krig for at være
-                  ensbetydende med udslettelsen af Danmark som selvstændig stat</note>, som maa
-               optages <emph>strax</emph>. Som jeg <emph>fordrer</emph> optaget <emph>strax</emph>.
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Tirsdag.</p>
+            <p>Kære Peter.</p>
+            <p>Hermed en Artikel<ref target="n1"/>, som maa
+               optages <hi rend="italics">strax</hi>. Som jeg <hi rend="italics">fordrer</hi> optaget <hi rend="italics">strax</hi>.
                Jeg véd vel, at I, som er saa "skeptiske" vil finde et eller andet "stærkt" Ord – men
                jeg kan sige Jer, jeg, som lever i Europa, at det nu ikke gælder en Grundlov, som jeg
                finder miserabel, Frihed for et Folk, som endnu ikke var modnet til Frihed – hvis et
                Folk nogensinde bliver modnet dertil – men det gælder hver Time Livet for dette Folk.
-               Jeg – du <emph>maa</emph> tro det i dette Øjeblik – er maaske bedre og dybere
-               underrettet end det synes. Jeg véd maaske mere. Jeg beder <emph>nu</emph> ikke mere.
+               Jeg – du <hi rend="italics">maa</hi> tro det i dette Øjeblik – er maaske bedre og dybere
+               underrettet end det synes. Jeg véd maaske mere. Jeg beder <hi rend="italics">nu</hi> ikke mere.
                Jeg maa i denne Vinter før de frygteligste Afgørelser, Europa endnu har sét, staa i
                saadan Forbindelse med et dansk Blad, at jeg kan gøre min Pligt mod det Land, hvis
                Sprog jeg skriver, hvis Liv jeg har levet, og hvor min Slægt kan regnes op i
                Hundredaarene. Tre Dage har jeg været om denne lille Artikel. Der er intet overspændt
                deri – saalidt som i dette Brev.</p>
-                <p>Men du maa vise det til <persName key="Hørup, Viggo">Hørup</persName>
-                    <note>Viggo Hørup (1841-1902), politiker (Det Radikale Venstre), medstifter af dagbladet Politiken 1884, redaktør af samme</note> og sige ham, at jeg i alle Fald maa være <emph>saa</emph>
-               forbunden med Redaktionen, at der <emph>hver</emph> Dag sendes mig et Exemplar af
+            <p>Men du maa vise det til <persName key="Hørup_Viggo">Hørup</persName>
+               <ref target="n2"/> og sige ham, at jeg i alle Fald maa være <hi rend="italics">saa</hi>
+               forbunden med Redaktionen, at der <hi rend="italics">hver</hi> Dag sendes mig et Exemplar af
                Avisen under Korsbaand. Jeg opfatter ikke Øjeblikket saaledes, at det gælder om "en
                Skriven <app>
-                        <lem>løs</lem>
-                        <rdg>Ordet er rettet fra (eller måske til): Løs</rdg>
-                    </app>". Gud give, at I vidste, foran hvilke Tider vi staar. Himlen give, at
-                  <emph>det</emph>, som truer, endnu var til at hindre. Vi har misbrugt de store Ord
+                  <lem>løs</lem>
+                  <rdg>Ordet er rettet fra (eller måske til): Løs</rdg>
+               </app>". Gud give, at I vidste, foran hvilke Tider vi staar. Himlen give, at
+                  <hi rend="italics">det</hi>, som truer, endnu var til at hindre. Vi har misbrugt de store Ord
                saaledes, at vi nu ingen har, og at maaske endog dette Brev blot vil faa dig og de
                andre til at smile.</p>
-                <p>Den, Guden vil fordærve, slaar han med Vantro.</p>
-                <p>Altsaa, kære Peter: et helt alvorligt Brev fra dig, om I sér Tingene som jeg. Om jeg
-               – <emph>som noget ogsaa for Bladet vigtigt</emph> – hver Dag faar Bladet sendt.</p>
-                <p>Hvis vi er uenige om Stillingen, da kan jeg jo for at afbetale min Gæld skrive om
+            <p>Den, Guden vil fordærve, slaar han med Vantro.</p>
+            <p>Altsaa, kære Peter: et helt alvorligt Brev fra dig, om I sér Tingene som jeg. Om jeg
+               – <hi rend="italics">som noget ogsaa for Bladet vigtigt</hi> – hver Dag faar Bladet sendt.</p>
+            <p>Hvis vi er uenige om Stillingen, da kan jeg jo for at afbetale min Gæld skrive om
                nogle Mord; men Medarbejder er jeg ikke. Og Jer give de gode Magter, at I saá én Gang
-               ud over Valby Bakke<note>Bang håber med denne formulering på, at Politiken i sine artikler vil anlægge et ansvarligt perspektiv, som ikke er begrænset af et københavnsk verdensbillede</note> – Tiderne, hvori I er sat, og Pligterne, som de skænker Jer.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+               ud over Valby Bakke<ref target="n3"/> – Tiderne, hvori I er sat, og Pligterne, som de skænker Jer.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

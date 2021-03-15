@@ -1,104 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19041122002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4858, 4to; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Christian Houmark</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1904-11-22">[1904, 22. november] Tirsdag <note>Samme dato
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19041122002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1904-11-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1904-11-22">[1904, 22. november] Tirsdag <note>Samme dato
                         som Bangs telegram til Houmark vedrørende en artikel i den københavnske avis
                         Klokken 12. ‒ ‒ NB: artiklen i Klokken 12 skal findes ...!!</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Hotel Windsor. Wien VI.</p>
-                <p rend="right">Tirsdag.</p>
-                <p>Min kære Houmark.</p>
-                <p>Esbensen<note>... ??? ...</note> skriver paa et Brevkort(!) »Der har staaet en
-                    frygtelig Historie i »Kl. 12«<note>Den københavnske avis Klokken 12 udkom i
-                        årene 1902-1909</note>. Jeg <emph>haaber</emph>, det helt er Opspind«. Jeg
-                    fik det nu af Portier'en ‒ og intet mer. Nu <emph>bønfalder</emph> jeg Dem:
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hotel Windsor. Wien VI.</p>
+            <p rend="right">Tirsdag.</p>
+            <p>Min kære Houmark.</p>
+            <p>Esbensen<ref target="n1"/> skriver paa et Brevkort(!) »Der har staaet en
+                    frygtelig Historie i »Kl. 12«<ref target="n2"/>. Jeg <hi rend="italics">haaber</hi>, det helt er Opspind«. Jeg
+                    fik det nu af Portier'en ‒ og intet mer. Nu <hi rend="italics">bønfalder</hi> jeg Dem:
                     Skriv strax og sig mig alt og send mig Aviserne. Jeg har intet gjort. De, som
                     kender mit Liv, maa dog vide det. Men man kan jo grave Fortiden op. Hvad véd
-                    jeg? Og, hvis man nu rejser Skandale, <emph>hvor</emph> saa faa Pengene fra til
+                    jeg? Og, hvis man nu rejser Skandale, <hi rend="italics">hvor</hi> saa faa Pengene fra til
                     at fortsætte Rejsen? Jeg har dem jo ikke. Jeg maa jo skrive dem ind. Og hvis
                     Bladene ikke optager hvad jeg skriver ‒ hvad saa? Og jeg, som paa Rejsen kun er
                     blevet sygere.</p>
-                <p>Men fremfor alt ‒ svar mig. Sig mig alt og i Orden, saa jeg ved alt ‒ ‒</p>
-                <p rend="right">Herman.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Men fremfor alt ‒ svar mig. Sig mig alt og i Orden, saa jeg ved alt ‒ ‒</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

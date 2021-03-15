@@ -1,159 +1,178 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18870428001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 324</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXXI</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-04-28" notBefore="9999-99-99" notAfter="9999-99-99">1887. 28. april,  Torsdag<note>Dette er det 71. og sidste
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870428001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 324</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXXI</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-04-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1887-04-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1887. 28. april,  Torsdag<note>Dette er det 71. og sidste
                   brev, der er trykt i udgaven Vandreaar (1918)</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag Torsdag 28.4.87.</p>
-                <p>Kære Peter.</p>
-                <p>Tusind Tak for dit Brev. Ja – jeg tror, at dette er <emph>blevet</emph> det bedste.
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Torsdag 28.4.87.</p>
+            <p>Kære Peter.</p>
+            <p>Tusind Tak for dit Brev. Ja – jeg tror, at dette er <hi rend="italics">blevet</hi> det bedste.
                Du skal imidlertid, før vi to for bestandig afslutter dette Regnskab, vide det hele
                ɔ: ogsaa det Forsøg paa at udsætte dig for en Prøve, som jeg i sin Tid havde
                ønsket.</p>
-                <p>Det var ved Juletid omtrent, at et Brev fra dig ængstede mig meget. Det var forpint
+            <p>Det var ved Juletid omtrent, at et Brev fra dig ængstede mig meget. Det var forpint
                og uroligt, du. Jeg vidste ikke andet at gøre end – uden at give ham nogensomhelst
-               videre Oplysninger – at spørge <persName key="Brandes, Edvard">Edv: B:</persName>
-                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> om det ikke var muligt for "Politikens" Regning eller
+               videre Oplysninger – at spørge <persName key="Brandes_Edvard">Edv: B:</persName>
+               <ref target="n1"/> om det ikke var muligt for "Politikens" Regning eller
                med Understøttelse af en Forlægger at lade dig gøre en Rejse – – Du véd, som i
                Romanerne: "De nye Indtryk" ....</p>
-                <p>Meget kort efter hørte jeg saa, at din Rejse var i Sygepasser-Uniforme<app>
-                        <lem>[n.]</lem>
-                        <rdg>Lille teksttab pga. slitage i papirets kant</rdg>
-                    </app> Enfin – det var det hele.</p>
-                <p>Men jeg vilde dog, du skulde vide det.</p>
-                <p>Ellers har jeg hverken hørt eller skrevet i den Sag. Véd jo vel, at <persName key="Esmann, Gustav">Esmann</persName>
-                    <note>Vennen og forfatteren Gustav Esmann (1860-1904)</note> finder det "dumt". Men, min egen Don, Es finder saa
-               urimeligt let dumt alt <emph>det</emph> – vi andre foretager os. – –</p>
-                <p>Ja – ved saadanne Lejligheder, har vi alle, vi vantro, <emph>dog</emph> en Trang til
+            <p>Meget kort efter hørte jeg saa, at din Rejse var i Sygepasser-Uniforme<app>
+                  <lem>[n.]</lem>
+                  <rdg>Lille teksttab pga. slitage i papirets kant</rdg>
+               </app> Enfin – det var det hele.</p>
+            <p>Men jeg vilde dog, du skulde vide det.</p>
+            <p>Ellers har jeg hverken hørt eller skrevet i den Sag. Véd jo vel, at <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n2"/> finder det "dumt". Men, min egen Don, Es finder saa
+               urimeligt let dumt alt <hi rend="italics">det</hi> – vi andre foretager os. – –</p>
+            <p>Ja – ved saadanne Lejligheder, har vi alle, vi vantro, <hi rend="italics">dog</hi> en Trang til
                at sige et: Ja – Gud give sin Lykke .... Men naar vi saa ræsonnerer, siger vi:
-               "Lykken" er til syvende og sist vor <emph>Vilje</emph> og, min kære Don, fremfor alt
-                  <emph>den</emph> Vilje, som vil indrette sig med den <emph>mulige</emph> Lykke,
+               "Lykken" er til syvende og sist vor <hi rend="italics">Vilje</hi> og, min kære Don, fremfor alt
+                  <hi rend="italics">den</hi> Vilje, som vil indrette sig med den <hi rend="italics">mulige</hi> Lykke,
                som vil erhverve Lykken gennem at resignere i meget. Ti enhver Følelse maa tages hen
                i Resignation. Vi kan altid tænke os, drømme os noget endnu inderligere end det, vi
-               modtager – og <emph>giver</emph>. Men disse Drømme tør ikke <emph>forstyrre</emph>
+               modtager – og <hi rend="italics">giver</hi>. Men disse Drømme tør ikke <hi rend="italics">forstyrre</hi>
                det, vi har. De tør kun tjene til langsomt at hæve, langsomt at fuldkommengøre vor
                Følelse – opad mod vor Drøm.</p>
-                <p>Lyder det som en Prædiken? Aa – alt sligt er saa dumt, naar det <emph>skrives</emph>.
-               Og dog skriver jeg det, fordi jeg saa tidt længes efter at <emph>tale</emph> med dig.
+            <p>Lyder det som en Prædiken? Aa – alt sligt er saa dumt, naar det <hi rend="italics">skrives</hi>.
+               Og dog skriver jeg det, fordi jeg saa tidt længes efter at <hi rend="italics">tale</hi> med dig.
                Tænker du ogsaa en Gang imellem: Det var dog rart at tale med Bang – –?</p>
-                <p>– – Ellers er her intet at skrive. Seks lange Uger har Foraaret hindret mig i at
+            <p>– – Ellers er her intet at skrive. Seks lange Uger har Foraaret hindret mig i at
                skrive. Lang Tid, du, at sidde ørkesløs blandt fremmede.</p>
-                <p>Nu er det Sommer her. Ved Foden af "Vinbjergene" ligger <app>
-                        <lem>den</lem>
-                        <rdg>Ordets første bogstav rettet fra: B</rdg>
-                    </app> hele By i Sol og Blaalighed. Jeg passer mine Planter og mine to Fugle og ser
+            <p>Nu er det Sommer her. Ved Foden af "Vinbjergene" ligger <app>
+                  <lem>den</lem>
+                  <rdg>Ordets første bogstav rettet fra: B</rdg>
+               </app> hele By i Sol og Blaalighed. Jeg passer mine Planter og mine to Fugle og ser
                aldrig nogen. Det eneste Menneske, jeg kendte, saa og <app>
-                        <lem>levede</lem>
-                        <rdg>Ordet muligvis rettet fra: elskede</rdg>
-                    </app> med – <persName key="Eisfeld, Max">Eisfeld</persName>
-                    <note>Den tyske skuespiller Max Eisfeld (1863-1935), egl. Gustav Max Appel, som havde indledt sin karriere ved hofteatret i Meiningen; han boede 1886-87 sammen med Herman Bang i Wien og Prag</note> – er nu rejst for at tiltræde i Berlin, hvor han hører
+                  <lem>levede</lem>
+                  <rdg>Ordet muligvis rettet fra: elskede</rdg>
+               </app> med – <persName key="Eisfeld_Max">Eisfeld</persName>
+               <ref target="n3"/> – er nu rejst for at tiltræde i Berlin, hvor han hører
                hjemme. Og andre kender jeg ikke. Det er i denne Ensomhed, jeg skulde forsøge at
                anstille Kraftprøven med mit Talent ..... Helt, helt, helt ene – det kan du
                vanskeligt forstaa: slet ikke at tale, slet ingen at hilse, at kende. Kun at sé
                fremmede Huse, fremmede Ansigter og høre fremmede Ord.</p>
-                <p>Naa – undertiden snører sig det ganske Menneske ogsaa en Smule sammen – – – Du, om en
+            <p>Naa – undertiden snører sig det ganske Menneske ogsaa en Smule sammen – – – Du, om en
                stor Forsagelse i Livet var nok til at skabe et stort Værk, da skrev vel egenlig jeg
                det.</p>
-                <p>Tænk dig et Nu tilbage – disse otte Aar tilbage. Da du saa mig første Gang og saa nu
-               .... Det er gaaet ned ad Bakke, vilde de fleste sige .... og dog <emph>indad</emph>
+            <p>Tænk dig et Nu tilbage – disse otte Aar tilbage. Da du saa mig første Gang og saa nu
+               .... Det er gaaet ned ad Bakke, vilde de fleste sige .... og dog <hi rend="italics">indad</hi>
                er det vel gaaet opad.</p>
-                <p>Du skrev, om jeg vil være "Onkel" hos Jer? Ja, kære Peter, naar vi er blevet ældre.
-               Naar for Jer de Tvivl og den Uro, som er Begyndelsen til ethvert Ægteskab<note>Peter
-                  Nansen og Louise Brock giftede sig 23.8.1887</note>, er forbi. Naar "Processen"
+            <p>Du skrev, om jeg vil være "Onkel" hos Jer? Ja, kære Peter, naar vi er blevet ældre.
+               Naar for Jer de Tvivl og den Uro, som er Begyndelsen til ethvert Ægteskab<ref target="n4"/>, er forbi. Naar "Processen"
                er omme – den kemiske, som skal forbinde til ét – de to Stoffer – – – da vil jeg
                sidde i Kakkelovnskrog de Aar, min Hjerne endnu maatte holde. (Hos mig holder Løvet
                desværre længer end Hjernen.)</p>
-                <p>– – Jeg vil gerne bede dig om ét: sig Hr. "Redaktør" <persName key="Knudtzon, Fr. G.">Knutzon</persName>
-                    <note>Fr. G. Knudtzon (1843-1917), dr.phil., kunsthistoriker, fra 1875 indehaver af Fr. G. Knudtzons Bogtrykkeri, København</note>, at jeg
-                  <emph>beder</emph> ham undlade at optage sligt som "Chronique scandaleuse". Det
-               behøvedes kun, at en <persName key="Boldt, H.V.">Hr. Boldt</persName>
-                    <note>Cand.jur. H.V. Boldt (Heinrich Wilhelm Boldt, født 1836), korrespondent for Hamburger Nachrichten og fra 1886 assistent i Finansministeriets Statsbogholderikontor i København</note> sendte sligt til <placeName key="Wien">Wien</placeName> med Meddelelse om, at Bladets Meddeler fra <placeName key="Østrig">Østrig</placeName> var "den visse Bang" – og jeg var atter
+            <p>– – Jeg vil gerne bede dig om ét: sig Hr. "Redaktør" <persName key="Knudtzon_Fr._G.">Knutzon</persName>
+               <ref target="n5"/>, at jeg
+                  <hi rend="italics">beder</hi> ham undlade at optage sligt som "Chronique scandaleuse". Det
+               behøvedes kun, at en <persName key="Boldt_H.V.">Hr. Boldt</persName>
+               <ref target="n6"/> sendte sligt til <placeName key="Wien">Wien</placeName> med Meddelelse om, at Bladets Meddeler fra <placeName key="Østrig">Østrig</placeName> var "den visse Bang" – og jeg var atter
                udvist.</p>
-                <p>Og jeg <emph>kan</emph> ikke taale disse evige Angster og Revolutioner.</p>
-                <p>Lev nu vel.</p>
-                <p>Og tak <persName key="Brock, Louise">Frøken B.</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> for Billedet. Ved du, at jeg længe havde villet bede
+            <p>Og jeg <hi rend="italics">kan</hi> ikke taale disse evige Angster og Revolutioner.</p>
+            <p>Lev nu vel.</p>
+            <p>Og tak <persName key="Brock_Louise">Frøken B.</persName>
+               <ref target="n7"/> for Billedet. Ved du, at jeg længe havde villet bede
                derom? Og tænkte saa igen: Nej.</p>
-                <p>Jeg haabede, I skulde komme i Tanker om, at jeg vist gerne vilde have det. Nu staar
+            <p>Jeg haabede, I skulde komme i Tanker om, at jeg vist gerne vilde have det. Nu staar
                det paa mit Skrivebord.</p>
-                <p>Lev vel begge to.</p>
-                <p rend="right">Din Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Lev vel begge to.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

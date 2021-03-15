@@ -1,106 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19011225001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Georg Brandes' Arkiv. Blyantsnummer 2</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Georg Brandes</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1901-12-25">[1901, 25. December, onsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Juledag.</p>
-                <p>Kære Dr: Brandes.</p>
-                <p>En inderlig Tak for Deres dybt-séende Essay om mig<note>Det var utvivlsomt
-                        uventet, ikke mindst for Bang selv, at Georg Brandes skrev sin anerkendende
-                        artikel »Skikkelser og Tanker. Herman Bang«, trykt i Politiken, 23.12.1901.
-                        I let revideret form og forøget med et tillæg lod Brandes artiklen
-                        genoptrykke i sine Samlede Skrifter, bind 15, 1905, s.210- ???</note>.</p>
-                <p>Jeg har kun ét Ønske, at De aldrig maa opleve den Dag, hvor jeg viste mig
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19011225001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Georg Brandes' Arkiv. Blyantsnummer 2</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1901-12-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Georg Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1901-12-25">[1901, 25. December, onsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Juledag.</p>
+            <p>Kære Dr: Brandes.</p>
+            <p>En inderlig Tak for Deres dybt-séende Essay om mig<ref target="n1"/>.</p>
+            <p>Jeg har kun ét Ønske, at De aldrig maa opleve den Dag, hvor jeg viste mig
                     utaknemmelig imod <app>
-                        <lem>Dem</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app>. Men jeg tror heller ikke, at en saadan Dag kan komme.</p>
-                <p>Kun i <emph>en</emph> Ting har De en Smule Uret ‒ jeg har virkelig i de sidste
+                  <lem>Dem</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app>. Men jeg tror heller ikke, at en saadan Dag kan komme.</p>
+            <p>Kun i <hi rend="italics">en</hi> Ting har De en Smule Uret ‒ jeg har virkelig i de sidste
                     fem Aar været meget syg. Man ser Energien, jeg viser for at f:Eks: fuldende en
                     Bog, men Lidelserne, Energien koster mig, skjuler jeg i Virkeligheden saa godt,
                     jeg kan. Dette er den egenlige Sandhed.</p>
-                <p>Men endnu en Gang Tak for Glæden, De har beredt mig, for Omhuen, med hvilken De
+            <p>Men endnu en Gang Tak for Glæden, De har beredt mig, for Omhuen, med hvilken De
                     har læst mig, for den dybe Forstaaelse, hvori De har fundet Undskyldninger for
                     mine Fejl.</p>
-                <p rend="right">Deres ærbødigst hengivne</p>
-                <p rend="right">Herman Bang.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres ærbødigst hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

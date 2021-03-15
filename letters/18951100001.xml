@@ -1,114 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18951100001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 12</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1895-11-01" notBefore="9999-99-99" notAfter="9999-99-99">[1895.  november], Mandag<note>Må dreje sig om
-               forberedelserne til Bangs instruktion af <title key="Kameliadamen">Kameliadamen</title>, premiere på Casino
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18951100001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 12</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Sorø</placeName>
+               <date when="1895-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1895-11-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1895.  november], Mandag<note>Må dreje sig om
+               forberedelserne til Bangs instruktion af <!--start title reference--><title key="Kameliadamen">Kameliadamen</title>
+                  <!--end title reference-->, premiere på Casino
                   29.1.1896</note>
-                </date>
-                <placeName cert="high">Sorø</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Sorø. Mandag.</p>
-                <p>Kære Nansen.</p>
-                <p>Vil du gøre mig den store Tjeneste at sende mig Kameliadamen ɔ: "la dame aux
-               camélias" baade Romanen og Skuespillet<note>Både romanen og skuespilllet er skrevet
-                  af den franske dramatiker <persName key="Dumas den yngre, Alexandre">Alexandre Dumas den
-                  yngre</persName>, hhv. 1848 og 1852. Skuespillet opførtes i Peter Nansens danske
-                  oversættelse</note>. De kan faaes for 1 Kr. Stykket hos Ursin<note>Georg Chr.
-                  Ursin's Eftf., boghandel med speciale i udenlandsk litteratur, Købmagergade 8,
-                  København</note>. Og jeg <emph>maa</emph> nu læse og læse dem begge – for at
+            </date>
+            <placeName cert="high">Sorø</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sorø. Mandag.</p>
+            <p>Kære Nansen.</p>
+            <p>Vil du gøre mig den store Tjeneste at sende mig Kameliadamen ɔ: "la dame aux
+               camélias" baade Romanen og Skuespillet<ref target="n1"/>. De kan faaes for 1 Kr. Stykket hos Ursin<ref target="n2"/>. Og jeg <hi rend="italics">maa</hi> nu læse og læse dem begge – for at
                mætte mig med Stoffet.</p>
-                <p>Ved du, <persName key="Schrøder, Richard">Schrøder</persName>
-                    <note>Richard Schrøder (1840-1901), direktør 1894-1900 for Casino-teatret i København</note> sagde, at <persName key="Pio, William">Pio</persName>
-                    <note>William Pio (1850-1909), skuespiller ved Casino</note> skulde ikke spille med. Han lod sig ikke styre, sagde han.
-               Det er Mangel paa Menneskekundskab hos den forhenværende Rodemester<note>Før han blev
-                  direktør for Casino, havde Richard Schrøder været rodemester i København, dvs.
-                  skatteopkræver i et bestemt bykvarter (rode); ifølge Vejviseren 1887 var Schrøder
-                  rodemester i Synagogens og Trinitatis Kirkes roder, mens Vejviseren 1890 anfører
-                  ham som rodemester i Frelser Kirkes og Amagerbros roder</note>. Det er meget
+            <p>Ved du, <persName key="Schrøder_Richard">Schrøder</persName>
+               <ref target="n3"/> sagde, at <persName key="Pio_William">Pio</persName>
+               <ref target="n4"/> skulde ikke spille med. Han lod sig ikke styre, sagde han.
+               Det er Mangel paa Menneskekundskab hos den forhenværende Rodemester<ref target="n5"/>. Det er meget
                bedre at have ham med end at have ham gaaende "ond" i Kulisserne. Han kunde da være
-                  "Gaudens"<note>Saint-Gaudens, en person i Kameliadamen</note> og <persName key="Orlamundt, Hans">Orlamundt</persName>
-                    <note>Hans Orlamundt (1837-1912), skuespiller ved Dagmarteatret</note> Givray<note>Le comte de Giray, en person i
-                  Kameliadamen</note>. Kunde du ikke faa dette lavet eller privat saadan lade
+                  "Gaudens"<ref target="n6"/> og <persName key="Orlamundt_Hans">Orlamundt</persName>
+               <ref target="n7"/> Givray<ref target="n8"/>. Kunde du ikke faa dette lavet eller privat saadan lade
                spørge Pio.</p>
-                <p>Men først og fremmest send mig Bøgerne.</p>
-                <p>Hilsen til <persName key="Nansen, Betty">Frøken Müller</persName>
-                    <note>Betty Müller (1873-1943), fra 1896 Betty Nansen</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Men først og fremmest send mig Bøgerne.</p>
+            <p>Hilsen til <persName key="Nansen_Betty">Frøken Müller</persName>
+               <ref target="n9"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

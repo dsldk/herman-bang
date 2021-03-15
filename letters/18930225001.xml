@@ -1,108 +1,123 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18930225001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18930225001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
                                     17</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Jacob Hegel</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1893-02-25">[1893, 25. februar ?] Lørdag<note>I brevet taler
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Paris</placeName>
+               <date when="1893-02-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Jacob Hegel</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1893-02-25">[1893, 25. februar ?] Lørdag<note>I brevet taler
                         Bang om "8 ugers lidelser" og sigter formodentlig til januar og februar
                         1893; han ankom til Paris midt i februar 1893; derfor foreslås den følgende
                         lørdag som en mulig datering</note>
-                </date>
-                <placeName cert="high">Paris</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Hotel de Malte. Paris. Lørdag.</p>
-                <p>Hr. Jakob Hegel.</p>
-                <p>De kunde ikke modtage mig paa Deres Forlag, og det var kun naturligt. Men maaske
-                    vil De dog nu <emph>hjælpe</emph> den, som skrev »Ved Vejen«. Jeg har maattet
+            </date>
+            <placeName cert="high">Paris</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hotel de Malte. Paris. Lørdag.</p>
+            <p>Hr. Jakob Hegel.</p>
+            <p>De kunde ikke modtage mig paa Deres Forlag, og det var kun naturligt. Men maaske
+                    vil De dog nu <hi rend="italics">hjælpe</hi> den, som skrev »Ved Vejen«. Jeg har maattet
                     rejse bort hjemmefra paa en Tid, hvor jeg er uden Forlægger, Paul L. har jo
                     trukket sig tilbage. Jeg har maattet gaa her til Paris, hvor jeg er fremmed og
                     er kommen uden Penge. Jeg tror, at jeg endnu kan kæmpe og skabe Kunst. Men over
                     denne Krise maatte jeg.</p>
-                <p>De vil sige: Har De da ikke Venner? Men jeg vil svare: Der er Tider, hvor Venner
+            <p>De vil sige: Har De da ikke Venner? Men jeg vil svare: Der er Tider, hvor Venner
                     gør mindre end fremmede.</p>
-                <p>Selv den mindste Hjælp har Betydning for min Fremtid og min Eksistens. Jeg maa
+            <p>Selv den mindste Hjælp har Betydning for min Fremtid og min Eksistens. Jeg maa
                     bort til et lille Pensionat og jeg maa kunne arbejde i Fred. Otte Ugers Lidelser
                     har gjort mig syg og elendig. Svar mig idetmindste og bevar Tausheden. Vil De
                     hjælpe mig en Smule, da læg denne Hjælp i et rekommanderet Brev men strax, ti
-                        <emph>her</emph> koster hver Dag.</p>
-                <p>Og undskyld Deres ærbødige</p>
-                <p rend="right">Herman Bang.</p>
-                <p>Hotel de Malte</p>
-                <p>Rue de Richelieu</p>
-
-            </div>
-        </body>
-    </text>
+                        <hi rend="italics">her</hi> koster hver Dag.</p>
+            <p>Og undskyld Deres ærbødige</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Hotel de Malte</p>
+            <p>Rue de Richelieu</p>
+         </div>
+      </body>
+   </text>
 </TEI>

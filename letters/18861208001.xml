@@ -1,153 +1,151 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18861208001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 94</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-12-08" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 8. december,  onsdag]<note>Det er uklart, om det er et
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861208001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 94</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-12-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-12-08"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 8. december,  onsdag]<note>Det er uklart, om det er et
                   stort 8-tal, Bang har skrevet øverst på brevet efter "Prag" – og om dette i givet
                   fald skal angive en dag. Mit forslag til datering bygger på bogen Rosmersholms
                   offentliggørelse og Bangs artikel i Politiken, og imellem disse to datoer befinder
                   onsdag 8.12.1886 sig</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. 8.</p>
-                <p>Kære Peter.</p>
-                <p>Hermed en Artikel "Alliancer"<note>Trykt i Politiken, 14.12.1886. Bang giver en
-                  analyse af europæisk storpolitik og refererer en aktuel tale af den tyske
-                  feltmarskal <persName key="Moltke, Helmuth von">Moltke</persName>: det er ikke
-                  Frankrig, der ængster, men Frankrig-Rusland, og Moltke varsler en krig, for hvor
-                  længe vil Tyskland kunne bære den jernrustning, man har lagt ned over
-                  landet?</note>. Jeg indsér vel, at den er meget imod denne <persName key="Cavling, Henrik">"Henriks"</persName>
-                    <note>Henrik Cavling (1858-1933), fra 1886 journalist ved Politiken, redaktør samme sted fra 1905; bror til Frejlif Olsen. Se også brevet 18870306001</note> – Gud tage ham til sig, før
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 8.</p>
+            <p>Kære Peter.</p>
+            <p>Hermed en Artikel "Alliancer"<ref target="n1"/>. Jeg indsér vel, at den er meget imod denne <persName key="Cavling_Henrik">"Henriks"</persName>
+               <ref target="n2"/> – Gud tage ham til sig, før
                han ved sine "rare" og sikkert slugte, men sørgeligt ukloge Artikler har gjort
-                  <emph>for</emph> megen Fortræd! – Anskuelser. Men det faar ikke nytte. Jeg har
+                  <hi rend="italics">for</hi> megen Fortræd! – Anskuelser. Men det faar ikke nytte. Jeg har
                skrevet den om tre Gange – og endda rettet i dette.</p>
-                <p>Alle Blade her taler om "Danmarks Holdning". Jeg gyser ved Tanken om denne
+            <p>Alle Blade her taler om "Danmarks Holdning". Jeg gyser ved Tanken om denne
                Uforstand.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-                <p>
-                    <persName key="Borchsenius">Borchsenius</persName>' "Noach Ark"<note>Ikke
-                  identificeret</note> med mig i Halen paa <persName key="Mønster, Christine">Aage
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>
+               <persName key="Borchsenius">Borchsenius</persName>' "Noach Ark"<ref target="n3"/> med mig i Halen paa <persName key="Mønster_Christine">Aage
                   Vang</persName>
-                    <note>Pseudonym for Christine Mønster (1855-1913), forfatter og lærer, anvendt på hendes bøger <title key="Agnete">Agnete</title>, 1885, og <title key="I Brændingen">I
-                     Brændingen</title>, 1886</note> og <persName key="Møller, Carl">Carl
+               <ref target="n4"/> og <persName key="Møller_Carl">Carl
                   Møller</persName>
-                    <note>Humoristen Carl Møller (1844-98) udgav i 1886 bogen <title key="Mit Album">Mit Album</title>
-                    </note> – glædede mig saare<note>Bang sigter
-                  formentlig til en sammenhæng i Politiken, men det formentlige sted er ikke
-                  fundet</note>. Jeg betaler ret dyrt min "Stilling" i "Politiken". "<title key="Rosmersholm">Rosmersholm</title>"<note>Skuespil af den norske dramatiker <persName key="Ibsen, Henrik">Henrik Ibsen</persName>, udgivet 23.11.1886 og anmeldt med
-                  et meget udførligt handlingsreferat i Politiken, 25.11.1886 (<persName key="Brandes, Edvard">Edvard Brandes</persName>). Skuespillet blev uropført i
-                  foråret 1887 i Bergen, i København første gang 27.11.1887 på Det Kongelige
-                  Teater</note> skuffede mig dybt. Jeg forstaar ikke Helheden og tror det næppe
+               <ref target="n5"/> – glædede mig saare<ref target="n6"/>. Jeg betaler ret dyrt min "Stilling" i "Politiken". "<!--start title reference--><title key="Rosmersholm">Rosmersholm</title>
+               <!--end title reference-->"<ref target="n7"/> skuffede mig dybt. Jeg forstaar ikke Helheden og tror det næppe
                virksomt paa Teatret.</p>
-                <p>"Hvide Heste" og "hvide Uldsjaler" er for min bugkrybende Tanke for dybsindige Ting.
-                  <persName key="Aalberg, Ida">Ida Aalberg</persName> var – hvor "skruet" hun saa er
-               blevet den bedste Rebekka West<note>Den kvindelige hovedrolle i Rosmersholm. Ida Aalberg (1857-1915), finsk skuespillerinde</note> –
-               hun <emph>er</emph> saadan ... Ja – naar der blot ikke var saameget med "hvide" Heste
-               paa "Rosmersholm"<note>De hvide heste på Rosmersholm omtales i 2. akt samt i
-                  slutningen af både 3. og 4. akt som en metafor for blændværk og indbildninger.
-                  Ifølge regibemærkningen ved 1.akts begyndelse hækler Rebekka West på et stort
-                  hvidt uldsjal, som næsten er færdigt; ifølge regibemærkningen ved 4.akts
-                  begyndelse hænger dette nu over sofaryggen</note> – men, som sagt, dét gaar mig
+            <p>"Hvide Heste" og "hvide Uldsjaler" er for min bugkrybende Tanke for dybsindige Ting.
+                  <persName key="Aalberg_Ida">Ida Aalberg</persName> var – hvor "skruet" hun saa er
+               blevet den bedste Rebekka West<ref target="n8"/> –
+               hun <hi rend="italics">er</hi> saadan ... Ja – naar der blot ikke var saameget med "hvide" Heste
+               paa "Rosmersholm"<ref target="n9"/> – men, som sagt, dét gaar mig
                for højt.</p>
-                <p>Til "Tilskueren" har jeg skrevet en Artikel om: – – – <persName key="Jacobsen, J.P.">I.P.</persName>
-                    <note>Forfatteren J.P. Jacobsen (1847-85), hvis forbogstaver (for Jens Peter) traditionelt bliver udtalt, som Bang hér staver dem</note> – – <persName key="Esmann, Gustav">Esmann</persName>
-                    <note>Forfatteren og dramatikeren Gustav Esmann (1860-1904)</note> – dig – og <persName key="Stuckenberg, Viggo">Stuckenberg</persName>
-                    <note>Forfatteren Viggo Stuckenberg (1863-1905)</note>!<note>En sådan artikel af
-                  Bang blev ikke trykt i Tilskueren</note>
-                </p>
-                <p>Jeg holder Livet i Jer – Børn. Jeg har skrevet, at Es og du havde naaet
+            <p>Til "Tilskueren" har jeg skrevet en Artikel om: – – – <persName key="Jacobsen_J.P.">I.P.</persName>
+               <ref target="n10"/> – – <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n11"/> – dig – og <persName key="Stuckenberg_Viggo">Stuckenberg</persName>
+               <ref target="n12"/>!<ref target="n13"/>
+            </p>
+            <p>Jeg holder Livet i Jer – Børn. Jeg har skrevet, at Es og du havde naaet
                Mesterskabet.</p>
-                <p>Om <persName key="Skram, Erik">E. Skram</persName>
-                i siste Hefte af "Tilskueren"<note>Forfatteren Erik Skram (1847-1923) skrev en oversigtsartikel "Den nye
-                  Literatur", som i tidsskriftet Tilskueren blev trykt i tre dele: november-decemberhæftet 1886, s.
-                  944-955; januarhæftet 1887, s. 53-73 (hér om <title key="Stille Eksistenser">Stille Eksistenser</title>, s. 60-62); februarhæftet 1887, s. 145-160</note>
+            <p>Om <persName key="Skram_Erik">E. Skram</persName>
+                i siste Hefte af "Tilskueren"<ref target="n14"/>
                har mig med, da gør mig den Tjeneste at sende mig det Hefte?</p>
-                <p>Men du gør det saamæn ikke, Don – "<title key="Tizians Søn">Tizians
-                  Søn</title>"<note>Jf. brevet 18861122, hvor Bang ligeledes benytter titlen på en
-                  novelle af den franske forfatter <persName key="Musset, Alfred de">Alfred de Musset</persName> (1810-57) som en
-                  personkarakteristik. Det foreliggende sted kan læses som Bangs venskabelige
-                  hentydning til Peter Nansens dovenskab, med overtoner af at Nansen dyrkede kvinder
-                  og nydelse frem for at skrive litterær kunst</note>.</p>
-                <p>Til <persName key="Schou, Andreas">Schou</persName>
-                    <note>Andreas Schou (1829-89), boghandler og forlægger i København, indehaver af Andr. Schous Forlag indtil nytår 1889; forlægger for Herman Bang</note>. havde jeg skrevet et langt Brev, som synes at have gjort
+            <p>Men du gør det saamæn ikke, Don – "<!--start title reference--><title key="Tizians_Søn">Tizians
+                  Søn</title>
+               <!--end title reference-->"<ref target="n15"/>.</p>
+            <p>Til <persName key="Schou_Andreas">Schou</persName>
+               <ref target="n16"/>. havde jeg skrevet et langt Brev, som synes at have gjort
                stærkt Indtryk paa ham.</p>
-                <p>Men – <emph>hvad</emph> hjælper <emph>det</emph>?</p>
-                <p>Mit Humør er rædsomt.</p>
-            </div>
-        </body>
-    </text>
+            <p>Men – <hi rend="italics">hvad</hi> hjælper <hi rend="italics">det</hi>?</p>
+            <p>Mit Humør er rædsomt.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,116 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18890400002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 5159, 4to. Med blyant »2)« og »april 89«</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Margarethe Jørgensen, født
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890400002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5159, 4to. Med blyant »2)« og »april 89«</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Nakskov]</placeName>
+               <date when="1889-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Margarethe Jørgensen, født
                                         Dreyer</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1889-04-01">[1889, cirka april] Søndag <note>Indtil videre er
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1889-04-01">[1889, cirka april] Søndag <note>Indtil videre er
                         det uoplyst, hvem der er død i Peder Jørgensens familie (måske hans fars
                         anden hustru??). Blyantsdateringen »april 89« er formentlig skrevet af
                         ægteparret Jørgensens søn, arkitekt Carl Jørgensen (1888-1973), der i 1967
                         indleverede de breve, som Bang skrev til hans forældre, til Det Kgl.
                         Bibliotek</note>
-                </date>
-                <placeName cert="high">[Nakskov]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Jo, kære Ven, jeg ønsker af mange Grunde at komme paa Tirsdag, uagtet forskellige
-                    Omstændigheder gør mig det ret vanskeligt. Jeg <emph>maa</emph> ‒ for Pengenes
+            </date>
+            <placeName cert="high">[Nakskov]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Jo, kære Ven, jeg ønsker af mange Grunde at komme paa Tirsdag, uagtet forskellige
+                    Omstændigheder gør mig det ret vanskeligt. Jeg <hi rend="italics">maa</hi> ‒ for Pengenes
                     Skyld ‒ holde to Forelæsninger her, og den første <app>
-                        <lem>er</lem>
-                        <rdg>Ordet er rettet fra: var</rdg>
-                    </app> paa de omsendte Kort, der ej kan faaes tilbage, (der averteres ikke)
-                    ansat til paa <emph>Tirsdag</emph> ‒ <emph>just fordi</emph> jeg antog,
-                    Begravelsen maatte senest finde Sted <emph>Mandag</emph>.</p>
-                <p>Nu maa jeg altsaa tage bort fra Maribo allerede Kl. 1,40<note>Dvs. kl.
-                        13.40</note>. Og det er mig ‒ netop af Hensyn til Thorvald<note>Thorvald
-                        Jørgensen (1857-1916), cand.theol. og præst, bror til Peder Jørgensen og
-                        Bangs skolekammerat på Sorø Akademi</note> ‒ højst ubehageligt. Men andet
+                  <lem>er</lem>
+                  <rdg>Ordet er rettet fra: var</rdg>
+               </app> paa de omsendte Kort, der ej kan faaes tilbage, (der averteres ikke)
+                    ansat til paa <hi rend="italics">Tirsdag</hi> ‒ <hi rend="italics">just fordi</hi> jeg antog,
+                    Begravelsen maatte senest finde Sted <hi rend="italics">Mandag</hi>.</p>
+            <p>Nu maa jeg altsaa tage bort fra Maribo allerede Kl. 1,40<ref target="n1"/>. Og det er mig ‒ netop af Hensyn til Thorvald<ref target="n2"/> ‒ højst ubehageligt. Men andet
                     lader sig ikke gøre.</p>
-                <p>Tak for Deres Brev. Jeg vil betragte en »Udsoning« med Th. som en Forsoning med
+            <p>Tak for Deres Brev. Jeg vil betragte en »Udsoning« med Th. som en Forsoning med
                     meget i mit Liv, men mellem to Jernbanetog og lige efter en Ligtale lader det
                     sig ikke gøre. Saa sés vi altsaa venligt og skilles venligt til en næste
                     Gang.</p>
-                <p>Lev vel, til vi sés. Hils Deres Mand<note>Peder Jørgensen (1854-1919), arkitekt
-                        og branddirektør i Maribo, gift 18?? med Margarethe Jørgensen. Han var bror
-                        til Bangs skolekammerat Thorvald Jørgensen</note> og alle derhjemme.
+            <p>Lev vel, til vi sés. Hils Deres Mand<ref target="n3"/> og alle derhjemme.
                     »Foredraget« i Maribo vil jeg gerne have paa Lørdag.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">Herman Bang.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

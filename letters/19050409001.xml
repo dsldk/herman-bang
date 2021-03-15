@@ -1,122 +1,134 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19050409001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1905-04-09" notBefore="9999-99-99" notAfter="9999-99-99">[1905. 9. april], Søndag<note>Dateret i forhold til
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050409001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Helsinge, Nordsjælland</placeName>
+               <date when="1905-04-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-04-09"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1905. 9. april], Søndag<note>Dateret i forhold til
                   postkortet 1905. 10. april,  som er poststemplet: Helsinge, 10.4.1905 – som var en
                   mandag</note>
-                </date>
-                <placeName cert="high">Helsinge, Nordsjælland</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Helsinge. Søndag.</p>
-                <p>Min kære Ven.</p>
-                <p>Ja – i dette har De handlet klogt og ret. <title key="Agnete">Agnete</title>
-                    <note>Skuespil af den norske forfatter <persName key="Skram, Amalie">Amalie
-                     Skram</persName> (1846-1905), der siden 1884 var bosat i København; i Johannes Nielsens iscenesættelse havde det 6.5.1905
-                  premiere på Folketeatret med Betty Nansen i titelrollen (se Kvam, s. 63)</note>
+            </date>
+            <placeName cert="high">Helsinge, Nordsjælland</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Helsinge. Søndag.</p>
+            <p>Min kære Ven.</p>
+            <p>Ja – i dette har De handlet klogt og ret. <!--start title reference--><title key="Agnete">Agnete</title>
+               <!--end title reference-->
+               <ref target="n1"/>
                er vidunderlig. Det er Romanen om den Stærke, som er svag, og den Svage, som er den
                eneste Stærke – og som bliver ene. Og i alt dette er der ikke ét Ord, som De ikke kan
                lade strømme ud af Dem selv ... Det bør og det vil blive et Værks Indlemmelse i
                Menneskenes Bevidsthed og i dansk Sceneliteratur – – Hvilket Bæst spillede paa
-               "Dagmar" Agnete, siden Stykket kunde glemmes<note>21.3.-12.4.1893 opførtes Agnete i
-                  alt otte gange på Dagmarteatret; titelrollen blev spillet af <persName key="Rosenberg, Elisabeth">Elisabeth Horneman</persName> (1867-1930; i 1895 gift med forfatteren 
-                     <persName key="Rosenberg, P.A.">P.A. Rosenberg</persName>), jf. anmeldelsen i
-                  Politiken, 22.3.1893. Herman Bang befandt sig på daværende tidspunkt i
-                  Paris</note>? Naar det Menneske en Gang er skabt paa Scenen, vil Stykket forblive
-               – – – Vigtig er <emph>Doris</emph>. Og sig til <persName key="Nielsen, Johannes">Johannes</persName>
-                    <note>Stykkets iscenesætter, skuespilleren Johannes Nielsen (1870-1935)</note>, at vanskelig er sidste Akts Scene mellem Sara og
-                  Wulf<note>Doris, Sara og Wulf er personer i skuespillet Agnete</note>.
-                  <emph>Ganske</emph> let komisk skal det virke – med den bitre Komik, der lader os
+               "Dagmar" Agnete, siden Stykket kunde glemmes<ref target="n2"/>? Naar det Menneske en Gang er skabt paa Scenen, vil Stykket forblive
+               – – – Vigtig er <hi rend="italics">Doris</hi>. Og sig til <persName key="Nielsen_Johannes">Johannes</persName>
+               <ref target="n3"/>, at vanskelig er sidste Akts Scene mellem Sara og
+                  Wulf<ref target="n4"/>.
+                  <hi rend="italics">Ganske</hi> let komisk skal det virke – med den bitre Komik, der lader os
                sidde med Graaden lige nedenfor Struben ... Vanskelig er ogsaa Boghandlerkommis'en –
-               en begærlig, ung Knægt, som fremfor alt skal <emph>sé</emph> paa hende, som han vil
+               en begærlig, ung Knægt, som fremfor alt skal <hi rend="italics">sé</hi> paa hende, som han vil
                ha'e i Seng. Tilgiv denne Oprigtighed. Men det er Rollen. Naa, jeg troer, at
-                  <persName key="Tscherning, Leo">Leo</persName>
-                    <note>Rollen som kommis Fenger blev spillet af Leo Tscherning (1880-1914)</note> kender den
-               snare Vej<note>Dvs. den hurtige vej</note> til Sengene ....</p>
-                <p>Det bliver værre og værre med min lille <persName key="Holst, Bertha">Nièce</persName>
-                    <note>Bertha Holst (1881-1929), lærerinde, forfatter (debut 1908) af børnebøger og især ungpigebøger; adoptivdatter af A.P. og Nini Holst og dermed Herman Bangs nièce. Hun var indlagt i 1905 på tuberkulosesanatorium i Silkeborg</note>. Der er vist intet Haab. Det er en
-               Sorg, som har ramt som et Lyn .. Og jeg kan ikke "toe mine Hænder"<note>Dvs. vaske
-                  mine hænder. I ældre bibeloversættelser hedder det, at Pilatus toede sine hænder
-                  (Matth. 27,24). At vaske sine hænder er ud fra bibelstedet en talemåde for at
-                  fralægge sig et ansvar</note>. Jeg burde forlængst være skredet ind mod <persName key="Holst, Nini">Fru Holsts</persName>
-                    <note>Nini Holst (1853-1922), Herman Bangs søster, enke siden 1899, adoptivmor til Bertha Holst</note> frygtelige og selviske Ligegyldighed. Men det har været saa
+                  <persName key="Tscherning_Leo">Leo</persName>
+               <ref target="n5"/> kender den
+               snare Vej<ref target="n6"/> til Sengene ....</p>
+            <p>Det bliver værre og værre med min lille <persName key="Holst_Bertha">Nièce</persName>
+               <ref target="n7"/>. Der er vist intet Haab. Det er en
+               Sorg, som har ramt som et Lyn .. Og jeg kan ikke "toe mine Hænder"<ref target="n8"/>. Jeg burde forlængst være skredet ind mod <persName key="Holst_Nini">Fru Holsts</persName>
+               <ref target="n9"/> frygtelige og selviske Ligegyldighed. Men det har været saa
                vanskeligt. Jeg tror ikke Livet skaaner mig for nogen Art af Smerte – –</p>
-                <p>Hils <persName key="Nansen, Peter">Nansen</persName>
-                    <note>Peter Nansen</note>.</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Hils <persName key="Nansen_Peter">Nansen</persName>
+               <ref target="n10"/>.</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

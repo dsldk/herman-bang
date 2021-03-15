@@ -1,120 +1,132 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19090716001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 213</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 6 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1909-07-16" notBefore="9999-99-99" notAfter="9999-99-99">[1909. 16. juli], Fredag<note>Vedr. datering før 23.7.1909,
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19090716001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 213</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 6 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1909-07-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1909-07-16"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1909. 16. juli], Fredag<note>Vedr. datering før 23.7.1909,
                   se Mette Borg, s. 28, note 103 (et brev fra Bang til Josef Melnik)</note>
-                </date>
-                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Marienlyst. Fredag.</p>
-                <p>Min kære Ven.</p>
-                <p>Allerede Mandag Aften maa jeg flytte til Byen paa Grund af denne
-                     "Kattekonge"<note>
-                        <title key="Prins Incognito (Kattekongen)">Prins Incognito
-                     (Kattekongen)</title>, en operette af cand.jur. <persName key="Ricard, Frederik">Frederik
-                     Ricard</persName> (1870-1931) og journalist <persName key="Breidahl, Axel">Axel Breidahl</persName> (1876-1948),
-                  med musik af <persName key="Nodermann, Preben">Preben Nodermann</persName> (1867-1930),
-                  premiere 14.8.1909 på Casino i Bangs sceneinstruktion</note> (aa, om du kendte
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. Fredag.</p>
+            <p>Min kære Ven.</p>
+            <p>Allerede Mandag Aften maa jeg flytte til Byen paa Grund af denne
+                     "Kattekonge"<ref target="n1"/> (aa, om du kendte
                denne "Katte-Majestæt") – hvad der i <app>
-                        <lem>og</lem>
-                        <rdg>Ordet er rettet fra: for</rdg>
-                    </app> for sig kan være meget godt, da jeg slet ikke har kunnet arbejde her, hvad
+                  <lem>og</lem>
+                  <rdg>Ordet er rettet fra: for</rdg>
+               </app> for sig kan være meget godt, da jeg slet ikke har kunnet arbejde her, hvad
                enten nu Luften er for stærk eller min Uro ved Hjemkomsten har været for stærk. Og
-               desuden er her – skønt "Politikens" seks Værelser<note>Den eneste omtale, der er
-                  fundet i Politiken, er en notits 1.7.1909, som ikke meddeler noget om antallet af
-                  Bangs værelser: "Hr. Herman Bang vendte igaar tilbage til Danmark efter i to Aar
-                  at have haft sin Bopæl i Berlin. Hr. Bang, der fra Teatersæsonens Begyndelse har
-                  sit Hjem her i Byen, tog Ophold paa Marienlyst."</note> er den gamle Taarnstue,
+               desuden er her – skønt "Politikens" seks Værelser<ref target="n2"/> er den gamle Taarnstue,
                som du kender fra min Ungdom – altfor dyrt. Jeg maa altsaa tage ind Mandag Aften men
                kan s'gu ikke, naar Forlaget ikke sender mig den sidste Skilling af halvandethundrede
                Kroner. Ti Flytning, Rejse, Læger i Berlin slugte de Utrolige. Og lide Skibbrud i
                selve Havnen vilde være næsten latterligt – –</p>
-                <p>Paa Tirsdag kommer jeg op til dig for at gøre, hvad du mener, for at redde
-                  Legatet<note>Det Anckerske Legat</note> – –</p>
-                <p>"<title key="Masker og Mennesker">Masker og Mennesker</title>" ønsker jeg meget snart
+            <p>Paa Tirsdag kommer jeg op til dig for at gøre, hvad du mener, for at redde
+                  Legatet<ref target="n3"/> – –</p>
+            <p>"<!--start title reference--><title key="Masker_og_Mennesker">Masker og Mennesker</title>
+               <!--end title reference-->" ønsker jeg meget snart
                maatte blive sat, saa at det – baade i <placeName key="Berlin">Berlin</placeName> og
                her – kan udkomme i Septembers Slutning. Kan det ikke ske? – – Jeg behøvede ikke <app>
-                        <lem>at</lem>
-                        <rdg>Ordet er skrevet to gange</rdg>
-                    </app> bede om denne sidste Skilling, hvis "Kasino" havde Penge. Men man har slet
+                  <lem>at</lem>
+                  <rdg>Ordet er skrevet to gange</rdg>
+               </app> bede om denne sidste Skilling, hvis "Kasino" havde Penge. Men man har slet
                ingen. Og jeg faar først Gage 1 August.</p>
-                <p>Paa Gensyn.</p>
-                <p>Jeg er blevet saa blind, at jeg ikke kan læse mine egne Bogstaver.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Paa Gensyn.</p>
+            <p>Jeg er blevet saa blind, at jeg ikke kan læse mine egne Bogstaver.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

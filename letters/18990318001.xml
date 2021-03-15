@@ -1,113 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18990318001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Dateringen »18/3 99« er tilføjet med blyant, formodentlig af
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990318001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »18/3 99« er tilføjet med blyant, formodentlig af
                                         Aage Hirschsprung</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1899-03-18">[1899, 18. marts] Lørdag <note>Datering: den
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1899-03-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-03-18">[1899, 18. marts] Lørdag <note>Datering: den
                         angivne ugedag i kombination med brevets sekundært anførte datering; denne
                         er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lørdag.</p>
-                <p>Ja, kære H. jeg <emph>maa</emph> jo i Ugen, der kommer, gøre Novellen færdig. Med
-                        Steen<note>Bang måtte tilsyneladende opgive sin plan om at diktere de
-                        manglende dele af »En Fortælling om Elskov« til Aage Hirschsprungs
-                        nedskrift; novellen er trykt i <emph>Liv og Død</emph>, der udkom 13.5.1899
-                        på Det Schubotheske Forlag. Det måtte da blive Bangs faste sekretær
-                        Christian Frederik Steens opgave. Se også Bangs breve til Hirschsprung: 4.3.
-                        og 15.3.1899</note>. Den er saavist færdig i mit Hoved og den kunde blive
-                    det paa <emph>to</emph> Aftner med <emph>Dem</emph>. Nu maa De gøre mig tre
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Ja, kære H. jeg <hi rend="italics">maa</hi> jo i Ugen, der kommer, gøre Novellen færdig. Med
+                        Steen<ref target="n1"/>. Den er saavist færdig i mit Hoved og den kunde blive
+                    det paa <hi rend="italics">to</hi> Aftner med <hi rend="italics">Dem</hi>. Nu maa De gøre mig tre
                     Tjenester:</p>
-                <p>1. Da jeg <emph>iaften</emph> skal læse »Tine«<note>Bangs roman var udkommet
-                        24.10.1889 på forlaget I.H. Schubothe</note> i »Samfundet«<note>... ???
-                        ...</note>, imorgen i »Politiken« at lade indrykke det lovede Avertissement
-                    om Mesterværket<note>En forlagsannonce for romanen <emph>Tine</emph> findes i
-                        Politiken ... [skal eftersøges..!]</note>.</p>
-                <p>2. At give Bud'et »Under Aaget«<note>Novellesamling af Bang; udkom 15.5.1890 på
-                        forlaget I.H. Schubothe</note>, da jeg imorgen skal oplæse
-                        »Etvøs«<note>Bangs novelle »En dejlig Dag«, der er trykt i hans
-                        novellesamling <emph>Under Aaget</emph>, 1890</note> i Nykøbing F.<note>...
-                        nærmere detaljer om Bangs oplæsning 19.3.1899: søg i aviser ...!</note></p>
-                <p>3. At give Budet 25 Kr., som jeg visselig ikke har fortjent. Men jeg skal bruge
+            <p>1. Da jeg <hi rend="italics">iaften</hi> skal læse »Tine«<ref target="n2"/> i »Samfundet«<ref target="n3"/>, imorgen i »Politiken« at lade indrykke det lovede Avertissement
+                    om Mesterværket<ref target="n4"/>.</p>
+            <p>2. At give Bud'et »Under Aaget«<ref target="n5"/>, da jeg imorgen skal oplæse
+                        »Etvøs«<ref target="n6"/> i Nykøbing F.<ref target="n7"/>
+            </p>
+            <p>3. At give Budet 25 Kr., som jeg visselig ikke har fortjent. Men jeg skal bruge
                     dem til Rejsepenge imorgen tidlig.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

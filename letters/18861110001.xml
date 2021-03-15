@@ -1,133 +1,135 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18861110001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Rigsarkivet</repository>
-                                <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861110001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
                                     blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Niels Neergaard</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider; fortrykt brevpapir med sammenskrevet
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; fortrykt brevpapir med sammenskrevet
                                                 monogram HB under en femtakket krone</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>På tværs af brevets skriveretning har Bang selv øverst på
-                                        brevets første side skrevet: <emph>Pas paa Stumperne.</emph>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På tværs af brevets skriveretning har Bang selv øverst på
+                                        brevets første side skrevet: <hi rend="italics">Pas paa Stumperne.</hi>
                                         og understreget alle tre ord</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-11-10">[1886, cirka 10. november, onsdag] <note>Brevet
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-11-10">[1886, cirka 10. november, onsdag] <note>Brevet
                         skal dateres i forhold til Bangs brev til Niels Neergaard, dateret Onsdag
                         [ca. 6.10.1886] og senere end den omtalte boganmeldelse i »Dagbladet«,
                         5.11.1886. ‒ Niels Neergaard (1854-1936) var 1884-1892 redaktør af
-                        tidsskriftet <emph>Tilskueren</emph></note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag.</p>
-                <p>Kære Neergaard.</p>
-                <p>Tak for Aftrykkene og Pengene. Jeg haaber da, at De nu er restitueret og vel
+                        tidsskriftet <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Kære Neergaard.</p>
+            <p>Tak for Aftrykkene og Pengene. Jeg haaber da, at De nu er restitueret og vel
                     igen.</p>
-                <p>Hermed Artiklen om Stuckenbergs Bog<note>Se Bangs brev til Neergaard, Mandag [ca.
-                        27.9.1886], hvori han beder om at måtte anmelde debutbøger af unge danske
-                        forfattere. ‒ Viggo Stuckenberg (1863-1905) debuterede i oktober 1886 med
-                        bogen <emph>Digte</emph> på P.G. Philipsens Forlag</note>: Den er bleven til
+            <p>Hermed Artiklen om Stuckenbergs Bog<ref target="n1"/>: Den er bleven til
                     »Ungdom« ‒ en hel Artikel. Forhaabenlig vil denne ‒ for første Gang i saa lange
                     Tider ‒ aktuelle Artikel være gavnlig (for Forlæggeren i alle Fald) og udtrykke
-                    ogsaa noget af <emph>Deres</emph> Tanker. Ialfald tror jeg det<note>Efter en af
-                        redaktør Neergaard ønsket omarbejdelse ser det ud til, at denne artikel af
-                        Bang blev forkastet af Neergaard, se Bangs brev til Emil Jonas, Søndag
-                        [28.11.1886], og den ses heller ikke at være blevet trykt andetsteds i
-                        1886</note>.</p>
-                <p>Om der skrives om min Bog ↄ: om »Ved Veien« i »Tilskueren«, vilde det glæde mig
-                    at sé et Aftryk<note>Erik Skram anmeldte Bangs novellesamling <emph>Stille
-                            Eksistenser</emph> i <emph>Tilskueren</emph>s januarhæfte 1887</note>.
+                    ogsaa noget af <hi rend="italics">Deres</hi> Tanker. Ialfald tror jeg det<ref target="n2"/>.</p>
+            <p>Om der skrives om min Bog ↄ: om »Ved Veien« i »Tilskueren«, vilde det glæde mig
+                    at sé et Aftryk<ref target="n3"/>.
                     Høiligt glad <app>
-                        <lem>jeg</lem>
-                        <rdg>Bang har glemt at skrive verbet: var</rdg>
-                    </app> ved at sé i »Dagbladet«, at jeg maaske en Gang kan udvikle mig til at
-                    blive »en læselig Forfatter«<note>Anmeldelsen af <emph>Stille Eksistenser</emph>
-                        i den danske avis <emph>Dagbladet</emph>, 5.11.1886, er ikke signeret med
-                        navn</note>.</p>
-                <p>Vil De sende mig efter <emph>Modtagelsen heraf Honoraret i Form af 60
-                        Kroner</emph> (Artiklen er saa stor som »Meiningerne«<note>Dvs. Bangs
-                        artikel »Sceniske Reform-Forsøg«, trykt i <emph>Tilskueren</emph>s
-                        oktoberhæfte 1886</note>), da vil jeg meget takke Dem. Jeg maa altid skrive
+                  <lem>jeg</lem>
+                  <rdg>Bang har glemt at skrive verbet: var</rdg>
+               </app> ved at sé i »Dagbladet«, at jeg maaske en Gang kan udvikle mig til at
+                    blive »en læselig Forfatter«<ref target="n4"/>.</p>
+            <p>Vil De sende mig efter <hi rend="italics">Modtagelsen heraf Honoraret i Form af 60
+                        Kroner</hi> (Artiklen er saa stor som »Meiningerne«<ref target="n5"/>), da vil jeg meget takke Dem. Jeg maa altid skrive
                     den ene Dag for at leve den næste.</p>
-                <p>Lev vel. Og hils, om nogen <app>
-                        <lem>på</lem>
-                        <rdg>Bang har tilsyneladende glemt at skrive ordets andet a, før han
+            <p>Lev vel. Og hils, om nogen <app>
+                  <lem>på</lem>
+                  <rdg>Bang har tilsyneladende glemt at skrive ordets andet a, før han
                             allerede havde skrevet sætningens næste ord; derfor har han rettet a til
                             å</rdg>
-                    </app> Deres Vei skulde bryde sig om en Hilsen fra</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+               </app> Deres Vei skulde bryde sig om en Hilsen fra</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,112 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18960900001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 91</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1896-09-01" notBefore="9999-99-99" notAfter="9999-99-99">[1896.  september. ] Lørdag<note>Kan næppe dateres mere præcist
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18960900001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 91</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Skørping, syd for Aalborg</placeName>
+               <date when="1896-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1896-09-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1896.  september. ] Lørdag<note>Kan næppe dateres mere præcist
                   indenfor Herman Bangs ophold i Skørping fra juni til oktober 1896</note>
-                </date>
-                <placeName cert="high">Skørping, syd for Aalborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Skørping. Lørdag.</p>
-                <p>Kære Ven.</p>
-                <p>Idag har jeg faaet "Karls" Bog<note>Formodentlig <persName key="Gjellerup, Karl">Karl
-                     Gjellerup</persName>s (1857-1919) roman Møllen, Gyldendal 1896</note> ..... Vil du lade
-               Bogladen sende mig ogsaa "<title key="Cordts Søn">Cordts
-                  Søn</title>"<note>Anonym fortsættelse af <title key="Den gamle Stue">Den gamle
-                     Stue</title> (Gyldendal 1895); begge disse bøger er skrevet af forfatteren <persName key="Ewald, Carl">Carl Ewald</persName> (1856-1908). – Hverken <title key="Møllen">Møllen</title> eller Cordts Søn ses at være blevet anmeldt af Bang</note>,
+            </date>
+            <placeName cert="high">Skørping, syd for Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Skørping. Lørdag.</p>
+            <p>Kære Ven.</p>
+            <p>Idag har jeg faaet "Karls" Bog<ref target="n1"/> ..... Vil du lade
+               Bogladen sende mig ogsaa "<!--start title reference--><title key="Cordts_Søn">Cordts
+                  Søn</title>
+               <!--end title reference-->"<ref target="n2"/>,
                saa skal jeg skrive om dem begge – – nu, de sidste Dage, jeg er her. For det bliver
                vel endelig snart de sidste Dage. Jeg er nu paa det sidste Vers og selv om Verset er
-                  långt<note>Måske en allusion til et uoplyst svensk citat</note>, kan det vel ikke
+                  långt<ref target="n3"/>, kan det vel ikke
                være Evigheden.</p>
-                <p>Schubothe vil gerne have Bogen<note>Bangs roman <title key="Ludvigsbakke">Ludvigsbakke</title>
-                    </note> ud til Jul. Jeg vilde meget foretrække Januar.
+            <p>Schubothe vil gerne have Bogen<ref target="n4"/> ud til Jul. Jeg vilde meget foretrække Januar.
                Men jeg ved godt, at det kun er Fejghed – Fejghed ogsaa, fordi der i den første
                Tredjedel er uendelig meget at rette og gøre bedre. Hvad jeg har skrevet her i
                Sommer, kan jeg ikke gøre bedre ... Det glider jævnt som det selvfølgelige <app>
-                        <lem>glider</lem>
-                        <rdg>Ordet er tilføjet over linjen; også det efterfølgende ord: og synes at være
+                  <lem>glider</lem>
+                  <rdg>Ordet er tilføjet over linjen; også det efterfølgende ord: og synes at være
                      blevet tilføjet</rdg>
-                    </app> og er saa humoristisk og saa bittert som mine Tanker om Livet er.</p>
-                <p>Men – aa, jeg skal endnu pines maaske et Par Uger, før Enden er der.</p>
-                <p>Mange mange Hilsener til <persName key="Heiberg, Johanne Luise">
-                        <persName key="Nansen, Betty">vor Tids Johanne Louise Heiberg</persName>
-                    </persName>
-                    <note>Dvs. Betty Nansen. Den legendariske danske skuespillerinde Johanne Luise Heiberg levede 1812-90</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+               </app> og er saa humoristisk og saa bittert som mine Tanker om Livet er.</p>
+            <p>Men – aa, jeg skal endnu pines maaske et Par Uger, før Enden er der.</p>
+            <p>Mange mange Hilsener til <persName key="Heiberg_Johanne_Luise">
+                  vor Tids Johanne Louise Heiberg
+               </persName>
+               <ref target="n5"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

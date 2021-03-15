@@ -1,153 +1,164 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870130001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 403</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 6 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-01-30">1887, 30. Januar [søndag]<note>empty</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right"><emph>Weinberge</emph> Balbingasse 192.</p>
-                <p rend="right"><emph>Prag</emph>. 30.1.87.</p>
-                <p>Kære Langhoff.</p>
-                <p>Tak for Brevet, som jeg fik efter at det havde været paa Turné: i Wittenberg;
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870130001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 403</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 6 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-01-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-01-30">1887, 30. Januar [søndag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <hi rend="italics">Weinberge</hi> Balbingasse 192.</p>
+            <p rend="right">
+               <hi rend="italics">Prag</hi>. 30.1.87.</p>
+            <p>Kære Langhoff.</p>
+            <p>Tak for Brevet, som jeg fik efter at det havde været paa Turné: i Wittenberg;
                     Wittenberge; Pressburg. Da disse Stæder just ikke er Nabobyer, havde Rejsen
-                    varet noget svært længe. Jeg beder Dem derfor med en <emph>tydelig</emph> Haand
+                    varet noget svært længe. Jeg beder Dem derfor med en <hi rend="italics">tydelig</hi> Haand
                     skrive Adressen paa dette Svar.</p>
-                <p>Jeg indsér saa uhyre vel, at »Morituri« er stor<note>Den polske forfatter Józef
-                        Kraszewskis roman Morituri, 1874-1875; sammenhængen fremgår af Bangs brev
-                        til Paul Langhoff, Lørdag [ca. 15.1.1887]</note>. Og »Resurrecturi« er
+            <p>Jeg indsér saa uhyre vel, at »Morituri« er stor<ref target="n1"/>. Og »Resurrecturi« er
                     næsten ligesaa stor. Og andre Kraszewskier er der ikke saa stort Haab om, at
-                        »Taskerne«<note>Læsetaskerne, dvs. læsekredse rundt om i Danmark, hvor
-                        medlemmerne regelmæssigt modtager lejebøger</note> ‒ og de er vist
+                        »Taskerne«<ref target="n2"/> ‒ og de er vist
                     nuomstunder den »store« Hælvt af Bogkøbende ‒ vil forsluge sig paa. Jeg har søgt
                     og søgt om en Bog ‒ og Gud véd med hvilken Iver.</p>
-                <p>Ti man har indjaget mig en <app>
-                        <lem>uhyre</lem>
-                        <rdg>Foran ordet har Bang begyndt på det samme ord, men skrevet en fejl og
+            <p>Ti man har indjaget mig en <app>
+                  <lem>uhyre</lem>
+                  <rdg>Foran ordet har Bang begyndt på det samme ord, men skrevet en fejl og
                             derpå overstreget tre bogstaver</rdg>
-                    </app> Skræk for min Roman. Forleden fik jeg første Kapitel herned ‒ og det
-                        <emph>er</emph> for slet. Hvor græsseligt, Paul, at sige sig det. Men hvor
+               </app> Skræk for min Roman. Forleden fik jeg første Kapitel herned ‒ og det
+                        <hi rend="italics">er</hi> for slet. Hvor græsseligt, Paul, at sige sig det. Men hvor
                     fattigt, hvor evneforladt saa det ikke ud..... Saa har jeg søgt og søgt om et
                     Emne, hvori jeg igen kunde give Interieurs og »vie intime« og har Rammen: et
                     Pensionat og Personerne ‒ men ikke Klarhed over »Dramaet« deri. Og dog var det
                     sikkert nødvendigt i et saadant Stof at befæste mig i Naturligheden, i Ægtheden
-                    ‒ ti i dette første Kapitel, det er det forfærdelige: jeg <emph>er</emph> endnu
+                    ‒ ti i dette første Kapitel, det er det forfærdelige: jeg <hi rend="italics">er</hi> endnu
                     ikke Herre over dette Stof, og Atmosfæren (dette store Tegn til at man »magter«
                     sit Emne) er der ikke. Det er et lufttomt Rum, det er Billedet i en Kukkasse ‒
                     dette første Kapitels København. Og Planen, den, som er saa stor og saa
                     konsekvent, og som naar Tiden var der, vilde stige frem »mættet med sig selv«
                     ligesom »Ved Vejen« virkelig er »mættet«!</p>
-                <p>Men hvor kan man <emph>opjage</emph> et Novellestof? Det er da, Gud straffe mig,
-                    ikke det samme som at jage Agerhøns op af Marken... Og saa <emph>maa</emph> jeg
+            <p>Men hvor kan man <hi rend="italics">opjage</hi> et Novellestof? Det er da, Gud straffe mig,
+                    ikke det samme som at jage Agerhøns op af Marken... Og saa <hi rend="italics">maa</hi> jeg
                     skrive Romanen nu, ti jeg maa leve. Og skal nu flytte og om otte Dage betale et
                     Kavrtals Leje (i dette Land er man saa forsigtig at opkræve for et Fjerdingaar
-                    af ukendtere Existenser) og for at kunne det <emph>maa</emph> jeg senest Lørdag
-                        Aften<note>Dvs. 5.2.1887</note> sende Schou<note>Andreas Schou (1829-1889),
-                        Bangs forlægger i København</note> et Kapitel Roman ‒ eller »Novelle«. Hin
-                    Konge, der raabte: »Et Kongerige for en Hest«<note>Replik i Shakespeares
-                        tragedie Richard 3. ...</note>, var ikke saa vanvittig stedt som jeg. En
+                    af ukendtere Existenser) og for at kunne det <hi rend="italics">maa</hi> jeg senest Lørdag
+                        Aften<ref target="n3"/> sende Schou<ref target="n4"/> et Kapitel Roman ‒ eller »Novelle«. Hin
+                    Konge, der raabte: »Et Kongerige for en Hest«<ref target="n5"/>, var ikke saa vanvittig stedt som jeg. En
                     Roman, man føler, at man endnu ikke kan skrive og en Novelle, man kunde skrive,
                     hvis man bare vidste den ene lille Ting: hvad den skulde handle om!</p>
-                <p>Kære Langhoff ‒ i denne Vaande beder jeg Dem: skaf mig en »Prækebog« at
+            <p>Kære Langhoff ‒ i denne Vaande beder jeg Dem: skaf mig en »Prækebog« at
                     oversætte, hvad De vil ‒ jeg er saagu beredt til alt, og jeg vil betragte alt
                     som en Venlighed, som en Understøttelse, min Ven, givet Kunstneren, der saa
                     nødig, saa nødig sér sin kæreste Tanke givet en »Hurtigmaler« i Vold. Og en
                     »Hurtigmaler« maa jeg nu blive. Det er mig ikke saa let (som i gamle Dage!) at
-                    skrive et Brev som dette. Schiøtt<note>Julius Schiøtt </note> og Schou vilde
+                    skrive et Brev som dette. Schiøtt<ref target="n6"/> og Schou vilde
                     kunne vidne det. Jeg er ikke slet saa »løs« paa det nu mere ‒ og fremfor alt vil
                     jeg nødig bede om »forud«..... Og De rigtig vidste, hvad det kostede mig nu blot
-                    at tale om den Sag. Men <emph>søg</emph> om en Bog og giv mig blot et lille
+                    at tale om den Sag. Men <hi rend="italics">søg</hi> om en Bog og giv mig blot et lille
                     Forskud, saa at jeg idetmindste kunde komme til Ro i det nye Hus, før jeg maa
-                    begynde paa ‒ Roman eller Novelle. De vil maaske sige: »Det er <emph>for</emph>
-                    »morsomt« af Dem at komme til <emph>mig</emph> ‒ hvor en anden
-                        Forlægger<note>Nemlig Andreas Schou</note> vil faa den mulige Fordél. Det er
+                    begynde paa ‒ Roman eller Novelle. De vil maaske sige: »Det er <hi rend="italics">for</hi>
+                    »morsomt« af Dem at komme til <hi rend="italics">mig</hi> ‒ hvor en anden
+                        Forlægger<ref target="n7"/> vil faa den mulige Fordél. Det er
                     sandt. Men jeg kommer ogsaa kun til Forlæggeren i anden Linje.
-                        <emph>Forlæggeren</emph> maatte tage Oversættelsen ‒ og hvilken han
-                    bestemmer ‒ <emph>Mennesket</emph>, der sætter lidt Pris paa vor Generations
+                        <hi rend="italics">Forlæggeren</hi> maatte tage Oversættelsen ‒ og hvilken han
+                    bestemmer ‒ <hi rend="italics">Mennesket</hi>, der sætter lidt Pris paa vor Generations
                     Literatur maatte hjælpe mig. Sé, kære Langhoff ‒ nu er det ikke
-                        <emph>store</emph> Summer, der kræves af mit Liv. Dét, som kunde være mig
+                        <hi rend="italics">store</hi> Summer, der kræves af mit Liv. Dét, som kunde være mig
                     saa stor en Hjælp til denne Husleje ‒ var syv og syvti Kroner ↄ: femti Gylden.
-                    Vil De selv i disse Tider give mig dem og <emph>søge</emph> om en Bog. Det
+                    Vil De selv i disse Tider give mig dem og <hi rend="italics">søge</hi> om en Bog. Det
                     Honorar, jeg iøvrigt skulde have for Bogen, maatte sendes hver fjortende Dag,
-                    saaledes som Schou ‒ <emph>naar</emph> jeg skriver ‒ sender ugenlig. Saa er der
-                    aldrig Vrøvl..... Svar mig nu med en <emph>tydelig</emph> Adresse.</p>
-                <p>I et Berlinerblad læste jeg, at Oppositionen var slaaet i mange Kredse<note>I
-                        Danmark blev der afholdt folketingsvalg fredag 28.1.1887 ...</note>. Er det
+                    saaledes som Schou ‒ <hi rend="italics">naar</hi> jeg skriver ‒ sender ugenlig. Saa er der
+                    aldrig Vrøvl..... Svar mig nu med en <hi rend="italics">tydelig</hi> Adresse.</p>
+            <p>I et Berlinerblad læste jeg, at Oppositionen var slaaet i mange Kredse<ref target="n8"/>. Er det
                     muligt? Selv i min nuværende Vaande blev jeg saa bestyrtet, at jeg ikke kunde
-                    sove inat. Gode Gud, hvilke Tider gaar vi <emph>saa</emph> imøde? Og hvor har
+                    sove inat. Gode Gud, hvilke Tider gaar vi <hi rend="italics">saa</hi> imøde? Og hvor har
                     man kunnet være saa sejrssikker i Venstre? Om jeg blot havde det allerfjerneste
                     Haab om, at nogen Moders Sjæl vilde svare mig paa mine Breve. Er det da
                     uigenkaldeligt en Fr: Hansen, der skal regere Danmark? Og hvilke Tilstande vil
@@ -155,32 +166,31 @@
                     Tanker, hvormegen Tid, hvormegen Kapital ‒ af den, som vi ikke har! ‒ vil da
                     ikke denne usalige Kamp opsluge endnu. Ti Enden paa den ‒ kan »dette« jo ikke
                     forblive.</p>
-                <p>Kære Paul, man bliver ret inderlig trang om Hjertet ved alt dette. Ved at sé
+            <p>Kære Paul, man bliver ret inderlig trang om Hjertet ved alt dette. Ved at sé
                     Talentløsheden, »Strævet« og Blindheden ovenpaa og sé alt andet gaa
                     herunter.....</p>
-                <p>De véd det jo, at jeg kun tror saa maadeligt paa »Folket«, »Selvstyret« og
+            <p>De véd det jo, at jeg kun tror saa maadeligt paa »Folket«, »Selvstyret« og
                     »Friheden« ‒ disse »Transparentord« ved højtidelige Lejligheder. Men hos os
-                    sidder <emph>Indskrænketheden</emph> paa Taburetterne, Manglen paa Dannelse,
+                    sidder <hi rend="italics">Indskrænketheden</hi> paa Taburetterne, Manglen paa Dannelse,
                     Hykleriet og Provsterne. Det er et frygteligt Syn. Altsaa alt, hvad der er tænkt
                     og talt og skrevet nu i en halv Menneskealder ‒ forgæves! Altsaa hele
-                        <emph>vor</emph> Side af vort Slægtled sat ud af Spillet! Eller alle vore
+                        <hi rend="italics">vor</hi> Side af vort Slægtled sat ud af Spillet! Eller alle vore
                     Kræfter bare Vandbærertjeneste viet: ‒ <app>
-                        <lem>at</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> slaa Ord og Tanker i denne tomme Strids rindende Kar!</p>
-                <p>Ensom sidder jeg her. Og saa spilder jeg <emph>Deres</emph> Tid.</p>
-                <p>Kan De altsaa gaa ind paa min Anmodning, da beder jeg Dem gøre det strax, for at
-                    jeg kan vide det og <emph>flytte</emph>. Postanvisning er nemmest. Som sagt ‒ De
+                  <lem>at</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> slaa Ord og Tanker i denne tomme Strids rindende Kar!</p>
+            <p>Ensom sidder jeg her. Og saa spilder jeg <hi rend="italics">Deres</hi> Tid.</p>
+            <p>Kan De altsaa gaa ind paa min Anmodning, da beder jeg Dem gøre det strax, for at
+                    jeg kan vide det og <hi rend="italics">flytte</hi>. Postanvisning er nemmest. Som sagt ‒ De
                     vilde gøre mig en stor Tjeneste, saadan, at jeg vilde føle mig helt
                     »befriet«.</p>
-                <p>Tænk, at en stor Del af Ungdommen hos os skal give sig af med noget saa nyttigt,
-                    saa frugtbart ‒ som at »hade« Stativet Estrup. Og de <emph>maa</emph> det jo ‒
+            <p>Tænk, at en stor Del af Ungdommen hos os skal give sig af med noget saa nyttigt,
+                    saa frugtbart ‒ som at »hade« Stativet Estrup. Og de <hi rend="italics">maa</hi> det jo ‒
                     og det store sørgelige ligger i, at de maa det; ti der var saa meget større at
                     hade og elske.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

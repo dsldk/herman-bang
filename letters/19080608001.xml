@@ -1,120 +1,128 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19080608001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 922</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Nini Holst (Bangs søster)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1908-06-08">1908, 8. Juni [mandag] <note>Mandag 8.6.1908 var
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19080608001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 922</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1908-06-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1908-06-08">1908, 8. Juni [mandag] <note>Mandag 8.6.1908 var
                         2. pinsedag</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fasanenstrasse 58</p>
-                <p rend="right">Berlin. W.</p>
-                <p rend="right">8.6.1908.</p>
-                <p>Min kære Nini.</p>
-                <p>Tak for dine Breve. Det er meget trist med det Tjenertøj<note>Se Bangs brev til
-                        Nini Holst, 1.6.1908</note>. Ti der var i Sommer<note>Dvs. i sommeren 1907,
-                        før Bang forlod den fælles lejlighed Prinsesse Maries Allé 5 og flyttede til
-                        Berlin</note>:</p>
-                <p>1 Kappe.</p>
-                <p>1 Gallafrakke</p>
-                <p>2 <app>
-                        <lem>Formidagsjakker</lem>
-                        <rdg>Ordet er stavet således af Bang</rdg>
-                    </app> og</p>
-                <p>3 Par Benklæder,</p>
-                <p>saa der er altsaa blevet <emph>en</emph> Jakke og to Par Benklæder borte. Og jeg
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">8.6.1908.</p>
+            <p>Min kære Nini.</p>
+            <p>Tak for dine Breve. Det er meget trist med det Tjenertøj<ref target="n1"/>. Ti der var i Sommer<ref target="n2"/>:</p>
+            <p>1 Kappe.</p>
+            <p>1 Gallafrakke</p>
+            <p>2 <app>
+                  <lem>Formidagsjakker</lem>
+                  <rdg>Ordet er stavet således af Bang</rdg>
+               </app> og</p>
+            <p>3 Par Benklæder,</p>
+            <p>saa der er altsaa blevet <hi rend="italics">en</hi> Jakke og to Par Benklæder borte. Og jeg
                     maa altsaa til at købe Nyt, saasnart jeg faar Tjeneren. Men derved er jo intet
                     at gøre.... Jeg har saamæn intet at skrive. Med mig staar det rigtig slet.
-                        Lægen<note>Max Wasbutzki, Bangs tyske læge i Berlin</note> er saa ked af
+                        Lægen<ref target="n3"/> er saa ked af
                     det, at det slet ikke vil blive bedre. Mine Fugle er min eneste Glæde. Jeg har
                     ni, i to Bure. De kvidrer og de synger paa den grønne Balkon, hvor der nu er tæt
-                    med vild Vin.... Houmark<note>Christian Houmark (1869-1950), journalist, fra
-                        1899 ved avisen København og fra 1899 lejlighedsvis sekretær for Herman
-                        Bang; i julen 1907 havde han aflagt Bang nogle dages besøg i Berlin</note>
+                    med vild Vin.... Houmark<ref target="n4"/>
                     er atter paa et Kursted. Jeg vilde ønske, at jeg kunde gøre som han: lægge mig
                     hen og ‒ lade de andre betale. Men det er ikke alle, som er Houmark.</p>
-                <p>Her er koldt og regnfuldt.</p>
-                <p>De stakkels Berlinere, som arbejder og altid arbejder. De havde glædet sig saa
+            <p>Her er koldt og regnfuldt.</p>
+            <p>De stakkels Berlinere, som arbejder og altid arbejder. De havde glædet sig saa
                     meget til Pintsen. Men den gode Gud i Himlen under altid Menneskene ret
                     ilde.</p>
-                <p>Mange Hilsener ‒</p>
-                <p rend="right">Herman.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Mange Hilsener ‒</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

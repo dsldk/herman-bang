@@ -1,102 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19021117001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19021117001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
                                     21</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Jacob Hegel</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1902-11-17">[1902, 17. November] Mandag<note>Eller måske
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-11-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Jacob Hegel</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1902-11-17">[1902, 17. November] Mandag<note>Eller måske
                         mandag 24.11.1902 ?</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag Morgen.</p>
-                <p>Kære Hegel.</p>
-                <p>Det er svært at takke for saa meget, som De har gjort for mig. Ti en Tak siger i
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag Morgen.</p>
+            <p>Kære Hegel.</p>
+            <p>Det er svært at takke for saa meget, som De har gjort for mig. Ti en Tak siger i
                     og for sig intet.</p>
-                <p>Men jeg er i Besiddelse af nogen Hukommelse og jeg plejer at huske.</p>
-                <p>Derfor haaber jeg, at kommende Dage nu, hvor det glædelige er sket, at jeg som
+            <p>Men jeg er i Besiddelse af nogen Hukommelse og jeg plejer at huske.</p>
+            <p>Derfor haaber jeg, at kommende Dage nu, hvor det glædelige er sket, at jeg som
                     ved et Under har faaet nogle af mine Kræfter tilbage, skal vise Dem, at jeg
                     føler mig som et inderligt Led af Deres mægtige Foretagende.</p>
-                <p>Desværre, jeg <emph>har</emph> været sygere end man vidste. Og jeg, der ikke
-                        <emph>kan</emph> fabrikere Bøger, har hidtil ikke kunnet gøre andet end
+            <p>Desværre, jeg <hi rend="italics">har</hi> været sygere end man vidste. Og jeg, der ikke
+                        <hi rend="italics">kan</hi> fabrikere Bøger, har hidtil ikke kunnet gøre andet end
                     forbedre mine gamle Bøger ‒ men nu er jeg saa vidt, at jeg igen kan »digte«. Og
                     skal digte løs.</p>
-                <p>Med de hjerteligste Hilsener til Fru Hegel</p>
-                <p rend="right">Deres hengivne Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Med de hjerteligste Hilsener til Fru Hegel</p>
+            <p rend="right">Deres hengivne Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

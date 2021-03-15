@@ -1,107 +1,114 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19061200001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 210</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1906-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1906.  december]<note>empty</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Min Ven.</p>
-                <p>Jeg beder dig indstændigt og inderligt, at du vil gøre alt for, at der <emph>i
-                  Øjeblikket</emph> intet foretages mod <persName key="Jensen, Johannes V.">Johannes
-                  V. Jensen</persName> i "Forfatterforeningen"<note>I sin siden så berygtede
-                  aviskronik "<title key="Samfundet og Sædelighedsforbryderen">Samfundet og
-                     Sædelighedsforbryderen</title>" rettede forfatteren Johannes V. Jensen (1873-1950) et sexistisk angreb
-                  på Herman Bang, uden at nævne hans navn. Kronikken står trykt i Politiken, fredag 30.11.1906,
-                  og er i bogform genoptrykt i Aage Jørgensen (red.): Johannes V. Jensen. Ord og
-                  virkelighed. Forfatterskabets hidtil ikke optrykte artikler, bind 1, København
-                  2014, s. 220-224. I dagene derefter udløstes "en Bølge af Harme og Protester fra
-                  Hovedstadens Intellektuelle. Forfattere og Videnskabsmænd forlangte Johannes V.
-                  Jensen ekskluderet af Forfatterforeningen, og Sympatitilkendegivelserne strømmede
-                  Herman Bang imøde" (Harry Jacobsen: Den tragiske Herman Bang, s. 167). Det blev
-                  henover årsskiftet 1906/07 til en sag i Dansk Forfatterforening, der i årene
-                  1902-08 havde forfatteren <persName key="Larsen, Karl">Karl Larsen</persName> (1860-1931) som formand.
-                  Jensen blev ikke ekskluderet, men mødte ingen sympati for sit verbale overfald på
-                  Herman Bang; se tillige Karin Bang, s.607f</note>. Det vil <emph>kun</emph> skade
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19061200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 210</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1906-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1906-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1906.  december]<note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Min Ven.</p>
+            <p>Jeg beder dig indstændigt og inderligt, at du vil gøre alt for, at der <hi rend="italics">i
+                  Øjeblikket</hi> intet foretages mod <persName key="Jensen_Johannes_V.">Johannes
+                  V. Jensen</persName> i "Forfatterforeningen"<ref target="n1"/>. Det vil <hi rend="italics">kun</hi> skade
                mig og jeg ønsker kun Stilhed.</p>
-                <p>Ti jeg kan ikke bære mere. <emph>Jeg har ikke flere Kræfter</emph>
-                </p>
-                <p>Tak til Jer begge.</p>
-                <p rend="right">Eders</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Ti jeg kan ikke bære mere. <hi rend="italics">Jeg har ikke flere Kræfter</hi>
+            </p>
+            <p>Tak til Jer begge.</p>
+            <p rend="right">Eders</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

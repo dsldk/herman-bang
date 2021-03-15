@@ -1,140 +1,153 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870820001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 435</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1887-08-20">[1887, 20. august] Lørdag<note>Torbjörn Nilssons
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870820001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 435</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-08-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-08-20">[1887, 20. august] Lørdag<note>Torbjörn Nilssons
                         dateringsforslag s. 336 note 75, 343 note 40, 347 note 37 samt s. 290 nr. 28
                         følges</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag Lørdag.</p>
-                <p>Kære Langhoff.</p>
-                <p>Jeg sender dette Manuskript idag, ti jeg kan ikke mere. Min Tilstand er umulig ‒
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Lørdag.</p>
+            <p>Kære Langhoff.</p>
+            <p>Jeg sender dette Manuskript idag, ti jeg kan ikke mere. Min Tilstand er umulig ‒
                     paa anden Dagen er jeg <app>
-                        <lem>atter</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> i Sengen, tilintetgjort af Smerter, grædende, brudt. Ved hver Linje, som
+                  <lem>atter</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> i Sengen, tilintetgjort af Smerter, grædende, brudt. Ved hver Linje, som
                     jeg nu skriver, maa jeg ophøre, overvældet af Smerter. Den højre Side af mit
                     Ansigt er som lam. Det skulde altsaa ikke være mig forundt at ende denne Bog,
                     som jeg elsker med en saa fanatisk Kærlighed, uden Ophør og Stansning. Ja ‒
                     havde jeg blot ét Menneske under disse Lidelser, blot én Time ‒ men jeg er ene,
                     og hvis man vidste, hvad jeg nu i Maaneder lider, vanvittigt lider.</p>
-                <p>Men jeg vil ikke trætte Dem med Lidelser, som maaske kun saa saare lidt
+            <p>Men jeg vil ikke trætte Dem med Lidelser, som maaske kun saa saare lidt
                     interesserer Dem.</p>
-                <p>Rimeligvis vil De som jeg mene, at dette sendte Manuskript, som er skrevet om og
+            <p>Rimeligvis vil De som jeg mene, at dette sendte Manuskript, som er skrevet om og
                     om, ikke tør trykkes. Det synes mig at staa saa dybt under de udmærkede
                     Kapitler, jeg har i Korrektur. Og jeg som havde tænkt mig just dette saa stort,
                     saa rigt ‒ ‒</p>
-                <p>Men ét er afgjort. Det næste Ark af V og IV kan jeg ikke skrive i denne Tilstand.
+            <p>Men ét er afgjort. Det næste Ark af V og IV kan jeg ikke skrive i denne Tilstand.
                     Forhøret, der nu kommer, Vandringen paa Langelinje, Samtalen med Tine Bølling
                     (fra Als) tør ikke ødelægges. De maa og skal dog rumme hele den stilfærdige
                     Smerte, den Patriotismens dybe Smerte, som har dikteret den hele Plan.</p>
-                <p>Men <emph>her</emph> kan jeg ikke skrive. Fjorten Dage maa jeg hvile. Og paa
+            <p>Men <hi rend="italics">her</hi> kan jeg ikke skrive. Fjorten Dage maa jeg hvile. Og paa
                     Landet.</p>
-                <p>Jeg ved meget vel, at det maa være Tilliden til mit Talent og til den
+            <p>Jeg ved meget vel, at det maa være Tilliden til mit Talent og til den
                     Samfundsroman ‒ hvoraf »Stuk« er første Del ‒ som maa lade Dem indrømme mig den
                     Gunst: <app>
-                        <lem>allerede</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> efter Modtagelsen af dette Brev <app>
-                        <lem>hvor der mangler halvandet Kap:</lem>
-                        <rdg>Bang har indføjet ordene over linjen</rdg>
-                    </app> at sende mig de 200 Gylden for at jeg kan forlade Prag. Naar Bogen er
+                  <lem>allerede</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> efter Modtagelsen af dette Brev <app>
+                  <lem>hvor der mangler halvandet Kap:</lem>
+                  <rdg>Bang har indføjet ordene over linjen</rdg>
+               </app> at sende mig de 200 Gylden for at jeg kan forlade Prag. Naar Bogen er
                     færdig, rejser jeg til Göteborg og skal ikke falde Dem til Byrde mere. Men nu er
                     jeg uden Hjælp.</p>
-                <p>Det vilde maaske være mig lettere at stille disse Fordringer til Deres Godhed,
-                    hvis De var mig ganske fremmed. <emph>Jeg</emph> skal nu én Gang aldrig have
+            <p>Det vilde maaske være mig lettere at stille disse Fordringer til Deres Godhed,
+                    hvis De var mig ganske fremmed. <hi rend="italics">Jeg</hi> skal nu én Gang aldrig have
                     Lykke: jeg havde saadan haabet at kunne fuldende Bogen uden »Zwischenfall«. Men
-                    Enden maa blive Midten lig, som <emph>er</emph> en »Bog«. Og jeg maa nu
+                    Enden maa blive Midten lig, som <hi rend="italics">er</hi> en »Bog«. Og jeg maa nu
                     »hvile«.</p>
-                <p>Om <app>
-                        <lem>De</lem>
-                        <rdg>Det første bogstav synes at være rettet fra: f</rdg>
-                    </app> synes som jeg ‒ da send mig atter dette Man:<note>Dvs. manuskript</note>
+            <p>Om <app>
+                  <lem>De</lem>
+                  <rdg>Det første bogstav synes at være rettet fra: f</rdg>
+               </app> synes som jeg ‒ da send mig atter dette Man:<ref target="n1"/>
                     tilbage, men jeg vilde kun sende det, at De kunde sé, jeg har arbejdet til det
                     siste.</p>
-                <p>Hvis De mener at kunne opfylde min Anmodning og Mandag afsende Pengene (de 200
+            <p>Hvis De mener at kunne opfylde min Anmodning og Mandag afsende Pengene (de 200
                     fl) da telegrafér mig det. Jeg rejser da efter at have afsendt Korrekturerne (De
-                    husker vel, at jeg <emph>skal</emph> sé Aftryk før det forrige trykkes) ‒ Jeg
+                    husker vel, at jeg <hi rend="italics">skal</hi> sé Aftryk før det forrige trykkes) ‒ Jeg
                     kan ikke skrive mere.</p>
-                <p rend="right">Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

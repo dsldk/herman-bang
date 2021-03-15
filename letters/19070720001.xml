@@ -1,156 +1,159 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19070720001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 426</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 7 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-07-20" notBefore="9999-99-99" notAfter="9999-99-99">1907. 20. juli [lørdag]<note>empty</note>
-                </date>
-                <placeName cert="high">[Berlin]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">20.7.1907.</p>
-                <p>Min kære Ven.</p>
-                <p>
-                    <persName key="Nansen, Betty">Betty</persName>
-                    <note>Betty Nansen</note> skriver, du er syg, af Gigt, og rigtigt daarlig. Saa
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070720001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 426</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 7 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1907-07-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-07-20"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 20. juli [lørdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">20.7.1907.</p>
+            <p>Min kære Ven.</p>
+            <p>
+               <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n1"/> skriver, du er syg, af Gigt, og rigtigt daarlig. Saa
                skriver jeg straks for at adsprede dig en Smule. Sig straks Fru Nansen, at hun ikke
                skal være bange for min Morfin. Jeg faar nu kun en Indsprøjtning hver femte Dag,
                hvilket er et gevaldigt Afslag. Ellers gaar det, i ydre Henseende, ret vel. Imorges
-               havde jeg Kort fra <persName key="Fischer, Hedwig">Fru Fischer</persName>
-                    <note>Hedwig Fischer (1871-1952), født Landhoff, gift 1893 med forlæggeren Samuel Fischer, Berlin</note>, som er i <placeName key="Holland">Holland</placeName>
-               (alle Mennesker her er i Holland – underligt). "<title key="Det graa Hus">Det graa
-                  Hus</title>" skal begynde i "Rundschau" til Oktober og saa ud som Bog<note>I Die
-                  neue Rundschau blev romanen offentliggjort som føljeton i tre dele i juli-,
-                  august- og septembernummeret 1908. Som bog udkom <title key="Das graue Haus">Das
-                     graue Haus</title>, oversat af <persName key="Kiy, Hermann">Hermann
-                     Kiy</persName>, i 1909 hos S. Fischer Verlag, Berlin</note>. Derefter skal
-                  "<title key="Ludvigsbakke">Ludvigsbakke</title>" følge ... Jeg har ogsaa skrevet
-               en Berliner Feuilleton, som er blevet meget nydelig, for "Tageblatt"<note>I Berliner
-                  Tageblatts Abend-Ausgabe, 31.7.1907, er Bangs essay "Das Gartenhaus" trykt; den
-                  danske version "Havehuset" står i Illustreret Tidende, 4.8.1907. Teksten beskriver
-                  stemningen i ejendommen Nürnbergerstrasse 36, som i 1907 var Bangs første adresse
-                  i Berlin</note> ... Men selv arbejder jeg nu paa en mærkelig Novelle: "<title key="Barchán er død –">Barchán er død –</title>"<note>Trykt i Hjemmets Noveller,
-                  september 1907; i let udvidet skikkelse optaget i <title key="Sælsomme Fortællinger">Sælsomme Fortællinger</title>, der udkom 2.11.1907
-                  hos Gyldendal</note>. Hvis den bliver god, vil jeg skrive en til<note>
-                        <title key="Stærkest">"Stærkest</title> –"</note> og sammen med den
-               Spøgelseshistorie, jeg skrev ifjor<note>"En Spøgelseshistorie"; i let omarbejdet form
-                  og med titlen "Men du skal mindes mig –" lod Bang den indgå i Sælsomme
-                  Fortællinger, Gyldendal 1907</note> – og som allerede længst er oversat rundtom,
+               havde jeg Kort fra <persName key="Fischer_Hedwig">Fru Fischer</persName>
+               <ref target="n2"/>, som er i <placeName key="Holland">Holland</placeName>
+               (alle Mennesker her er i Holland – underligt). "<!--start title reference--><title key="Det_graa_Hus">Det graa
+                  Hus</title>
+               <!--end title reference-->" skal begynde i "Rundschau" til Oktober og saa ud som Bog<ref target="n3"/>. Derefter skal
+                  "<!--start title reference--><title key="Ludvigsbakke">Ludvigsbakke</title>
+               <!--end title reference-->" følge ... Jeg har ogsaa skrevet
+               en Berliner Feuilleton, som er blevet meget nydelig, for "Tageblatt"<ref target="n4"/> ... Men selv arbejder jeg nu paa en mærkelig Novelle: "<!--start title reference--><title key="Barchán_er_død">Barchán er død –</title>
+               <!--end title reference-->"<ref target="n5"/>. Hvis den bliver god, vil jeg skrive en til<ref target="n6"/> og sammen med den
+               Spøgelseshistorie, jeg skrev ifjor<ref target="n7"/> – og som allerede længst er oversat rundtom,
                for den var noget underlig – vilde jeg saa udgive disse to i et Bind under Titlen:
                "Sære Historier" –. De kunde udkomme i Oktober ... De første Dage i August tager jeg
-               fat paa Julefortællingen<note>"Snart er det Jul –", trykt i flere danske
-                  provinsaviser 5. og 6.12.1907</note>. Den bliver vist meget sørgmodig. Ti jeg er
+               fat paa Julefortællingen<ref target="n8"/>. Den bliver vist meget sørgmodig. Ti jeg er
                meget bedrøvet inde i mig .... I "Mercure de France" (for 16 Juli) staar der en lang
-               Kritik af "<title key="De uden Fædreland –">De uden Fædreland –</title>"<note>Mercure
-                  de France, No 242, Tome LVIII, Paris 16 Juillet 1907; omtalen indgår s. 366-367 i forfatteren
-                     <persName key="Chesnais, P.-G. la">Pierre-George la Chesnais</persName> (1865-1948): "Lettres
-                  scandinaves". www.gallica.bnf.fr/12148/bpt6k2016206.image.swf (konstateret august
-                  2015)</note>, hvor mit tekniske "Mesterskab" hæves op over Skyerne, og han siger,
+               Kritik af "<!--start title reference--><title key="De_uden_Fædreland">De uden Fædreland –</title>
+               <!--end title reference-->"<ref target="n9"/>, hvor mit tekniske "Mesterskab" hæves op over Skyerne, og han siger,
                at man gennem Bogen kan lære at kende "hele det danske Folk". Det er kun kedeligt med
                alt det Mesterskab, at Bøgerne dog aldrig kan sælges saadan, som de rigtige, store
                Digteres. Saa behøvede jeg ikke at sidde og skrive saa meget Skidt sammen ....
-                  <persName key="Volynskij, Akim">Wolynsky</persName>
-                    <note>Akim Volynskij (1861-1926), pseudonym for Chaim Lejbovitsj Flexer, russisk litteraturkritiker og kunsthistoriker</note>, som er Ruslands største Kritiker – hans Bøger er
-               oversatte paa baade fransk og tysk og jeg har læst en af dem, om <persName key="Dostojevskij, Fjodor">Dostojewsky</persName>
-                    <note>Akim Volynskijs bog om den russiske forfatter Fjodor Dostojevskij (1821-81) udkom i Sankt Petersborg
-                  1901</note> – har nylig skrevet om "Mikaël". Han siger, at den er en sand
+                  <persName key="Volynskij_Akim">Wolynsky</persName>
+               <ref target="n10"/>, som er Ruslands største Kritiker – hans Bøger er
+               oversatte paa baade fransk og tysk og jeg har læst en af dem, om <persName key="Dostojevskij_Fjodor">Dostojewsky</persName>
+               <ref target="n11"/> – har nylig skrevet om "Mikaël". Han siger, at den er en sand
                Historie om Geniet – –</p>
-                <p>Puh, det var sandelig en lang Præk om mig selv ... Nu er mine Ting kommet fra
+            <p>Puh, det var sandelig en lang Præk om mig selv ... Nu er mine Ting kommet fra
                Danmark. Betty hænger lige over mit Skrivebord og du under et dansk Maleri, det
-               eneste, jeg har foruden <persName key="Marie, prinsesse">Prinsessens</persName>
-                    <note>Prinsesse Marie (1865-1909), franskfødt hertuginde af Orléans, gift 1885 med prins Valdemar af Danmark. Blandt sine aktive gøremål var hun også tegner og maler</note>. Hun
-               er i "Die Woche"<note>Die Woche. Moderne illustrierte Zeitschrift, Berlin</note>
-               idag – med et tatoveret Anker paa Armen. Sig til <persName key="Knudsen, Johan">Johan</persName>
-                    <note>Godsejer Johan Knudsen (1865-1942), Bangsbo ved Frederikshavn</note>, at han kunde gerne skrive lidt til mig. Saa skal jeg
-               straks svare .... Paa Kasino skal de spille "<title key="Første Violin">Første
-                  Violin</title>"<note>Komedie af <persName key="Wied, Gustav">Gustav
-                     Wied</persName> (1858-1914) og <persName key="Petersen, Jens">Jens Petersen</persName> (1856-1902),
-                  udgivet 1898 hos Gyldendal. Den blev 1898-1902 spillet 75 gange på Folketeatret i
-                  Bangs sceneinstruktion</note> med <persName key="Pio, William">Pio</persName>
-                    <note>William Pio (1850-1909), skuespiller</note> som Iscenesætter og <persName key="Carlson, Gudrun">Gudrun</persName>
-                    <note>Gudrun Carlson (1883-1971), skuespillerinde og operettesangerinde, gift 1910 med skuespilleren Aage Fønss</note> som Pigebarnet. Foreløbig er hun (Gudrun) paa en Bilfart
+               eneste, jeg har foruden <persName key="Marie_prinsesse">Prinsessens</persName>
+               <ref target="n12"/>. Hun
+               er i "Die Woche"<ref target="n13"/>
+               idag – med et tatoveret Anker paa Armen. Sig til <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n14"/>, at han kunde gerne skrive lidt til mig. Saa skal jeg
+               straks svare .... Paa Kasino skal de spille "<!--start title reference--><title key="Første_Violin">Første
+                  Violin</title>
+               <!--end title reference-->"<ref target="n15"/> med <persName key="Pio_William">Pio</persName>
+               <ref target="n16"/> som Iscenesætter og <persName key="Carlson_Gudrun">Gudrun</persName>
+               <ref target="n17"/> som Pigebarnet. Foreløbig er hun (Gudrun) paa en Bilfart
                til <placeName key="Budapest">Budapest</placeName> ... Naa, dejligt er det, at Wied
-                  <note>Gustav Wied; hans medforfatter Jens Petersen var død i 1902</note> har
-               faaet solgt "Violinen" igen og faar de Penge. <persName key="Petersen, Fritz">Fritz
+                  <ref target="n18"/> har
+               faaet solgt "Violinen" igen og faar de Penge. <persName key="Petersen_Fritz">Fritz
                   Petersen</persName>
-                    <note>Fritz Petersen (1877-1911), direktør for Casino 1905-10 og meddirektør for Dagmarteatret; gift 1899 med skuespillerinden Johanne Fritz-Petersen</note> skal ogsaa spille et Stykke, som <persName key="Lange, Sven">Sven Lange</persName>
-                    <note>Sven Lange (1868-1930), forfatter og dramatiker, 1893-95 bosat i Paris, fra 1904 teaterkritiker ved Politiken</note> har lovet ham. Jeg tager an, at det er et af den Slags, som
-                  <persName key="Fristrup, Peter">Fristrup</persName>
-                    <note>Peter Fristrup (1854-1913), forfatter og dramatiker</note> skriver ....</p>
-                <p>Nu tusind Hilsener til alle og god Bedring, kære Peter.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman</p>
-            </div>
-        </body>
-    </text>
+               <ref target="n19"/> skal ogsaa spille et Stykke, som <persName key="Lange_Sven">Sven Lange</persName>
+               <ref target="n20"/> har lovet ham. Jeg tager an, at det er et af den Slags, som
+                  <persName key="Fristrup_Peter">Fristrup</persName>
+               <ref target="n21"/> skriver ....</p>
+            <p>Nu tusind Hilsener til alle og god Bedring, kære Peter.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>

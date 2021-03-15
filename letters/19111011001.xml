@@ -1,109 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19111011001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2009/148. Det 59.brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Olga Dahl</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side, fortrykt brevpapir: <emph>Palace Hotel
-                                                  / Göteborgs modernaste Hotel</emph> samt logo,
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111011001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 59.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, fortrykt brevpapir: <hi rend="italics">Palace Hotel
+                                                  / Göteborgs modernaste Hotel</hi> samt logo,
                                                 telegramadress og rikstelefon; med tilhørende
                                                 kuvert, fortrykt »Palace Hotel / Göteborgs
                                                 modernaste hotel« osv.; frankeret med et svensk 10
-                                                öres frimærke, poststemplet <emph>Göteborg
-                                                  11.10.11</emph>, og med den danske postvæsens
-                                                modtagerstempel på bagsiden: <emph>Kjøbenhavn V.
-                                                  1.OMB.12.10.11</emph>; udskrift i Bangs
-                                                håndskrift: <emph>Fru Olga Dahl / København. V [af
+                                                öres frimærke, poststemplet <hi rend="italics">Göteborg
+                                                  11.10.11</hi>, og med den danske postvæsens
+                                                modtagerstempel på bagsiden: <hi rend="italics">Kjøbenhavn V.
+                                                  1.OMB.12.10.11</hi>; udskrift i Bangs
+                                                håndskrift: <hi rend="italics">Fru Olga Dahl / København. V [af
                                                   Bangs rettet fra: K.] / Prinsesse Maries Allée
-                                                  14.</emph> Dateres efter poststemplet.</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Med blæk hhv. blyant i fremmed hånd på kuverten og øverst på
-                                        brevet: <emph>11te Oktober 1911</emph>, formentlig skrevet
+                                                  14.</hi> Dateres efter poststemplet.</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blæk hhv. blyant i fremmed hånd på kuverten og øverst på
+                                        brevet: <hi rend="italics">11te Oktober 1911</hi>, formentlig skrevet
                                         af Olga Dahl</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1911-10-11">[1911, 11. oktober] Onsdag <note>empty</note>
-                </date>
-                <placeName cert="high">Göteborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Onsdag.</p>
-                <p>Min egen Ven.</p>
-                <p>Her sejrede jeg iaftes ‒ ved en mægtig Anstrængelse ‒ helt og fuldstændigt. En
-                        <emph>fuldkommen</emph> Sejr ‒ især for »Mestrens Død«<note>Dvs. Bangs
-                        oplæsning af den femte og sidste kapitel i hans roman Mikaël, 1904</note>,
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Göteborg</placeName>
+               <date when="1911-10-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-10-11">[1911, 11. oktober] Onsdag <note>empty</note>
+            </date>
+            <placeName cert="high">Göteborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Min egen Ven.</p>
+            <p>Her sejrede jeg iaftes ‒ ved en mægtig Anstrængelse ‒ helt og fuldstændigt. En
+                        <hi rend="italics">fuldkommen</hi> Sejr ‒ især for »Mestrens Død«<ref target="n1"/>,
                     som halvfaldt i Norge.</p>
-                <p>Skriv til mig: Grand Hotel Stockholm</p>
-                <p>Tusind Hilsener til Søster<note>Signe Dahl (født ca. 1890), kaldet Søster, yngste
-                        datter af Olga og Kristian Dahl</note>.</p>
-                <p rend="right">Herman B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Skriv til mig: Grand Hotel Stockholm</p>
+            <p>Tusind Hilsener til Søster<ref target="n2"/>.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

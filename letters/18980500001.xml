@@ -1,105 +1,122 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18980500001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 07</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Spredte blyantspåskrifter af Peter Nansen på brevets bagside,
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18980500001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 07</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Spredte blyantspåskrifter af Peter Nansen på brevets bagside,
                               tilsyneladende uden sammenhæng med Bangs brev: <q>Bang</q> /
                                  <q>Kjeldsen</q> / <q>Repertoire til Tourneen / – Eline maa lidt før
                                  forstaa Kaptajnens</q> og på brevets inderside: <q>Ernst Meyer
                                  Studiehoved / Carl Locher / Exner. Marstrand / Frantz Henningsen. I
                                  Folkestuen / Anton Melbye. Et Vrag / Simonsen. Slaget ved
                                  Mysunde</q>
-                                    </ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1898-05-01" notBefore="9999-99-99" notAfter="9999-99-99">[1898.  maj], Torsdag<note>empty</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Folketeatret. Torsdag</p>
-                <p>Kære Nansen.</p>
-                <p>Ja – det er et Teateranliggende.</p>
-                <p>Men kunde du ikke gøre en utaknemmelig Ven den Tjeneste at lade mig faa to Aftryk af
-               "<title key="Arbejdersken">Arbejdersken</title>"<note>
-                        <persName key="Claussen, Sophus">Sophus
-                  Claussen</persName>s (1865-1931) skuespil, som i Bangs iscenesættelse fik én opførelse på
-                  Folketeatret tirsdag 17.5.1898, – og som i bogform udkom hos Gyldendal samme
-                  år</note> med Bud'et helst? Det var mig meget nødvendigt at faa dem, da Censor
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-05-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1898-05-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1898.  maj], Torsdag<note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Folketeatret. Torsdag</p>
+            <p>Kære Nansen.</p>
+            <p>Ja – det er et Teateranliggende.</p>
+            <p>Men kunde du ikke gøre en utaknemmelig Ven den Tjeneste at lade mig faa to Aftryk af
+               "<!--start title reference--><title key="Arbejdersken">Arbejdersken</title>
+               <!--end title reference-->"<ref target="n1"/> med Bud'et helst? Det var mig meget nødvendigt at faa dem, da Censor
                skulde have ét og Sufløren et andet.</p>
-                <p>Er der intet, jeg kan hjælpe <persName key="Nansen, Betty">Betty</persName> med til
-               hendes Turné<note>Muligvis Det Kongelige Teaters sommerturné i provinsen</note>?</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Er der intet, jeg kan hjælpe <persName key="Nansen_Betty">Betty</persName> med til
+               hendes Turné<ref target="n2"/>?</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

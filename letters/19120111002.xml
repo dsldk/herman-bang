@@ -1,139 +1,149 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19120111002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2009/148. Det 101.brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Olga Dahl</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider, skrevet på fortrykt brevpapir:
-                                                  <emph>Hamburg-Amerika Linie</emph> under rederiet
-                                                H.A.P.A.G.s flag; ligeledes fortrykt: <emph>An Bord
-                                                  des Dampfers ..... den ... 19 ..</emph>; den
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19120111002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 101.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider, skrevet på fortrykt brevpapir:
+                                                  <hi rend="italics">Hamburg-Amerika Linie</hi> under rederiet
+                                                H.A.P.A.G.s flag; ligeledes fortrykt: <hi rend="italics">An Bord
+                                                  des Dampfers ..... den ... 19 ..</hi>; den
                                                 tilhørende kuvert med rederiets flad og
-                                                  <emph>Hamburg-Amerika Linie</emph> er frankeret
+                                                  <hi rend="italics">Hamburg-Amerika Linie</hi> er frankeret
                                                 med et US-amerikansk 2 cents frimærke og
-                                                poststemplet: <emph>New York, N.Y.STA.O / JAN20 12-M
-                                                  1912</emph>; det danske postvæsens modtagerstempel
-                                                på bagsiden: <emph>Kjøbenhavn V.
-                                                6.OMB-1.2.12</emph>; brevet er underfrankeret (2
+                                                poststemplet: <hi rend="italics">New York, N.Y.STA.O / JAN20 12-M
+                                                  1912</hi>; det danske postvæsens modtagerstempel
+                                                på bagsiden: <hi rend="italics">Kjøbenhavn V.
+                                                6.OMB-1.2.12</hi>; brevet er underfrankeret (2
                                                 cents var takst for postkort til Danmark), og
                                                 kuvertens forside er blevet forsynet med to runde
                                                 bødestempler om 30 centimes, som skal opkræves ved
                                                 brevets udlevering til modtageren; udskrift i Bangs
-                                                håndskrift: <emph>Mme. Olga Dahl. / Copenhague. K. /
+                                                håndskrift: <hi rend="italics">Mme. Olga Dahl. / Copenhague. K. /
                                                   Danemark / Europe. / Prinsesse Maries Allé
-                                                  14</emph>
-                                            </ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Med blyant i fremmed hånd på kuverten: <emph>11-1-12</emph>
-                                        samt: <emph>sidste Brev fra Skibet, Dagen før Ankomst til
-                                            Amerika</emph>, formentlig skrevet af Olga Dahl</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1912-01-11">1912, 11. Januar [torsdag] <note>empty</note>
-                </date>
-                <placeName cert="high">S/S Moltke, Atlanterhavet</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">[An Bord des Dampfers] Moltke [den] 11.1.[19]12.</p>
-                <p>Min egen Ven.</p>
-                <p>Altsaa ‒ imorgen er vi der ‒ i Amerika<note>S/S Moltke anløb New Yorks havn
-                        torsdag 18.1.1912</note>. Jeg véd ikke, jeg har altid haft en Skræk for
+                                                  14</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant i fremmed hånd på kuverten: <hi rend="italics">11-1-12</hi>
+                                        samt: <hi rend="italics">sidste Brev fra Skibet, Dagen før Ankomst til
+                                            Amerika</hi>, formentlig skrevet af Olga Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">S/S Moltke, Atlanterhavet</placeName>
+               <date when="1912-01-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1912-01-11">1912, 11. Januar [torsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">S/S Moltke, Atlanterhavet</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[An Bord des Dampfers] Moltke [den] 11.1.[19]12.</p>
+            <p>Min egen Ven.</p>
+            <p>Altsaa ‒ imorgen er vi der ‒ i Amerika<ref target="n1"/>. Jeg véd ikke, jeg har altid haft en Skræk for
                     dette Land og har det ogsaa nu. Jeg tror, »Hamburg-Amerika« har snydt mig, og at
-                    der er noget galt med min Billet. Isaafald bliver den hele Rejse <emph>en</emph>
-                    lang Lidelse. Men <emph>det</emph> vil jeg erfare imorgen.... Hvordan Tiden
+                    der er noget galt med min Billet. Isaafald bliver den hele Rejse <hi rend="italics">en</hi>
+                    lang Lidelse. Men <hi rend="italics">det</hi> vil jeg erfare imorgen.... Hvordan Tiden
                     gaaer paa saadan en Oceanbaad? Som hjemme:</p>
-                <p>Kl. 7½ min Thé</p>
-                <p>Kl. 8 op, klædes paa, hvad der tager lang Tid paa Grund af Stormen.</p>
-                <p>Kl. 9. Til Barberen.</p>
-                <p>Kl. 10 til Lægen.</p>
-                <p>10-11 Spadseretur, mens Militærkapellet spiller.</p>
-                <p>Kl. 11-2 Skriver</p>
-                <p>Kl. 2 Lunch ‒ fem Retter Mad</p>
-                <p>3-4 Læser</p>
-                <p>4-5 Fem-Thé ‒ Kunstnerkapellet spiller</p>
-                <p>5-6 Skriver</p>
-                <p>6 Bad. Paaklædning</p>
-                <p>7½ Dinner ‒ otte Retter Mad. Militærk:<note>Dvs. militærkapellet spiller musik
-                        igen</note></p>
-                <p>9 Spadserer.</p>
-                <p>9½ I Seng</p>
-                <p>Hver Dag.</p>
-                <p>Aa, de Føljetoner. Nu er den første skrevet. Men hvordan er den blevet?<note>De
-                        ganske få reportager fra rejsen, som Bang nåede at skrive og sende hjem,
-                        blev i februar 1912 trykt i hhv. Illustreret Tidende og avisen København.
-                        Han havde aftalt en løbende levering gennem hele sin jordomrejse</note></p>
-                <p>Stormen var uhyre og uhyre skøn. Et Øjeblik skjalv alle. Men den ene skjuler det
+            <p>Kl. 7½ min Thé</p>
+            <p>Kl. 8 op, klædes paa, hvad der tager lang Tid paa Grund af Stormen.</p>
+            <p>Kl. 9. Til Barberen.</p>
+            <p>Kl. 10 til Lægen.</p>
+            <p>10-11 Spadseretur, mens Militærkapellet spiller.</p>
+            <p>Kl. 11-2 Skriver</p>
+            <p>Kl. 2 Lunch ‒ fem Retter Mad</p>
+            <p>3-4 Læser</p>
+            <p>4-5 Fem-Thé ‒ Kunstnerkapellet spiller</p>
+            <p>5-6 Skriver</p>
+            <p>6 Bad. Paaklædning</p>
+            <p>7½ Dinner ‒ otte Retter Mad. Militærk:<ref target="n2"/>
+            </p>
+            <p>9 Spadserer.</p>
+            <p>9½ I Seng</p>
+            <p>Hver Dag.</p>
+            <p>Aa, de Føljetoner. Nu er den første skrevet. Men hvordan er den blevet?<ref target="n3"/>
+            </p>
+            <p>Stormen var uhyre og uhyre skøn. Et Øjeblik skjalv alle. Men den ene skjuler det
                     for den anden.</p>
-                <p>Tusind Hilsener til Dem og Søster<note>Signe Dahl (født ca. 1890), kaldet Søster,
-                        yngste datter af Olga og Kristian Dahl</note>.</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Tusind Hilsener til Dem og Søster<ref target="n4"/>.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

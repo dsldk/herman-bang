@@ -1,124 +1,133 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870813001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1887-08-13">[1887, 13. august] Lørdag<note>Enten lørdag 13.8.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870813001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-08-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-08-13">[1887, 13. august] Lørdag<note>Enten lørdag 13.8.
                         eller lørdag 20.8., se Torbjörn Nilsson, s.290 nr. 23. Dette
                         dateringsforslag af Nilsson følges indtil videre ...</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Prag Lørdag.</p>
-                <p>Min kære Julius.</p>
-                <p>Saa tusind Tak for dit Brev.</p>
-                <p>Iforgaars vilde jeg have svaret samtidig med, at jeg afsendte Manuskript. Men i
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Lørdag.</p>
+            <p>Min kære Julius.</p>
+            <p>Saa tusind Tak for dit Brev.</p>
+            <p>Iforgaars vilde jeg have svaret samtidig med, at jeg afsendte Manuskript. Men i
                     siste Øjeblik kasserede jeg Manuskriptet, som var første Halvdel af IV. Og nu
                     sender jeg Tirsdag ‒ hele V.</p>
-                <p>Dette hænger saaledes sammen. For Pengenes Skyld sendte jeg Slutningen af III
+            <p>Dette hænger saaledes sammen. For Pengenes Skyld sendte jeg Slutningen af III
                     direkte til Langhoff. Og i min nuværende Febertilstand uden Søvn, uden Ro, uden
                     at kunne spise foretrak jeg at skrive V, som er lutter store Optrin fremfor IV.
                     Saaledes vil I faa V først: den er utrolig bevæget, de største Optrin, jeg
                     nogensinde har skrevet.</p>
-                <p>Men ‒ min Ven ‒ det er ogsaa ude med mig nu. Komplet ude. Al den Tid, jeg ikke
+            <p>Men ‒ min Ven ‒ det er ogsaa ude med mig nu. Komplet ude. Al den Tid, jeg ikke
                     skriver, ligger jeg tilsengs; og kommer jeg ikke herfra, vil <app>
-                        <lem>en</lem>
-                        <rdg>Bang har rettet ordet fra: et</rdg>
-                    </app> forfærdelig Krise blive Enden.</p>
-                <p>Jeg kan ikke skrive, min Ven, ti jeg har ingen Tanker i mit Hoved. Jeg beder dig
-                    kun, <emph>om</emph> det er muligt, ligefrem at vise dine »Stjerne-Forlæggere«
+                  <lem>en</lem>
+                  <rdg>Bang har rettet ordet fra: et</rdg>
+               </app> forfærdelig Krise blive Enden.</p>
+            <p>Jeg kan ikke skrive, min Ven, ti jeg har ingen Tanker i mit Hoved. Jeg beder dig
+                    kun, <hi rend="italics">om</hi> det er muligt, ligefrem at vise dine »Stjerne-Forlæggere«
                     alt det satte Manuskript af mit og bevæge dem til at sende mig 50 Kr. til Hjælp
-                    at komme paa Landet. Det nytter ikke <emph>kun</emph> at trække paa Langhoff.
-                    Det irriterer og <emph>skader</emph> min Stilling. <emph>Gør dér intet
-                        Skridt</emph>.</p>
-                <p>Jeg skal skrive til Paul<note>Dvs. forlæggeren Poul Langhoff</note> om Stumpen
+                    at komme paa Landet. Det nytter ikke <hi rend="italics">kun</hi> at trække paa Langhoff.
+                    Det irriterer og <hi rend="italics">skader</hi> min Stilling. <hi rend="italics">Gør dér intet
+                        Skridt</hi>.</p>
+            <p>Jeg skal skrive til Paul<ref target="n1"/> om Stumpen
                     til »Stjernen«. Jeg betragter det som selvfølgeligt. Men svar mig først: Vil du
                     have Gravesens <app>
-                        <lem>Bal</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app>? De kan bedst løses ud og gaa alene<note>Kapitlet 'Gravesens Bal' i
-                        romanen Stuk blev ikke trykt selvstændigt i Nordstjernen. Derimod rummer det
-                        nummer af Nordstjernen, som udkom 9.10.1887, Bangs novelle 'Den sidste
-                        Balkjole' og fik hér den overordnede overskrift »De Glemte« II (I var
-                        novellen Irene Holm, trykt i Nordstjernen, 21. og 28.11.1886). Romanen Stuk
-                        udkom i København sidst i oktober 1887</note>. Svar ogsaa, hvad dine
+                  <lem>Bal</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app>? De kan bedst løses ud og gaa alene<ref target="n2"/>. Svar ogsaa, hvad dine
                     Forlæggere svarer ‒ ti jeg bliver hver Dag uslere.</p>
-                <p>Hils alle. Forhaabenlig er du nu rask.</p>
-                <p rend="right">Din Herman</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Hils alle. Forhaabenlig er du nu rask.</p>
+            <p rend="right">Din Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>

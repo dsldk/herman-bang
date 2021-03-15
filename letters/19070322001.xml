@@ -1,124 +1,142 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19070322001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 415</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 6 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-03-22" notBefore="9999-99-99" notAfter="9999-99-99">1907. 22. marts [fredag]<note>empty</note>
-                </date>
-                <placeName cert="low">[København?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">22.3.1907.</p>
-                <p>Kære Ven.</p>
-                <p>Det er for en anden, jeg skriver og tilmed uden, at han ved det. Sér du, det er rent
-               galt med <persName key="Houmark, Christian">Houmark</persName>
-                    <note>Christian Houmark (1869-1950), journalist, fra 1899 ved avisen København, fra 1921 ved Det Berlingske Hus; fra 1899 lejlighedsvis sekretær for Herman Bang</note>. Under alle de Smerter, der ramte mig, maatte han
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070322001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 415</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 6 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1907-03-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-03-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 22. marts [fredag]<note>empty</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">22.3.1907.</p>
+            <p>Kære Ven.</p>
+            <p>Det er for en anden, jeg skriver og tilmed uden, at han ved det. Sér du, det er rent
+               galt med <persName key="Houmark_Christian">Houmark</persName>
+               <ref target="n1"/>. Under alle de Smerter, der ramte mig, maatte han
                bære en stor Del af den ydre Side af mine Tilskikkelser. Og, skønt han altid er svag,
                bar han dem beundringsværdigt. Men et Menneskes Kræfter slaar ikke til overalt. Og i
                denne frygtelige Vinter, hvor han maatte redde Facaden, blev der Uryd inde i Stuerne.
                Han bestred sit nødvendigste Arbejde – men det øvrige (der maa til for at han kan
-                  <emph>leve</emph>) forblev ubesørget. ɔ: At han kom i en græsselig Underballance.
-               Og denne Underballance er – Underballance paa et <emph>Hotel</emph>, hvad der er
-               kompromitterende. Nu er Bomben sprungen. <persName key="Jensen, Anders">Anders
+                  <hi rend="italics">leve</hi>) forblev ubesørget. ɔ: At han kom i en græsselig Underballance.
+               Og denne Underballance er – Underballance paa et <hi rend="italics">Hotel</hi>, hvad der er
+               kompromitterende. Nu er Bomben sprungen. <persName key="Jensen_Anders">Anders
                   Jensen</persName>
-                    <note>Anders Jensen (1861-1940), slagtermester, ejer af Hotel <placeName key="Marienlyst">Marienlyst</placeName> ved Helsingør og Hotel Kongen af Danmark i
-               København</note>, hvem jeg har gjort saa urimeligt mange Tjenester og som – ligesom
+               <ref target="n2"/>, hvem jeg har gjort saa urimeligt mange Tjenester og som – ligesom
                de fleste andre – nu har glemt <app>
-                        <lem>dem</lem>
-                        <rdg>d'et er rettet, vistnok fra et h</rdg>
-                    </app>, har pludselig sat Houmark Kniven foran Struben og har fordret Regningen
-               betalt strax. Dens Deficit<note>Af lat.: underskud, underbalance</note> var
+                  <lem>dem</lem>
+                  <rdg>d'et er rettet, vistnok fra et h</rdg>
+               </app>, har pludselig sat Houmark Kniven foran Struben og har fordret Regningen
+               betalt strax. Dens Deficit<ref target="n3"/> var
                syvhundrede Kroner. De tre har jeg skaffet. Men de andre staar til Rest og maa
                hidskaffes.</p>
-                <p>Nu har jeg tænkt frem og tilbage. Og tilsidst spurgte <app>
-                        <lem>jeg</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> mig selv: Kunde ikke Forlaget give ham tre? Tingen er den, at jeg i Aar og Dag
+            <p>Nu har jeg tænkt frem og tilbage. Og tilsidst spurgte <app>
+                  <lem>jeg</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> mig selv: Kunde ikke Forlaget give ham tre? Tingen er den, at jeg i Aar og Dag
                – med H's Interviews som Grundlag – har trængt ind paa ham for at faa ham til at
-               skrive en <emph>satirisk Bog</emph>. Utvivlsomt kan han det. Og hvis I gav ham
+               skrive en <hi rend="italics">satirisk Bog</hi>. Utvivlsomt kan han det. Og hvis I gav ham
                Pengene, havde vi en Klemme paa ham, saa han virkelig tog fat og maaske skabte en
-               Bog, der blev os alle til Glæde<note>Houmarks bogdebut var romanen <title key="Det Syndens Barn">Det Syndens Barn</title>.
-                  En Type. Gyldendal 1908</note>.</p>
-                <p>Nu véd jeg jo slet ikke, hvad du vil mene.</p>
-                <p>Er det hele umuligt, saa svar slet ikke. Finder du nogen <emph>Rimelighed</emph> i
+               Bog, der blev os alle til Glæde<ref target="n4"/>.</p>
+            <p>Nu véd jeg jo slet ikke, hvad du vil mene.</p>
+            <p>Er det hele umuligt, saa svar slet ikke. Finder du nogen <hi rend="italics">Rimelighed</hi> i
                min Tanke, da telefonér til Houmark – og naar du da taler med ham, <app>
-                        <lem>kan</lem>
-                        <rdg>k'et er tilsyneladende rettet fra et andet begyndelsesbogstav</rdg>
-                    </app> du jo fortælle ham det Hele – om mit Brev, mener jeg.</p>
-                <p>I modsat Fald erfarer han slet intet om min Idé eller om dette Brev.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+                  <lem>kan</lem>
+                  <rdg>k'et er tilsyneladende rettet fra et andet begyndelsesbogstav</rdg>
+               </app> du jo fortælle ham det Hele – om mit Brev, mener jeg.</p>
+            <p>I modsat Fald erfarer han slet intet om min Idé eller om dette Brev.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

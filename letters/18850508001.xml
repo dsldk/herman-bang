@@ -1,141 +1,156 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Peter Nansen</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18850508001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>empty</settlement>
-                                <repository>empty</repository>
-                                <idno>empty</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brevfragment; originalbrevet er tabt</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="empty">
-                                        <ab>empty</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Politiken, 14.5.1885. Optrykt efter dette avistryk som Vandreaar
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850508001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>empty</settlement>
+                        <repository>empty</repository>
+                        <idno>empty</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brevfragment; originalbrevet er tabt</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="empty">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Politiken, 14.5.1885. Optrykt efter dette avistryk som Vandreaar
                               nr. XVIII</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1885-05-08" notBefore="9999-99-99" notAfter="9999-99-99">1885. 8. maj [fredag]<note>Det originale brev er ikke
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Sankt Petersborg</placeName>
+               <date when="1885-05-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-05-08"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 8. maj [fredag]<note>Det originale brev er ikke
                   bevaret og var ukendt i 1918, jf. Vandreaar, s. 13. Ordlyden af dette privatbrev
                   kendes kun fra det fyldige fragment, som Peter Nansen anonymt lod trykke på
                   forsiden af Politiken, torsdag 14.5.1885, under overskriften: <q>Indtryk fra St.
                      Petersborg. (Brudstykke af et Privatbrev.)</q>. Avistrykket er forlæg for denne
                   gengivelse</note>
-                </date>
-                <placeName cert="high">Sankt Petersborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">St. Petersborg, d. 8. Maj 85.</p>
-                <p>– – – Den, som troede, at han i St. Petersborg vilde træffe en stærkt bevæget, endnu
+            </date>
+            <placeName cert="high">Sankt Petersborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">St. Petersborg, d. 8. Maj 85.</p>
+            <p>– – – Den, som troede, at han i St. Petersborg vilde træffe en stærkt bevæget, endnu
                af de mange Sindsbevægelser ophidset Stad, bliver skuffet. Czarens By er altid éns:
                paa Overfladen rolig, sugende en sparsom Visdom af en karrig Censurs Meddelelser.
                "Mig sker der – siger denne tilsyneladende Uberørthed – hvad Czaren vil."</p>
-                <p>Der var i det ydre ingen Forskel at spore paa det St. Petersborg, som hver Dag
+            <p>Der var i det ydre ingen Forskel at spore paa det St. Petersborg, som hver Dag
                ventede Krig og Ødelæggelse af hele sin Handel, og det St. Petersborg, som iforgaars
                erfarede, at Czarens Regering saa lykkeligt havde besejret <placeName key="England">England</placeName>
-                    <note>Russiske tropper havde 30.3.1885 angrebet den dengang nordvestlige del af Afghanistan, et område der længe havde været militær stødpudezone mellem det britiske Indien og det russiske kejserrige. I foråret 1885 var det ad diplomatisk vej lykkedes at afværge en krig om dette landområde mellem Storbritannien og Rusland</note> uden at anvende andre Vaaben end Fasthed og Klarhed i sit engang
+               <ref target="n1"/> uden at anvende andre Vaaben end Fasthed og Klarhed i sit engang
                indtagne Standpunkt.</p>
-                <p>Der var ingen Sammenstimlen om Avisdrengene paa Newski<note>Aleksander Nevskij
-                  Prospekt, hovedgaden i Sankt Petersborg</note>, ingen højrøstede Disputer paa
+            <p>Der var ingen Sammenstimlen om Avisdrengene paa Newski<ref target="n2"/>, ingen højrøstede Disputer paa
                Restauranterne. Ruslands Hovedstad har den Selvbeherskelse tilsyneladende at bekymre
                sig lige lidet om Freden som om Krigen.</p>
-                <p>Og samme Fysiognomi har Kejserbyen bevaret i alle disse sidste Aar. Der kan ske
+            <p>Og samme Fysiognomi har Kejserbyen bevaret i alle disse sidste Aar. Der kan ske
                hvadsomhelst – Nihilister kan sprænge Paladser i Luften, og Nihilister kan i Masse
                blive hængt, Krig kan true og Fred kan sluttes – Petersborg véd intet eller lader som
                den intet véd. Den lever uforanderligt med Ligegladhedens Maske for Ansigtet.</p>
-                <p>Den spiser meget, drikker, kører, handler – det sidste for Øjeblikket kun lidt –
+            <p>Den spiser meget, drikker, kører, handler – det sidste for Øjeblikket kun lidt –
                spiller højt, udstiller sine Kokotter, fejrer sine Fester uden Ophør og uden
                Afveksling.</p>
-                <p>Jeg tror, at hvis Du i dette Øjeblik kom til St. Petersborg, vilde Du føle en dyb
+            <p>Jeg tror, at hvis Du i dette Øjeblik kom til St. Petersborg, vilde Du føle en dyb
                Skuffelse. Af alt, hvad Du har ventet, vil Du kun finde meget lidt. Thi – ikke sandt
-               – naar vi i vor Fantasi udmalede os Neva<note>Floden, ved hvis udmunding Sankt
-                  Petersborg blev anlagt</note> og Petersborg, tænkte vi os dog ejendommelige Typer
+               – naar vi i vor Fantasi udmalede os Neva<ref target="n3"/> og Petersborg, tænkte vi os dog ejendommelige Typer
                paa Gaderne: Theater-Nihilister, skumle, hastigt ilende Figurer, mange
                Politisoldater, hemmeligt listende Spioner – en hel Personliste fra et
                Verdensmelodrama. Og istedetfor alt dette vil Du kun finde den stakkels
-                  Dvornick<note>russ.: gårdskarl, portner, mand som har opsyn med et hus (ifølge
-                  Meyers Fremmedordbog, 1924)</note>, Dørvogteren, som uforanderligt sover foran
-               hver Dør i St. Petersborg for at passe paa, at ingen Nihilister<note>Udtrykket bruges
-                  om datidens terrorister i Rusland, der ved attentater o.l. stræbte efter at
-                  forberede en radikal samfundsomstyrtning</note> gaar ind i Huset.</p>
-                <p>Og selv om vi lader alle Fantasier fare, saa havde vi dog ventet, at vi i Petersborg
+                  Dvornick<ref target="n4"/>, Dørvogteren, som uforanderligt sover foran
+               hver Dør i St. Petersborg for at passe paa, at ingen Nihilister<ref target="n5"/> gaar ind i Huset.</p>
+            <p>Og selv om vi lader alle Fantasier fare, saa havde vi dog ventet, at vi i Petersborg
                vilde møde en ejendommelig Luft, en vis Vulkan-Frygt, en Fornemmelse, som om Jorden
                gyngede ganske lidt. En Vildfarelse. Der, hvor de politiske Stordramer
-                  <emph>ageres</emph>, synes maaske Jorden at gynge; hvor de <emph>leves</emph>,
+                  <hi rend="italics">ageres</hi>, synes maaske Jorden at gynge; hvor de <hi rend="italics">leves</hi>,
                synes intet saa fast og sikkert som Samfunds-Jorden.</p>
-                <p>Jeg tror, at hvis Du kom til Czarbyen, vilde Du som jeg først og sidst imponeres af
+            <p>Jeg tror, at hvis Du kom til Czarbyen, vilde Du som jeg først og sidst imponeres af
                Massen. Rent ud Stenmængden, de uhyre Proportioner betager En. Det er ikke Paladser,
                men Paladsmængder. Stenuhyrer, ofte uskønne, altid kæmpemæssige. St. Petersborg er
                det kolossales By.</p>
-                <p>Du vilde ogsaa blive slaaet af den evindelige Røgelselugt. Den hænger i Kuskenes
+            <p>Du vilde ogsaa blive slaaet af den evindelige Røgelselugt. Den hænger i Kuskenes
                Klæder, den hviler over Basarernes Varemængder; man mærker den i Forstuer og i
                Saloner. Den slaar ud fra de utallige Kapeller, som findes i alle Gader, oser med sin
                stramme Vellugt op fra de tusinde hellige Lamper. Man kan ikke drage Aande uden at
                faa Røgelse i Halsen.</p>
-                <p>Hvorhen man vender Øjet: hellige Billeder ... Ingen Kusk flyver forbi med sin Vogn
+            <p>Hvorhen man vender Øjet: hellige Billeder ... Ingen Kusk flyver forbi med sin Vogn
                uden at hilse med en Mumlen den guldmalte Helgen. Foran
-                  Isakskirken<note>Isak-Katedralen på Nevskij Prospekt</note> kaster man sig ned
+                  Isakskirken<ref target="n6"/> kaster man sig ned
                paa sine Knæ, paa Maven og ligger Minutter ad Gangen. – –</p>
-                <p>Og i Modsætning til dette, Newski om Natten. Klokken to. Hundreder af elektriske Blus
+            <p>Og i Modsætning til dette, Newski om Natten. Klokken to. Hundreder af elektriske Blus
                spreder et Skær som den lyse Dag. Og tusinde Vogne, forfulgte af deres tusinde lange
                Skygger, iler ned ad Newskis uendelige Gade. I aaben Ekvipage, indhyllet i Pelsværk,
                kører Demimondens Damer til Natrestauranterne, mens de ægte Damer ruller i
@@ -144,10 +159,10 @@
                kaukasiske Skimler, som springer i deres løse Spand. Raab og Skrig fra Tjenerne,
                Smælden og Pisken. – – Alle Ansigter, alle Toiletter, alle Livréer, skarpt røde i
                Hvidglød-Lys.</p>
-                <p>Men hvor imponeret man saa bliver, Glæde føler man ikke. .. St. Petersborg er en
+            <p>Men hvor imponeret man saa bliver, Glæde føler man ikke. .. St. Petersborg er en
                Skønhed uden Sjæl.</p>
-                <p>Czarens Politiherredømme har knuget Sjælen af hans Hovedstad.</p>
-            </div>
-        </body>
-    </text>
+            <p>Czarens Politiherredømme har knuget Sjælen af hans Hovedstad.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

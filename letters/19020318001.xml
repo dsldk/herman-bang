@@ -1,113 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19020318001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 803</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider; brevets venstre kant er senere blevet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19020318001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 803</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; brevets venstre kant er senere blevet
                                                 perforeret med to huller i en hullemaskine, således
                                                 at brevet har kunnet sættes ind i et ringbind</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1902-03-18">[1902, 18. marts] Tirsdag <note>Bertha Holst
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Frederikssund]</placeName>
+               <date when="1902-03-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Bertha Holst (Bangs nièce)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1902-03-18">[1902, 18. marts] Tirsdag <note>Bertha Holst
                         (1881-1929) var 1901-05 leder af en skole i Rørvig. Af brevet fremgår det,
                         at hun i påsken har planlagt et besøg hos sin (adoptiv)mor Nini Holst, der
                         boede i samme lejlighed i København som Herman Bang. I 1902 faldt
                         Palmesøndag 23.3. og Påskedag 30.3.; alternativt kan det tænkes, at brevet
                         er skrevet tirsdag 25.3. Bang opholdt sig en række uger i marts-april 1902
                         som rekonvalescent i Frederikssund</note>
-                </date>
-                <placeName cert="low">[Frederikssund]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Min egen Bertha.</p>
-                <p>Du kan tro, jeg er ked af, at jeg ikke er hjemme i Paasken ‒ for din Skyld, mit
+            </date>
+            <placeName cert="low">[Frederikssund]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Min egen Bertha.</p>
+            <p>Du kan tro, jeg er ked af, at jeg ikke er hjemme i Paasken ‒ for din Skyld, mit
                     kære Barn. Men jeg var altfor syg og er det endnu. Naa, lidt bedre er det. Men
                     mange Uger vil det, i heldigste Fald, vare, før jeg kan tage herfra. Da du sidst
                     var hjemme, var jeg da ogsaa kun saa daarlig, at det blot var en Ynk for dig at
                     sé og at fornemme.</p>
-                <p>Hav det nu saa godt du kan, min lille Ven. Frøken Andersen<note>Uoplyst. Måske en
-                        hushjælp i lejligheden Gammel Kongevej 25, 4. sal</note> har tre
+            <p>Hav det nu saa godt du kan, min lille Ven. Frøken Andersen<ref target="n1"/> har tre
                     Teater-Visitkort til dig.</p>
-                <p>Hils Jens Peter<note>Jens Peter von Scholten (1882-1947), premierløjtnant, boede
-                        som logerende i lejligheden Gammel Kongevej 25, 4. sal</note> saa umaadelig
-                    mange Gange. Hilsener til Fruen<note>Nini Holst (1853-1922), søster til Herman
-                        Bang, (adoptiv)mor til Bertha Holst; Nini Holst boede Gammel Kongevej 25, 4.
-                        sal</note> og Frk. Scholten<note>Måske en søster til Jens Peter von
-                        Scholten?</note> og mange til Margrethe<note>Uoplyst</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Hils Jens Peter<ref target="n2"/> saa umaadelig
+                    mange Gange. Hilsener til Fruen<ref target="n3"/> og Frk. Scholten<ref target="n4"/> og mange til Margrethe<ref target="n5"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

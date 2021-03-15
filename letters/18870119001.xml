@@ -1,131 +1,147 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870119001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider. På brevets anden side er et stort
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870119001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider. På brevets anden side er et stort
                                                 hjørne afrevet med teksttab til følge</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-01-19">1887, 19. januar, Onsdag<note>empty</note>
-                </date>
-                <placeName cert="high">[Prag]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Onsdag 19.1.87. Aften.</p>
-                <p>Min Ven.</p>
-                <p>Det er idag Onsdag. Og endnu har Schou ikke svaret (Penge er heller ikke sendt,
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1887-01-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-01-19">1887, 19. januar, Onsdag<note>empty</note>
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag 19.1.87. Aften.</p>
+            <p>Min Ven.</p>
+            <p>Det er idag Onsdag. Og endnu har Schou ikke svaret (Penge er heller ikke sendt,
                     saalidt fra ham som fra »Illustreret Tidende«). Jeg vil saa nødigt skrive
-                    allarmerende; og jeg <emph>forbyder</emph> dig at vise dette Brev til nogen.</p>
-                <p>Men til dig vil jeg skrive Sandheden, for at du maa kunne forstaa, at Uvisheden
+                    allarmerende; og jeg <hi rend="italics">forbyder</hi> dig at vise dette Brev til nogen.</p>
+            <p>Men til dig vil jeg skrive Sandheden, for at du maa kunne forstaa, at Uvisheden
                     maa have en Ende. Min egen Ven, som en fortvivlet kæmper jeg Dag for Dag mod
                     Hjerneforstyrrelsen. Dette Aar har nærmet den frygteligt. Siden Nytaar nu har
                     jeg ‒ som i sin Tid Fader ‒ altid bogstaveret forkért, og jeg maa kæmpe som en
                     besat for at huske Ordenes Følge. Hvad jeg lider i denne Kamp ‒ som en evig
                     Forfølgesindbildning forstærker ‒ lad Sagaen tie derom. Men jeg besværger dig:
                     jeg er som et Menneske, om hvem Vandene stiger. Kun et Arbejde kan (som hidsende
-                    Drik) holde dette tilbage. Kun Arbejde og <emph>Vished</emph>.</p>
-                <p>Du skal ikke svare noget paa dette Brev. Lægen her sagde mig alt dette réntud.
+                    Drik) holde dette tilbage. Kun Arbejde og <hi rend="italics">Vished</hi>.</p>
+            <p>Du skal ikke svare noget paa dette Brev. Lægen her sagde mig alt dette réntud.
                     Ved en uhyre Viljeanstrængelse ved jeg, at jeg <app>
-                        <lem>[...]</lem>
-                        <rdg>Et hjørne er afrevet; resten af linjen er gået tabt</rdg>
-                    </app> Men jeg <emph>beder</emph> dig: <emph>nu maa Uvish<app>
-                            <lem>[...]</lem>
-                            <rdg>Et hjørne er afrevet; resten af linjen er gået tabt</rdg>
-                        </app></emph>
-                    <emph>begynde paa dette Værk, som jeg bærer i m<app>
-                            <lem>[...]</lem>
-                            <rdg>Et hjørne er afrevet; nogle få ord er gået tabt</rdg>
-                        </app></emph> som saá Fader, hvad tror du ikke, at hans Søn lider ved at
+                  <lem>[...]</lem>
+                  <rdg>Et hjørne er afrevet; resten af linjen er gået tabt</rdg>
+               </app> Men jeg <hi rend="italics">beder</hi> dig: <hi rend="italics">nu maa Uvish<app>
+                     <lem>[...]</lem>
+                     <rdg>Et hjørne er afrevet; resten af linjen er gået tabt</rdg>
+                  </app>
+               </hi>
+               <hi rend="italics">begynde paa dette Værk, som jeg bærer i m<app>
+                     <lem>[...]</lem>
+                     <rdg>Et hjørne er afrevet; nogle få ord er gået tabt</rdg>
+                  </app>
+               </hi> som saá Fader, hvad tror du ikke, at hans Søn lider ved at
                     føle Hjerneforstyrrelsen lure i hvert Bogstav?</p>
-                <p>Naar det engang <emph>er</emph> blevet Nat om mig, kan dette Brev sige, hvor
+            <p>Naar det engang <hi rend="italics">er</hi> blevet Nat om mig, kan dette Brev sige, hvor
                     tidligt jeg vidste alt. Men nu maa der skaffes mig Ro, for at idetmindste
                     Bolværk kan sættes.</p>
-                <p>Svaret fra Schou maa jeg have.</p>
-                <p>Til den første skal jeg flytte. Lægen tør ikke lade mig bliver her, da der er
+            <p>Svaret fra Schou maa jeg have.</p>
+            <p>Til den første skal jeg flytte. Lægen tør ikke lade mig bliver her, da der er
                     Svamp i Huset. Og her betales Kvartalshusleje ‒ og saa Læge.... Og min Indtægt i
                     Januar er til nu 80 Gylden.</p>
-                <p>Men naar Schou dog svarer. At alt kan blive ordnet, og Penge skaffes. Og Arbejdet
+            <p>Men naar Schou dog svarer. At alt kan blive ordnet, og Penge skaffes. Og Arbejdet
                     begynde.</p>
-                <p>Tal nu til ingen om dette Brevs Indhold. Men sig Schou, at Bestemmelse
-                        <emph>maa</emph> træffes, ti, <emph>selvom</emph> jeg kunde leve uden Penge,
-                        <emph>tillader</emph> min Tilstand ikke Uvished.</p>
-                <p>Og du ‒ min Ven ‒ bliv ikke træt af den Barmhjertighedsgerning, for hvilken jeg
-                    ikke kan lønne dig. Og <emph>skaf mig et Svar</emph>. Og »Illust: Tidendes«
+            <p>Tal nu til ingen om dette Brevs Indhold. Men sig Schou, at Bestemmelse
+                        <hi rend="italics">maa</hi> træffes, ti, <hi rend="italics">selvom</hi> jeg kunde leve uden Penge,
+                        <hi rend="italics">tillader</hi> min Tilstand ikke Uvished.</p>
+            <p>Og du ‒ min Ven ‒ bliv ikke træt af den Barmhjertighedsgerning, for hvilken jeg
+                    ikke kan lønne dig. Og <hi rend="italics">skaf mig et Svar</hi>. Og »Illust: Tidendes«
                     Smule Skilling.</p>
-                <p>Hils din Hustru.</p>
-                <p rend="right">Din Herman.</p>
-                <p>Penge i Mandags [...]</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Hils din Hustru.</p>
+            <p rend="right">Din Herman.</p>
+            <p>Penge i Mandags [...]</p>
+         </div>
+      </body>
+   </text>
 </TEI>

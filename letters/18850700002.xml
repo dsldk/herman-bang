@@ -1,110 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18850700002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 244</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider. Brevpapir: slyngmonogram HJB (uden krone)</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Med fremmed hånd er med blyant skrevet: <q>[1885]</q> øverst på
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850700002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 244</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Brevpapir: slyngmonogram HJB (uden krone)</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med fremmed hånd er med blyant skrevet: <q>[1885]</q> øverst på
                               brevet, lige under nummeret 244. Jf. tilsvarende ved Nr. 243, 245 og
                               246. Kilden hertil er ukendt</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1885-07-01" notBefore="9999-99-99" notAfter="9999-99-99">[1885. juli] Aften<note>Jf. de to breve 1885. juli, "Lørdag" og "Søndag"</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">
-                    <app>
-                        <lem>d.</lem>
-                        <rdg>Læsning usikker; det ornamentagtige bogstav kan ligne Bangs d'er ved nogle få
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1885-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1885-07-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. juli] Aften<note>Jf. de to breve 1885. juli, "Lørdag" og "Søndag"</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <app>
+                  <lem>d.</lem>
+                  <rdg>Læsning usikker; det ornamentagtige bogstav kan ligne Bangs d'er ved nogle få
                      andre tilfælde af datering</rdg>
-                    </app> Aften</p>
-                <p>Kære Don.</p>
-                <p>Nei – kære Peter – hvor gerne jeg end vilde, saa kan jeg ikke tænke mig, at <persName key="Aalberg, Ida">Ida</persName>
-                    <note>Ida Aalberg (1857-1915) finsk skuespillerinde; under sin gæsteoptræden 1885-86 ved Casino og Dagmarteatret i København spillede hun på svensk og senere på dansk</note> skulde <emph>engageres</emph>. Hun <emph>er</emph> for god
-               til at benyttes af vore Ønsker og af <persName key="Andersen, Theodor">Andersen</persName>
-                    <note>Theodor Andersen (1835-1909), 1884-87 direktør for Dagmarteatret</note> –; saadan er det: dansk lærer hun dog aldrig og som
-                  <emph>fast</emph> ved et dansk Teater taales hun i Længden ikke med et slet dansk <app>
-                        <lem>eller</lem>
-                        <rdg>Før dette ord står et overstreget: (eller)</rdg>
-                    </app> med et svensk. Saa er hun forbi – ti Finlands Sympati mister hun vel ganske,
+               </app> Aften</p>
+            <p>Kære Don.</p>
+            <p>Nei – kære Peter – hvor gerne jeg end vilde, saa kan jeg ikke tænke mig, at <persName key="Aalberg_Ida">Ida</persName>
+               <ref target="n1"/> skulde <hi rend="italics">engageres</hi>. Hun <hi rend="italics">er</hi> for god
+               til at benyttes af vore Ønsker og af <persName key="Andersen_Theodor">Andersen</persName>
+               <ref target="n2"/> –; saadan er det: dansk lærer hun dog aldrig og som
+                  <hi rend="italics">fast</hi> ved et dansk Teater taales hun i Længden ikke med et slet dansk <app>
+                  <lem>eller</lem>
+                  <rdg>Før dette ord står et overstreget: (eller)</rdg>
+               </app> med et svensk. Saa er hun forbi – ti Finlands Sympati mister hun vel ganske,
                naar hun officielt forlader Landet.</p>
-                <p>Lad hende spille saa meget hun vil, og <emph>vi</emph> vil, paa Dagmar som Gæst – men
-               vi <emph>kan</emph> ikke forsvare det andet.</p>
-                <p>Tro mig, at jeg har Ret (du ved dog, hvor gerne jeg vil ærgre og skade en vis Person)
-               dette kan vi ikke. Og forsøg at overbevise <persName key="Brandes, Edvard">Brandes</persName>
-                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> derom.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-                <p>Jeg er i Kasino.</p>
-            </div>
-        </body>
-    </text>
+            <p>Lad hende spille saa meget hun vil, og <hi rend="italics">vi</hi> vil, paa Dagmar som Gæst – men
+               vi <hi rend="italics">kan</hi> ikke forsvare det andet.</p>
+            <p>Tro mig, at jeg har Ret (du ved dog, hvor gerne jeg vil ærgre og skade en vis Person)
+               dette kan vi ikke. Og forsøg at overbevise <persName key="Brandes_Edvard">Brandes</persName>
+               <ref target="n3"/> derom.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Jeg er i Kasino.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,102 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18891214001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 81</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev. Brevpapir med trykte initialer: H.B. øverst tilvenstre;
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18891214001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 81</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev. Brevpapir med trykte initialer: H.B. øverst tilvenstre;
                                  begge bogstaver med en lang nedstreg</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1889-12-14" notBefore="9999-99-99" notAfter="9999-99-99">[1889. 14. december. ] Lørdag<note>Dateres i forhold til brevet
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1889-12-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1889-12-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1889. 14. december. ] Lørdag<note>Dateres i forhold til brevet
                   1889. 11. december. </note>
-                </date>
-                <placeName cert="high">Odense</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Odense. Lørdag.</p>
-                <p>Kære Nansen.</p>
-                <p>Imorges fik jeg indlagte Brevskab.</p>
-                <p>Jeg har takket <persName key="Lie, Jonas">"Jonas"</persName>
-                    <note>Den norske forfatter Jonas Lie (1833-1908). Frem til 20.12.1889 ses ingen Lie-relateret artikel i Politiken
-                  eller i København. I sidstnævnte avis anmeldte Bang 21.12.1889 Jonas Lie: <title key="Digte">Digte</title>
-                    </note> med de Ord, at jeg vilde lade det trykke. Han
-               er jo naturligvis forberedt. Men hvis du – <emph>som jeg</emph> – finder, at det er
+            </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Odense. Lørdag.</p>
+            <p>Kære Nansen.</p>
+            <p>Imorges fik jeg indlagte Brevskab.</p>
+            <p>Jeg har takket <persName key="Lie_Jonas">"Jonas"</persName>
+               <ref target="n1"/> med de Ord, at jeg vilde lade det trykke. Han
+               er jo naturligvis forberedt. Men hvis du – <hi rend="italics">som jeg</hi> – finder, at det er
                lidt svært for "Politiken" nu at tude i norsk Lur igen, saa læg Brevet i en Konvolut
-               og giv <persName key="Rode, Ove">Rode</persName>
-                    <note>Journalisten Ove Rode (1867-1933), dvs. avisen København</note> det.</p>
-                <p>
-                    <emph>Der</emph> ser det ikke saa udfordrende ud.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H. B.</p>
-                <p>Brevet bør du allenfals have til Eje.</p>
-            </div>
-        </body>
-    </text>
+               og giv <persName key="Rode_Ove">Rode</persName>
+               <ref target="n2"/> det.</p>
+            <p>
+               <hi rend="italics">Der</hi> ser det ikke saa udfordrende ud.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H. B.</p>
+            <p>Brevet bør du allenfals have til Eje.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

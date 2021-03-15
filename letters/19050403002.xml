@@ -1,110 +1,128 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19050403002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Nr. 32</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1905-04-03" notBefore="9999-99-99" notAfter="9999-99-99">1905. 3. april [mandag]<note>empty</note>
-                </date>
-                <placeName cert="high">Køge</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Køge 3.4. 1905.</p>
-                <p>Min kære Ven.</p>
-                <p>Ja, nu er <persName key="Ernst, Knud">Ernst</persName>
-                    <note>Knud Ernst, Bangs sekretær og tjener</note> rejst. Det er slemt. For han var
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050403002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 32</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Køge</placeName>
+               <date when="1905-04-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-04-03"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 3. april [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Køge</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Køge 3.4. 1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Ja, nu er <persName key="Ernst_Knud">Ernst</persName>
+               <ref target="n1"/> rejst. Det er slemt. For han var
                rar og god og meget brav. Og saa lidet høflig han kunde synes mod mig udvendig, saa
                hensynsfuld var han alligevel, saa at sige, "indvendig" .... Men nu er han rejst og i
                mit helt ensomme Liv betyder det meget ... Igaar kom <persName key="Eskildsen">Tjeneren</persName>
-                    <note>Sandsynligvis Eskildsen</note>, som er en elegant og smidig og
-                  forslagen<note>Dvs. kløgtig og med evne til at improvisere i uforudsete
-                  situationer</note> Kammertjener fra "Gaardene"<note>Dvs. fra det danske
-                  herregårdsmiljø</note> ... Jeg har tænkt paa, at De kan jo altid laane ham til
+               <ref target="n2"/>, som er en elegant og smidig og
+                  forslagen<ref target="n3"/> Kammertjener fra "Gaardene"<ref target="n4"/> ... Jeg har tænkt paa, at De kan jo altid laane ham til
                Middage. Vi kan saa nemt lade lave nogle smaa Klædes-Overtræk til hans Knapper. Og
                han er vist meget pyntelig til Deres dejlige Spisestue .... Jeg er begyndt at blive
                meget træt – maaske ogsaa, fordi der, skønt der allevegne er meget fuldt Hus, bliver
                saa umaadelig lidt tilovers. De véd, hvor melankolsk jeg ser ud, naar jeg siger det.
                – – Naa, det er godt, at min Turnée har betalt Lærepengene. Desto mere vil De til
-               næste Aar kunne tjene. De vil kunne tjene meget – – Nu er <emph>min</emph> "Kunst" jo
-               snart forbi: "Moder, jeg er træt, nu vil jeg sove"<note>Førstelinjen i <persName key="Andersen, H.C.">H.C. Andersen</persName>s digt "<title key="Det døende Barn">Det døende Barn</title>" (1827)</note> ..... Med min
-               lille <persName key="Holst, Bertha">Nièce</persName>
-                    <note>Bertha Holst (1881-1929), lærerinde, forfatter (debut 1908) af børnebøger og især ungpigebøger; adoptivdatter af A.P. og Nini Holst og dermed Herman Bangs nièce. Hun var indlagt i 1905 på tuberkulosesanatorium i Silkeborg</note> gaar det ilde; jeg synes, det er saa
+               næste Aar kunne tjene. De vil kunne tjene meget – – Nu er <hi rend="italics">min</hi> "Kunst" jo
+               snart forbi: "Moder, jeg er træt, nu vil jeg sove"<ref target="n5"/> ..... Med min
+               lille <persName key="Holst_Bertha">Nièce</persName>
+               <ref target="n6"/> gaar det ilde; jeg synes, det er saa
                altfor græsseligt, at saadant et ungt Barn, der aldrig har oplevet og aldrig levet,
                nu maaske skal dø ....</p>
-                <p>Lev vel. Og hils <persName key="Nansen, Peter">Nansen</persName>
-                    <note>Peter Nansen</note> saa mange Gange.</p>
-                <p>Deres Ven</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Lev vel. Og hils <persName key="Nansen_Peter">Nansen</persName>
+               <ref target="n7"/> saa mange Gange.</p>
+            <p>Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,111 +1,124 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19120111004</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 599</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Josef Melnik</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="postkort">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Postkort; billedsiden viser ordene: Hamburg-Amerika
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19120111004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 599</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="postkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Postkort; billedsiden viser ordene: Hamburg-Amerika
                                                 Line og rederiets flag i farver, i hvis midte et
                                                 anker og et våbenskjold med bogstaverne: H.A.P.A.G.
                                                 (forkortelse for: Hamburg Amerika Paketfahrt
                                                 Aktien-Gesellschaft). Postkortets adressefelt er
-                                                udfyldt i Bangs håndskrift: <emph>Mr. Josef Melnik.
-                                                  / Motzstrasse 54. / Berlin. W. / Europe</emph>;
+                                                udfyldt i Bangs håndskrift: <hi rend="italics">Mr. Josef Melnik.
+                                                  / Motzstrasse 54. / Berlin. W. / Europe</hi>;
                                                 det amerikanske postvæsen har tilføjet: Germany; det
                                                 tyske postvæsen har rettet gadenummeret til: 52, har
                                                 overstreget Berlin. W. og rettet det til:
                                                 Wilmersdf</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Med fremmed håndskrift er ved adressefeltet skrevet:
-                                            <emph>Empf. Motzstr. 54 unbekannt / 30 Fahner
-                                        1/2</emph>, dvs. 1. februar; formodentlig er dette skrevet
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med fremmed håndskrift er ved adressefeltet skrevet:
+                                            <hi rend="italics">Empf. Motzstr. 54 unbekannt / 30 Fahner
+                                        1/2</hi>, dvs. 1. februar; formodentlig er dette skrevet
                                         af postbudet i Berlin, før det tyske postvæsen har rettet
                                         Bangs skrevne gadenummer fra 54 til 52</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1912-01-11">1912, 11. Januar [torsdag] <note>Postkortet er
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">S/S Moltke, Atlanterhavet</placeName>
+               <date when="1912-01-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1912-01-11">1912, 11. Januar [torsdag] <note>Postkortet er
                         frankeret med et US-2 cents frimærke, poststemplet New York, N.Y.STA.O /
                         JAN20 12-M 1912</note>
-                </date>
-                <placeName cert="high">S/S Moltke, Atlanterhavet</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Moltke 11.1.1912</p>
-                <p>Mein lieber Ossip.</p>
-                <p>Es war glücklicherweise sehr stürmisch. Denn dieser Sturm war ein Bild der
+            </date>
+            <placeName cert="high">S/S Moltke, Atlanterhavet</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Moltke 11.1.1912</p>
+            <p>Mein lieber Ossip.</p>
+            <p>Es war glücklicherweise sehr stürmisch. Denn dieser Sturm war ein Bild der
                     Ewigkeit und der Allgewalt....</p>
-                <p>Sonst arbeite ich viel und spreche wenig. Aber das Ocean shaue ich stundenlang
+            <p>Sonst arbeite ich viel und spreche wenig. Aber das Ocean shaue ich stundenlang
                     an.</p>
-                <p rend="right">Tausend Grüsse.</p>
-                <p rend="right">Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Tausend Grüsse.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

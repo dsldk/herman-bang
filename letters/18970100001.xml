@@ -1,101 +1,113 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18970100001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Gyldendals arkiv B4c</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1897-01-01" notBefore="9999-99-99" notAfter="9999-99-99">[1897.  januar. ]<note>Dateres i forhold til en af de 12
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18970100001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1897-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1897-01-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1897.  januar. ]<note>Dateres i forhold til en af de 12
                   opførelser af operaen Ragnhild</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Nansen.</p>
-                <p>Vil du lade Overbringeren<note>Dvs. Bangs bud, som har afleveret dette brev direkte
-                  til Peter Nansen</note> faa "<title key="Ira">Ira</title>"<note>Roman af den danske litteratur- og kunsthistoriker
-                     <persName key="Bierfreund, Theodor">Theodor Bierfreund</persName> (1855-1906), Gyldendal
-                  1897</note>? Jeg er kommanderet i Seng og ethvert Besøg – udover
-                  "Bladets"<note>Aftenbladet, hvor Bang var bidragyder 1892-97</note> Medarbejdere
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Nansen.</p>
+            <p>Vil du lade Overbringeren<ref target="n1"/> faa "<!--start title reference--><title key="Ira">Ira</title>
+               <!--end title reference-->"<ref target="n2"/>? Jeg er kommanderet i Seng og ethvert Besøg – udover
+                  "Bladets"<ref target="n3"/> Medarbejdere
                – er forbudt. Jeg var i Teatret iaftes og havde egenlig tusinde Ting at sige
-                  <persName key="Nansen, Betty">"Fruen med Stenbordet"</persName>
-                    <note>Dvs. Betty Nansen. I Det Kongelige Teaters opførelse af komponisten <persName key="Hartmann, Emil">Emil Hartmann</persName> (1836-98) og sceneinstruktøren <persName key="Lehmann, Julius">Julius Lehmann</persName>s (1861-1931) opera <title key="Ragnhild">Ragnhild</title> (efter <persName key="Hertz, Henrik">Henrik Hertz</persName>' (1798-1870)
-                  skuespil <title key="Svend Dyrings Huus">Svend Dyrings
-                     Huus</title>) spillede Betty Nansen spillede Fru Helvigs stumme genfærd.
-                  Operaen blev opført 12 gange: 27.12.1896, 1.1., 8.1., 16.1., 20.1., 22.1., 28.1.,
-                  1.2., 25.2., 2.3., 6.3. og 21.3.1897 (sidste dato var dog en
-                  eftermiddagsforestilling). Januar 1897 foreslås som statistisk mest
-                  sandsynligt</note>.</p>
-                <p rend="right">Din Herman.</p>
-            </div>
-        </body>
-    </text>
+                  <persName key="Nansen_Betty">"Fruen med Stenbordet"</persName>
+               <ref target="n4"/>.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

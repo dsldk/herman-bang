@@ -1,141 +1,155 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19090614001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 470</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1909-06-14" notBefore="9999-99-99" notAfter="9999-99-99">1909. 14. juni [mandag]<note>Det sidste brev til Peter
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19090614001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 470</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1909-06-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1909-06-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1909. 14. juni [mandag]<note>Det sidste brev til Peter
                   Nansen fra Berlin. Ifølge dette brev forlod Bang Berlin 30.6.1909. I København
                   tiltrådte Bang i august 1909 sit engagement som sceneinstruktør ved Casino</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fasanenstrasse 58.</p>
-                <p rend="right">Berlin. W.</p>
-                <p rend="right">14.6.1909.</p>
-                <p>Kære Ven.</p>
-                <p>Jeg er saa mør, at jeg ikke kan skrive. Ikke en Gang om Legatet<note>Det Anckerske
-                  Legat</note> og <persName key="Larsen, Karl">Professor Karl</persName>
-                    <note>Forfatteren Karl Larsen (1860-1931), titulær professor 1899</note> kan jeg skrive (saa gav han sig altsaa, aa, Gud, hvor det
-               maa have kostet dig – <emph>Tak</emph>) – <emph>saa</emph> mør er jeg. Jeg vil jo
-               ikke forlade Berlin, før "Masker og Mennesker" er færdig. Jeg tror, at <persName key="Réjane, Gabrielle">"Gabrille Réjane"</persName> er god, og at <persName key="Nansen, Betty">"Betty Nansen"</persName> bliver det – saadan som <persName key="Lie, Jonas">"Jonas Lie"</persName>
-                    <note>Se brevet 19080719. Den norske forfatter Jonas Lie (1833-1908)</note> og "<persName key="Kainz, Josef">Josef
-                  Kainz</persName> som Hamlet"<note>Se brevet 19090415</note> var .... Den 27de
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">14.6.1909.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg er saa mør, at jeg ikke kan skrive. Ikke en Gang om Legatet<ref target="n1"/> og <persName key="Larsen_Karl">Professor Karl</persName>
+               <ref target="n2"/> kan jeg skrive (saa gav han sig altsaa, aa, Gud, hvor det
+               maa have kostet dig – <hi rend="italics">Tak</hi>) – <hi rend="italics">saa</hi> mør er jeg. Jeg vil jo
+               ikke forlade Berlin, før "Masker og Mennesker" er færdig. Jeg tror, at <persName key="Réjane_Gabrielle">"Gabrille Réjane"</persName> er god, og at <persName key="Nansen_Betty">"Betty Nansen"</persName> bliver det – saadan som <persName key="Lie_Jonas">"Jonas Lie"</persName>
+               <ref target="n3"/> og "<persName key="Kainz_Josef">Josef
+                  Kainz</persName> som Hamlet"<ref target="n4"/> var .... Den 27de
                skal vi bryde op og efter Sammenpakning den 30te være i København. Jeg rejser saa til
                   <placeName key="Marienlyst">Marienlyst</placeName> i tyve Dage og drager derpaa
-               ind i Lille Strandstræde 20<note>1. sal, Bangs bopæl fra juli 1909 til sommeren
-                  1911</note>. Men alt det er kun muligt, hvis I vil sende mig min sidste Gage plus
+               ind i Lille Strandstræde 20<ref target="n5"/>. Men alt det er kun muligt, hvis I vil sende mig min sidste Gage plus
                tohundrede Kroner – altsaa femhundre<app>
-                        <lem>[de]</lem>
-                        <rdg>De sidste to bogstaver mangler i Bangs tekst</rdg>
-                    </app> Kroner, naar du har modtaget dette Brev. Gud ske Tak, saa skal jeg ikke mere
+                  <lem>[de]</lem>
+                  <rdg>De sidste to bogstaver mangler i Bangs tekst</rdg>
+               </app> Kroner, naar du har modtaget dette Brev. Gud ske Tak, saa skal jeg ikke mere
                hæve Penge, som jeg ikke har fortjent – – – Betty <app>
-                        <lem>saa</lem>
-                        <rdg>Ordet er muligvis rettet fra: ser</rdg>
-                    </app> ret brav ud. Ak ja, kunde hun dog nu blive saa rask, at hun til næste Aar
-               kunde spille her. <persName key="Reinhardt, Max">Max Reinhardt</persName>
-                    <note>Den tyske teaterleder Max Reinhardt (1873-1943), Deutsches Theater, Berlin</note> kommer i
+                  <lem>saa</lem>
+                  <rdg>Ordet er muligvis rettet fra: ser</rdg>
+               </app> ret brav ud. Ak ja, kunde hun dog nu blive saa rask, at hun til næste Aar
+               kunde spille her. <persName key="Reinhardt_Max">Max Reinhardt</persName>
+               <ref target="n6"/> kommer i
                Efteraaret for – "at sé en Holbergforestilling". Og forhaabenlig Fru Nansen i en
-               Rolle. Du vilde tjene mig, om du omgaaende sendte mig "<title key="Agnete">Agnete</title>"<note>Skuespil af den norske forfatter <persName key="Skram, Amalie">Amalie
-                     Skram</persName>, udgivet hos Gyldendal 1893</note>. Jeg skal bruge nogle
-          Citater deraf. Aa, min Ven, hvor er jeg træt ... Ja, om <persName key="Brandes, Georg">Georg Brandes</persName>
-                    <note>Georg Brandes (1842-1927), dr.phil., litteraturkritiker og forfatter, bror til Edvard Brandes</note> har jeg talt. Men <persName key="Fischer, Samuel">Sammy</persName>
-                    <note>Den tyske forlægger Samuel Fischer (1859-1934), indehaver af S. Fischer Verlag, Berlin</note> svarede straks: Aber ihn <app>
-                        <lem>liesst</lem>
-                        <rdg>Skrivefejl for: liest</rdg>
-                    </app> kein Mensch<note>ty.: Men ham er der jo ikke et menneske, der læser</note>.
+               Rolle. Du vilde tjene mig, om du omgaaende sendte mig "<!--start title reference--><title key="Agnete">Agnete</title>
+               <!--end title reference-->"<ref target="n7"/>. Jeg skal bruge nogle
+          Citater deraf. Aa, min Ven, hvor er jeg træt ... Ja, om <persName key="Brandes_Georg">Georg Brandes</persName>
+               <ref target="n8"/> har jeg talt. Men <persName key="Fischer_Samuel">Sammy</persName>
+               <ref target="n9"/> svarede straks: Aber ihn <app>
+                  <lem>liesst</lem>
+                  <rdg>Skrivefejl for: liest</rdg>
+               </app> kein Mensch<ref target="n10"/>.
                Ikke destomindre – en enkelt Bog af ham tager han. Nu jo ogsaa et Udvalg af <app>
-                        <lem>Bjørnst: B</lem>
-                        <rdg>Det første B er øjensynlig rettet fra: G</rdg>
-                    </app>
-                    <note>Bjørnstjerne Bjørnson</note>'s Skrifter – – véd du det? <persName key="Reiss?, ">Reiss</persName>
-                    <note>Ikke identificeret; læsning lidt usikker</note> har jeg ildnet paa<note>Dvs.
-                  ansporet, vakt begejstring</note>
-                    <persName key="Jonas, Emil">Jonas</persName>
-                    <note>Emil Jonas (1824-1912), holstenskfødt litterat, oversætter fra dansk til tysk, dansk indfødsret 1851, fra 1867 bosat i Berlin</note>. Men alle disse spredte Oversættelser synes en Hindring.
-               Derimod vil han udgive <persName key="Holberg, Ludvig">Holberg</persName>
-                    <note>Ludvig Holberg (1684-1754), forfatter og komediedigter, født i Bergen, professor i historie ved Københavns Universitet, fra 1747 baron</note>. Var <emph>der</emph> ikke en Mulighed for at afhænde
-               mange <persName key="Tegner, Hans">Tegner</persName>
-                    <note>Billedkunstneren Hans Tegner havde tegnet de mange illustrationer til Holbergs komedier i den store trebindsudgave, København 1883-88</note>-Illustrationer?</p>
-                <p>Jeg kan ikke mer.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman B.</p>
-                <p>Jeg vilde gerne ha'e, at "Masker og M –"<note>
-                        <title key="Masker og Mennesker">Masker
-                     og Mennesker –</title> udkom hos Gyldendal, men først et år senere:
-                  28.9.1910</note> udkom de sidste Dage af Sept: Alt Manuskript kan I faa, saasnart
+                  <lem>Bjørnst: B</lem>
+                  <rdg>Det første B er øjensynlig rettet fra: G</rdg>
+               </app>
+               <ref target="n11"/>'s Skrifter – – véd du det? <persName key="Reiss">Reiss</persName>
+               <ref target="n12"/> har jeg ildnet paa<ref target="n13"/>
+               <persName key="Jonas_Emil">Jonas</persName>
+               <ref target="n14"/>. Men alle disse spredte Oversættelser synes en Hindring.
+               Derimod vil han udgive <persName key="Holberg_Ludvig">Holberg</persName>
+               <ref target="n15"/>. Var <hi rend="italics">der</hi> ikke en Mulighed for at afhænde
+               mange <persName key="Tegner_Hans">Tegner</persName>
+               <ref target="n16"/>-Illustrationer?</p>
+            <p>Jeg kan ikke mer.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+            <p>Jeg vilde gerne ha'e, at "Masker og M –"<ref target="n17"/> udkom de sidste Dage af Sept: Alt Manuskript kan I faa, saasnart
                det er oversat –</p>
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

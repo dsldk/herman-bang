@@ -1,111 +1,129 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18860531001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 69</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-05-31" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 31. maj], Mandag<note>"Denne Maaneds siste Dag"
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860531001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 69</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Wien]</placeName>
+               <date when="1886-05-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-05-31"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 31. maj], Mandag<note>"Denne Maaneds siste Dag"
                   passer på mandag 31. maj 1886</note>
-                </date>
-                <placeName cert="low">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Det er jo egenlig overflødigt, kære Peter, at fylde din Skuffe med alle disse
+            </date>
+            <placeName cert="low">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Det er jo egenlig overflødigt, kære Peter, at fylde din Skuffe med alle disse
                Artikler, som ikke trykkes. Men, naar man begynder har man altid Haab om, at
-                  <emph>denne</emph> nu vil lykkes, og saa giver man hen sine tre-fire Timer, og den
+                  <hi rend="italics">denne</hi> nu vil lykkes, og saa giver man hen sine tre-fire Timer, og den
                lykkes dog ikke – og den halve Dag er tabt, og man sender af en dum Artikel, for
                næste Mandag glad at gaa ind i den nye Uge med den Bevidsthed, at "Politiken" i 7
                Numre har trykt af min Hæderspen to Spalter.</p>
-                <p>Enfin – det er af de Stød, Verden giver. Og man bevarer stadig Haabet. Jeg har nu
+            <p>Enfin – det er af de Stød, Verden giver. Og man bevarer stadig Haabet. Jeg har nu
                oplevet denne Maaneds siste Dag. Foruden min Bog har jeg skrevet 43 Artikler – deraf
                femten til "Politiken". I har trykt syv – Herren véd, hvad der er trykt af den øvrige
                Syndflod. Og en Maaned kommer rig paa Hede og Besvimelser og nyt Vandværk. Og – "kom
-               hjem". For glad at sulte <emph>der</emph>. God Morgen.</p>
-                <p>Gør mig nu ialfald den Tjeneste, at mine veltalte Penge ikke flyder en Uge hos Jeres
+               hjem". For glad at sulte <hi rend="italics">der</hi>. God Morgen.</p>
+            <p>Gør mig nu ialfald den Tjeneste, at mine veltalte Penge ikke flyder en Uge hos Jeres
                Expeditør men sendes mig, at jeg kan betale min Ulveværtinde og klemme videre paa
-               "Høiheden"<note>Novellen "<title key="Hendes Højhed">Hendes Højhed</title>", trykt i Stille Eksistenser, der udkom
-                  27.10.1886 i København</note>. Jer sender jeg i en Uge ikke Manuskript. For det
-               behøves ikke. For en Artikel beder jeg gentagende: "Johan Nordling"<note>Jf. brevet
-                  18860512</note>. Artiklen er velskreven og Manden er det værdt. Skrive videre om
-                  "Burg"<note>Burgtheater, Wien</note> har jeg ikke gjort, fordi jeg har været i
-               for daarligt Humør til paany at ville sættes til rette af <persName key="Brandes, Edvard">Edvard</persName>
-                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> ved Leilighed. Det vilde være mig noget vanskeligt at
+               "Høiheden"<ref target="n1"/>. Jer sender jeg i en Uge ikke Manuskript. For det
+               behøves ikke. For en Artikel beder jeg gentagende: "Johan Nordling"<ref target="n2"/>. Artiklen er velskreven og Manden er det værdt. Skrive videre om
+                  "Burg"<ref target="n3"/> har jeg ikke gjort, fordi jeg har været i
+               for daarligt Humør til paany at ville sættes til rette af <persName key="Brandes_Edvard">Edvard</persName>
+               <ref target="n4"/> ved Leilighed. Det vilde være mig noget vanskeligt at
                skrive "let humoristisk" om den Kunstanstalt.</p>
-                <p>Hils <persName key="Nansen, Immanuel">Hvalpen</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> saa mange Gange.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n5"/> saa mange Gange.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

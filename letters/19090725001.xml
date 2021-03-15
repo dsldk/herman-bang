@@ -1,111 +1,119 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19090725001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 555</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Josef Melnik</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1909-07-25">1909, 25. Juli [søndag] <note>Josef Melnik har
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19090725001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 555</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1909-07-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1909-07-25">1909, 25. Juli [søndag] <note>Josef Melnik har
                         ifølge dette brevs ordlyd planlagt at komme på besøg i København i sommeren
                         1909. Indtil videre vides det ikke, om dette besøg blev realiseret</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lille Strandstræde 20.</p>
-                <p rend="right">Kopenhagen. K.</p>
-                <p rend="right">25.7.1909.</p>
-                <p>Mein lieber, lieber Ossip.</p>
-                <p>Nur zwei Worte. Denn ich komme aus dem Theater und bin
-                        schweinemüde<note>Formentlig i forbindelse med Bangs iscenesættelse af
-                        operetten Prins Incognito, der fik premiere 14.8.1909 på teatret Casino i
-                        København</note>.</p>
-                <p>Gott sei Dank, dass Sie wieder in der Nähe sind. Und dass es am
-                        »Börsen-Kurier«<note>Berliner Börsen-Courier var en venstreliberal avis, som
-                        Josef Melnik (1881-1931) som journalist var knyttet til i 1909</note>
-                    (schicken Sie mir <emph>sofort alle</emph> Ihre Artikel) gut geht. Ich erwarte
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lille Strandstræde 20.</p>
+            <p rend="right">Kopenhagen. K.</p>
+            <p rend="right">25.7.1909.</p>
+            <p>Mein lieber, lieber Ossip.</p>
+            <p>Nur zwei Worte. Denn ich komme aus dem Theater und bin
+                        schweinemüde<ref target="n1"/>.</p>
+            <p>Gott sei Dank, dass Sie wieder in der Nähe sind. Und dass es am
+                        »Börsen-Kurier«<ref target="n2"/>
+                    (schicken Sie mir <hi rend="italics">sofort alle</hi> Ihre Artikel) gut geht. Ich erwarte
                     Sie, mein Kind, mit grösster Sehnsucht. Die Idée mit Aarhus ist
-                        grandios<note>Formodentlig har Melnik tænkt på at rejse til Aarhus og skrive
-                        en artikel om Landsudstillingen, en stor industri-, håndværker- og
-                        kulturudstilling, der blev afholdt dér i tidsrummet 18.5.-3.10.1909</note>.
-                    Auch Stockholm hat Ausstellung<note>Konstindustriutställningen fandt sted
-                        4.6.-30.9.1909 på Djurgården i Stockholm</note> ‒ prosit. ‒ Ach, mein
+                        grandios<ref target="n3"/>.
+                    Auch Stockholm hat Ausstellung<ref target="n4"/> ‒ prosit. ‒ Ach, mein
                     Freund, was habe ich alles durchgemacht und zusammengeschrieben um endlich hier
                     sitzen zu können.</p>
-                <p>Aber heute ist alles fertig geworden. Und wartet jetzt auf Sie.</p>
-                <p rend="right">Adieu.</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Aber heute ist alles fertig geworden. Und wartet jetzt auf Sie.</p>
+            <p rend="right">Adieu.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

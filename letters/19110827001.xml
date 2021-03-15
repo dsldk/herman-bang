@@ -1,177 +1,175 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19110827001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 5 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Henvisningen til dette brev hos Mette Borg, s. 204 allernederst,
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19110827001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 5 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Henvisningen til dette brev hos Mette Borg, s. 204 allernederst,
                               angående brevets omtale af to generalprøver, må underforstå, at Det Ny
                               Teater i august også holdt generalprøve på Samfundets Støtter, som
                               først havde premiere 3.11.1911 – begrundet i Bangs fravær på det
                               tidspunkt, idet han i oktober 1911 påbegyndte sin oplæsningsturné i
                               Norden og Rusland</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1911-08-27" notBefore="9999-99-99" notAfter="9999-99-99">[1911. 27. august], Søndag<note>Dateret i forhold til
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1911-08-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1911-08-27"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1911. 27. august], Søndag<note>Dateret i forhold til
                   premieren på De smaa Landstrygere, Det Ny Teater, 27.8.1911</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Gl. Kongevej 11.</p>
-                <p rend="right">Søndag.</p>
-                <p>Min kære Ven.</p>
-                <p>Jeg er efter to Generalprøver og med Aabningsforestilling i Aften (Opgave: De smaa
-               Landstrygere, Vandpantomime i 8 Akter<note>Den franske dramatiker <persName key="Decourcelle, Pierre">Pierre
-                     Decourcelle</persName> (1856-1926): <title key="De smaa Landstrygere">De smaa
-                     Landstrygere</title>. Folkekomedie i otte Afdelinger (originaltitel: Les deux
-                  gosses), på dansk ved <persName key="Muusmann, Carl">Carl Muusmann</persName> (1863-1936),
-                  musik af den danske komponist <persName key="Gottschalksen, Carl">Carl Gottschalksen</persName> (1854-1939).
-                  Stykket gik 1897-1905 på Casino og fik 142 opførelser ialt; i 1897 havde Bang
-                  ledet de sidste prøver (ifølge Mette Borg, s. 20 og 199), så denne folkekomedie må
-                  han formodes at være fortrolig med i 1911. I Bangs iscenesættelse gik stykket 46
-                  gange på Det Ny Teater i 1911-12</note>) saa nervøs, at jeg ikke kan skrive selv.
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gl. Kongevej 11.</p>
+            <p rend="right">Søndag.</p>
+            <p>Min kære Ven.</p>
+            <p>Jeg er efter to Generalprøver og med Aabningsforestilling i Aften (Opgave: De smaa
+               Landstrygere, Vandpantomime i 8 Akter<ref target="n1"/>) saa nervøs, at jeg ikke kan skrive selv.
                Saa maa De nøjes med et Brev, fuldt af Sladder, hvis jeg kan hitte nogen. Paa
-               Dagmarteatret har de nu fire Instruktører og Overinstruktør <persName key="Nielsen, Johannes">Johannes</persName>
-                    <note>Skuespilleren Johannes Nielsen (1870-1935) var 1908-12 direktør for Folketeatret, 1911-12 i forening med Dagmarteatret</note>, der efterhaanden smider de andre ud. Efter 1te Prøve
-               sendte <persName key="Liebmann, August">Liebman</persName>
-                    <note>Skuespilleren August Liebmann (1864-1952), der 1910-11 var direktør for Dagmarteatret</note> straks Sygemelding og begav sig til <persName key="Ida">Ida</persName>
-                    <note>Ikke identificeret (August Liebmanns kone hed Emmy (egl. Fanny Emilie))</note> paa
-               Rekreation. <persName key="Poulsen, Adam">Adam</persName>
-                    <note>Skuespilleren Adam Poulsen (1879-1969), som 1911-14 var meddirektør for Dagmarteatret</note> er fjærn og usynlig. <persName key="Nørgaard, Poul">Svineslagteren</persName>
-                    <note>Erhvervsmanden Poul Nørgaard (1866-1923), der 1888-91 havde været direktør for Horsens Andelssvineslagteri og fra 1910 var formand for Friluftsscenen i Dyrehaven nord for København</note> har paa Ravnene tabt 22000 og vil til næste Spilleaar
-               udleje Kunstens Fornyelse i Dyrehaven<note>Friluftsscenen i Dyrehaven nord for
-                  København, åbnet i 1910, opførte i sommertiden et årligt skuespil. Scenen var
-                  projekteret af billedkunstneren <persName key="Willumsen, J.F.">J.F. Willumsen</persName> (1863-1958), som lod
-                  den flankere af to ravneskulpturer, hver 5 m høje</note>.</p>
-                <p>
-                    <persName key="Nielsen, Martinius">Professor Nielsen</persName>
-                    <note>Skuespilleren Martinius Nielsen (1859-1928) var 1908 udnævnt til titulær professor</note> er paa min <app>
-                        <lem>Scene</lem>
-                        <rdg>Ordet er tilføjet over linjen, hvor det erstatter et udstreget ord, måske:
+               Dagmarteatret har de nu fire Instruktører og Overinstruktør <persName key="Nielsen_Johannes">Johannes</persName>
+               <ref target="n2"/>, der efterhaanden smider de andre ud. Efter 1te Prøve
+               sendte <persName key="Liebmann_August">Liebman</persName>
+               <ref target="n3"/> straks Sygemelding og begav sig til <persName key="Ida">Ida</persName>
+               <ref target="n4"/> paa
+               Rekreation. <persName key="Poulsen_Adam">Adam</persName>
+               <ref target="n5"/> er fjærn og usynlig. <persName key="Nørgaard_Poul">Svineslagteren</persName>
+               <ref target="n6"/> har paa Ravnene tabt 22000 og vil til næste Spilleaar
+               udleje Kunstens Fornyelse i Dyrehaven<ref target="n7"/>.</p>
+            <p>
+               <persName key="Nielsen_Martinius">Professor Nielsen</persName>
+               <ref target="n8"/> er paa min <app>
+                  <lem>Scene</lem>
+                  <rdg>Ordet er tilføjet over linjen, hvor det erstatter et udstreget ord, måske:
                      Side [?]. "Min scene" betyder Det Ny Teater</rdg>
-                    </app> Konsul Bernick<note>Hovedperson i den norske dramatiker <persName key="Ibsen, Henrik">Henrik
-                     Ibsen</persName>s skuespil <title key="Samfundets Støtter">Samfundets
-                     Støtter</title>, Bangs sidste arbejde som sceneinstruktør, premiere 3.11.1911
-                  på Det Ny Teater, København</note> og spiller denne Borger i Staten, ganske som
-               han spillede Kean<note>Kean, stumfilm optaget af Nordisk Film 1910 med Martinius
-                  Nielsen i titelrollen</note>. Dog viser han ikke Enden, da der ikke er Anledning
+               </app> Konsul Bernick<ref target="n9"/> og spiller denne Borger i Staten, ganske som
+               han spillede Kean<ref target="n10"/>. Dog viser han ikke Enden, da der ikke er Anledning
                til <app>
-                        <lem>Matros</lem>
-                        <rdg>Ordet står uden noget afsluttende tegn lige før et sideskift. Meningen er
+                  <lem>Matros</lem>
+                  <rdg>Ordet står uden noget afsluttende tegn lige før et sideskift. Meningen er
                      måske: Matrosløjer ell.lign</rdg>
-                    </app> Han gaar hjem til <persName key="Nielsen, Oda">Oda</persName>
-                    <note>Skuespillerinden Oda Nielsen (1851-1936), født Larssen, gift 1884 med skuespillerkollegaen Martinius Nielsen</note> indhyllet i samme Fjerboa som <persName key="Fønss, Thilda">Tilde Føns</persName>
-                    <note>Skuespillerinden Thilda Fønss (1888-1952), født Jonsson, 1905-12 gift med skuespiller Olaf Fønss</note> – Tilde bestaar af en Hat
+               </app> Han gaar hjem til <persName key="Nielsen_Oda">Oda</persName>
+               <ref target="n11"/> indhyllet i samme Fjerboa som <persName key="Fønss_Thilda">Tilde Føns</persName>
+               <ref target="n12"/> – Tilde bestaar af en Hat
                og en Rumpe – – – – – – – – –</p>
-                <p>Fru <persName key="Fritz-Petersen, Johanne">Johanne Fritz-Petersen</persName> er
+            <p>Fru <persName key="Fritz-Petersen_Johanne">Johanne Fritz-Petersen</persName> er
                hjemkommen fra Landophold i <placeName key="Hellerup">Hellerup</placeName> indsvøbt i
-               den Slags Enkeslør<note>Hellerup nord for København. Johanne Fritz-Petersen (1879-1961), født Pedersen, skuespillerinde. Hendes mand Fritz Petersen var død 28.3.1911, 34 år gammel.
-                  Hun giftede sig igen 1917 med skuespiller og biografdirektør <persName key="Blom, August">August Blom</persName> (1869-1947)</note>, der varsler Bruden. Hos
-               Veninden <persName key="Mariane, ">Mariane</persName>
-                    <note>Ikke identificeret</note> samles den Synagoge, hvor den unge Enkes Overgang
+               den Slags Enkeslør<ref target="n13"/>, der varsler Bruden. Hos
+               Veninden <persName key="Mariane_">Mariane</persName>
+               <ref target="n14"/> samles den Synagoge, hvor den unge Enkes Overgang
                til Jødedommen forberedes. Den af Mariane udvalgte Brudgom er <persName key="Max">Max
                   med Næsen</persName>
-                    <note>Ikke identificeret</note>, saaledes heles alle Saar og
-               Mariane kan tilbringe sine Sommerferier paa Herregaarden Kaldsbøl<note>
-                        <placeName key="Kalsbøl">Kalsbøl</placeName> vest for Juelsminde og syd for Horsens. Fra
-                  1903 ejet af Johan Hermann Levy, arvet efter faderen, brygger Hermann Levy,
-                  Horsens</note>.</p>
-                <p>Jeg har forladt det witzanskyske Etablissement<note>Dvs. avisen København, siden 1902 redigeret
-                  af Harald Witzansky (1862-1940), af Bang kaldet Korporalen</note>, da <persName key="Witzansky, Harald">Korporalen</persName>s krigerske Patriotisme blev mig for
+               <ref target="n15"/>, saaledes heles alle Saar og
+               Mariane kan tilbringe sine Sommerferier paa Herregaarden Kaldsbøl<ref target="n16"/>.</p>
+            <p>Jeg har forladt det witzanskyske Etablissement<ref target="n17"/>, da <persName key="Witzansky_Harald">Korporalen</persName>s krigerske Patriotisme blev mig for
                faretruende. Han vil nu rejse et nyt Mindesmærke <app>
-                        <lem>for</lem>
-                        <rdg>Herefter er overstreget ordet: en</rdg>
-                    </app>
-                    <persName key="Kjeldsen, Niels">Niels Keldsen</persName>
-                    <note>Den danske dragon Niels Kjeldsen (1840-64), der faldt i krigen 1864</note>. A propos Nils Keldsen – hans Ridder Professor <persName key="Larsen, Karl">Karl Larsen</persName>
-                    <note>Jf. forfatteren Karl Larsens (1860-1931) lille bog: Dragon Niels Kjeldsen og hans Drabsmand. En
-                  Undersøgelse. Det nordiske Forlag 1902</note> afrejser paa en Foredragstourné til
-               de forenede Stater<note>Karl Larsen ankom 21.11.1911 til <placeName key="New York">New York</placeName>, jf. Jesper Düring Jørgensen: Den smilende Kamæleon, s.
-                  355</note>. De arme Stater! Efter sigende gaar <persName key="Larsen, Mimi">Top-Mimi</persName>
-                    <note>Mimi Larsen (1851-1932), gift 1892 med Karl Larsen</note> nu i Barndom, bærende det tyske
+                  <lem>for</lem>
+                  <rdg>Herefter er overstreget ordet: en</rdg>
+               </app>
+               <persName key="Kjeldsen_Niels">Niels Keldsen</persName>
+               <ref target="n18"/>. A propos Nils Keldsen – hans Ridder Professor <persName key="Larsen_Karl">Karl Larsen</persName>
+               <ref target="n19"/> afrejser paa en Foredragstourné til
+               de forenede Stater<ref target="n20"/>. De arme Stater! Efter sigende gaar <persName key="Larsen_Mimi">Top-Mimi</persName>
+               <ref target="n21"/> nu i Barndom, bærende det tyske
                Æresnavn, "die älteste Frau Europas". Nu tror jeg ikke, jeg véd mere, da min
-               Sladerkilde <persName key="Houmark, Christian">Houmark</persName>
-                    <note>Christian Houmark (1869-1950), journalist, fra 1899 ved avisen København, fra 1921 ved Det Berlingske Hus; fra 1899 lejlighedsvis sekretær for Herman Bang</note> (han gaar ligeledes paa Tourné, men i Kongeriget
+               Sladerkilde <persName key="Houmark_Christian">Houmark</persName>
+               <ref target="n22"/> (han gaar ligeledes paa Tourné, men i Kongeriget
                Danmark) kun er optaget af sig selv og derfor ikke har Tid til at bringe upaalidelige
                Historier om andre, hvad der har vakt en vis Stilhed i Sladren.</p>
-                <p>
-                    <emph>Jeg</emph> traf forleden <persName key="Fröberg, Einar">
-                        <emph>Frøberg</emph>
-                    </persName>
-                    <note>Den svenske skuespiller og regissør Einar Fröberg (1875-1934)</note>, som sagde mig, at De havde det meget bedre, Himlen være
+            <p>
+               <hi rend="italics">Jeg</hi> traf forleden <persName key="Fröberg_Einar">
+                  <hi rend="italics">Frøberg</hi>
+               </persName>
+               <ref target="n23"/>, som sagde mig, at De havde det meget bedre, Himlen være
                lovet! Han mente, at De da ogsaa snart kom til at spille. Bagefter maa De da filme
                Pengene sammen. Livet er en Lordt, som man sidder midt i, og den er fuld af Stank og
                af Fluer. Dette er Summen af min Visdom, der ovenikøbet har været dyrt købt.</p>
-                <p>Tusinde Hilsener</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Tusinde Hilsener</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

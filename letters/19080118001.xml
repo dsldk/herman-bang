@@ -1,115 +1,134 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19080118001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 446</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 6 sider. Fortrykt brevpapir: <q>H. Mayreder's / Hôtel
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19080118001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 446</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 6 sider. Fortrykt brevpapir: <q>H. Mayreder's / Hôtel
                                     Matschakerhof / Wien. / Lift, electr. Licht. / Telephon
                                     interurb. Nr. 2160.</q>
-                                            </ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1908-01-18" notBefore="9999-99-99" notAfter="9999-99-99">1908. 18. januar [lørdag]<note>På Det Kongelige Bibliotek er
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1908-01-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1908-01-18"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1908. 18. januar [lørdag]<note>På Det Kongelige Bibliotek er
                   brevet forblevet fejlanbragt i Peter Nansens arkiv, NKS 4043</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">18.1.1908.</p>
-                <p>Min kære Ven.</p>
-                <p>Siden jeg nu en Gang har begyndt at skrive her fra Wien, vil jeg blive ved. Altsaa –
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">18.1.1908.</p>
+            <p>Min kære Ven.</p>
+            <p>Siden jeg nu en Gang har begyndt at skrive her fra Wien, vil jeg blive ved. Altsaa –
                jeg har læst op og jeg gjorde mig megen Umage og, for en Gangs Skyld, læste jeg
                maaske virkelig ret godt – smerteligt og uden Fagter. Publikum syntes ganske grebet
-               .... Jeg var meget træt. Men imorges begyndte et stort "Run" – fra <persName key="Obomyrska, prinsesse">Prinsesse Obomyrska</persName>
-                    <note>Ikke identificeret</note>, og fra <persName key="Benedikt, madame de">Mme de
+               .... Jeg var meget træt. Men imorges begyndte et stort "Run" – fra <persName key="Obomyrska_prinsesse">Prinsesse Obomyrska</persName>
+               <ref target="n1"/>, og fra <persName key="Benedikt_madame_de">Mme de
                   Benedikt</persName>
-                    <note>Madame de Benedikt, ikke identificeret</note> og fra <persName key="Hess, baronesse">Baronesse Hess</persName>
-                    <note>Ikke identificeret</note> og <persName key="Rohan, prinsesse">Prinsesse
+               <ref target="n2"/> og fra <persName key="Hess_baronesse">Baronesse Hess</persName>
+               <ref target="n3"/> og <persName key="Rohan_prinsesse">Prinsesse
                   Rohan</persName>
-                    <note>Ikke identificeret</note>, saadan som det er i Wien – om jeg vilde medvirke og
+               <ref target="n4"/>, saadan som det er i Wien – om jeg vilde medvirke og
                optræde. Nu skyldes alt dette mest en beundringsværdig Vest og saa den Flakon
-                  "Blossom"<note>Et klassisk navn inden for parfumer</note>, som jeg straks ved min
-               Ankomst købte ..... Men imorgen skal jeg altsaa gentage "<title key="Mikaël">Mikaël</title>" i Palais Benedikt og videre skal det gaa hos disse Damer og
+                  "Blossom"<ref target="n5"/>, som jeg straks ved min
+               Ankomst købte ..... Men imorgen skal jeg altsaa gentage "<!--start title reference--><title key="Mikaël">Mikaël</title>
+               <!--end title reference-->" i Palais Benedikt og videre skal det gaa hos disse Damer og
                Herrer. Og alt det maa jeg gøre, for Reklamens Skyld, for en Gang at kunne tjene mit
                Brød her, naar snart min Gage gaar ned hos Gyldendal. Men alt koster det – og hvem
                skal betale det? Hvis De havde nogen Anelse om, hvor forfærdeligt det er at sidde
-               her, uden Penge, uden Hjælpemidler, uden noget – og saa <emph>skulle</emph> alt det.
+               her, uden Penge, uden Hjælpemidler, uden noget – og saa <hi rend="italics">skulle</hi> alt det.
                Aa, min Ven, noget saa frygteligt gives der ikke i Verden .... Jeg kan ikke sige Dem,
                hvor bittert dette Liv er mig. Og hvor ubeskriveligt det nager mig i Hjertet for hver
-               ny Sejr, som jeg nu er <emph>tvungen</emph> til at vinde – at man i Danmark kunde
+               ny Sejr, som jeg nu er <hi rend="italics">tvungen</hi> til at vinde – at man i Danmark kunde
                behandle mig saadan. Tro mig, mit Liv havde ikke fortjent det. Altid og altid sér jeg
                for mine Øjne "Extrabladets" og "Middagspostens" frygtelige
-                  Plakater<note>Pressehetzen under den såkaldte sædelighedsskandale i København,
-                  november 1906</note> og læser om igen de grufulde Artikler, <persName key="Cavling, Henrik">Cawling</persName>
-                    <note>Henrik Cavling (1858-1933), siden 1905 redaktør af Politiken. Bang sigter blandt andet til forfatteren <persName key="Jensen, Johannes V.">Johannes V. Jensen</persName>s kronik "<title key="Samfundet og Sædelighedsforbryderen">Samfundet og
-                     Sædelighedsforbryderen</title>" i denne avis, 30.11.1906</note> fandt det
+                  Plakater<ref target="n6"/> og læser om igen de grufulde Artikler, <persName key="Cavling_Henrik">Cawling</persName>
+               <ref target="n7"/> fandt det
                passende at sprede ... Mine stakkels Øjne vil lukkes og dette Syn vil være det
                sidste, som staar foran dem ... Og hvis jeg havde været "paatrængende". Men, paa Ære,
                saa længe jeg levede hjemme, skjulte jeg dog meget mere, hvem jeg i Europa var (skønt
@@ -117,11 +136,11 @@
                opfordrede mit Liv til at dvæle ved dets i Sandhed faa Forbrydelser. Men nu er jeg
                pidsket og spyttet ud i al denne "Berømmelse", som er saa byrdefuld og mit trætte
                Hjerte saa modbydelig ....</p>
-                <p>Aa – men hvor alt dette er overflødigt.</p>
-                <p>Altsaa: dette var en mægtig "Sukces" – antagelig den største paa min "Løbebane" –
-                  allez–y<note>fr.: Værsgo! gå bare i gang!</note>.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Aa – men hvor alt dette er overflødigt.</p>
+            <p>Altsaa: dette var en mægtig "Sukces" – antagelig den største paa min "Løbebane" –
+                  allez–y<ref target="n8"/>.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

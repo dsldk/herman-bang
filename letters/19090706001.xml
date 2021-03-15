@@ -1,118 +1,133 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19090706001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Gyldendals arkiv B 4 a</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1909-07-06" notBefore="9999-99-99" notAfter="9999-99-99">[1909. 6. juli], Tirsdag<note>Den officielle skrivelse fra
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19090706001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B 4 a</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Marienlyst, ved Helsingør]</placeName>
+               <date when="1909-07-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1909-07-06"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1909. 6. juli], Tirsdag<note>Den officielle skrivelse fra
                   Ministeriet for Kirke- og Undervisningsvæsenet til Bang om tildelingen af Det
                   Anckerske Rejselegat er dateret København, 14.6.1909. Den opbevares i original
                   samme sted som dette brev</note>
-                </date>
-                <placeName cert="high">[Marienlyst, ved Helsingør]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Nu skal du høre.</p>
-                <p>Her er Jægerkongres<note>Den 3. nordiske Jægerkongres afholdtes fra 4.7.1909 i
-                  København. Om eftermiddagen 6.7. sejlede deltagerne ifølge samtidig avisomtale til
-                  Marienlyst, hvor Dansk Jagtforening gav en banket, afsluttet med et festfyrværkeri
-                  i parken</note> idag og saa gaaer <app>
-                        <lem>jeg</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> ovre og sér paa, at de dækker Borde. Paa en Gang kommer <persName key="Bauditz, Sophus">Sophus Bauditz</persName>
-                    <note>Forfatteren Sophus Bauditz (1850-1915) – selv en ivrig jæger – holdt på kongressen et
-                  foredrag om "Træk af Jagtens Historie i Danmark"</note> hen til mig.</p>
-                <p>
-                    <emph>S.B.</emph>: Godda' og Velkommen hjem og til Lykke med Legatet<note>Det
-                  Anckerske Legat</note>.</p>
-                <p>
-                    <emph>Jeg</emph>: Ja, men, jeg tror ikke, jeg faaer det..</p>
-                <p>
-                    <emph>S.B.</emph> (straks) <emph>Saa</emph> – det er <persName key="Larsen, Karl">Karl Larsen</persName>
-                    <note>Karl Larsen (1860-1931), forfatter</note>. Nu har <persName key="Bergsøe, Vilhelm">Professor
+            </date>
+            <placeName cert="high">[Marienlyst, ved Helsingør]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Nu skal du høre.</p>
+            <p>Her er Jægerkongres<ref target="n1"/> idag og saa gaaer <app>
+                  <lem>jeg</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> ovre og sér paa, at de dækker Borde. Paa en Gang kommer <persName key="Bauditz_Sophus">Sophus Bauditz</persName>
+               <ref target="n2"/> hen til mig.</p>
+            <p>
+               <hi rend="italics">S.B.</hi>: Godda' og Velkommen hjem og til Lykke med Legatet<ref target="n3"/>.</p>
+            <p>
+               <hi rend="italics">Jeg</hi>: Ja, men, jeg tror ikke, jeg faaer det..</p>
+            <p>
+               <hi rend="italics">S.B.</hi> (straks) <hi rend="italics">Saa</hi> – det er <persName key="Larsen_Karl">Karl Larsen</persName>
+               <ref target="n4"/>. Nu har <persName key="Bergsøe_Vilhelm">Professor
                   Bergsøe</persName>
-                    <note>Vilhelm Bergsøe (1835-1911), forfatter, zoolog</note> gjort alt for at faa det ordnet ...</p>
-                <p>
-                    <emph>Jeg</emph>: Ja, men jeg skal jo opgi'e, hvorhen jeg skal rejse ...</p>
-                <p>S.B.: De <emph>har</emph> jo rejst ... Nu skal jeg <emph>igen</emph> tale med
+               <ref target="n5"/> gjort alt for at faa det ordnet ...</p>
+            <p>
+               <hi rend="italics">Jeg</hi>: Ja, men jeg skal jo opgi'e, hvorhen jeg skal rejse ...</p>
+            <p>S.B.: De <hi rend="italics">har</hi> jo rejst ... Nu skal jeg <hi rend="italics">igen</hi> tale med
                Bergsøe. Dette her er en Skandale –</p>
-                <p>
-                    <emph>Jeg</emph>: Det er maaske ikke saa pænt af Professor Larsen</p>
-                <p>S.B.: Har De nogensinde ventet noget Pænt af den Mand? Men jeg skal <emph>tale</emph>
-               med Bergsøe, som <emph>vil</emph> have, at De faaer Pengene – – – Farvel –</p>
-                <p>Hvad synes du?</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>
+               <hi rend="italics">Jeg</hi>: Det er maaske ikke saa pænt af Professor Larsen</p>
+            <p>S.B.: Har De nogensinde ventet noget Pænt af den Mand? Men jeg skal <hi rend="italics">tale</hi>
+               med Bergsøe, som <hi rend="italics">vil</hi> have, at De faaer Pengene – – – Farvel –</p>
+            <p>Hvad synes du?</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

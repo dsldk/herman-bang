@@ -1,111 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19080322001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4264, 4to. Det 17. brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Christian Nielsen (fuldmægtig hos
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19080322001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4264, 4to. Det 17. brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1908-03-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Nielsen (fuldmægtig hos
                                         Gyldendal)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1908-03-22">1908, 22. Marts [søndag] <note>empty</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fasanenstrasse 58.</p>
-                <p rend="right">Berlin. W.</p>
-                <p rend="right">22.3.1908.</p>
-                <p>Kære Hr. Nielsen.</p>
-                <p>Egenlig vilde jeg idag have afsendt det første Manuskript til min nye Bog. Men,
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1908-03-22">1908, 22. Marts [søndag] <note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">22.3.1908.</p>
+            <p>Kære Hr. Nielsen.</p>
+            <p>Egenlig vilde jeg idag have afsendt det første Manuskript til min nye Bog. Men,
                     som altid, pines jeg af en saa uhyre Angst, at jeg ikke tør afsende noget
                     endnu.</p>
-                <p>Efter Telegram fra Wien, maa jeg allerede rejse derhen Tirsdag Aften.</p>
-                <p>Jeg beder Dem derfor allerede nu og straks efter Modtagelsen af dette at
-                        <emph>telegrafere</emph> mig min Gage.</p>
-                <p rend="right">Venlig Hilsen</p>
-                <p rend="right">H. B.</p>
-                <p>Erik Magnussen<note>Erik Magnussen (1884-1961), sølvsmed og tegner; i 1907-1909
-                        opholdt han sig ved Kunstgewerbeschule i Berlin</note> siger: K.L.<note>Karl
-                        Larsen (1860-1931), forfatter og 1902-1908 formand for Dansk
-                        Forfatterforening</note> har i »Politiken« skrevet, at jeg har i et
-                        <emph>Telegram</emph> givet ham min Stemme. Sig Nansen<note>Peter Nansen
-                        (1861-1918), litterær direktør hos Gyldendal</note>, at jeg ikke har
-                    saameget som afsendt Skyggen af et Telegram. Jeg skrev ‒ <emph>med to
-                        Forbehold</emph> ‒ under paa et Papir, som blev sendt mig. Men da man ikke
+            <p>Efter Telegram fra Wien, maa jeg allerede rejse derhen Tirsdag Aften.</p>
+            <p>Jeg beder Dem derfor allerede nu og straks efter Modtagelsen af dette at
+                        <hi rend="italics">telegrafere</hi> mig min Gage.</p>
+            <p rend="right">Venlig Hilsen</p>
+            <p rend="right">H. B.</p>
+            <p>Erik Magnussen<ref target="n1"/> siger: K.L.<ref target="n2"/> har i »Politiken« skrevet, at jeg har i et
+                        <hi rend="italics">Telegram</hi> givet ham min Stemme. Sig Nansen<ref target="n3"/>, at jeg ikke har
+                    saameget som afsendt Skyggen af et Telegram. Jeg skrev ‒ <hi rend="italics">med to
+                        Forbehold</hi> ‒ under paa et Papir, som blev sendt mig. Men da man ikke
                     vilde trykke Forbeholdene, blev mit Navn udeladt, da »Papiret« offentliggjordes.
-                    Og nu skulde jeg have afsendt et <emph>Telegram</emph>. <emph>Det er ren
-                        Løgn</emph>. »Professoren«<note>Karl Larsen var titulær professor</note> maa
+                    Og nu skulde jeg have afsendt et <hi rend="italics">Telegram</hi>. <hi rend="italics">Det er ren
+                        Løgn</hi>. »Professoren«<ref target="n4"/> maa
                     dog snart have løbet Linen ud.</p>
-
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

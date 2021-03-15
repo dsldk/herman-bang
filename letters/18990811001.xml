@@ -1,110 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18990811001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1899-08-11">1899, 11. August [fredag] <note>Bang var siden
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990811001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Assens]</placeName>
+               <date when="1899-08-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-08-11">1899, 11. August [fredag] <note>Bang var siden
                         30.6.1899 indlagt på Assens Sygehus</note>
-                </date>
-                <placeName cert="high">[Assens]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">11.8.99.</p>
-                <p>Kære Ven.</p>
-                <p>Tak for Brevet.</p>
-                <p>Hvis De er ligeglad, vil jeg helst have Subskriptionen af Novellerne<note>Bangs
-                            <emph>Udvalgte Fortællinger</emph>, der udkom 1.12.1899 på Det
-                        Schubotheske Forlag</note> i Oktober. Jeg kan godt begynde at arbejde dermed
+            </date>
+            <placeName cert="high">[Assens]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">11.8.99.</p>
+            <p>Kære Ven.</p>
+            <p>Tak for Brevet.</p>
+            <p>Hvis De er ligeglad, vil jeg helst have Subskriptionen af Novellerne<ref target="n1"/> i Oktober. Jeg kan godt begynde at arbejde dermed
                     nu ‒ naar jeg har Bøgerne.</p>
-                <p>Jeg synes da, det er bedst at udsende Novellerne nu, naar »Tine« og »Det hvide
-                    Hus« skal komme næste Efteraar<note>Andenudgaven af <emph>Tine</emph> udkom
-                        5.10.1900 og andet oplag af <emph>Det hvide Hus</emph> udkom 22.10.1901,
-                        begge på Det Schubotheske Forlag</note>.</p>
-                <p>Og, som sagt, jeg kan godt ordne Samlingen nu og, naar jeg er færdig, kunde De
+            <p>Jeg synes da, det er bedst at udsende Novellerne nu, naar »Tine« og »Det hvide
+                    Hus« skal komme næste Efteraar<ref target="n2"/>.</p>
+            <p>Og, som sagt, jeg kan godt ordne Samlingen nu og, naar jeg er færdig, kunde De
                     komme over til mig og aftale det Hele et Par Dage.</p>
-                <p>Jeg haaber da at faa »Det graa Hus«<note>Bangs roman udkom 26.11.1901 på Det
-                        Schubotheske Forlag</note> skrevet, naar jeg slipper herfra.</p>
-                <p>Hermed sender jeg den tredje Pensionsregning<note>Bang sigter til regninger for
-                        kost og logi for hans sygeplejerske Pauline Husum; se også hans brev til
-                        Aage Hirschsprung, 7.8.1899</note>. Det er ialt 30 Kr. som maa sendes
+            <p>Jeg haaber da at faa »Det graa Hus«<ref target="n3"/> skrevet, naar jeg slipper herfra.</p>
+            <p>Hermed sender jeg den tredje Pensionsregning<ref target="n4"/>. Det er ialt 30 Kr. som maa sendes
                     omgaaende.</p>
-                <p>Tak for Bøgerne.</p>
-                <p>Ja ‒ Frugt vil jeg gerne have.</p>
-                <p rend="right">H. B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Tak for Bøgerne.</p>
+            <p>Ja ‒ Frugt vil jeg gerne have.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

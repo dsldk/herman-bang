@@ -1,141 +1,157 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870222001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 407</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-02-22">1887, 22. Februar, tirsdag<note>Dagen var en
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870222001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 407</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-02-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-02-22">1887, 22. Februar, tirsdag<note>Dagen var en
                         tirsdag; Bangs mulige rettelse af det andet bogstav bevirker, at ordet kan
                         læses både som »Torsdag« og »Tirsdag«</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. <app>
-                        <lem>Tirsdag</lem>
-                        <rdg>Ordet kan også læses som: Torsdag</rdg>
-                    </app> 22.2.87.</p>
-                <p>Kære Langhoff.</p>
-                <p>Midt under min Gennemarbejdelse af »Stuks« første Kapitel, hvor
-                        Schou<note>Andreas Schou (1829-1889), Bangs forlægger i København</note>
-                    først havde erklæret, at han fandt nu ingen <emph>Portrætter</emph>, ingen
-                        <emph>Bredde</emph> og ingen <emph>Obscønitet</emph> ‒ underretter mig
-                        Schiøtt<note>Julius Schiøtt</note> om, at den gode Mand (Andreas) nu retter
-                    min <emph>Stil</emph> som en Adjunkt en Stil i anden Klasse. Schiøtt skriver
-                    mig, at <emph>han</emph> finder denne Stilretten umulig. Schou vil gøre mig
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. <app>
+                  <lem>Tirsdag</lem>
+                  <rdg>Ordet kan også læses som: Torsdag</rdg>
+               </app> 22.2.87.</p>
+            <p>Kære Langhoff.</p>
+            <p>Midt under min Gennemarbejdelse af »Stuks« første Kapitel, hvor
+                        Schou<ref target="n1"/>
+                    først havde erklæret, at han fandt nu ingen <hi rend="italics">Portrætter</hi>, ingen
+                        <hi rend="italics">Bredde</hi> og ingen <hi rend="italics">Obscønitet</hi> ‒ underretter mig
+                        Schiøtt<ref target="n2"/> om, at den gode Mand (Andreas) nu retter
+                    min <hi rend="italics">Stil</hi> som en Adjunkt en Stil i anden Klasse. Schiøtt skriver
+                    mig, at <hi rend="italics">han</hi> finder denne Stilretten umulig. Schou vil gøre mig
                     »flydende og læselig« og udvidsker saa Livet.</p>
-                <p>Jeg har nu energisk skrevet Schou, at jeg ikke <emph>tillader</emph> disse
+            <p>Jeg har nu energisk skrevet Schou, at jeg ikke <hi rend="italics">tillader</hi> disse
                     Rettelser. Schiøtt formener, at det burde ‒ for Arbejdets Skyld ‒føre til et
                     Brud. Maaske ser De ham <app>
-                        <lem>derfor</lem>
-                        <rdg>Før ordet har Bang sat en tankestreg, som han har overstreget</rdg>
-                    </app> en af de første Dage med ‒ det første Kapitel.</p>
-                <p>Han vil udvikle Dem alt<note>Dvs. forklare Dem alt</note>. Forholdet til Schou,
+                  <lem>derfor</lem>
+                  <rdg>Før ordet har Bang sat en tankestreg, som han har overstreget</rdg>
+               </app> en af de første Dage med ‒ det første Kapitel.</p>
+            <p>Han vil udvikle Dem alt<ref target="n3"/>. Forholdet til Schou,
                     Bogens Plan o:s:v: Ikke, fordi De maaske, kære L:, nu vilde blive Forlæggeren,
                     siger jeg Dem, at Værket vil blive af større Dybde end jeg selv havde haabet. At
                     de første Sider er anstrengt skrevet, ved Gud ‒ men hver Dag bringer Modenhed og
                     Dybde til den store Plan: »Byens« Verdensby-Drøm, fremstillet som vor afmægtige
                     Generations Udslag af de »Storheds« Tanker, som synes aldrig at ville dø paa vor
                     Klat Jord.</p>
-                <p>Naar De har læst første Kapitel, vil De forstaa denne Slutning:</p>
-                <p>Da Berg havde fulgt Sundt ned, stansede han et Nu ved Gangvinduet og saa'
+            <p>Naar De har læst første Kapitel, vil De forstaa denne Slutning:</p>
+            <p>Da Berg havde fulgt Sundt ned, stansede han et Nu ved Gangvinduet og saa'
                     tankeløs ned i Gaarden. Der var kommet en Zigeuneragtig Spillemand ind med tre
                     Abekatte, <app>
-                        <lem>som</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> han var ifærd med at anbringe paa Laaget af en Lirekasse...</p>
-                <p>Berg blev staaende og saá paa de grimme menneskelignende Dyr i deres Slags
+                  <lem>som</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> han var ifærd med at anbringe paa Laaget af en Lirekasse...</p>
+            <p>Berg blev staaende og saá paa de grimme menneskelignende Dyr i deres Slags
                     Lakajlivré, der begyndte at danse og hoppe oppe paa Lirekassen, mens Manden
                     drejede ‒ »Kyssenes Sang«. Og længe efter at Aberne var borte, stod han endnu
                     der ved Vinduet. ~ Ende.</p>
-                <p>Voilà ‒ ce livre de notre belle jeunesse!</p>
-                <p>Schiøtt vil afhandle alt.</p>
-                <p><emph>Jeg</emph> vil kun sige ét. <emph>Jeg</emph> afsender <emph>hver</emph>
-                    Lørdag (Schiøtt vil bevidne, <emph>hvor</emph> regelmæssigt) Ugens Manuskript.
+            <p>Voilà ‒ ce livre de notre belle jeunesse!</p>
+            <p>Schiøtt vil afhandle alt.</p>
+            <p>
+               <hi rend="italics">Jeg</hi> vil kun sige ét. <hi rend="italics">Jeg</hi> afsender <hi rend="italics">hver</hi>
+                    Lørdag (Schiøtt vil bevidne, <hi rend="italics">hvor</hi> regelmæssigt) Ugens Manuskript.
                     Til Gengæld beder jeg, at den beskedne Sum (som jeg da, hvad Schiøtt ogsaa vil
                     bevidne, da betragter som Norm) af 35 Kr. maa afsendes til mig ugenlig og
-                        <emph>bestemt</emph> hver <emph>Mandag</emph>. Jeg skriver c: 1½ Ark om
-                    Ugen. Sender jeg <emph>2</emph> trykte Ark, stiger min Ugesum til 50 Kroner.
-                    Dette er <emph>min</emph>
-                    <emph>eneste</emph> Honorarbetingelse. Ellers afgør Schiøtt Størrelse o:s:v: Jeg
-                    lever nu af <emph>lidt</emph> ‒ men for at mit Arbejde skal gaa, maa det
-                        <emph>være</emph> bestemt og <emph>falde</emph> bestemt.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman B.</p>
-                <p>Skriv tydeligt: <emph>Weinberge</emph>. Prag. <emph>Jungmannsstrasse
-                    403</emph></p>
-
-            </div>
-        </body>
-    </text>
+                        <hi rend="italics">bestemt</hi> hver <hi rend="italics">Mandag</hi>. Jeg skriver c: 1½ Ark om
+                    Ugen. Sender jeg <hi rend="italics">2</hi> trykte Ark, stiger min Ugesum til 50 Kroner.
+                    Dette er <hi rend="italics">min</hi>
+               <hi rend="italics">eneste</hi> Honorarbetingelse. Ellers afgør Schiøtt Størrelse o:s:v: Jeg
+                    lever nu af <hi rend="italics">lidt</hi> ‒ men for at mit Arbejde skal gaa, maa det
+                        <hi rend="italics">være</hi> bestemt og <hi rend="italics">falde</hi> bestemt.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman B.</p>
+            <p>Skriv tydeligt: <hi rend="italics">Weinberge</hi>. Prag. <hi rend="italics">Jungmannsstrasse
+                    403</hi>
+            </p>
+         </div>
+      </body>
+   </text>
 </TEI>

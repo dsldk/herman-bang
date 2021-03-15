@@ -1,106 +1,127 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19030000005</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Gyldendals arkiv B4c</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1903-01-01" notBefore="9999-99-99" notAfter="9999-99-99">[1903.  00,] Onsdag<note>Brevet er skrevet af en
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19030000005</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">empty</placeName>
+               <date when="1903-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1903-01-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1903.  00,] Onsdag<note>Brevet er skrevet af en
                   sekretær (frøken Ville Kristiansen?). Egenhændigt underskrevne initialer</note>
-                </date>
-                <placeName cert="low">empty</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Onsdag.</p>
-                <p>Kære Nansen.</p>
-                <p>Tilgiv, at jeg ikke har skrevet før om <persName key="Rostrup, Oda">Oda</persName>
-                    <note>Velsagtens skuespillerinden Oda Rostrup (1879-1955), født Clausen, gift 3.6.1903 med skuespiller Egill
-                  Rostrup</note>. Men jeg har været ganske syg og kunde under min Sygdom ikke træde
+            </date>
+            <placeName cert="low">empty</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Kære Nansen.</p>
+            <p>Tilgiv, at jeg ikke har skrevet før om <persName key="Rostrup_Oda">Oda</persName>
+               <ref target="n1"/>. Men jeg har været ganske syg og kunde under min Sygdom ikke træde
                op for at revse den lille Dame, der havde puttet min ganske private Samtale i Udgaven
                Rostrup, som derpaa arrangerede Festen.</p>
-                <p>Men nu er vel ogsaa hele den Affære glemt – og gemt.</p>
-                <p>Hvad bliver det til med Schubothe? Kontrakten? <title key="Ludvigsbakke">Ludvigsbakke</title>? Opgivelse af "<title key="Ved                Vejen">Ved
-               Vejens</title>" Restoplag? Det hele?</p>
-                <p>Jeg skulde jo være rejst og min Læge holder strængt derpaa. Men, som Sagerne staar,
+            <p>Men nu er vel ogsaa hele den Affære glemt – og gemt.</p>
+            <p>Hvad bliver det til med Schubothe? Kontrakten? <!--start title reference--><title key="Ludvigsbakke">Ludvigsbakke</title>
+               <!--end title reference-->? Opgivelse af "<!--start title reference--><title key="Ved________________Vejen">Ved
+               Vejens</title>
+               <!--end title reference-->" Restoplag? Det hele?</p>
+            <p>Jeg skulde jo være rejst og min Læge holder strængt derpaa. Men, som Sagerne staar,
                kan jeg, ret besét ikke gøre det, hvilket Du vistnok vil finde rigtigt.</p>
-                <p>Jeg havde i Virkeligheden glædet mig meget til at være hos Jer. Men Kræfterne brast
+            <p>Jeg havde i Virkeligheden glædet mig meget til at være hos Jer. Men Kræfterne brast
                allerede Dagen før og noget Under var det ikke.</p>
-                <p>Foraaret er jo i de sidste Aar i og for sig farligt nok for min Organismes indviklede
+            <p>Foraaret er jo i de sidste Aar i og for sig farligt nok for min Organismes indviklede
                Maskineri.</p>
-                <p>Jeg véd ikke hvorfor, men jeg laa i Nat og tænkte paa hvor meget <persName key="Nansen, Betty">Din Kone</persName>
-                    <note>Betty Nansen</note>s Trang til at styre og skabe lignede min egen, da jeg selv
+            <p>Jeg véd ikke hvorfor, men jeg laa i Nat og tænkte paa hvor meget <persName key="Nansen_Betty">Din Kone</persName>
+               <ref target="n2"/>s Trang til at styre og skabe lignede min egen, da jeg selv
                var ung. Gid hun maatte slappes senere end jeg.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

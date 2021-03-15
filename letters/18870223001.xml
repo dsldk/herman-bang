@@ -1,106 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870223001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>to dele: NKS 2353, folio, samt ukendt opholdssted</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 8 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1887-02-23">[1887, 23. februar] Onsdag<note>På KB findes kun
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870223001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>to dele: NKS 2353, folio, samt ukendt opholdssted</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 8 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-02-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-02-23">[1887, 23. februar] Onsdag<note>På KB findes kun
                         brevets første fire sider bevaret. Udgiveren (GP) ejer en fotokopi af, hvad
                         der (formentlig?) er brevets resterende del, fundet 1992 i et antikvariat
                         indlagt i en tilfældig bog af Herman Bang; originalen er i ukendt eje. ‒
                         Dateringsforslaget hos Torbjörn Nilsson (s. 199 note 10 og s. 290 nr. 18) og
                         hos Flemming Conrad (i Omkring Stuk, 1977, s. 49-50) følges</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Prag. Onsdag.</p>
-                <p>Min kære Ven.</p>
-                <p>Jeg har tænkt, at et Brev i Ro, efter at den første Ophidselse har sat sig og
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Onsdag.</p>
+            <p>Min kære Ven.</p>
+            <p>Jeg har tænkt, at et Brev i Ro, efter at den første Ophidselse har sat sig og
                     Kapitel I var afsendt, ikke vilde skade. Først vil jeg kun i Anledning af
-                        »Kinesere«<note>Bangs artikel »Kinesere« trykt i Politiken, 21.2.1887</note>
-                    sige, at jeg den Gang skrev det <emph>par exemple</emph>, og at den Artikel, som
+                        »Kinesere«<ref target="n1"/>
+                    sige, at jeg den Gang skrev det <hi rend="italics">par exemple</hi>, og at den Artikel, som
                     føljetonmæssig holdt i Mandags stod i »Politiken« allerede da var afsendt ‒
-                        <emph>dig</emph> vilde slig Behandling af Spørgsmaalet ikke baade. Men vil
+                        <hi rend="italics">dig</hi> vilde slig Behandling af Spørgsmaalet ikke baade. Men vil
                     du populært videnskabeligt tage »Kineserfaren«, skal jeg sende dig en udmærket
                     Brochure om Spørgsmaalet. ‒</p>
-                <p>Intet kan skaffe mig bort fra den Anskuelse, at jeg ikke kan og vil taale en
+            <p>Intet kan skaffe mig bort fra den Anskuelse, at jeg ikke kan og vil taale en
                     Censur og Stilretten i stort Maal. Mit Arbejde er mit eneste Eje. Retten til
                     selv at bestemme derover er min nødvendigste Ret. Uden den vilde jeg opgive
                     Haabet om Fremtiden, om en Gang at sejre ‒ det eneste, hvorpaa jeg nu lever.
                     Altsaa kan jeg ikke gaa ind paa Schous Fordring om »Ret til Ændringer«. Og jeg
-                    maa bestemt holde paa, at <emph>enten</emph> maa Schou tage <emph>min</emph> Bog
-                    (de naf mig skrevne Roman, gennemlæst og slebet af <emph>dig</emph> ‒ og ham,
+                    maa bestemt holde paa, at <hi rend="italics">enten</hi> maa Schou tage <hi rend="italics">min</hi> Bog
+                    (de naf mig skrevne Roman, gennemlæst og slebet af <hi rend="italics">dig</hi> ‒ og ham,
                     som »Ved Vejen«) eller han maa opgive Forlaget af denne Bog »Stuk«. En
                     Afskrivning bag hans Ryg behager mig ikke. Dels vilde Situationens evige
                     Usikkerhed hæmme mit Arbejde; dels vilde det »skæve« i noget, der skete bag
@@ -108,79 +123,77 @@
                     Fod med Verden; arbejde mine ti Timer om Dagen og derfor tjene mine 200 Gylden
                     om Maaneden ‒ stille, i Fred, uden Svindel til nogen Side.... Og dette med
                     Afskriften synes mig ikke at være ganske ret.</p>
-                <p>Ren Vin iskænket af Schou og <emph>strax</emph>. For det første af Hensyn til min
-                    Sundhed. Jeg <emph>kan</emph> ikke mere leve i den Uvished, som har betegnet
+            <p>Ren Vin iskænket af Schou og <hi rend="italics">strax</hi>. For det første af Hensyn til min
+                    Sundhed. Jeg <hi rend="italics">kan</hi> ikke mere leve i den Uvished, som har betegnet
                     disse tre frygtelige Maaneder. Om du blot to Minutter saá mig, vilde du vide
                     det. Uvisheden lægger mig plat i Jorden. og hvor unødvendig er den? Og hvor
                     kvælende for mit Arbejde.</p>
-                <p>For det andet maa en Bestemmelse ‒ og en fast, en for dette Arbejde
-                        <emph>uomstædelig</emph> Bestmlse<note>Bangs forkortelse for:
-                        Bestemmelse</note> ‒ træffes strax af Hensyn til Pengene. Jeg kan leve for
+            <p>For det andet maa en Bestemmelse ‒ og en fast, en for dette Arbejde
+                        <hi rend="italics">uomstædelig</hi> Bestmlse<ref target="n2"/> ‒ træffes strax af Hensyn til Pengene. Jeg kan leve for
                     lidt; jeg kan indskrænke mig endnu yderligere. Men Pinagtigheden
-                        <emph>maa</emph> ophøre. Jeg gør Schou ansvarlig for hver Dag, han tøver, ‒
+                        <hi rend="italics">maa</hi> ophøre. Jeg gør Schou ansvarlig for hver Dag, han tøver, ‒
                     og om han kendte Omfanget af sit Ansvar, vilde han ikke tøve mange Dage ‒ ; jeg
                     maa en Gang igen komme ind i den Bane, jeg beder om: at jeg afleverer og faar
-                        <emph>betalt</emph>. Men saa fast, saa regelmæssigt som jeg afleverer, maa
+                        <hi rend="italics">betalt</hi>. Men saa fast, saa regelmæssigt som jeg afleverer, maa
                     der ogsaa betales. Schou har sagt, han kan kun lidt om Ugen. Nuvel ‒ lad ham
-                    give lidt. Men lad ham saa give det <emph>sikkert</emph>. At jeg ikke skal
+                    give lidt. Men lad ham saa give det <hi rend="italics">sikkert</hi>. At jeg ikke skal
                     vente, at jeg ikke skal plages. Manuskript afsendt Lørdag ‒ den beskedneste Sum
                     afsendt Mandag. Men endelig Fasthed ‒ men endelig en Bestemmelse.</p>
-                <p>Og formener du det klogest at »skære af« med Schou ‒ da hos den nye Mand dette
+            <p>Og formener du det klogest at »skære af« med Schou ‒ da hos den nye Mand dette
                     som Betingelse. Schou har sagt, jeg kan kun sende 25 Mark(!) om Ugen. Men i
-                    Februar har han sendt mig 34 fl!! Og vidste jeg saa, <emph>naar</emph> der
+                    Februar har han sendt mig 34 fl!! Og vidste jeg saa, <hi rend="italics">naar</hi> der
                     sendtes og hvor meget ‒ ‒ men jeg véd aldrig noget.</p>
-                <p>Du vil sige, min Ven: men Bladene: Ja i Februar <emph>alle</emph> Blade givet mig
-                        <emph>knap</emph> 50 fl.....</p>
-                <p>Som det nu er, kan en Afgørelse ikke opsættes. Efter de siste Maaneder ‒ fra
+            <p>Du vil sige, min Ven: men Bladene: Ja i Februar <hi rend="italics">alle</hi> Blade givet mig
+                        <hi rend="italics">knap</hi> 50 fl.....</p>
+            <p>Som det nu er, kan en Afgørelse ikke opsættes. Efter de siste Maaneder ‒ fra
                     Nov:, tænk ogsaa, hvilke Maaneder: »Stuk« ‒ Julen ‒ Sygdommen ‒ og nu paany
-                    »Stuk« ‒ er jeg knækket. Om Schou tøver, om der ikke <emph>strax</emph> efter
+                    »Stuk« ‒ er jeg knækket. Om Schou tøver, om der ikke <hi rend="italics">strax</hi> efter
                     dette Brev kan træffes en Afgørelse og sendes mig den lille, men faste Sum for
                     mit Arbejde ‒ da er der for at holde mig over en ny Sygdom (ti jeg er moralsk
-                        <emph>for</emph> sønderslaaet) kun ét Middel: <emph>du</emph> maa gaa
+                        <hi rend="italics">for</hi> sønderslaaet) kun ét Middel: <hi rend="italics">du</hi> maa gaa
                     direkte til Fru Ferslew. Du maa sige hende, at du gør det, fordi du véd, at jeg
                     ansér hende for min eneste Tilflugt. Derfor har du vovet det ‒ uden mit Vidende.
                     Sig hende, at du kender disse Maaneders Historie; fortæl hende denne Historie;
                     sig hende, at jeg har arbejdet; at du véd, hvorledes; at nu drejer det sig om
-                        <emph>Retten til selv at forme</emph> Kontrakten men Uenighed om denne
-                        <emph>enkelte</emph> Bog fører til, at <emph>den</emph> udgives hos en
+                        <hi rend="italics">Retten til selv at forme</hi> Kontrakten men Uenighed om denne
+                        <hi rend="italics">enkelte</hi> Bog fører til, at <hi rend="italics">den</hi> udgives hos en
                     anden.</p>
-                <p>Schou maa derfor lade sig nøje med en Udbetaling som den ovenfor beskrevne. Jeg
-                    vender jo tilbage til ham. <emph>Jeg</emph> maatte for hvert Ark ‒ af de første
+            <p>Schou maa derfor lade sig nøje med en Udbetaling som den ovenfor beskrevne. Jeg
+                    vender jo tilbage til ham. <hi rend="italics">Jeg</hi> maatte for hvert Ark ‒ af de første
                     ti ‒ <app>
-                        <lem>have</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> 30 Kroner pr: leveret Ark; siden 40 pr: leveret Ark. Det hele Honorar
+                  <lem>have</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> 30 Kroner pr: leveret Ark; siden 40 pr: leveret Ark. Det hele Honorar
                     kunde du og Langhoff afgøre efter Oplagets Størrelse......</p>
-                <p>Jeg vil kun sige ét endnu: at jeg i denne Maaned er bragt til det
-                        <emph>yderste</emph>. Min Indtægt i det hele er ikke 90 Gylden (fra Schou 34
-                    fl). Jeg <emph>maa</emph> derfor for at kunne arbejde ‒ have sendt 100 Kroner af
+            <p>Jeg vil kun sige ét endnu: at jeg i denne Maaned er bragt til det
+                        <hi rend="italics">yderste</hi>. Min Indtægt i det hele er ikke 90 Gylden (fra Schou 34
+                    fl). Jeg <hi rend="italics">maa</hi> derfor for at kunne arbejde ‒ have sendt 100 Kroner af
                     Schubothe. Det vilde være til Schou 200 og til mig 100 strax; efter de ti Ark
                     var mig udbetalt (mig + Sch:) 200 + 100 + 300 (30 pr: Ark) = 600 + nye 200 til
                     Schou = 800 ↄ: det hele Honorar (à 80 pr. Ark). De senere Ark vilde saa stille
                     sig hastigt gunstigere...... Tro mig, jeg er ikke mer nogen Ødeland. Men
-                        <emph>dette</emph> gaar ikke. <emph>Leve</emph> maa jeg.</p>
-                <p>Og endnu ét: jeg er et sygt Menneske. Jeg taaler Skuffelser, Slag, Arbeide ‒
-                        <emph>men jeg taaler ikke det daglige Tryk over mit Arbejde, og jeg taaler
-                        ikke Uvishedens Pinsel</emph>. Afgørelsen <emph>maa</emph> træffes nu. At
-                    tage Afskrift bag Schous Ryg er utilstedeligt. <emph>Han</emph> er en honnet
-                    Mand, og <emph>vi</emph> maa opføre os honnet. Det leverede Manskpt:<note>Bang
-                        forkortelse for: Manuskript</note> vil han sikkert udlevere. I alle Fald: ti
-                    ikke, men skriv <emph>strax</emph>. Og er det dig <emph>muligt</emph>, da lad
-                        <emph>enten</emph> Schou <emph>eller</emph> Langhoff
-                        <emph>uopholdeligt</emph> sende ialfald saa meget, at jeg har noget at
+                        <hi rend="italics">dette</hi> gaar ikke. <hi rend="italics">Leve</hi> maa jeg.</p>
+            <p>Og endnu ét: jeg er et sygt Menneske. Jeg taaler Skuffelser, Slag, Arbeide ‒
+                        <hi rend="italics">men jeg taaler ikke det daglige Tryk over mit Arbejde, og jeg taaler
+                        ikke Uvishedens Pinsel</hi>. Afgørelsen <hi rend="italics">maa</hi> træffes nu. At
+                    tage Afskrift bag Schous Ryg er utilstedeligt. <hi rend="italics">Han</hi> er en honnet
+                    Mand, og <hi rend="italics">vi</hi> maa opføre os honnet. Det leverede Manskpt:<ref target="n3"/> vil han sikkert udlevere. I alle Fald: ti
+                    ikke, men skriv <hi rend="italics">strax</hi>. Og er det dig <hi rend="italics">muligt</hi>, da lad
+                        <hi rend="italics">enten</hi> Schou <hi rend="italics">eller</hi> Langhoff
+                        <hi rend="italics">uopholdeligt</hi> sende ialfald saa meget, at jeg har noget at
                     spise.</p>
-                <p rend="right">Herman.</p>
-                <p>At jeg <emph>ikke</emph> svælger i evigt »Forskudsskrigeri«. At jeg overhovedet
-                    er blevet et roligt og ikke Vrøvlegørende Eksemplar. At <emph>200</emph> Kroner
+            <p rend="right">Herman.</p>
+            <p>At jeg <hi rend="italics">ikke</hi> svælger i evigt »Forskudsskrigeri«. At jeg overhovedet
+                    er blevet et roligt og ikke Vrøvlegørende Eksemplar. At <hi rend="italics">200</hi> Kroner
                     strax maa udbetales Schou ‒ 200, naar jeg har leveret 10 Ark og 200, naar jeg
-                    har leveret de 20. Under 30 Ark bliver ikke Bogen, heller ikke over. <emph>Hvad
-                        Schou angaar, da er Kontrakten <emph>atter</emph> bindende for min næste Bog
+                    har leveret de 20. Under 30 Ark bliver ikke Bogen, heller ikke over. <hi rend="italics">Hvad
+                        Schou angaar, da er Kontrakten <hi rend="italics">atter</hi> bindende for min næste Bog
                         (efter »Stuk«). <app>
-                            <lem>Saaledes lyder Kontrakt.</lem>
-                            <rdg>Ordene er tilføjet under linjen, markeret med et x)</rdg>
-                        </app></emph> Jeg løser ikke.</p>
-
-            </div>
-        </body>
-    </text>
+                     <lem>Saaledes lyder Kontrakt.</lem>
+                     <rdg>Ordene er tilføjet under linjen, markeret med et x)</rdg>
+                  </app>
+               </hi> Jeg løser ikke.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

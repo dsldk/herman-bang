@@ -1,115 +1,126 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19050700001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 843</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider; brevets venstre kant er senere blevet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050700001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 843</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; brevets venstre kant er senere blevet
                                                 perforeret med to huller i en hullemaskine, således
                                                 at brevet har kunnet sættes ind i et ringbind</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1905-07-01">[1905, juni eller juli] Onsdag <note>Sammenhæng
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1905-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Bertha Holst (Bangs nièce)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1905-07-01">[1905, juni eller juli] Onsdag <note>Sammenhæng
                         med Bangs brev til Bertha Holst, 30.6.1905; uklart hvilket af de to breve,
                         der er skrevet først. ‒ Siden marts 1905 var den 23-årige Bertha Holst
                         indlagt på tuberkulosesanatoriet Marienlund i Silkeborg</note>
-                </date>
-                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Marienlyst. Onsdag.</p>
-                <p>Min egen Bertha.</p>
-                <p>Naar jeg saa altfor længe ikke har skrevet, er det ikke, fordi jeg ikke har tænkt
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. Onsdag.</p>
+            <p>Min egen Bertha.</p>
+            <p>Naar jeg saa altfor længe ikke har skrevet, er det ikke, fordi jeg ikke har tænkt
                     paa dig ‒ og hver Dag. Men jeg har, efter de uhyre Anstrængelser, som jeg har
-                    underkastet mig, selv været <emph>meget</emph> syg ‒ uden at nogen har maattet
+                    underkastet mig, selv været <hi rend="italics">meget</hi> syg ‒ uden at nogen har maattet
                     vide det.</p>
-                <p>Min egen, kære Bertha, jeg forstaar, hvad du nu lider. Men over Sygdom er jo
-                    ingen Herre. Og <emph>nu</emph> maa du kun tænke paa <emph>en</emph> Ting: at
-                    blive rask. Naar du er blevet rask, maa vi tænke paa <emph>hele</emph>
-                    Fremtiden. Foreløbig skal jeg det lidt, som jeg kan, hjælpe Meta<note>Efter
-                        brevets formuleringer at dømme, er Meta kæreste med Bertha Holst. Måske er
-                        hun identisk med den frøken Jørgensen, som Bang omtaler i sit brev til
-                        Bertha Holst, 30.6.1905</note>. Og paa Lørdag skal jeg sende dig de første
+            <p>Min egen, kære Bertha, jeg forstaar, hvad du nu lider. Men over Sygdom er jo
+                    ingen Herre. Og <hi rend="italics">nu</hi> maa du kun tænke paa <hi rend="italics">en</hi> Ting: at
+                    blive rask. Naar du er blevet rask, maa vi tænke paa <hi rend="italics">hele</hi>
+                    Fremtiden. Foreløbig skal jeg det lidt, som jeg kan, hjælpe Meta<ref target="n1"/>. Og paa Lørdag skal jeg sende dig de første
                     Penge til hende. Men, min egen Ven, jeg frygter for, at du i din store Kærlighed
                     har forvænnet hende, saa hun er blevet en daarlig Økonom ligesom jeg. Og vi maa
-                        <emph>alle</emph> vænne os til en bedre Økonomi, det vil sige, en bedre
-                    Orden. Men, som sagt, det maa komme. <emph>Nu</emph> skal du kun tænke paa at
+                        <hi rend="italics">alle</hi> vænne os til en bedre Økonomi, det vil sige, en bedre
+                    Orden. Men, som sagt, det maa komme. <hi rend="italics">Nu</hi> skal du kun tænke paa at
                     blive rask. Mens du bliver det, skal jeg betale for Meta, hvad jeg kan.</p>
-                <p>Og tænk saa paa, at alt dette er noget, som gaar over, saasnart du atter er rask.
-                    Og du bliver helt rask, naar du selv fast <emph>vil</emph>. Paa Lørdag sender
+            <p>Og tænk saa paa, at alt dette er noget, som gaar over, saasnart du atter er rask.
+                    Og du bliver helt rask, naar du selv fast <hi rend="italics">vil</hi>. Paa Lørdag sender
                     jeg dig de første Penge til Meta.</p>
-                <p rend="right">Altid Din</p>
-                <p rend="right">Herman.</p>
-                <p>Dette véd naturligvis ingen.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Altid Din</p>
+            <p rend="right">Herman.</p>
+            <p>Dette véd naturligvis ingen.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,155 +1,162 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19011222001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 5011, 4to</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">fru Anna Ferslew</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Øverst på brevets første side har en fremmed hånd skrevet et
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19011222001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5011, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Øverst på brevets første side har en fremmed hånd skrevet et
                                         dateringsforslag: »Decb. 1902«; der er formentlig tale om
                                         Anna Levin</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
                                         »Nationaltidende«, Gyldendal 1932, s. 202</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1901-12-22">[1901, 22. December] Søndag<note>Må være skrevet
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1901-12-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>fru Anna Ferslew</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1901-12-22">[1901, 22. December] Søndag<note>Må være skrevet
                         den sidste søndag før jul, efter artiklen »Dollars«' offentliggørelse og den
                         af Bang omtalte reaktion fra Politikens side</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Kære Fru Ferslew.</p>
-                <p>Tilgiv den ret ulæselige Skrift; men jeg er saa syg, at jeg ellers maa
-                        <emph>diktere</emph> altid og alting. Tilgiv ogsaa, at jeg skriver til Dem
-                    og ikke til Etatsraaden<note>Dvs. Christian Ferslew</note>. Men jeg véd, at han
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Kære Fru Ferslew.</p>
+            <p>Tilgiv den ret ulæselige Skrift; men jeg er saa syg, at jeg ellers maa
+                        <hi rend="italics">diktere</hi> altid og alting. Tilgiv ogsaa, at jeg skriver til Dem
+                    og ikke til Etatsraaden<ref target="n1"/>. Men jeg véd, at han
                     er syg.</p>
-                <p>Men hvad <app>
-                        <lem>der</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> er sket mig er virkelig forfærdeligt. Nu, hvor jeg er gammel og altid
+            <p>Men hvad <app>
+                  <lem>der</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> er sket mig er virkelig forfærdeligt. Nu, hvor jeg er gammel og altid
                     syg, hvor Hjerteanfaldene bestandig <app>
-                        <lem>tiltager</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app>, staar jeg, hvem man kalder »berømt« (aa, hvor uendelig lidt betyder dog
+                  <lem>tiltager</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app>, staar jeg, hvem man kalder »berømt« (aa, hvor uendelig lidt betyder dog
                     Berømmelsen for et Hjerte, saa <app>
-                        <lem>sørgmodigt</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> som mit) endnu meget frygteligere stillet end, da jeg for snart
-                        <emph>tyve</emph> Aar siden forlod »Nationaltidende«<note>Dvs. med udgangen
-                        af året 1884</note>.</p>
-                <p><emph>Jeg har ingen Forlægger</emph>. Da »Det Schubothe Forlag« drev Udnyttelsen
-                    af mig for vidt, tog i Sommer min Sagfører<note>Oluf Heise (1862-1935), fra 1892
-                        overretssagfører i København</note> Sagen i sin Haand. det viste sig, at jeg
-                    var blevet oprørende behandlet. Og Hegel<note>Jacob Hegel (1851-1918), fra 1887
-                        eneejer af og direktør for forlaget Gyldendal</note> tilbød sig strax som
+                  <lem>sørgmodigt</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> som mit) endnu meget frygteligere stillet end, da jeg for snart
+                        <hi rend="italics">tyve</hi> Aar siden forlod »Nationaltidende«<ref target="n2"/>.</p>
+            <p>
+               <hi rend="italics">Jeg har ingen Forlægger</hi>. Da »Det Schubothe Forlag« drev Udnyttelsen
+                    af mig for vidt, tog i Sommer min Sagfører<ref target="n3"/> Sagen i sin Haand. det viste sig, at jeg
+                    var blevet oprørende behandlet. Og Hegel<ref target="n4"/> tilbød sig strax som
                     min Forlægger. <app>
-                        <lem>Men</lem>
-                        <rdg>Ordet er rettet fra: men</rdg>
-                    </app> Schubothe paaberaaber sig sin Kontrakt og <app>
-                        <lem>tilføjede</lem>
-                        <rdg>Bang har ikke selv rettet sin skrivefejl: filføjede</rdg>
-                    </app>, at de for mine Bøger ikke vil udbetale mig en Hvid, før mit Forskud er
-                    betalt. Begyndelsen blev gjort med, at Forlaget beholdt <emph>hele</emph>
-                    Honoraret for »Det Graa Hus« (2,500)<note>Udkom 26.11.1901 på Det Schubotheske
-                        Forlag</note>. Jeg fik, skønt jeg er saa syg, ikke <emph>en</emph> Øre. Mit
-                    hele Forskud beløber sig <emph>gennem tyve Aar</emph>, til 6000 Kr: men
+                  <lem>Men</lem>
+                  <rdg>Ordet er rettet fra: men</rdg>
+               </app> Schubothe paaberaaber sig sin Kontrakt og <app>
+                  <lem>tilføjede</lem>
+                  <rdg>Bang har ikke selv rettet sin skrivefejl: filføjede</rdg>
+               </app>, at de for mine Bøger ikke vil udbetale mig en Hvid, før mit Forskud er
+                    betalt. Begyndelsen blev gjort med, at Forlaget beholdt <hi rend="italics">hele</hi>
+                    Honoraret for »Det Graa Hus« (2,500)<ref target="n5"/>. Jeg fik, skønt jeg er saa syg, ikke <hi rend="italics">en</hi> Øre. Mit
+                    hele Forskud beløber sig <hi rend="italics">gennem tyve Aar</hi>, til 6000 Kr: men
                     alligevel, hvilken Tid at skulle skrive uden at faa en Skilling!</p>
-                <p><emph>Og jeg har intet Blad</emph>. Efter at jeg havde faaet en Artikel
-                    (»Dollars« hed den) optaget i »Nationaltidende«<note>Nationaltidende,
-                        aftenudgaven, 14.12.1901; i de følgende dage blev Bangs artikel »Dollars«
-                        tillige trykt i en række provinsaviser</note> har man fra »Politikens« Side
-                    behandlet mig saa raat, at jeg <emph>maa</emph> gaa fra første Januar<note>Bang
-                        havde været medarbejder ved Politiken siden 1900; fra årsskiftet 1901/1902
-                        skiftede han til avisen København</note>.</p>
-                <p>Og mens jeg stadig skriver saa godt, jeg kan, er Smerterne i Lunger og Hjerte
+            <p>
+               <hi rend="italics">Og jeg har intet Blad</hi>. Efter at jeg havde faaet en Artikel
+                    (»Dollars« hed den) optaget i »Nationaltidende«<ref target="n6"/> har man fra »Politikens« Side
+                    behandlet mig saa raat, at jeg <hi rend="italics">maa</hi> gaa fra første Januar<ref target="n7"/>.</p>
+            <p>Og mens jeg stadig skriver saa godt, jeg kan, er Smerterne i Lunger og Hjerte
                     næsten uudholdelige.</p>
-                <p>Nu er det tilmed Jul, den Jul, jeg en Gang elskede saa højt. Og jeg kan ingen,
+            <p>Nu er det tilmed Jul, den Jul, jeg en Gang elskede saa højt. Og jeg kan ingen,
                     slet ingen Juleglæde skabe, ikke for <app>
-                        <lem>Nogen</lem>
-                        <rdg>Før dette ord har Bang skrevet og overstreget ordet: megen</rdg>
-                    </app>, ikke en Gang for de fattige, som altid plejer at komme til mig.</p>
-                <p>Det er derfor jeg kommer til Dem, til hvem jeg saa ofte kom, og beder Dem støtte
+                  <lem>Nogen</lem>
+                  <rdg>Før dette ord har Bang skrevet og overstreget ordet: megen</rdg>
+               </app>, ikke en Gang for de fattige, som altid plejer at komme til mig.</p>
+            <p>Det er derfor jeg kommer til Dem, til hvem jeg saa ofte kom, og beder Dem støtte
                     mig, hjælpe mig lidt. Efter et Aar under <app>
-                        <lem>uhørte</lem>
-                        <rdg>Ordets første bogstav er rettet fra et andet, måske et: d</rdg>
-                    </app> Anstrængelser sidder jeg nu fattig og nedbrudt. Længe vil jeg ikke mere
+                  <lem>uhørte</lem>
+                  <rdg>Ordets første bogstav er rettet fra et andet, måske et: d</rdg>
+               </app> Anstrængelser sidder jeg nu fattig og nedbrudt. Længe vil jeg ikke mere
                     behøve nogen Hjælp: Under mine Hjerteanfald er nu min Krop helt
-                        <emph>stiv</emph> ‒ et af de sikre tegn paa Afslutningens Nærhed.</p>
-                <p>En inderlig Julehilsen til Dem og Etatsraad Ferslew</p>
-                <p rend="right">fra Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-                <p>Gamle Kongevej 25.</p>
-                <p>København B.</p>
-
-
-            </div>
-        </body>
-    </text>
+                        <hi rend="italics">stiv</hi> ‒ et af de sikre tegn paa Afslutningens Nærhed.</p>
+            <p>En inderlig Julehilsen til Dem og Etatsraad Ferslew</p>
+            <p rend="right">fra Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Gamle Kongevej 25.</p>
+            <p>København B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

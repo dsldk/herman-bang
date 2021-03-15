@@ -1,145 +1,158 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18850527001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 293</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Blyantspåskrifter af Peter Nansen: <q>Fristrup vist den senere
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850527001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 293</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrifter af Peter Nansen: <q>Fristrup vist den senere
                                  Fotograf og Teaterskribent</q>, ved Holther: <q>En
                                  Operetteskuespillerinde</q> og ved Constance Olsen: <q>vistnok
                                  Robert Watts senere Kone</q>. Nederst på s. 2 ligeledes påskrift:
                                  <q>Fru Betty Borchsenius</q> og <q>Filosoficum</q>
-                                    </ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. XXI</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1885-05-27" notBefore="9999-99-99" notAfter="9999-99-99">1885. 27. maj [onsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">[Trondhjem]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">d. 27.5.85.</p>
-                <p>Det er idag den 27 og paa min Køretur var jeg i Pelts. Paa Reisen hid gennemvandrede
-               jeg 20 Numre af "Politiken", og jeg saa, at <persName key="Fristrup, Peter">Fristrup</persName>
-                    <note>Peter Fristrup (1854-1913), forfatter og dramatiker</note> havde haft Benefice, at <persName key="Olsen, Constance">Constance Olsen</persName>
-                    <note>Skuespillerinden Constance Olsen (1858-1934), senere gift Hejlessen</note> gaar paa Turnée, og at Skoven var grøn. Alt rørte mig
-               næsten til Taarer. Et andetsteds læste jeg nylig, at <persName key="Holther, Hulda">Holther</persName>
-                    <note>Skuespillerinden Hulda Holther (født 1862), tilknyttet Dagmarteatret 1883-84 og Casino 1884-85</note> havde forladt Scenen for at gaa til Chile – i Sandhed –
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XXI</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Trondhjem]</placeName>
+               <date when="1885-05-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-05-27"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 27. maj [onsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[Trondhjem]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">d. 27.5.85.</p>
+            <p>Det er idag den 27 og paa min Køretur var jeg i Pelts. Paa Reisen hid gennemvandrede
+               jeg 20 Numre af "Politiken", og jeg saa, at <persName key="Fristrup_Peter">Fristrup</persName>
+               <ref target="n1"/> havde haft Benefice, at <persName key="Olsen_Constance">Constance Olsen</persName>
+               <ref target="n2"/> gaar paa Turnée, og at Skoven var grøn. Alt rørte mig
+               næsten til Taarer. Et andetsteds læste jeg nylig, at <persName key="Holther_Hulda">Holther</persName>
+               <ref target="n3"/> havde forladt Scenen for at gaa til Chile – i Sandhed –
                altfor mange Stjerner slukkes under min Fraværelse. – Du bryder dig jo ikke om
                Naturbeskrivelser – ellers vilde jeg øve min Pen paa Adjektiver og sende dig nogle
                musikalske Passus, men nu forskaaner jeg dig med en nøgtern Bemærkning om, at her er
                storartet, hvilken Udtalelse imponerer ved sin brede Almindelighed.</p>
-                <p>Der er iøvrigt intet at skrive. Siden jeg reiste fra <placeName key="Stockholm">Stockholm</placeName> har jeg intet gjort uden at reise og saa siden vente her
-               paa at den unge <persName key="Dengremont, Maurice">Maurice</persName>
-                    <note>Maurice Dengremont (1866-93), fransk violinist</note> skulde holde op at spille Violin for disse
+            <p>Der er iøvrigt intet at skrive. Siden jeg reiste fra <placeName key="Stockholm">Stockholm</placeName> har jeg intet gjort uden at reise og saa siden vente her
+               paa at den unge <persName key="Dengremont_Maurice">Maurice</persName>
+               <ref target="n4"/> skulde holde op at spille Violin for disse
                Nordboere, der allerede er begyndt at flytte paa Landet, indhyllede i Peltse. – Jeg
-               elskede din lille "Buket" til <persName key="Nielsen, Oda">Oda</persName>
-                    <note>Skuespillerinden Oda Nielsen (1851-1936), gift 1884 med skuespilleren Martinius Nielsen; der sigtes til Peter Nansens anmeldelse i Politiken, 21.4.1885, af
-                  hendes beneficeforestilling på Dagmarteatret. Hendes kunstneriske udvikling er her
-                  veloplagt sammenstillet med en række blomsterarter, som munder ud i, at "Fru
-                  Nielsens Kunst er en broget Blomsterkurv, sammensat af alle Farver. Fra
-                  Vintergækkes Hvidhed til Valmuens Blod – med alle Nuancer imellem. ..."</note>. Du
+               elskede din lille "Buket" til <persName key="Nielsen_Oda">Oda</persName>
+               <ref target="n5"/>. Du
                faar efterhaanden en Øvelse i at være vittig, som fuldkommen imponerer mig. At være
                vittig – vil det da virkelig sige det samme som en smuk <app>
-                        <lem>Dag</lem>
-                        <rdg>ordet er tilføjet over linjen</rdg>
-                    </app> at have haft <app>
-                        <lem>Mod</lem>
-                        <rdg>ordet er tilføjet over linjen</rdg>
-                    </app> til at begynde at sige Dumheder? Og saa en anden smuk Dag er man blevet
+                  <lem>Dag</lem>
+                  <rdg>ordet er tilføjet over linjen</rdg>
+               </app> at have haft <app>
+                  <lem>Mod</lem>
+                  <rdg>ordet er tilføjet over linjen</rdg>
+               </app> til at begynde at sige Dumheder? Og saa en anden smuk Dag er man blevet
                vittig. Jeg vilde ønske, jeg kunde blive morsom. Iaften skal jeg holde mit første
-               Foredrag her – tror du, <emph>det</emph> er morsomt?</p>
-                <p>Jeg arriverer til <placeName key="Bergen">Bergen</placeName> Lørdag den 6 Juni og
+               Foredrag her – tror du, <hi rend="italics">det</hi> er morsomt?</p>
+            <p>Jeg arriverer til <placeName key="Bergen">Bergen</placeName> Lørdag den 6 Juni og
                taler første Gang samme Aften. Jeg glæder mig til at naa den Stad, da der vel
                forhaabentlig er Breve til mig – nu har jeg ikke hørt fra nogen i to Uger. "Nogen"
-               vil i Grunden kun sige dig og <persName key="Nansen, Immanuel">"Hvalpen"</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> – hvornaar skal han op til Examen<note>Filosoficum,
-                  har Peter Nansen skrevet med blyant i brevet, dvs. den obligatoriske forprøve for universitetsstuderende uanset fag, som almindeligvis blev lagt efter det første studieår. Når man havde bestået filosoficum, kunne man i datiden kalde sig cand.phil</note>?</p>
-                <p>Sig mig en Sag: Vil du skaffe mig at vide, hvor <persName key="Borchsenius, Betty">Fru B.</persName>
-                    <note>Skuespillerinden Betty Borchsenius (1850-90), født Guldbrandsen, gift 1873-79 med journalisten Otto Borchsenius</note> er; hvordan hun lever; om jeg mulig kan gøre noget
+               vil i Grunden kun sige dig og <persName key="Nansen_Immanuel">"Hvalpen"</persName>
+               <ref target="n6"/> – hvornaar skal han op til Examen<ref target="n7"/>?</p>
+            <p>Sig mig en Sag: Vil du skaffe mig at vide, hvor <persName key="Borchsenius_Betty">Fru B.</persName>
+               <ref target="n8"/> er; hvordan hun lever; om jeg mulig kan gøre noget
                for hende. Det piner mig forfærdeligt at være saa langt borte.</p>
-                <p>Jeg fandt idag i en Boglade, hvorhen kun sparsomt sendes andet end religiøse
-               Skrifter, <persName key="Brandes, Edvard">E.B.</persName>
-                    <note>Edvard Brandes (1847-1931), dr.phil., forfatter og dramatiker, journalist, politiker, i 1884 medstifter af og derefter redaktør ved avisen Politiken, medlem af Folketinget 1880-94 (Venstre), af Landstinget 1906-27 (Det Radikale Venstre)</note>'s nye Stykke<note>
-                        <title key="Et Brud">Et Brud</title>.
-                  Skuespil i tre Akter, Kbh. 1885</note>. Jeg skal læse det inat. Idag faldt jeg i
+            <p>Jeg fandt idag i en Boglade, hvorhen kun sparsomt sendes andet end religiøse
+               Skrifter, <persName key="Brandes_Edvard">E.B.</persName>
+               <ref target="n9"/>'s nye Stykke<ref target="n10"/>. Jeg skal læse det inat. Idag faldt jeg i
                Søvn over nogle "Ferslewiana" ɔ: "Nationaltidende" – den er ikke saa rigtig aandfuld,
                den stakkels Avis, men den er respektabel og paa den "rette Side" – af den
                menneskelige Dumhed. Jeg er lykkelig over, at disse Spalte-Uhyrer ikke mer skal favne
                mine stakkels Smaaprodukter og knuse dem i deres altfor lange Arme. Det er bestandig
-               alene <persName key="Falkman, Adolf">Falkmann</persName>
-                    <note>Journalist Adolf Falkman (1837-1903), der fra 1876 arbejdede ved Nationaltidende</note>, som skøtter Væven?</p>
-                <p>Efter min Beregning maa jeg kunne naa <placeName key="Frederikshavn">Fredrikshavn</placeName> den 6 Juli. Saa taler jeg for at faa min Reise betalt i
+               alene <persName key="Falkman_Adolf">Falkmann</persName>
+               <ref target="n11"/>, som skøtter Væven?</p>
+            <p>Efter min Beregning maa jeg kunne naa <placeName key="Frederikshavn">Fredrikshavn</placeName> den 6 Juli. Saa taler jeg for at faa min Reise betalt i
                   <placeName key="Aarhus">Aarhus</placeName> og <placeName key="Horsens">Horsens</placeName> – og om vi da kunde mødes i <placeName key="Hamburg">Hamburg</placeName> – ja – usch – det vil bero paa, om dette Kvæg heroppe vil
                mylre til – paa betalte Billetter.</p>
-                <p>Hils "Hvalpen"</p>
-                <p rend="right">fra Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Hils "Hvalpen"</p>
+            <p rend="right">fra Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

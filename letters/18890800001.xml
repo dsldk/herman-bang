@@ -1,118 +1,137 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18890800001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 65</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1889-08-01" notBefore="9999-99-99" notAfter="9999-99-99">[1889.  august. ] Lørdag<note>Usikker datering, men vel
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18890800001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 65</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Bergen?]</placeName>
+               <date when="1889-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1889-08-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1889.  august. ] Lørdag<note>Usikker datering, men vel
                   august eller september</note>
-                </date>
-                <placeName cert="low">[Bergen?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Victoria Hotel Lørdag.</p>
-                <p>Nej, nu maa jeg, kære Nansen – trods alt Paastyr, Uroen Millionærmiddagene, i
+            </date>
+            <placeName cert="low">[Bergen?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Victoria Hotel Lørdag.</p>
+            <p>Nej, nu maa jeg, kære Nansen – trods alt Paastyr, Uroen Millionærmiddagene, i
                Parentes, min Rejse gaar saa op og ned og bliver mer og mer en Rejsen rundt i de
                store Familjer, fra Sted til Sted, med deres endløse Super's Visiter o:s:v: – trods
-               alt det maa jeg, lige før en <persName key="Sundt, familien">Sundt</persName>
-                    <note>Den velhavende norske familie Sundt, bosat ved Bergen, jf. note til brevet 18890627</note>-Middag, tale med dig.</p>
-                <p>Det er dette med "Krøniken"<note> Af Dagens Krønike</note>. Jeg er saa angst for at
+               alt det maa jeg, lige før en <persName key="Sundt_familien">Sundt</persName>
+               <ref target="n1"/>-Middag, tale med dig.</p>
+            <p>Det er dette med "Krøniken"<ref target="n2"/>. Jeg er saa angst for at
                du skal misforstaa og ikke begribe.</p>
-                <p>Igaar sendte <persName key="Neergaard, Dagmar">Fru Neergaard</persName>
-                    <note>Dagmar Neergaard (1860-1955), født Lind, gift 1883-ca.1900 med Niels Neergaard</note> mig Korrektur paa første
-               Halvdel af "<title key="En dejlig Dag">En dejlig Dag</title>"<note> Novellens første
-                  halvdel blev trykt i Tilskueren, september 1889; 2.halvdel s.st. januar
-                  1890</note>. Denne Novelle lovede jeg N's i April Maaned. Nu er Halvdelen gaaet i
+            <p>Igaar sendte <persName key="Neergaard_Dagmar">Fru Neergaard</persName>
+               <ref target="n3"/> mig Korrektur paa første
+               Halvdel af "<!--start title reference--><title key="En_dejlig_Dag">En dejlig Dag</title>
+               <!--end title reference-->"<ref target="n4"/>. Denne Novelle lovede jeg N's i April Maaned. Nu er Halvdelen gaaet i
                Trykken og sidste Halvdel uskreven. Denne Halvdel er det eneste, som jeg ud over
                Rejser og Forelæsninger har faaet gjort i Sommer.</p>
-                <p>Nu tænkte jeg, naar nu Peter sér dette Stykke, saa siger han til sig selv: Altsaa –
-               jeg havde Ret – Bang tilhører "Skueren"<note>Dvs. tidsskriftet Tilskueren</note>.
+            <p>Nu tænkte jeg, naar nu Peter sér dette Stykke, saa siger han til sig selv: Altsaa –
+               jeg havde Ret – Bang tilhører "Skueren"<ref target="n5"/>.
                Men dette er ikke sandt.</p>
-                <p>Tvertimod var min første Tanke kun denne ene: Jask op Slutningen af det om <persName key="Ibsen, Henrik">Ibsen</persName>
-                    <note>"Lidt om Henrik Ibsen som ung", jf. brevet 18890600</note> for at vise ham det
-               modsatte. <emph>Og jeg faar det gjort</emph>.</p>
-                <p>Kære Nansen, du maa vide, at alt, hvad der hedder at konkurrere med dig og dit, har
+            <p>Tvertimod var min første Tanke kun denne ene: Jask op Slutningen af det om <persName key="Ibsen_Henrik">Ibsen</persName>
+               <ref target="n6"/> for at vise ham det
+               modsatte. <hi rend="italics">Og jeg faar det gjort</hi>.</p>
+            <p>Kære Nansen, du maa vide, at alt, hvad der hedder at konkurrere med dig og dit, har
                været hele mit hidtidige Livs største Ubehag. Og dit Tidsskrift vil sikkert ogsaa
-               gøre mig <emph>saa</emph> ubehageligt at være "Teater" i "Skueren", at jeg afstaar
+               gøre mig <hi rend="italics">saa</hi> ubehageligt at være "Teater" i "Skueren", at jeg afstaar
                derfra.</p>
-                <p>Jeg kan det ikke. Det strider nu som altid mod min Følelse. Og jeg vil skrive saare
+            <p>Jeg kan det ikke. Det strider nu som altid mod min Følelse. Og jeg vil skrive saare
                indtrængende til N's derom.</p>
-                <p>Saaledes forholder Tingene sig. Hils <persName key="Brock, Louise">din
+            <p>Saaledes forholder Tingene sig. Hils <persName key="Brock_Louise">din
                   Kone</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> mange Gange. Nu <emph>maa</emph> jeg ind at klæde mig
+               <ref target="n7"/> mange Gange. Nu <hi rend="italics">maa</hi> jeg ind at klæde mig
                om.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

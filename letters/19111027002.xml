@@ -1,115 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19111027002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4685, 4to; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Christian Houmark</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider; fortrykt brevpapir med tegning af
-                                                hotellet: <emph>Grand Hotel. Grand Hotel Royal.
-                                                  Stockholm den ... 191...</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1911-10-27">[1911, 27. oktober] Fredag <note>empty</note>
-                </date>
-                <placeName cert="high">Stockholm</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">[Stockholm den] Fredag [191..]</p>
-                <p>Ja, kære Houmark, Deres Brev er brændt ‒ hvad bedst mig synes. De har et uroligt
-                    Hjerte. Men Lykke til...... Ugglas<note>Carl Ramsell af Ugglas (1884-1946),
-                        svensk friherre, forfatter</note> er henrivende. Især naar han lér, hvad han
-                    ofte gør. Hans ene Bog har jeg læst og den anden vil jeg læse<note>de to første
-                        bøger i Carl Ramsell af Ugglas' forfatterskab er Himmelens folk fra 1908 og
-                        novellesamlingen Den blå skuggan fra 1910</note>. Han er sikkert en
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111027002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4685, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; fortrykt brevpapir med tegning af
+                                                hotellet: <hi rend="italics">Grand Hotel. Grand Hotel Royal.
+                                                  Stockholm den ... 191...</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Stockholm</placeName>
+               <date when="1911-10-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-10-27">[1911, 27. oktober] Fredag <note>empty</note>
+            </date>
+            <placeName cert="high">Stockholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Stockholm den] Fredag [191..]</p>
+            <p>Ja, kære Houmark, Deres Brev er brændt ‒ hvad bedst mig synes. De har et uroligt
+                    Hjerte. Men Lykke til...... Ugglas<ref target="n1"/> er henrivende. Især naar han lér, hvad han
+                    ofte gør. Hans ene Bog har jeg læst og den anden vil jeg læse<ref target="n2"/>. Han er sikkert en
                     Digter.... Naar han taler om Dem, gaar der altid et Smil hen over hans
-                    Ansigt..... En Bekendt traf jeg her. Da jeg spiste i Legationen<note>Det danske
-                        gesandtskab i Stockholm</note> tren ind ad Døren: den skønne
-                        Bigler<note>Poul Victor Bigler (1877-1931), cand.jur., ansat i
-                        Udenrigsministeriet, konsulatssekretær i New York 1908, konstitueret
-                        legationssekretær i Stockholm 1911-1914</note>. Han er Legationssekretær
-                    her, men, tror jeg, for den i Etiketten strenge Grev Sponneck<note>Wilhelm
-                        Sponneck (1842-1921), rigsgreve, cand.jur., dansk gesandt i Stockholm
-                        1897-1912</note> en Smule for borgerlig til ret at gefalle.... Jeg sagde ham
+                    Ansigt..... En Bekendt traf jeg her. Da jeg spiste i Legationen<ref target="n3"/> tren ind ad Døren: den skønne
+                        Bigler<ref target="n4"/>. Han er Legationssekretær
+                    her, men, tror jeg, for den i Etiketten strenge Grev Sponneck<ref target="n5"/> en Smule for borgerlig til ret at gefalle.... Jeg sagde ham
                     venligt, at jeg meget godt mindedes ham fra København.... Jeg læser mange Bøger
                     og kører meget i Bil.</p>
-                <p>Ellers er der intet Nyt. Jo, jeg har faaet den Idé, at jeg vil fejre Julen paa
+            <p>Ellers er der intet Nyt. Jo, jeg har faaet den Idé, at jeg vil fejre Julen paa
                     Krim.</p>
-                <p>Paa Tirsdag<note>Dvs. 31.10.1911</note> begynder min Rejse gennem 10 svenske
+            <p>Paa Tirsdag<ref target="n6"/> begynder min Rejse gennem 10 svenske
                     Byer. Derfra til Finland. Begyndelsen af December Skt. Petersburg og Moskwa. Min
                     Adresse er til 10 November Grand Hotel. Stockholm. Jeg boer i et Taarn ligesom
                     paa Marienlyst.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">Herman B.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

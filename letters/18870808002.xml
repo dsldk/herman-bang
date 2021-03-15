@@ -1,109 +1,122 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870808002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 418</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1887-08-08">[1887, 8. august] Mandag<note>Dateringsforslaget
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870808002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 418</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1887-08-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-08-08">[1887, 8. august] Mandag<note>Dateringsforslaget
                         forholder sig til brevet til Langhoff »Prag Torsdag«, af udgiveren
                         forslagsvis tidsfæstet til 4.8.1887</note>
-                </date>
-                <placeName cert="high">[Prag]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Først idag altsaa, kære Paul.</p>
-                <p>Hvor tit er ikke dette skrevet om ‒ dette, som for mig (og maaske for Dem) er det
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Først idag altsaa, kære Paul.</p>
+            <p>Hvor tit er ikke dette skrevet om ‒ dette, som for mig (og maaske for Dem) er det
                     vigtigste i Bogen. Ikke, at jeg nu ikke sér Fejlene (Begyndelsen synes mat) ‒
                     jovist, jeg sér dem. Men, alligevel, tager jeg Fejl (sig mig det oprigtigt!)
-                    naar jeg <emph>dog</emph> synes, at disse Optrin mellem Mathilde og hendes Moder
+                    naar jeg <hi rend="italics">dog</hi> synes, at disse Optrin mellem Mathilde og hendes Moder
                     er i al deres Simpelhed dybe Scener af den ægteste, den menneskelige Roman?</p>
-                <p>Kære Paul ‒ læs nu hele III (for at komme i ret Stemning) og sig mig saa strax,
-                        <emph>om</emph> man hélt og fuldt »forstaar« denne Generalinde og hendes
+            <p>Kære Paul ‒ læs nu hele III (for at komme i ret Stemning) og sig mig saa strax,
+                        <hi rend="italics">om</hi> man hélt og fuldt »forstaar« denne Generalinde og hendes
                     Datter. Men vær oprigtig. Bedre, at jeg nu strax erfarer, at det er mislykkedes
                     mig og ingen Forventninger har om her »virkelig« at have skrevet noget.</p>
-                <p>Mig synes jo Scenen i Sovekamret <emph>god</emph>.</p>
-                <p>IV har Erhard og Moder samt Adolf til Personer.</p>
-                <p>Mine Kræfter er nu saa udtømte, at jeg <emph>maa</emph> bort paa Landet, naar IV
+            <p>Mig synes jo Scenen i Sovekamret <hi rend="italics">god</hi>.</p>
+            <p>IV har Erhard og Moder samt Adolf til Personer.</p>
+            <p>Mine Kræfter er nu saa udtømte, at jeg <hi rend="italics">maa</hi> bort paa Landet, naar IV
                     er endt. Jeg har gjort Skridt for at opnaa det. Gud give ‒ de maatte lykkes.</p>
-                <p>Manuskript atter Torsdag.</p>
-                <p rend="right">Herman.</p>
-                <p>Skriv strax efter Læsningen kun fem Ord. Ja 100 Friexemplarer er vel nok.</p>
-                <p>»<emph>NB'</emph>« skal indføjes i anden Dels I, hvor der er Tale om Noterne, hun
+            <p>Manuskript atter Torsdag.</p>
+            <p rend="right">Herman.</p>
+            <p>Skriv strax efter Læsningen kun fem Ord. Ja 100 Friexemplarer er vel nok.</p>
+            <p>»<hi rend="italics">NB'</hi>« skal indføjes i anden Dels I, hvor der er Tale om Noterne, hun
                     skriver i Marginen af de franske Romaner</p>
-
-
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

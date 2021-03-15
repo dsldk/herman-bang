@@ -1,123 +1,138 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18890812001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 334</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1889-08-12" notBefore="9999-99-99" notAfter="9999-99-99">1889. 12. august [mandag] <note>Brevet er foldet sammen,
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18890812001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 334</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bratholmen ved Bergen</placeName>
+               <date when="1889-08-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1889-08-12"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1889. 12. august [mandag] <note>Brevet er foldet sammen,
                   mens blækket endnu var vådt</note>
-                </date>
-                <placeName cert="high">Bratholmen ved Bergen</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Bratholmen 12.8.89.</p>
-                <p>Kære Nansen.</p>
-                <p>Ret tusinde Gange maa jeg bede dig tilgive mig, hvis jeg har gjort dig Bryderi. Men
-               vedkommende <persName key="Tresselt, Rikke">Dame</persName>
-                    <note>Den norske kvinde Rikke Tresselt (1837-1923), født Holst, Henrik Ibsens ungdomsveninde, senere gift med en købmand i Bergen</note> har saa mange Betænkeligheder, blev
-               saa ogsaa syg, opsatte fra Dag til Dag. Og jeg – som jo havde skrevet til <persName key="Langhoff, Paul">P.L.</persName>
-                    <note>Forlæggeren Paul Langhoff (1862-94); tidsskriftet Af Dagens Krønike udkom hos J.H. Schubothes
-                  Forlag, som han var indehaver af</note>: Tag Dannevirke-Natten<note>Jf. brevet 18890123</note>, hvilken
-               dog er god just for <emph>dit</emph> Tidskrift – var inde i Fjordene med et Par
+            </date>
+            <placeName cert="high">Bratholmen ved Bergen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Bratholmen 12.8.89.</p>
+            <p>Kære Nansen.</p>
+            <p>Ret tusinde Gange maa jeg bede dig tilgive mig, hvis jeg har gjort dig Bryderi. Men
+               vedkommende <persName key="Tresselt_Rikke">Dame</persName>
+               <ref target="n1"/> har saa mange Betænkeligheder, blev
+               saa ogsaa syg, opsatte fra Dag til Dag. Og jeg – som jo havde skrevet til <persName key="Langhoff_Paul">P.L.</persName>
+               <ref target="n2"/>: Tag Dannevirke-Natten<ref target="n3"/>, hvilken
+               dog er god just for <hi rend="italics">dit</hi> Tidskrift – var inde i Fjordene med et Par
                Millionærsønner, saa jeg fik ikke Post og ikke Depecher.</p>
-                <p>Nu har Damen sagt, at hun skulde fortælle alt idag eller imorgen. I hvert Fald faar
+            <p>Nu har Damen sagt, at hun skulde fortælle alt idag eller imorgen. I hvert Fald faar
                du noget, før jeg idag otte Dage rejser herfra.</p>
-                <p>Ja, kære Peter, læs altsaa, godhedsfuldt, Korrektur. Jeg har idag afsendt 5
-                  Ark<note>Dvs. fem ark af den trykte korrektur til <title key="Tine">Tine</title>;
-                  bogen udkom på Schubothes forlag i dagene før 24.10.1889</note> og er i næste Uge
+            <p>Ja, kære Peter, læs altsaa, godhedsfuldt, Korrektur. Jeg har idag afsendt 5
+                  Ark<ref target="n4"/> og er i næste Uge
                færdig.</p>
-                <p>"Viserne"<note>Sigter til viserne i Tine; se også Harry Jacobsen: Herman Bang.
-                  Resignationens Digter, s. 184</note> maa du – jeg stoler helt paa din Finfølelse
-               til at finde og vælge – tage paa det kg: Bbltek<note>Det Kongelige Bibliotek,
-                  København</note>.</p>
-                <p>Langhoff finder jo II bedst. Jeg tout au contraire<note>fr.: det stik
-                  modsatte</note>. Jeg tror, det vil trætte. Alle Enkeltbilleder er maaske
+            <p>"Viserne"<ref target="n5"/> maa du – jeg stoler helt paa din Finfølelse
+               til at finde og vælge – tage paa det kg: Bbltek<ref target="n6"/>.</p>
+            <p>Langhoff finder jo II bedst. Jeg tout au contraire<ref target="n7"/>. Jeg tror, det vil trætte. Alle Enkeltbilleder er maaske
                fortrinlige. Men Kontinuationen, synes mig at briste. Undertiden er jeg helt, helt
                fortvivlet ved den Tanke: Skulde dette kun være en ny "Stuk"? – Stuk? Her er "Liv" og
                "Livet" men staar Hovedpersonerne? Hun er givet med megen Dybde i tusind smaa Ting –
                men glider de tusind Ting sammen?</p>
-                <p>Kære Nansen – gør nu du alt for ved smaa Ting at fremme Roen. <emph>Der</emph>, hvor
+            <p>Kære Nansen – gør nu du alt for ved smaa Ting at fremme Roen. <hi rend="italics">Der</hi>, hvor
                jeg i II vil have nye Sider, er det for ligesom at skabe Stationer paa Vejen. Husk,
                at Hanne hedder "Sofie". Udryd saa mange sproglige Særheder som muligt. Aa – trods al
                min Flid, trods alt mit Talent, der vel nok er større end de flestes, har jeg saa
                mange Fejl.</p>
-                <p>Skriv ikke til mig om "Tine", før du har læst hele Bogen. De to sidste Kapitler er
+            <p>Skriv ikke til mig om "Tine", før du har læst hele Bogen. De to sidste Kapitler er
                nemlig – som sædvanlig – gode.</p>
-                <p>Hils <persName key="Brock, Louise">din Kone</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> tusinde Gange. Du vil kunne sé af Skriften, hvor nervøs
+            <p>Hils <persName key="Brock_Louise">din Kone</persName>
+               <ref target="n8"/> tusinde Gange. Du vil kunne sé af Skriften, hvor nervøs
                jeg er. Disse Korrekturer og Tvivl tilintetgør mig.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

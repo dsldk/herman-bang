@@ -1,137 +1,154 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18870319001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 108</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Blyantspåskrift af Peter Nansen: <q>Jeg laa syg af Lungebetændelse
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870319001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 108</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrift af Peter Nansen: <q>Jeg laa syg af Lungebetændelse
                                  paa Garnisons Sygehus Foraaret 1887, mens jeg aftjente min
                                  Værnepligt som Sygepasser</q> samt hans små anmærkninger med Otto
                               Larssens og Paul Langhoffs navne</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXIX</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1887-03-19" notBefore="9999-99-99" notAfter="9999-99-99">[1887. 19. marts], Lørdag<note>Enten lørdag 12. eller
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXIX</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-03-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1887-03-19"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1887. 19. marts], Lørdag<note>Enten lørdag 12. eller
                   19.3.1887. Vandreaar, s. 260, afstår fra at datere brevet</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Lørdag.</p>
-                <p>Kære Peter.</p>
-                <p>Du maa da tro, jeg er det største Asen under Solen. Som lader dig ligge af
-               Lungebetændelse og ikke rører mig. Men først i<emph>gaar</emph>aftes fik jeg det at
-               vide i et Brev fra <persName key="Nansen, Immanuel">Immanuel</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>. <persName key="Ottesen, Christine Margrethe">Fru
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Lørdag.</p>
+            <p>Kære Peter.</p>
+            <p>Du maa da tro, jeg er det største Asen under Solen. Som lader dig ligge af
+               Lungebetændelse og ikke rører mig. Men først i<hi rend="italics">gaar</hi>aftes fik jeg det at
+               vide i et Brev fra <persName key="Nansen_Immanuel">Immanuel</persName>
+               <ref target="n1"/>. <persName key="Ottesen_Christine_Margrethe">Fru
                   Ottesen</persName>
-                    <note>Christine Margrethe Ottesen (født ca. 1843), Bangs værtinde i Studiestræde 4,
-                  København</note> havde skrevet, du laa af Forkølelse.</p>
-                <p>Jeg beder dig dog for Guds Skyld – skøndt Hvalpen skriver, det er bedre – lade mig
+               <ref target="n2"/> havde skrevet, du laa af Forkølelse.</p>
+            <p>Jeg beder dig dog for Guds Skyld – skøndt Hvalpen skriver, det er bedre – lade mig
                vide den rette Sammenhæng. Meget faa Ting, det maa du da vide, foruroliger mig saa
                meget, som alt ulykkeligt, der tilstøder dig ......</p>
-                <p>Naa, Immanuel skrev, at det værste nu var ovre. Men en <emph>stor</emph>, stor
+            <p>Naa, Immanuel skrev, at det værste nu var ovre. Men en <hi rend="italics">stor</hi>, stor
                Forsigtighed, bedste Don, fordrer din Rekonvalescents. Pas nu paa dig selv, hører du.
                Gud véd, hvor du ligger. De skriver "Hospitalet", men det er vel Garnisonshospitalet,
-               hvor ogsaa <persName key="Larssen, Otto">Otto</persName>
-                    <note>Otto Larssen, således identificeret i Vandreaar, s. 260. Otto Larssen (1864-1910), skuespiller, oprindelig skibsdreng og kontorist ved DSB, bror til skuespillerinden Oda Nielsen; ungdomsven og bofælle med Immanuel Nansen</note> laa ifjor. Det
+               hvor ogsaa <persName key="Larssen_Otto">Otto</persName>
+               <ref target="n3"/> laa ifjor. Det
                er nu naturligvis en usund Rede, hvor al mulig og umulig Smitte sidder i Væggene.</p>
-                <p>Hvad skal jeg ellers skrive dig? Desværre – der er saa vist intet glædeligt.
-                  <persName key="Schou, Andreas">Schou</persName>
-                    <note>Andreas Schou (1829-89), boghandler og forlægger i København, indehaver af Andr. Schous Forlag indtil nytår 1889; forlægger for Herman Bang</note> tabte Taalmodigheden med min Bog<note>
-                        <title key="Stuk">Stuk</title>
-                    </note>, da en vis Frøken "Paula"<note>Ikke identificeret</note>
-               stak sin Næse indenfor Døren. Og den gik saa til <persName key="Langhoff, Paul">Paul</persName>
-                    <note>Forlæggeren Paul Langhoff (1862-94), indtil 1893 indehaver af J.H. Schubothes Forlag, København</note>, der er meget
+            <p>Hvad skal jeg ellers skrive dig? Desværre – der er saa vist intet glædeligt.
+                  <persName key="Schou_Andreas">Schou</persName>
+               <ref target="n4"/> tabte Taalmodigheden med min Bog<ref target="n5"/>, da en vis Frøken "Paula"<ref target="n6"/>
+               stak sin Næse indenfor Døren. Og den gik saa til <persName key="Langhoff_Paul">Paul</persName>
+               <ref target="n7"/>, der er meget
                opbygget og skrev, at det alt leverede – IV Kapitler af X! – stod fuldt ved Siden af <app>
-                        <lem>"Vejen"</lem>
-                        <rdg>Ordet er overstreget</rdg>
-                    </app> "Ved Vejen".</p>
-                <p>Ja – min Ven – det vilde blive en "stor" Bog, denne, om ikke min Hjerne var meget
-               syg. Min Indbildningskraft, som i <emph>Bogen</emph> fejrer virkelige Triumfer. lader
-               mig i <emph>Livet</emph> lide svært. Et evigt Forfølgelsesvanvid betager mig mer og
+                  <lem>"Vejen"</lem>
+                  <rdg>Ordet er overstreget</rdg>
+               </app> "Ved Vejen".</p>
+            <p>Ja – min Ven – det vilde blive en "stor" Bog, denne, om ikke min Hjerne var meget
+               syg. Min Indbildningskraft, som i <hi rend="italics">Bogen</hi> fejrer virkelige Triumfer. lader
+               mig i <hi rend="italics">Livet</hi> lide svært. Et evigt Forfølgelsesvanvid betager mig mer og
                mer. Og netop nu – hvor mit Talent kunde staa i sit fuldeste – og et
-                  <emph>meget</emph> rigt – Blomster, hæmmer det mig, truer mig og indjager mig
+                  <hi rend="italics">meget</hi> rigt – Blomster, hæmmer det mig, truer mig og indjager mig
                Angst for Fremtiden.</p>
-                <p>Der er i "Stuk" henrivende Ting. Men om det vil lykkes mig endnu tre hele Maaneder at
+            <p>Der er i "Stuk" henrivende Ting. Men om det vil lykkes mig endnu tre hele Maaneder at
                tøjle min Hjerne til dette Arbejde – det er et stort, stort Spørgsmaal. Sandsynligt
                er, at jeg til første Oktober vender hjem for at forsøge, om et Ophold hjemme – nogle
                Maaneder – skulde virke mildnende paa de syge Forestillinger. Men herom saavel som om
                den hele Sygdom ikke et Ord til nogen. Jeg bader, spadserer og søger at sove. Ti jeg
                vilde give mit Liv for at sé denne Bog lykket.</p>
-                <p>Naa – det er saamæn ogsaa muntre Ting at underholde en Rekonvalescent med. Ja –
-                  <emph>om</emph> jeg kom hjem til Oktober, da naaede jeg vel just til en "sær"
+            <p>Naa – det er saamæn ogsaa muntre Ting at underholde en Rekonvalescent med. Ja –
+                  <hi rend="italics">om</hi> jeg kom hjem til Oktober, da naaede jeg vel just til en "sær"
                Festlighed og skulde have en Vise – "i Stilhed" at afsynge – med? Gud give, min egen
                Ven, at nu dette Brev maa træffe dig bedre, og naar du er blevet ganske rask, saa
                skriver du mig et Par Ord – ikke?</p>
-                <p>Hils <persName key="Brock, Louise">Frøken B.</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> fra</p>
-                <p rend="right">Din Herman</p>
-            </div>
-        </body>
-    </text>
+            <p>Hils <persName key="Brock_Louise">Frøken B.</persName>
+               <ref target="n8"/> fra</p>
+            <p rend="right">Din Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>

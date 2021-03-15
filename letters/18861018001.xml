@@ -1,170 +1,181 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18861018001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 501</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-10-18">[1886, 18. oktober]
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861018001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 501</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-10-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-10-18">[1886, 18. oktober]
                         Mandag<note>Dateringsforslaget hos Torbjörn Nilsson, s. 337 note 3, 4 og 6,
                         og s.339 note 31, følges</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Mandag.</p>
-                <p>Da det idag er den attende, kære gamle Kammerraad, antager jeg, at dette Brev vil
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Mandag.</p>
+            <p>Da det idag er den attende, kære gamle Kammerraad, antager jeg, at dette Brev vil
                     træffe Dem i Berlin. Da allerførst: Velkommen hjem! Og saa en Tak for al Deres
-                    Uleilighed med »Fædra« og en Lykønskning til at den <emph>kommer</emph>
-                            ud<note><emph>Gräfin Urne. Roman von Herman Bang</emph> udkom i 1887 i
-                        Berlin i Emil Jonas' oversættelse og på Otto Janke Verlag</note>. Aller
-                    Anfang o:s:v:<note>Bang sigter til talemåden: Al begyndelse er svær</note> En
-                    Tak dernæst til Deres Frue<note>Hertha Adele Jonas, f'dt Wadskiær (1807-1894,
-                        gift 1848 med Emil Jonas</note>, som saa venligt sendte de Penge fra
+                    Uleilighed med »Fædra« og en Lykønskning til at den <hi rend="italics">kommer</hi>
+                            ud<ref target="n1"/>. Aller
+                    Anfang o:s:v:<ref target="n2"/> En
+                    Tak dernæst til Deres Frue<ref target="n3"/>, som saa venligt sendte de Penge fra
                     »Montagsbl.«</p>
-                <p>Og <emph>saa</emph> til Forretningerne. Vi begynder med <emph>Schorer</emph>.
+            <p>Og <hi rend="italics">saa</hi> til Forretningerne. Vi begynder med <hi rend="italics">Schorer</hi>.
                     Vedlagt er to Breve. De ser deraf, at jeg havde beklaget mig over, at man havde
-                    sat »Bruno Appel« under »en Berider«<note>Bangs novelle »Der Kunstreiter« blev i
-                        Schorers Familienblatt ca. 24.9. og ca. 1.10.1886 trykt med det pseudonyme
-                        forfatternavn Bruno Appel</note>. Det sker naturligvis med Hensigt ‒ det
-                    stod <emph>ikke</emph> paa Manuskript: naturligvis ‒ for at besværliggøre
-                    Opdagelsen af, <emph>hvem</emph> det egenlig er. Men vi bør ikke tillade det,
+                    sat »Bruno Appel« under »en Berider«<ref target="n4"/>. Det sker naturligvis med Hensigt ‒ det
+                    stod <hi rend="italics">ikke</hi> paa Manuskript: naturligvis ‒ for at besværliggøre
+                    Opdagelsen af, <hi rend="italics">hvem</hi> det egenlig er. Men vi bør ikke tillade det,
                     fordi vi ved den evige Navnvekslen aldrig kommer videre.</p>
-                <p>De sér fremdeles, at Hirsch ønsker en større Fortælling inden første November.
-                    Tag »<emph>ein Wunderkind</emph>«, De vil <emph>der</emph> gøre et godt Kup. Den
+            <p>De sér fremdeles, at Hirsch ønsker en større Fortælling inden første November.
+                    Tag »<hi rend="italics">ein Wunderkind</hi>«, De vil <hi rend="italics">der</hi> gøre et godt Kup. Den
                     passer ogsaa nu just for Schorer, hvor han har saa meget med »Gedenket der
                     Kinder«. »Die Vergessenen« faar De i denne Uge No. I af: den gamle Danserinde.
-                    De <emph>tre</emph> er skrevet. Men jeg kan ikke skrive saa lange Historier af.
+                    De <hi rend="italics">tre</hi> er skrevet. Men jeg kan ikke skrive saa lange Historier af.
                     »Danserinden« er vellykket.</p>
-                <p>Hvad Honorar angaar, begriber jeg intet deraf. Vi har Honorar at fordre for:</p>
-                <p>Liszt bei S.M.</p>
-                <p>Ein Liebesidyll.</p>
-                <p>Vor der Kunstausstellung.</p>
-                <p>Steindl [og-tegn] Søn</p>
-                <p>Kollegen ..</p>
-                <p><emph>Det</emph> maa da blive mer end 54 Mark paa Deres 3/4 Part! Jeg har intet
-                    skrevet derom. Jeg <emph>vil</emph> ikke blande mig oftere i Pengeanliggender
-                    med nogen af vore Forbindelser. Man har <emph>en</emph> Gang ‒ og det var mig
-                        <emph>nok</emph> ‒ beskyldt mig for at handle bag Deres Ryg.</p>
-                <p>Nu ønsker Hirsch: »Teaterkarakteristiker«; »die Vergessenen« og »den større
+            <p>Hvad Honorar angaar, begriber jeg intet deraf. Vi har Honorar at fordre for:</p>
+            <p>Liszt bei S.M.</p>
+            <p>Ein Liebesidyll.</p>
+            <p>Vor der Kunstausstellung.</p>
+            <p>Steindl [og-tegn] Søn</p>
+            <p>Kollegen ..</p>
+            <p>
+               <hi rend="italics">Det</hi> maa da blive mer end 54 Mark paa Deres 3/4 Part! Jeg har intet
+                    skrevet derom. Jeg <hi rend="italics">vil</hi> ikke blande mig oftere i Pengeanliggender
+                    med nogen af vore Forbindelser. Man har <hi rend="italics">en</hi> Gang ‒ og det var mig
+                        <hi rend="italics">nok</hi> ‒ beskyldt mig for at handle bag Deres Ryg.</p>
+            <p>Nu ønsker Hirsch: »Teaterkarakteristiker«; »die Vergessenen« og »den større
                     Fortælling«.</p>
-                <p>Dernæst til <emph>Montagsblatt</emph>: Wienerbreve I-II har De vel modtaget og
+            <p>Dernæst til <hi rend="italics">Montagsblatt</hi>: Wienerbreve I-II har De vel modtaget og
                     oversætter nu.</p>
-                <p>»Die Hoheit« fik jeg med indlagte ‒ <emph>meget</emph> venlige ‒ Brev tilbage.
-                    Levysohn har ikke haft <emph>Mod</emph> til personlig at give Afslaget. Tag Dem
-                    det ikke nær. Vi vil for <emph>den</emph> Fortælling dog finde Anvendelse.
-                        <emph>Kaims</emph> Navn maa ganske <emph>udraderes</emph> i Manuskriptet og
-                    mit Navn erstattes med »<emph>Bernhard Hoffs</emph>«. Ogsaa
-                        <emph>udraderet</emph>. Det vil hjælpe. Manuskriptet skal jeg sende Dem en
+            <p>»Die Hoheit« fik jeg med indlagte ‒ <hi rend="italics">meget</hi> venlige ‒ Brev tilbage.
+                    Levysohn har ikke haft <hi rend="italics">Mod</hi> til personlig at give Afslaget. Tag Dem
+                    det ikke nær. Vi vil for <hi rend="italics">den</hi> Fortælling dog finde Anvendelse.
+                        <hi rend="italics">Kaims</hi> Navn maa ganske <hi rend="italics">udraderes</hi> i Manuskriptet og
+                    mit Navn erstattes med »<hi rend="italics">Bernhard Hoffs</hi>«. Ogsaa
+                        <hi rend="italics">udraderet</hi>. Det vil hjælpe. Manuskriptet skal jeg sende Dem en
                     af Dagene.</p>
-                <p>Naar De nu læser »<emph>Ved Veien</emph>« vil De sé ‒ jeg sender det i Slut af
-                    Ugen ‒ om De tror, at <emph>den</emph> passer for »Tageblatt«.
-                        <emph>Signeret</emph> som man vil. For »Montagsblatt« faar De et
-                        »<emph>Studienkopf</emph>« med de øvrige Ting.</p>
-                <p>Dernæst til <emph>Bøger</emph>. Hermed følger et Forslag med Indholdsfortegnelse.
-                        <emph>Den</emph> Samling vilde sikkert hjælpe os til Navn. Og om Schorer
+            <p>Naar De nu læser »<hi rend="italics">Ved Veien</hi>« vil De sé ‒ jeg sender det i Slut af
+                    Ugen ‒ om De tror, at <hi rend="italics">den</hi> passer for »Tageblatt«.
+                        <hi rend="italics">Signeret</hi> som man vil. For »Montagsblatt« faar De et
+                        »<hi rend="italics">Studienkopf</hi>« med de øvrige Ting.</p>
+            <p>Dernæst til <hi rend="italics">Bøger</hi>. Hermed følger et Forslag med Indholdsfortegnelse.
+                        <hi rend="italics">Den</hi> Samling vilde sikkert hjælpe os til Navn. Og om Schorer
                     ikke tog Forlaget? Dernæst var det umuligt at udgive i et Bind: »Petersburg ‒
-                    Wien« (de seks »indiskrete« og de »seks«, <emph>som nu skrives fra Wien</emph>)
+                    Wien« (de seks »indiskrete« og de »seks«, <hi rend="italics">som nu skrives fra Wien</hi>)
                     med et lille Forord af en fingeret Udgiver, som gennem Trediemand havde
                     erhvervet begge Autorers Tilladelse til at udgive Samlingerne i dette Bind....
                     Men det er maaske upraktisk og ikke muligt.</p>
-                <p>Jeg sender hermed to Smaating: »Nat mellem Bjerge« synes jeg kunde passe for
+            <p>Jeg sender hermed to Smaating: »Nat mellem Bjerge« synes jeg kunde passe for
                     Hirsch <app>
-                        <lem>som Text</lem>
-                        <rdg>Ordene er tilføjet over linjen</rdg>
-                    </app> til Et Bjerg-<emph>Billede</emph>. Det andet er for »Lesehalle«:
+                  <lem>som Text</lem>
+                  <rdg>Ordene er tilføjet over linjen</rdg>
+               </app> til Et Bjerg-<hi rend="italics">Billede</hi>. Det andet er for »Lesehalle«:
                     »Russiske Interieurs I.«</p>
-                <p>Alle de andre Manuskripter faar De paa én Gang i Slut af Ugen.</p>
-                <p>Se Dem <emph>her</emph><note>Dvs. her i Prag</note> vilde glæde mig uhyre.</p>
-                <p>Vær ikke vred over, at jeg efter saa nylig at have faaet de 60 fra »Montagsblatt«
-                    ‒ saa beholder <emph>De</emph> det hele for Wienerbreve I-II ‒ spørger Dem, om
+            <p>Alle de andre Manuskripter faar De paa én Gang i Slut af Ugen.</p>
+            <p>Se Dem <hi rend="italics">her</hi>
+               <ref target="n5"/> vilde glæde mig uhyre.</p>
+            <p>Vær ikke vred over, at jeg efter saa nylig at have faaet de 60 fra »Montagsblatt«
+                    ‒ saa beholder <hi rend="italics">De</hi> det hele for Wienerbreve I-II ‒ spørger Dem, om
                     det ikke var muligt at faa løs Pengene for »En gammel Kammerat«. Disse
                     Efteraarsmaaneder er græsselige. En Skrædder venter Penge i Slut af Ugen. Kan De
                     faa Pengene for »den gamle Kammerat« ved jeg, De vil sende mig min Part. Og
                     maaske vil De, naar De regulerer Honorarspørgsmaalet med Schorer,
-                        <emph>paany</emph> bede ham <emph>endnu i denne Uge</emph> at sende mig min
+                        <hi rend="italics">paany</hi> bede ham <hi rend="italics">endnu i denne Uge</hi> at sende mig min
                     lille Part.</p>
-                <p>Hvor er nu »Sné« og »Lille Mouche«? »Lille Mouche« kunde maaske gaa i
+            <p>Hvor er nu »Sné« og »Lille Mouche«? »Lille Mouche« kunde maaske gaa i
                     »Montagsblatt«. Manuskriptet til »Sofie Menter i Kaukasus« vil jeg meget gerne
                     have tilbage.</p>
-                <p>Nu tror jeg, jeg har udtømt mine Meddelelser og Spørgsmaal.</p>
-                <p>God Lyst nu til Deres Arbeide. Hils Deres Kone mange Gange. Jeg venter snart at
+            <p>Nu tror jeg, jeg har udtømt mine Meddelelser og Spørgsmaal.</p>
+            <p>God Lyst nu til Deres Arbeide. Hils Deres Kone mange Gange. Jeg venter snart at
                     høre fra Dem.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H de B.</p>
-                <p>Balbingasse 192. <emph>Weinberge</emph> Prag.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H de B.</p>
+            <p>Balbingasse 192. <hi rend="italics">Weinberge</hi> Prag.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

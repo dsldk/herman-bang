@@ -1,95 +1,110 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18820715001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NBD 2.rk. Blyantsnummer 440</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Theodor Andersen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider, Fortrykt brevpapir: <emph>A.P.
-                                                  Albertsen. / Fredericia.</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1882-07-15">1882, 15. Juli [lørdag] <note>Sammenlign med
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18820715001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 2.rk. Blyantsnummer 440</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider, Fortrykt brevpapir: <hi rend="italics">A.P.
+                                                  Albertsen. / Fredericia.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Middelfart]</placeName>
+               <date when="1882-07-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="andersen_theodor_1835">Theodor Andersen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1882-07-15">1882, 15. Juli [lørdag] <note>Sammenlign med
                         oplysninger i Bangs brev til Theodor Andersen, cirka 1.7.1882</note>
-                </date>
-                <placeName cert="high">[Middelfart]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">15.7.82.</p>
-                <p>Efter en Hr. Christensens Sigende, som opholder sig i Middelfart, <app>
-                        <lem>skrev</lem>
-                        <rdg>Læsning er usikker; ordet er utydeligt på grund af Bangs rettelse</rdg>
-                    </app> De var i Ramlösa<note>En mindre by og kursted nær ved Helsingborg i
-                        SKåne</note>, skrev jeg, kære Direktør Andersen, for en fjorten Dages Tid
+            </date>
+            <placeName cert="high">[Middelfart]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">15.7.82.</p>
+            <p>Efter en Hr. Christensens Sigende, som opholder sig i Middelfart, <app>
+                  <lem>skrev</lem>
+                  <rdg>Læsning er usikker; ordet er utydeligt på grund af Bangs rettelse</rdg>
+               </app> De var i Ramlösa<ref target="n1"/>, skrev jeg, kære Direktør Andersen, for en fjorten Dages Tid
                     siden derhen men fik intet Svar og hører nu, at De slet ikke er i Ramlösa men i
-                        Lysekil<note>By på Sveriges vestkyst, ca. 70 km nord for Göteborg</note>.
-                    Jeg maa da sende disse Ord til Dem <emph>der</emph>. Thi jeg kan nu ikke mere
+                        Lysekil<ref target="n2"/>.
+                    Jeg maa da sende disse Ord til Dem <hi rend="italics">der</hi>. Thi jeg kan nu ikke mere
                     løbe omkaps med Fordringerne paa mig. At jeg den Gang ikke kom til Dem, skyldtes
                     Sløvhed: min Tilstand var saadan, at jeg tilbragte halve Timer bevidstløs, og
                     jeg lod alt gaa, som det kunde. Det gik med Opsættelse. Siden har jeg her i
@@ -98,27 +113,22 @@
                     paa Oplæsninger for om muligt derved at tjene det resterende. Men Foretagendet
                     mislykkedes, og jeg sidder nu her, yderligere forgældet og ulykkelig. Jeg beder
                     Dem tænke, i hvilken Situation af Helbred og Lyksalighed jeg er. Den
-                        17<note>Dvs. mandag 17.7.1882</note> skal jeg ud med 450 Kroner og har ei en
-                        Hvid<note>Gammel talemåde for en mønt af allerlaveste værdi. Som
-                        håndgribelig småmønt blev den i Danmark senest sat i omløb i
-                    1686</note>.</p>
-                <p>Jeg har ingen at gaa til uden Dem ‒ Uveiret maa nu bryde løs og ramme baade mig
-                    og min Roman<note>Fædra, som Bang arbejdede på under sit ophold i Middelfart i
-                        sommeren 1882</note>, thi jeg kan ikke mere opnaa nogen Forhaling. Jeg beder
+                        17<ref target="n3"/> skal jeg ud med 450 Kroner og har ei en
+                        Hvid<ref target="n4"/>.</p>
+            <p>Jeg har ingen at gaa til uden Dem ‒ Uveiret maa nu bryde løs og ramme baade mig
+                    og min Roman<ref target="n5"/>, thi jeg kan ikke mere opnaa nogen Forhaling. Jeg beder
                     Dem telegrafere til Sagførerne, og de atter til mig ‒ saa henter jeg Summen
-                        <emph>400 Kr.</emph> ‒ jeg skal dog til Byen for at tale med Lægen, da mine
+                        <hi rend="italics">400 Kr.</hi> ‒ jeg skal dog til Byen for at tale med Lægen, da mine
                     Hænder atter skaller under de ulideligste Smerter.</p>
-                <p>Gør ‒ hvis De vil ‒ alt strax thi det er idag den femtende. Send mig dog ogsaa
+            <p>Gør ‒ hvis De vil ‒ alt strax thi det er idag den femtende. Send mig dog ogsaa
                     snart noget Arbeide. Jeg kan oversætte ligesaa godt som de andre. Jeg tror, at
                     disse Ord ere meget daarligt sat sammen men jeg har ligget i Sengen hele Dagen
                     og er først nu staaet op for at skrive ‒ hvad min Hjerne idag kun udretter med
                     Besvær.</p>
-                <p>Mange Hilsener. Svar strax ved Telegram til Lund<note>Antagelig en af de
-                        ovennævnte advokater i København ...</note>, det er saa nødvendigt.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">Herman Bang</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Mange Hilsener. Svar strax ved Telegram til Lund<ref target="n6"/>, det er saa nødvendigt.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman Bang</p>
+         </div>
+      </body>
+   </text>
 </TEI>

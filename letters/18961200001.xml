@@ -1,102 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18961200001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18961200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
                                 Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 09</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1896-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1896. december], Mandag<note>Brevet kan måske dateres til enten mandag 14. eller 21.12.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 09</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1896-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1896-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1896. december], Mandag<note>Brevet kan måske dateres til enten mandag 14. eller 21.12.
                 1896</note>
-                </date>
-                <placeName cert="low">[København?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Kære Ven.</p>
-                <p>Jeg har endnu ikke faaet det Ark Korrektur, du véd.</p>
-                <p>Véd du, mit Eksemplar af "<title key="Frigjort">Frigjort</title>"<note>Roman af <persName key="Schandorph, Sophus">Sophus Schandorph</persName>, Gyldendal
-                                1896</note> er blevet borte, En har vel taget det fra mit Bord. Og
-                        nu skal jeg anmelde den Bog<note>Bangs anmeldelse er trykt i Aftenbladet
-                                28.12.1896 under overskriften: "Dr. Schandorph om Radikalismen og
-                                "den indre Mission""</note>. Vil du lade Bud'et faa et
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg har endnu ikke faaet det Ark Korrektur, du véd.</p>
+            <p>Véd du, mit Eksemplar af "<!--start title reference--><title key="Frigjort">Frigjort</title>
+               <!--end title reference-->"<ref target="n1"/> er blevet borte, En har vel taget det fra mit Bord. Og
+                        nu skal jeg anmelde den Bog<ref target="n2"/>. Vil du lade Bud'et faa et
                         Eksemplar.</p>
-                <p>Hvis du ser <persName key="Larsen, Karl">Forf.</persName> til
-               "<title key="Lystfart">Lystfart</title>"<note>Rejsebeskrivelse af forfatteren  Karl Larsen (1860-1931), Det Nordiske Forlag
-                                1896</note>, sig ham saa, at du synes godt om sidste Del af
-               Bakken<note>Dvs. <title key="Ludvigsbakke">Ludvigsbakke</title>, udkommet 8.12.1896</note> – – og lad
+            <p>Hvis du ser <persName key="Larsen_Karl">Forf.</persName> til
+               "<!--start title reference--><title key="Lystfart">Lystfart</title>
+               <!--end title reference-->"<ref target="n3"/>, sig ham saa, at du synes godt om sidste Del af
+               Bakken<ref target="n4"/> – – og lad
                         os sé hans Ansigt.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

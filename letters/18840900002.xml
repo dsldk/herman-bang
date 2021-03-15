@@ -1,105 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18840900002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 165</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1884-09-01" notBefore="9999-99-99" notAfter="9999-99-99">[1884.  september], Tirsdag Morgen<note>Kan med forsigtighed
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840900002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 165</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1884-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1884-09-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884.  september], Tirsdag Morgen<note>Kan med forsigtighed
                   dateres til sensommer/efterår 1884, endnu mens Peter Nansen var på
                   Nationaltidende, og før han i oktober flyttede til Politiken</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag Morgen.</p>
-                <p>Min kære Peter.</p>
-                <p>
-                    <persName key="D, fru"/>Fru D.<note>Ikke med sikkerhed identificeret. Kan måske dreje sig om skuespillerinden Laura Diederichsen (1857-1943), født Ollendorff og 1878 gift med disponent Christian Frederik Diederichsen. Se også brevet 1885, 2. april</note> kom nu. Hun har været
-               her igaar! Dette Udraabstegn betegner min Uret, ti at hun <emph>en</emph> Gang sover
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag Morgen.</p>
+            <p>Min kære Peter.</p>
+            <p>
+               <persName key="D_fru"/>Fru D.<ref target="n1"/> kom nu. Hun har været
+               her igaar! Dette Udraabstegn betegner min Uret, ti at hun <hi rend="italics">en</hi> Gang sover
                over sig, berettiger mig virkelig ikke til alt det Rabalder.</p>
-                <p>Jeg skriver dette strax, da jeg maaske ikke ser dig idag, og jeg ikke vil gøre Uret
-               mod Konen, som jeg tilmed holder saa meget af, "naar hun ler". Sig <persName key="Nansen, Immanuel">Immanuel</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note> dette, om du sér ham.</p>
-                <p>Sig <persName key="Bjerring, Emil">Bierring</persName>
-                    <note>Emil Bjerring (1837-96), journalist, fra 1878 redaktionssekretær ved Nationaltidende, 1880 medstifter af Journalistforeningen</note>, om du kommer paa
-               "Tidenden"<note>Nationaltidende</note>, at jeg arriverer Kl. 4 for at læse mit
-               Proverbe og bed ham sige <persName key="Henriques, V.">Henriques</persName>
-               til fra 4-4½ E.B.<note>Dvs. Emil Bjerring</note> er
-               Kritiken. V.H:<note>Dvs. V. Henriques; ikke identificeret</note> Publikum.</p>
-                <p>Altsaa, jeg er Synderen og Fru D. skyldløs.</p>
-                <p>Husker H's Bog<note>Ikke identificeret</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Jeg skriver dette strax, da jeg maaske ikke ser dig idag, og jeg ikke vil gøre Uret
+               mod Konen, som jeg tilmed holder saa meget af, "naar hun ler". Sig <persName key="Nansen_Immanuel">Immanuel</persName>
+               <ref target="n2"/> dette, om du sér ham.</p>
+            <p>Sig <persName key="Bjerring_Emil">Bierring</persName>
+               <ref target="n3"/>, om du kommer paa
+               "Tidenden"<ref target="n4"/>, at jeg arriverer Kl. 4 for at læse mit
+               Proverbe og bed ham sige <persName key="Henriques_V.">Henriques</persName>
+               til fra 4-4½ E.B.<ref target="n5"/> er
+               Kritiken. V.H:<ref target="n6"/> Publikum.</p>
+            <p>Altsaa, jeg er Synderen og Fru D. skyldløs.</p>
+            <p>Husker H's Bog<ref target="n7"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

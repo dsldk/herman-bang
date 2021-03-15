@@ -1,124 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18981022001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1898-10-22">[1898, 22. oktober] Lørdag
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18981022001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-10-22">[1898, 22. oktober] Lørdag
                         <note>Dateringsforslaget bygger på Bangs afsluttende korrekturlæsning af Det
                         hvide Hus, der udkom 26.11.1898 på Det Schubotheske Forlag, se også hans
                         brev til Hirschsprung fra den følgende lørdag, 29.10.1898</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lørdag.</p>
-                <p>Kære H.</p>
-                <p>Hermed endelig Korrekturen ‒ og saa er det slut<note>Det må dreje sig om den
-                        afsluttende korrekturlæsning til <emph>Det hvide Hus</emph>, som udkom
-                        26.11.1898 hos Det Schubotheske Forlag. Se også Bangs brev til Hirschsprung,
-                        15.10.1898, hvoraf det fremgår, at Bang på dette tidspunkt var blevet
-                        forsinket i sin korrekturlæsning af bogen</note>.</p>
-                <p>Brevet fra Henrik Ibsen kan et af de unge Mennesker i Forretningen<note>Dvs. Det
-                        Schubotheske Forlags boghandel, Silkegade 13, København</note> gaa hen og
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære H.</p>
+            <p>Hermed endelig Korrekturen ‒ og saa er det slut<ref target="n1"/>.</p>
+            <p>Brevet fra Henrik Ibsen kan et af de unge Mennesker i Forretningen<ref target="n2"/> gaa hen og
                     skrive af i Universitetsbiblioteket. Det findes i »Politiken« i December det
-                    Aar, da »Tine« udkom<note>Henrik Ibsens brev til Bang, dateret Kristiania
-                        21.11.1889, hvori han takker for Bangs roman <emph>Tine</emph>, blev trykt i
-                            <emph>Politiken</emph>, 11.12.1889</note>.</p>
-                <p>Naar kommer »Ved Vejen«?<note>Anden udgave af <emph>Ved Vejen</emph> udkom
-                        9.11.1898 hos Det Schubotheske Forlag</note></p>
-                <p>Pas endelig paa, at »Indskuddene« nu føres ind paa det rigtige Sted<note>Bang må
-                        sigte til sine nyskrevne tilføjelser i brevets vedlagte korrektursider til
-                            <emph>Det hvide Hus</emph></note>.</p>
-                <p>De maa endnu en Gang betale Husholdningspengene og give de halvtreds Kr. til
+                    Aar, da »Tine« udkom<ref target="n3"/>.</p>
+            <p>Naar kommer »Ved Vejen«?<ref target="n4"/>
+            </p>
+            <p>Pas endelig paa, at »Indskuddene« nu føres ind paa det rigtige Sted<ref target="n5"/>.</p>
+            <p>De maa endnu en Gang betale Husholdningspengene og give de halvtreds Kr. til
                     Budet. Jeg skal saa til Gengæld paa Tirsdag tage fat paa den tredje
-                        Novelle<note>Bangs novellesamling <emph>Liv og Død</emph>, der udkom
-                        13.5.1899 hos Det Schubotheske Forlag, består af tre noveller</note>. »Den
-                    hvide Paaske«<note>Bangs novelle blev med denne titel trykt som føljeton i Hver
-                        8. Dag mellem 23.10. og 4.12.1898; med den nye titel »En Fortælling om
-                        Lykken« gjorde Bang den til den første af tre noveller i <emph>Liv og
-                            Død</emph></note> er færdig og Enden er ‒ Gud være lovet ‒ ikke
+                        Novelle<ref target="n6"/>. »Den
+                    hvide Paaske«<ref target="n7"/> er færdig og Enden er ‒ Gud være lovet ‒ ikke
                     Begyndelsen lig. Den tredje Novelle, som De altsaa faar i Manuskript hedder »die
-                        Gnädige«<note>Bang sigter til »En Fortælling om Elskov«, der på dette
-                        tidspunkt endnu ikke var skrevet</note> og vil blive i samme Stil som den i
-                        »Danmark«<note>Bangs novelle »Gamle Folk« blev trykt i <emph>Danmark.
-                            Illustreret Familiealmanak for 1899</emph>, som udkom 1.12.1898. Denne
-                        novelle gav Bang senere titlen »En Fortælling om dem der skal dø«, og den
-                        indgik som den tredje i hans bog <emph>Liv og Død</emph></note>.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+                        Gnädige«<ref target="n8"/> og vil blive i samme Stil som den i
+                        »Danmark«<ref target="n9"/>.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

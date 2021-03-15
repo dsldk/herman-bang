@@ -1,143 +1,155 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860219003</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 391</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-02-19">1886, 19. Februar [fredag]<note>empty</note>
-                </date>
-                <placeName cert="high">[Meiningen]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">19.2.86.</p>
-                <p>Kære Kammerraad.</p>
-                <p>Iaftes modtog jeg en Tilsigelse til Overborgermesteren. Den lød paa idag Klokken
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860219003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 391</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Meiningen]</placeName>
+               <date when="1886-02-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-02-19">1886, 19. Februar [fredag]<note>empty</note>
+            </date>
+            <placeName cert="high">[Meiningen]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">19.2.86.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Iaftes modtog jeg en Tilsigelse til Overborgermesteren. Den lød paa idag Klokken
                     otte. Da jeg kom, meddelte han mig, at jeg var udvist med 24 Timers Varsel.
                     Grund: Bergens Artikel. Jeg gik fra ham til Ministeren, en meget elskværdig
                     gammel Mand, som sagde mig, at Udenrigsministeriet i Berlin havde »ønsket« min
-                    Udvisning, som han (Ministeren) beklagede. Den <emph>eneste</emph> Grund var
+                    Udvisning, som han (Ministeren) beklagede. Den <hi rend="italics">eneste</hi> Grund var
                     Bergens Artiklen, som Ministeren havde i Oversættelse. Han beklagede gentagende,
                     at jeg maatte bøde saa haardt for en i hvert Fald saa letsindig Artikel, men
-                        <emph>saa</emph> haardt bøde var slemt.</p>
-                <p>Den gamle Mand var ligefrem rørt. Jeg sagde da, om det altsaa vilde gaa mig
+                        <hi rend="italics">saa</hi> haardt bøde var slemt.</p>
+            <p>Den gamle Mand var ligefrem rørt. Jeg sagde da, om det altsaa vilde gaa mig
                     ligedan i hele Tyskland ‒ og han svarede »Ja«.</p>
-                <p>Altsaa er der intet andet at gøre end at tage til Wien.</p>
-                <p>Jeg maa tilstaa, at Tingen er mig meget smertelig.</p>
-                <p>Vi maa imidlertid sørge for <emph>to</emph> Ting: at det ikke paany
-                        <emph>omtales</emph> med denne Udvisning. <emph>Jeg</emph> skriver til ingen
+            <p>Altsaa er der intet andet at gøre end at tage til Wien.</p>
+            <p>Jeg maa tilstaa, at Tingen er mig meget smertelig.</p>
+            <p>Vi maa imidlertid sørge for <hi rend="italics">to</hi> Ting: at det ikke paany
+                        <hi rend="italics">omtales</hi> med denne Udvisning. <hi rend="italics">Jeg</hi> skriver til ingen
                     uden til Dem, til ingen i Danmark, ingen i Tyskland. Saa det kan vel forhindres,
                     at man atter jager mig gennem alle Blade. Meiningen er jo saa af Veien, ikke som
-                    Berlin paa Alfarvei. Kun <emph>saaledes</emph> kan vi opnaa, at min Stilling
-                    ikke <emph>paany rystes</emph>, men at alt gaar sin rolige Gang. Jeg vil i
-                    Danmark <emph>offenlig</emph> skrive, at jeg <emph>nu</emph> »er flyttet til
+                    Berlin paa Alfarvei. Kun <hi rend="italics">saaledes</hi> kan vi opnaa, at min Stilling
+                    ikke <hi rend="italics">paany rystes</hi>, men at alt gaar sin rolige Gang. Jeg vil i
+                    Danmark <hi rend="italics">offenlig</hi> skrive, at jeg <hi rend="italics">nu</hi> »er flyttet til
                     Wien«.</p>
-                <p>Handl nu ‒ som De synes og fremfor alt Stilhed og Undgaaen af Spektakel.</p>
-                <p>Det forfærdelige i Sagen er Penge. De blev vel fortvivlet over mit
-                        Telegram<note>Dvs. Bangs telegram afsendt fra Meiningen 19.2.1886 kl. 8.48
-                        til Emil Jonas i Berlin</note>. Men telegrafere til Danmark er jo umuligt ‒
+            <p>Handl nu ‒ som De synes og fremfor alt Stilhed og Undgaaen af Spektakel.</p>
+            <p>Det forfærdelige i Sagen er Penge. De blev vel fortvivlet over mit
+                        Telegram<ref target="n1"/>. Men telegrafere til Danmark er jo umuligt ‒
                     da gaar igen hele Karussellen: Que faire? Jeg vil i Wien strax leie to smaa
                     Stuer og lade Karl reise. Saa kan jeg leve af næsten intet. Dernæst har jeg nu
                     skrevet, ja, jeg siger Dem alt, til en ‒ Dame, som en Gang har elsket mig
-                        <emph>meget</emph> høit<note>Uvist hvem Bang hentyder til. Der kan næppe
-                        være tale om fru Anna Ferslew, jf. Bangs brev til hende 19.2.1886</note>. At
-                        <emph>hun</emph> maa hjælpe til at betale denne Schorer-Gæld.</p>
-                <p>Fremfor alt (derpaa gav Ministeren mig sit Ord): Der er <emph>ingen</emph> anden
-                    Grund end hin Artikel. <emph>Mit Syndebrædt er altsaa kendt</emph>
-                    <app>
-                        <lem>f Sch. H. Lassons</lem>
-                        <rdg>Dette har Bang tilføjet på stedet med mindre skrift. Læsningen er
+                        <hi rend="italics">meget</hi> høit<ref target="n2"/>. At
+                        <hi rend="italics">hun</hi> maa hjælpe til at betale denne Schorer-Gæld.</p>
+            <p>Fremfor alt (derpaa gav Ministeren mig sit Ord): Der er <hi rend="italics">ingen</hi> anden
+                    Grund end hin Artikel. <hi rend="italics">Mit Syndebrædt er altsaa kendt</hi>
+               <app>
+                  <lem>f Sch. H. Lassons</lem>
+                  <rdg>Dette har Bang tilføjet på stedet med mindre skrift. Læsningen er
                             usikker</rdg>
-                    </app>. Alle, som <emph>behøver</emph> at kende Sammenhængen, finder vel nu, at
+               </app>. Alle, som <hi rend="italics">behøver</hi> at kende Sammenhængen, finder vel nu, at
                     jeg har bødet haardt nok og vil maaske kun vise mig Godhed ved denne nye
                     Skæbne.</p>
-                <p><emph>Jeg</emph> vil nu alvorligt ‒ men i det stille ‒ virke for
+            <p>
+               <hi rend="italics">Jeg</hi> vil nu alvorligt ‒ men i det stille ‒ virke for
                     Benaadningssagen. Ti dette gaar for vidt.</p>
-                <p>At dette »nye« har en hemmelig Historie ‒ derom er jeg overbevist. Hr. Boldt er
+            <p>At dette »nye« har en hemmelig Historie ‒ derom er jeg overbevist. Hr. Boldt er
                     sikkert ikke uvirksom ‒ og i København bliver han dog betragtet som »Spion«
                     ligefrem. Hans Hamburger-Artikel har vel vakt Opmærksomhed og nu gaar man videre
                     paa høiere Steder.</p>
-                <p>De modtagne »Breve« returneres hermed ‒ jeg har taget et Par Steder ud iaftes og
+            <p>De modtagne »Breve« returneres hermed ‒ jeg har taget et Par Steder ud iaftes og
                     rettet et Par Ord ‒ alt uden Betydning.</p>
-                <p>Hirsch sendte mig idag »das alte Fräulein« hvis Oversættelse høilig har glædet
+            <p>Hirsch sendte mig idag »das alte Fräulein« hvis Oversættelse høilig har glædet
                     mig. Jeg haaber, at De vil føle lidt Deltagelse for mig og gøre alt for at
                     »bevare Stilheden«.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">Herman B.</p>
-                <p>Gaa efter Modtagelsen af Brevet strax til Schorers; sig <emph>dem</emph> Tingen.
+            <p rend="right">Deres</p>
+            <p rend="right">Herman B.</p>
+            <p>Gaa efter Modtagelsen af Brevet strax til Schorers; sig <hi rend="italics">dem</hi> Tingen.
                     Alle andre, at jeg »er tagen til Wien«.</p>
-
-
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

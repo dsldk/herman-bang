@@ -1,104 +1,124 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18860426001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 47</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-04-26" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 26. april], Mandag<note>Kan dateres til Wien, april
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860426001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 47</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-04-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-04-26"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 26. april], Mandag<note>Kan dateres til Wien, april
                   1886, da hr. og fru Ferslew i følge med Emil Bjerring opholdt sig i Wien og var
                   sammen med Bang. Se Anna Levin: Fra Herman Bangs Journalistaar, s. 173 ff. og
                   oplysning om, at Ferslews og Bjerring forlod Wien skærtorsdag 22.4. Dette brev er
                   formodentlig skrevet mandagen derefter</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Mandag.</p>
-                <p>Kære Peter.</p>
-                <p>Bed <persName key="Bing, Herman">Hr. Bing</persName>
-                    <note>Herman Bing (1845-96), politiker, medstifter i 1884 og forretningsfører for dagbladet Politiken, medlem af Folketinget 1890-92, valgt i Bælumkredsen</note> sende mig mine Penge den <emph>første</emph>. Nu gaar
-                  <emph>Postanvisninger</emph> til Wien. Tag Leien fra – men intet
-                  <emph>Afdrag</emph>; ti jeg har været for syg i denne Maaned, har kun Jer at leve
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Peter.</p>
+            <p>Bed <persName key="Bing_Herman">Hr. Bing</persName>
+               <ref target="n1"/> sende mig mine Penge den <hi rend="italics">første</hi>. Nu gaar
+                  <hi rend="italics">Postanvisninger</hi> til Wien. Tag Leien fra – men intet
+                  <hi rend="italics">Afdrag</hi>; ti jeg har været for syg i denne Maaned, har kun Jer at leve
                af og er ganske blank.</p>
-                <p> Ferslews<note>Nationaltidendes ejer <persName key="Ferslew, Chr.">Chr. Ferslew</persName> (1836-1910) og <persName key="Ferslew, fru Anna">frue</persName>, Anna Ferslew (1837-1904), født Lindholm</note> var <emph>meget</emph>
+            <p> Ferslews<ref target="n2"/> var <hi rend="italics">meget</hi>
                elskværdige. Sikkert betyder Besøget Muligheden af en Tilbagevenden – hvis
-                  <emph>jeg</emph> vil. Jeg besvarede Høflighed og Godhed med Høflighed og Venlighed
-               – og slog alting hen. Hr. Ferslews Tilstand er (efter <persName key="Bjerring, Emil">Bierring</persName>
-                    <note>Emil Bjerring (1837-96), journalist, fra 1878 redaktionssekretær ved Nationaltidende, 1880 medstifter af Journalistforeningen</note>s Sigende) <emph>meget</emph> trist ... Jeg søger deri en
+                  <hi rend="italics">jeg</hi> vil. Jeg besvarede Høflighed og Godhed med Høflighed og Venlighed
+               – og slog alting hen. Hr. Ferslews Tilstand er (efter <persName key="Bjerring_Emil">Bierring</persName>
+               <ref target="n3"/>s Sigende) <hi rend="italics">meget</hi> trist ... Jeg søger deri en
                Forklaring af det besynderlige i dette "tilfældige" Besøg – in pleno.</p>
-                <p>Lad ham altsaa sende Pengene den <emph>første</emph> og tag <emph>Leien</emph>
+            <p>Lad ham altsaa sende Pengene den <hi rend="italics">første</hi> og tag <hi rend="italics">Leien</hi>
                af.</p>
-                <p rend="right">Din Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

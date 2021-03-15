@@ -1,106 +1,126 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19060624001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1906-06-24" notBefore="9999-99-99" notAfter="9999-99-99">[1906. 24. juni. ] Søndag<note>Brevet kan placeres i
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060624001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1906-06-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-06-24"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1906. 24. juni. ] Søndag<note>Brevet kan placeres i
                   sammenhæng med Betty Nansens indlæggelse og rekreation juni-juli 1906 – og
                   formentlig før den operation, der omtales i brevet 1906. 30. juni.  til Peter Nansen. Bang
-                  besøgte rekonvalescenten på læge <persName key="Rovsing, Thorkild">Thorkild Rovsing</persName>s
+                  besøgte rekonvalescenten på læge <persName key="Rovsing_Thorkild">Thorkild Rovsing</persName>s
                   klinik, Rosenvænget i København, jf. hans artikel "Hos Betty Nansen", trykt i
                   avisen København, 15.7.1906</note>
-                </date>
-                <placeName cert="low">[København?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Min egen Ven.</p>
-                <p>Jeg har tiet fordi jeg ikke vidste, hvad jeg skulde skrive. Ja, kunde jeg sidde ved
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Min egen Ven.</p>
+            <p>Jeg har tiet fordi jeg ikke vidste, hvad jeg skulde skrive. Ja, kunde jeg sidde ved
                Deres Seng og tie og tale lidt og tie igen – da kunde det maaske være til
-                  <emph>lidt</emph> Øjebliks-Dulmen. Men nu – Hvor Livet er elendigt og jammerfuldt
-               ... Nu ligger De <emph>der</emph> ene og ensom – selv <emph>ydre</emph> ensom. Og
+                  <hi rend="italics">lidt</hi> Øjebliks-Dulmen. Men nu – Hvor Livet er elendigt og jammerfuldt
+               ... Nu ligger De <hi rend="italics">der</hi> ene og ensom – selv <hi rend="italics">ydre</hi> ensom. Og
                ingen Tanker, man sender frem imod Dem hver Dag og hver Aften og om Natten, naar man
                ikke sover, kan hjælpe blot et Gran –</p>
-                <p>Ak, jeg véd ikke, hvad jeg skal sige eller skrive. Hvad der er kommet,
-                  <emph>maatte</emph> komme. Men hvor frygteligt, at Deres Kræfter skulde svigte – –
-               Alligevel, De <emph>er</emph> stærk – trods alt. Vi ligner hinanden. Vi rejser os
+            <p>Ak, jeg véd ikke, hvad jeg skal sige eller skrive. Hvad der er kommet,
+                  <hi rend="italics">maatte</hi> komme. Men hvor frygteligt, at Deres Kræfter skulde svigte – –
+               Alligevel, De <hi rend="italics">er</hi> stærk – trods alt. Vi ligner hinanden. Vi rejser os
                altid igen. Ogsaa De faar Kræfterne tilbage. Hav derfor Taalmodighed. Sommeren vil
                være forbi. Men om Vinteren – tændes det elektriske Lys. Og maaske passer det (Gud
                bedre det) bedre for os.</p>
-                <p>Snart skal jeg skrive med Blæk.</p>
-                <p>Altid og altid Deres</p>
-                <p rend="right">gamle Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Snart skal jeg skrive med Blæk.</p>
+            <p>Altid og altid Deres</p>
+            <p rend="right">gamle Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,110 +1,119 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860405002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NBD 2.rk. Blyantsnummer 484</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Vilhelm Greibe (dansk vicekonsul i
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860405002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 2.rk. Blyantsnummer 484</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-04-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Vilhelm Greibe (dansk vicekonsul i
                                         Hamburg)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-04-05">[1886, ca. 5. april] Mandag<note>Den foreslåede
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-04-05">[1886, ca. 5. april] Mandag<note>Den foreslåede
                         datering er inspireret af et brev fra Bang til Peter Nansen fra den
                         foreslåede dato, der ligeledes omtaler aktuelle krampeanfald</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Wien. Mandag.</p>
-                <p>Kære Greibe.</p>
-                <p>Jeg takker Dem saameget, min Ven. Deres Brev traf mig igaar under et heftigt
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien. Mandag.</p>
+            <p>Kære Greibe.</p>
+            <p>Jeg takker Dem saameget, min Ven. Deres Brev traf mig igaar under et heftigt
                     Anfald af Krampe. Jeg maatte gaa tilsengs og efterlod Brevet ulæst paa mit Bord.
-                    Saa meget syntes jeg at vide, at det var <emph>langt</emph> ‒ og maaske vigtigt.
-                    Jeg beder Dem derfor <emph>kort</emph> at gentage mig dette Indhold. Ti da jeg
-                    imorges kom op, var baade det og to Breve fra Nansen<note>Peter Nansen
-                        (1861-1918), journalist og forfatter, bosat i København, en nær ven af
-                        Bang</note> af Stuepigen <emph>brændt</emph>. »De havde ligget paa Gulvet«.
-                    Da jeg nu ikke ved, <emph>hvem</emph> jeg skylder de 50 Mark og heller ikke,
-                        <emph>hvem</emph> der har sendt mig »das Wunderkind«<note>Bangs novelle
-                        »Charlot Dupont« i Excentriske Noveller, 1885. En tysk oversættelse (ved
-                        Emil Jonas) fremkom i 1887 i Bangs Verfehltes Leben. En tysk oversættelse i
-                        Fremdenblatt har indtil videre ikke kunnet identificeres ...</note> i
+                    Saa meget syntes jeg at vide, at det var <hi rend="italics">langt</hi> ‒ og maaske vigtigt.
+                    Jeg beder Dem derfor <hi rend="italics">kort</hi> at gentage mig dette Indhold. Ti da jeg
+                    imorges kom op, var baade det og to Breve fra Nansen<ref target="n1"/> af Stuepigen <hi rend="italics">brændt</hi>. »De havde ligget paa Gulvet«.
+                    Da jeg nu ikke ved, <hi rend="italics">hvem</hi> jeg skylder de 50 Mark og heller ikke,
+                        <hi rend="italics">hvem</hi> der har sendt mig »das Wunderkind«<ref target="n2"/> i
                     »Fremdenblatt«, og hvem der overhovedet har bevæget »Fremdenblatt« til at tage
                     Novellen ‒ saa beder jeg Dem sige mig dette, kære Greibe. Jeg er endnu idag saa
                     slet, at jeg næppe kan sidde paa Stolen, ellers vilde jeg skrive mere. Endnu en
                     Gang Tak.</p>
-                <p>Det har været Uger uden Grænser.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. de B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Det har været Uger uden Grænser.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

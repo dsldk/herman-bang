@@ -1,109 +1,127 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18860622002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 71</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-06-22" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 22. juni], Tirsdag<note>Dateringen følger Torbjörn
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860622002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 71</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-06-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-06-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 22. juni], Tirsdag<note>Dateringen følger Torbjörn
                   Nilssons forslag, s. 336: "troligen från den 22.6., möjligen den 15.6." – Indtil
                   videre følger brevet 1886. 22. juni. 003 den samme datering</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Kære Peter.</p>
-                <p>Jeg skriver dig til for at melde en Bolig-Forandring. Jeg blev igaar smidt ud. Da min
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg skriver dig til for at melde en Bolig-Forandring. Jeg blev igaar smidt ud. Da min
                Hoved-Indtægt (fra Politiken) viste sig at være 35 Gylden, kunde denne skæbnesvangre
                og længetruende Eventualitet jo ikke længere undgaaes. Myren, Hr Bang, maa opsøge sig
                et nyt Domicil – en ny Tue. Værre end her kan det ikke blive. Jeg delte Sovekammer
                med En og Dagligstue med en hel Bande. Beklageligt er det kun, at Værtinden jager mig
                ud i et Moment, hvor jeg kun skylder hende syv Gylden og selv ikke har noget. Jeg
                havde haabet ved Hjælp af feberagtigt Arbeide med min Bog at kunne besværge Uveiret,
-               men jeg faar jo kun 30 Kroner for Arket, og <persName key="Bing, Herman">Hr.
+               men jeg faar jo kun 30 Kroner for Arket, og <persName key="Bing_Herman">Hr.
                   Bings</persName>
-                    <note>Herman Bing (1845-96), politiker, medstifter i 1884 og forretningsfører for dagbladet Politiken, medlem af Folketinget 1890-92, valgt i Bælumkredsen</note> Tilbageholden af de 50 gav mig Naadestødet. Jeg har skrevet
+               <ref target="n1"/> Tilbageholden af de 50 gav mig Naadestødet. Jeg har skrevet
                til ham, om han ikke kunde give Henstand til min Bog var færdig – men de Folk skylder
                mig for lidt til at bringe mig Ofre.</p>
-                <p>Skriv under min gamle Adresse. Klokken er to og Klokken fem skal jeg være ude.</p>
-                <p>Men hvem véd, hvor jeg inat hviler trætte Lemmer. Starnberger-See<note>En stor sø
-                  sydvest for <placeName key="München">München</placeName>. Kong <persName key="Ludwig 2.">Ludwig 2.</persName> af Bayern (1845-86, konge fra 1864) var 13.6. samme år fundet død
-                  ved bredden af søen</note> maatte være kølig og rar. Men er saa langt borte. Sig
-                  <persName key="Brandes, Edvard">Brandes</persName>
-                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note> Tak for Brevet. Forestillingen vil finde Sted, saasnart
+            <p>Skriv under min gamle Adresse. Klokken er to og Klokken fem skal jeg være ude.</p>
+            <p>Men hvem véd, hvor jeg inat hviler trætte Lemmer. Starnberger-See<ref target="n2"/> maatte være kølig og rar. Men er saa langt borte. Sig
+                  <persName key="Brandes_Edvard">Brandes</persName>
+               <ref target="n3"/> Tak for Brevet. Forestillingen vil finde Sted, saasnart
                jeg har "ravet" sammen de Penge, som er nødvendige til Udgifterne – en 60 Gylden.</p>
-                <p>Og nu ligger jeg paa Gaden – hvad er lidt haardt selv i Juni.</p>
-                <p rend="right">Din Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Og nu ligger jeg paa Gaden – hvad er lidt haardt selv i Juni.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

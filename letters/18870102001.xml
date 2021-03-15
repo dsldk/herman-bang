@@ -1,129 +1,140 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18870102001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 181</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="visitkort">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Visitkort, 2 sider. Fortrykt <q>Herman de Bang</q> i tillempet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870102001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 181</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="visitkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Visitkort, 2 sider. Fortrykt <q>Herman de Bang</q> i tillempet
                                  skriveskrift</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1887-01-02" notBefore="9999-99-99" notAfter="9999-99-99">[1887. 2. januar, cirka]<note>Brevet er formentlig skrevet
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1887-01-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1887-01-02"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1887. 2. januar, cirka]<note>Brevet er formentlig skrevet
                   kort efter nytår 1887, jf. bemærkningen om Esmann</note>
-                </date>
-                <placeName cert="high">[Prag]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Peter.</p>
-                <p>Vær ikke vred over, at jeg plager dig. Men det tyske Blad – som har anskaffet Billede
-               til <persName key="Wolter, Charlotte">Wolter</persName>
-                    <note>Vel en artikel om den tysk-østrigske skuespillerinde Charlotte Wolter (1834-97), måske den, der tryktes i Politiken,
-                  3.1.1887</note> – lader mig ikke Ro. Var det ikke muligt at jeg, naar du lod
-               Artiklen <emph>sætte</emph>, kunde faa omgaaende et Aftryk af Værket?? I en Konvolut.
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Peter.</p>
+            <p>Vær ikke vred over, at jeg plager dig. Men det tyske Blad – som har anskaffet Billede
+               til <persName key="Wolter_Charlotte">Wolter</persName>
+               <ref target="n1"/> – lader mig ikke Ro. Var det ikke muligt at jeg, naar du lod
+               Artiklen <hi rend="italics">sætte</hi>, kunde faa omgaaende et Aftryk af Værket?? I en Konvolut.
                Vær saa rar.</p>
-                <p>
-                    <persName key="Kielland, Alexander">Klands Bog</persName>
-                    <note>Den norske forfatter Alexander Kiellands (1849-1906) roman <title key="Sne">Sne</title>, Gyldendal 1886</note>
-               er vist "smuk". <persName key="Brandes, Edvard">B' Anmeldelse</persName>
-                    <note>Redaktør Edvard Brandes' udførlige anmeldelse af romanen stod på forsiden af Politiken,
-                  5.11.1886</note> lod mig ane, at "Digteren" vel havde skrevet et Mesterværk
-                  <emph>men</emph> at man dog maatte tilstaa o:s:v:, o:s:v:</p>
-                <p>
-                    <persName key="Ottesen, Christine Margrethe">Fru Ottesen</persName>
-                    <note>Christine
-                  Margrethe Ottesen (født ca. 1843), Bangs værtinde i Studiestræde 4, København</note> sendte mig et "Dagblads"
-                  Udklip<note>Antagelig en anmeldelse af <title key="Stille Eksistenser">Stille
-                     Eksistenser</title>
-                    </note>. At jeg vilde kunne – "maaske" – udvikle mig til en
+            <p>
+               <persName key="Kielland_Alexander">Klands Bog</persName>
+               <ref target="n2"/>
+               er vist "smuk". <persName key="Brandes_Edvard">B' Anmeldelse</persName>
+               <ref target="n3"/> lod mig ane, at "Digteren" vel havde skrevet et Mesterværk
+                  <hi rend="italics">men</hi> at man dog maatte tilstaa o:s:v:, o:s:v:</p>
+            <p>
+               <persName key="Ottesen_Christine_Margrethe">Fru Ottesen</persName>
+               <ref target="n4"/> sendte mig et "Dagblads"
+                  Udklip<ref target="n5"/>. At jeg vilde kunne – "maaske" – udvikle mig til en
                "læselig Forfatter" – var mig overraskende. Den Aften skar jeg "Fædras" siste Del op
                og læste. Hvor man har været uretfærdig mod den Bog. Hvis den nogensinde falder dig i
                Hænderne – vil du blive slaaet deraf som jeg.</p>
-                <p>"Ved Veien" læste jeg idag om i et <emph>tysk</emph> Literaturblad<note>Ikke
-                  identificeret</note>. Man <app>
-                        <lem>saml:</lem>
-                        <rdg>Forkortelse for: sammenligner</rdg>
-                    </app> mig med <persName key="Turgenjev, Ivan">Turgénjew</persName>
-                    <note>Ivan Turgenjev (1818-83), russisk forfatter</note> og <persName key="Keller, Gottfried">Keller</persName>
-                    <note>Gottfried Keller (1819-90), schweizisk forfatter</note>. Aa ja – sagde Lænkehunden, der var Barsel i Gaarden
-               og de gav den Lammefricassée<note>Dette ordsprog har ikke kunnet identificeres.
-                  Meningen må være, at der falder noget godt af også til den lille, når betydelige
-                  personer eller begivenheder fejres</note>.</p>
-                <p>Jeg glædede mig meget over dine Anmeldelser af de kvindelige, literære
-                  Haandarbeider<note>Politiken er forgæves gennemset i perioden fra 5.11.1886 til
-                  20.1.1887, og ingen sådanne anmeldelser af Nansen er fundet</note>. Hils
-                  <persName key="Esmann, Gustav">Esmann</persName>
-                    <note>Vennen og forfatteren Gustav Esmann (1860-1904)</note> og sig, at han kunde en Gang i Anledning af det nye Aar
-               overkomme at skrive. Hils <persName key="Brock, Louise">Frøken B.</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos teaterleder August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note>
-                </p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>"Ved Veien" læste jeg idag om i et <hi rend="italics">tysk</hi> Literaturblad<ref target="n6"/>. Man <app>
+                  <lem>saml:</lem>
+                  <rdg>Forkortelse for: sammenligner</rdg>
+               </app> mig med <persName key="Turgenjev_Ivan">Turgénjew</persName>
+               <ref target="n7"/> og <persName key="Keller_Gottfried">Keller</persName>
+               <ref target="n8"/>. Aa ja – sagde Lænkehunden, der var Barsel i Gaarden
+               og de gav den Lammefricassée<ref target="n9"/>.</p>
+            <p>Jeg glædede mig meget over dine Anmeldelser af de kvindelige, literære
+                  Haandarbeider<ref target="n10"/>. Hils
+                  <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n11"/> og sig, at han kunde en Gang i Anledning af det nye Aar
+               overkomme at skrive. Hils <persName key="Brock_Louise">Frøken B.</persName>
+               <ref target="n12"/>
+            </p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

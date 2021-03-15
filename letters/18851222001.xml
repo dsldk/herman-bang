@@ -1,103 +1,122 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18851222001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 242</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider plus hilsen. Mørkrødt brevpapir</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1885-12-22" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 22. december], Tirsdag<note>Den foreslåede datering
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851222001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 242</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider plus hilsen. Mørkrødt brevpapir</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1885-12-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1885-12-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 22. december], Tirsdag<note>Den foreslåede datering
                   bygger på sammenhængene med Bangs breve fra de nærmestliggende dage</note>
-                </date>
-                <placeName cert="high">[Berlin]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag.</p>
-                <p>Kære Peter.</p>
-                <p>Da <persName key="Kjerulf, Charles">Kierulf</persName>
-                    <note>Komponisten Charles Kjerulf (1858-1919), fra 1886 musikkritiker ved Politiken</note> var her, talte jeg med ham om "Politik". Dette Brev
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Peter.</p>
+            <p>Da <persName key="Kjerulf_Charles">Kierulf</persName>
+               <ref target="n1"/> var her, talte jeg med ham om "Politik". Dette Brev
                sender han mig nu.</p>
-                <p>Naar jeg ikke har sendt nogen Korrespondance, er det min Ven, fordi jeg har ventet
+            <p>Naar jeg ikke har sendt nogen Korrespondance, er det min Ven, fordi jeg har ventet
                paa Optagelse af en, jeg allerede sendte for en Uge siden. Men sikkert har du haft
                dine Grunde – som du véd, jeg altid billiger – til ei at optage den. Skal eller ikke
                sende dig et Julebrev o:s:v:?</p>
-                <p>Hele min Tid har været optaget af min Debut-Artikel i "Tageblatt"<note>Berliner
-                  Tageblatts tillæg Der Zeitgeist, 4.1.1886: "Studienköpfe. Josef Kainz"</note>.
+            <p>Hele min Tid har været optaget af min Debut-Artikel i "Tageblatt"<ref target="n2"/>.
                Jeg sover ikke om Natten af Spænding.</p>
-                <p>Man modtager mig venligt her, og man venter tillidsfuldt, at jeg vil faa en Position.
+            <p>Man modtager mig venligt her, og man venter tillidsfuldt, at jeg vil faa en Position.
                Jeg ser aldrig nogen, taler med ingen uden i Forretninger, skriver ti-tolv Timer
                daglig.</p>
-                <p>Hils alle.</p>
-                <p rend="right">Din</p>
-                <p rend="right"> Herman</p>
-            </div>
-        </body>
-    </text>
+            <p>Hils alle.</p>
+            <p rend="right">Din</p>
+            <p rend="right"> Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>

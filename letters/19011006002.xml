@@ -1,128 +1,137 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19011006002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 801</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Oluf Heise</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider, skrevet på fortrykt brevpapir:
-                                                  <emph>Dr.med. Torrild.</emph> og <emph>Aalborg d.
-                                                  ...</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær; brevet er dikteret til lægen Johannes Torrild
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19011006002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 801</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider, skrevet på fortrykt brevpapir:
+                                                  <hi rend="italics">Dr.med. Torrild.</hi> og <hi rend="italics">Aalborg d.
+                                                  ...</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; brevet er dikteret til lægen Johannes Torrild
                                             (1870-1908), der også har skrevet Bangs navn i brevets
                                             underskrift. Fra juli 1901 havde Torrild privatklinik i
                                             Aalborg; Bang har muligvis været hans patient, da han
                                             1898-1900 havde privat praksis i København</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1901-10-06">1901, 6. Oktober [søndag] <note>Bang opholdt sig
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1901-10-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1901-10-06">1901, 6. Oktober [søndag] <note>Bang opholdt sig
                         september-november 1901 i Aalborg og var i oktober patient ved dr. Torrilds
                         nerveklinik i byen</note>
-                </date>
-                <placeName cert="high">Aalborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">[Aalborg d.] 6-X-1901.</p>
-                <p>Kære Hr. Heise</p>
-                <p>Jeg takker Dem for Deres Brev, hvoraf jeg fremfor alt ser, at den standende
-                        Strid<note>Mellem Bang og Det Schubotheske Forlag; overretssagfører Oluf
-                        Heise repræsenterede Bang i denne strid</note> endnu ikke er afsluttet. Jeg
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Aalborg d.] 6-X-1901.</p>
+            <p>Kære Hr. Heise</p>
+            <p>Jeg takker Dem for Deres Brev, hvoraf jeg fremfor alt ser, at den standende
+                        Strid<ref target="n1"/> endnu ikke er afsluttet. Jeg
                     gør imidlertid opmærksom paa, at jeg i mit Brev af 1. Oktober fastslog, at jeg
                     betragtede Afsendelsen af 250 Kr. som en Gaaen ind paa mine Fordringer om i fire
                     paa hinanden følgende Uger at modtage 250 Kr. om Ugen. Alligevel tvivler jeg
                     naturligvis ikke om, kære Ven, at Kampen skal fortsættes. Jeg beder Dem kun
                     meget bestemt anmode Forlaget om at afsende Beløbet for denne Uge <app>
-                        <lem>paa Onsdag</lem>
-                        <rdg>Ordene er tilføjet over linjen</rdg>
-                    </app> og saaledes ogsaa de to paafølgende Onsdage i denne Maaned. Man har sat
+                  <lem>paa Onsdag</lem>
+                  <rdg>Ordene er tilføjet over linjen</rdg>
+               </app> og saaledes ogsaa de to paafølgende Onsdage i denne Maaned. Man har sat
                     mig Kniven paa Struben og min Handlemaade er i egenligste Forstand
                     Selvforsvar.</p>
-                <p>Hvad angaar det Gyldendalske Forlag da er jeg Dem og Hr. Nansen<note>Peter Nansen
-                        (1861-1918), fra 1896 litterær direktør for Gyldendal</note> oprigtigt
+            <p>Hvad angaar det Gyldendalske Forlag da er jeg Dem og Hr. Nansen<ref target="n2"/> oprigtigt
                     taknemmelig. Naar jeg ikke modtog Gyldendals tidligere Forslag, var det fordi
                     jeg følte mig menneskelig bunden til et Forlag, der havde fulgt mig i Dage endnu
                     bitrere end i disse. Nu véd De bedst selv, at jeg ikke føler mig bunden mer og
                     jeg ønsker af Hjærtet at gaa over paa det Gyldendalske Forlag. Kun skal vi, hvis
                     det Schubotheske Forlag giver mig Midler til at leve i disse Uger, ikke forhaste
-                    os med Underhandlingerne. Korrekturerne<note>Bang var på dette tidspunkt i gang
-                        med at læse korrektur på Det graa Hus, der udkom 26.11.1901 på Det
-                        Schubotheske Forlag</note> har kun styrket min Overbevisning om »det graa
+                    os med Underhandlingerne. Korrekturerne<ref target="n3"/> har kun styrket min Overbevisning om »det graa
                     Hus«' stolte Rejsning og vi staar os bedre ved at føre Underhandlingerne med
                     Gyldendal til Ende i Dagene strax efter Bogens Udgivelse.</p>
-                <p>Vedlagt er Kvitteringen. Hvis Dr. Torrild<note>Johannes Torrild (1870-1908),
-                        Bangs læge i Aalborg, der har skrevet dette og andre af Bangs breve efter
-                        diktat</note> kan holde mig oven Senge, haaber jeg at have afsluttet
+            <p>Vedlagt er Kvitteringen. Hvis Dr. Torrild<ref target="n4"/> kan holde mig oven Senge, haaber jeg at have afsluttet
                     Manuskriptet Lørdag Aften ‒ alt dette forudsat, at Pengene indløber i rette Tid
                     og ikke forvolder mig nye Ærgrelser.</p>
-                <p>De hjærteligste Hilsener fra</p>
-                <p rend="right">Deres Herman Bang.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>De hjærteligste Hilsener fra</p>
+            <p rend="right">Deres Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

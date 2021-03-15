@@ -1,121 +1,129 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18871028001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 1006</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-10-28">[1887, 28. oktober] Fredag <note>Den foreslåede
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18871028001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 1006</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1887-10-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-10-28">[1887, 28. oktober] Fredag <note>Den foreslåede
                         dato passer vistnok med, at der er gået det meste af tre uger, siden Bang
                         vendte hjem til København</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fredag Morgen.</p>
-                <p>Kære Langhoff.</p>
-                <p>Jeg har nu paa det snareste været her i tre Uger og skrevet løs i »Politiken«,
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag Morgen.</p>
+            <p>Kære Langhoff.</p>
+            <p>Jeg har nu paa det snareste været her i tre Uger og skrevet løs i »Politiken«,
                     hvor Pengene forfalder den første <app>
-                        <lem>Nb</lem>
-                        <rdg>Tydning af de to bogstaver, der står yderst på en linje, er usikker.
+                  <lem>Nb</lem>
+                  <rdg>Tydning af de to bogstaver, der står yderst på en linje, er usikker.
                             Sandsynligvis betyder de: november</rdg>
-                    </app>. Men min pengeløse Tilstand falder mig i disse Dage sært svær. Kunde
-                        Forlaget<note>Dvs. I.H. Schubothe, ledet af Paul Langhoff</note> give mig 30
-                    Kr:? <emph>Jeg</emph> skal nok komme løs fra Andreas<note>Andreas Schou
-                        (1829-1889), Bangs forlægger forud for arbejdet med Stuk ...</note> inden
+               </app>. Men min pengeløse Tilstand falder mig i disse Dage sært svær. Kunde
+                        Forlaget<ref target="n1"/> give mig 30
+                    Kr:? <hi rend="italics">Jeg</hi> skal nok komme løs fra Andreas<ref target="n2"/> inden
                     Nyaar.</p>
-                <p>Hvis Forlaget kan ‒ da lad Deres Bydreng Klokken mellem fire og fem bringe mig
+            <p>Hvis Forlaget kan ‒ da lad Deres Bydreng Klokken mellem fire og fem bringe mig
                     Pengene. Strider det derimod mod Principper og den Slags, saa lader vi være.
                     Saasnart jeg bare har begyndt at hæve Bladpenge, skal jeg saamæn ingen
                     Fordringer stille til Forlaget.</p>
-                <p>Men nu vilde de 30 være »saa rare og gode«. Nansen<note>Peter Nansen</note> har
-                    nu læst Bogen<note>Bangs roman Stuk, der udkom i slutningen af oktober 1887 hos
-                        Paul Langhoff, dvs. forlaget I.H. Schubothe</note> og finder de to
+            <p>Men nu vilde de 30 være »saa rare og gode«. Nansen<ref target="n3"/> har
+                    nu læst Bogen<ref target="n4"/> og finder de to
                     Tredjedele »udmærket« ↄ: at han mener, Arbejdet er lykkedes. »Piratens«
                     Redaktion er besjælet af en Begeistring, <app>
-                        <lem>den</lem>
-                        <rdg>Det første bogstav er rettet, vistnok fra: D</rdg>
-                    </app> ikke vil kunne mægte at undertrykke ‒ sagde mig Immanuel<note>Immanuel
-                        Nansen, lillebror til Peter Nansen</note>. Georg<note>... foreløbig
-                        uidentificeret ... ?</note> havde ved »at kigge« i Bogen fundet »udmærkede
+                  <lem>den</lem>
+                  <rdg>Det første bogstav er rettet, vistnok fra: D</rdg>
+               </app> ikke vil kunne mægte at undertrykke ‒ sagde mig Immanuel<ref target="n5"/>. Georg<ref target="n6"/> havde ved »at kigge« i Bogen fundet »udmærkede
                     Ting« ‒ ‒</p>
-                <p rend="right">H.B.</p>
-                <p>Lad »isaafald« ikke Bydrengen sige, hvad der er i Konvolutten her i
-                        Huset<note>Dvs. ejendommen Studiestræde 4, København, der var ejet af
-                        ægteparret O.A. Ottesen, som selv boede i ejendommen. Bang boede til leje på
-                        1.sal</note>. Kun lægge den <emph>stille</emph> i Brevkassen, hvis jeg ikke
+            <p rend="right">H.B.</p>
+            <p>Lad »isaafald« ikke Bydrengen sige, hvad der er i Konvolutten her i
+                        Huset<ref target="n7"/>. Kun lægge den <hi rend="italics">stille</hi> i Brevkassen, hvis jeg ikke
                     selv lukker op paa hans Banken.</p>
-
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

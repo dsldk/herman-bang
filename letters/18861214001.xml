@@ -1,142 +1,146 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18861214001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-12-14">1886, 14. december [tirsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Prag. 14.12.86.</p>
-                <p>Min kære Ven.</p>
-                <p>Saa er det altsaa først imorgen, dit Nyaar begynder<note>Julius Schiøtt var født
-                        14.12.1856</note> ‒ mine Tanker og Ønsker skal være hos Jer ‒ og paa dit
-                    Aars første Dag vil du faa dette Nyaarsdigt<note>Digtet er ikke bevaret som
-                        bilag til dette brev. Der er sikkert tale om Bangs digt »Aar ‒ du Hersker!«,
-                        skrevet i »Prag. December 1886« og trykt under titlen »Nyaar 1887« i
-                        Illustreret Tidende, 2.1.1887 samt i det svenske tidsskrift Framåt,
-                        15.1.1887</note>. Ja ‒ et Digt! Det første Digt, siden jeg blev rigtig
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861214001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-12-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-12-14">1886, 14. december [tirsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 14.12.86.</p>
+            <p>Min kære Ven.</p>
+            <p>Saa er det altsaa først imorgen, dit Nyaar begynder<ref target="n1"/> ‒ mine Tanker og Ønsker skal være hos Jer ‒ og paa dit
+                    Aars første Dag vil du faa dette Nyaarsdigt<ref target="n2"/>. Ja ‒ et Digt! Det første Digt, siden jeg blev rigtig
                     voksen. Et Digt, sprunget ud af min store tunge Angst for det Aar, som kommer.
-                    Sæt det i din »Stjerne«. Et Nyaars<emph>digt</emph> af mig ‒ det er, ved Gud,
+                    Sæt det i din »Stjerne«. Et Nyaars<hi rend="italics">digt</hi> af mig ‒ det er, ved Gud,
                     noget nyt. Og det er vist ikke galt??</p>
-                <p>Min Ven ‒ hvor Tankerne mødes! Jeg <emph>havde</emph> allerede ladet komme ‒ for
+            <p>Min Ven ‒ hvor Tankerne mødes! Jeg <hi rend="italics">havde</hi> allerede ladet komme ‒ for
                     med den skrevne Ansøgning, som jeg vilde bede Schou indbringe, at berede Jer en
-                    Overraskelse ‒ det stemplede Papir til Ancker<note>Det Anckerske Legat til
-                        Reisestipendier for Kunstnere</note>. Jeg vil skrive Ansøgningen Juledag.
-                    Men om at <emph>faa</emph> Legatet ‒ <emph>jeg</emph>, aa Herre Jemini!</p>
-                <p>Din Plan at faa mig løs fra »Politiken« er <emph>mit</emph> hedeste Ønske. Du
+                    Overraskelse ‒ det stemplede Papir til Ancker<ref target="n3"/>. Jeg vil skrive Ansøgningen Juledag.
+                    Men om at <hi rend="italics">faa</hi> Legatet ‒ <hi rend="italics">jeg</hi>, aa Herre Jemini!</p>
+            <p>Din Plan at faa mig løs fra »Politiken« er <hi rend="italics">mit</hi> hedeste Ønske. Du
                     véd, hvor lidt jeg elsker det Blad. Ikke at skrive om Politik ‒ er saa rigtigt.
                     Men, min Ven, vi lever i en Tid, hvor hver har Pligter. Fordærvets Dag kan være
-                        <emph>for</emph> nær til at man <emph>tør</emph> tie, kan tie, naar man
+                        <hi rend="italics">for</hi> nær til at man <hi rend="italics">tør</hi> tie, kan tie, naar man
                     elsker den Sæd og Skik, de Minder, det dyre Sprog, som rummes i det Ord
                     Danmark.</p>
-                <p>Men, desværre, at man vil søge at berede <emph>mig</emph> endnu større Lidelser
+            <p>Men, desværre, at man vil søge at berede <hi rend="italics">mig</hi> endnu større Lidelser
                     end hidtil, dét ansér jeg for sikkert. Man sendte mig »Avisen« idag, og Hr.
                     Boldt rører sig igen. Er han ligesaa heldig denne Gang som i Meiningen, turde
                     jeg komme til at fejre Nyaar i Danmark.</p>
-                <p>Samtidig modtog jeg »Berlingskes« Kritik af »Ved Vejen«<note>Berlingske Tidendes
-                        anmeldelse af Stille Eksistenser står i avisens aftenudgave, 11.12.1886;
-                        anmeldelsen er usigneret</note>. Et utroligt Aktstykke. Naa ‒ Himlen tilgive
-                    de Folk, de véd saa vist ikke, hvad de gør<note>En bibelallusion; den
-                        korsfæstede Jesus udbrød: »Fader, tilgiv dem, for de ved ikke, hvad de gør«,
-                        ifølge Lukas 23,34</note>.</p>
-                <p>Vil du, kære Jules, om det <emph>muligt</emph> er, sende mig det lille Honorar
-                    for dette Nyaarsdigt ‒ ↄ: din <emph>Expedition</emph> ‒; det vil jo dog i
+            <p>Samtidig modtog jeg »Berlingskes« Kritik af »Ved Vejen«<ref target="n4"/>. Et utroligt Aktstykke. Naa ‒ Himlen tilgive
+                    de Folk, de véd saa vist ikke, hvad de gør<ref target="n5"/>.</p>
+            <p>Vil du, kære Jules, om det <hi rend="italics">muligt</hi> er, sende mig det lille Honorar
+                    for dette Nyaarsdigt ‒ ↄ: din <hi rend="italics">Expedition</hi> ‒; det vil jo dog i
                     Regnskabet gaa paa dette Aar. Og ‒ om ikke »Julemærkerne« slaar fejl, maa jeg
                     vist være forberedt paa at tage min Vadsæk i Haanden. Jeg, som prædiker Freden!
                     Og da, i den yderste Time at telegrafere og allarmere ‒ er saa græsseligt. Og
                     hver lille »Bæk« hjælper jo. »De Glemte II« faar du senest afsendt herfra
                     Fredag. Planen dertil er net.</p>
-                <p>Og nu ‒ endnu en Gang: Tak for alt i det gamle Aar. Lykke i det ny. Prøvelsers
+            <p>Og nu ‒ endnu en Gang: Tak for alt i det gamle Aar. Lykke i det ny. Prøvelsers
                     tunge Haand løsner saa meget ‒ man vilde vel slet ikke kunne bære dette Liv, om
-                    der ikke var <emph>noget</emph>, der bandt fastere.</p>
-                <p>Hils dine! Hvor du vil være forbauset over Digtet.</p>
-                <p rend="right">Din Herman.</p>
-                <p>Og dette sørgeligste i Efterskrift: Indlagte Brev. Fortiden døer aldrig, og jeg
+                    der ikke var <hi rend="italics">noget</hi>, der bandt fastere.</p>
+            <p>Hils dine! Hvor du vil være forbauset over Digtet.</p>
+            <p rend="right">Din Herman.</p>
+            <p>Og dette sørgeligste i Efterskrift: Indlagte Brev. Fortiden døer aldrig, og jeg
                     véd ikke, om den kan sones. Gør mig den Tjeneste at sige eller lade sige ‒
-                        <emph>helst</emph> det første, <emph>saa</emph> har vi Ro en Tid ‒ at
-                        A:<note>O.A. Andreasen, pantelåneren ......</note>
-                    <emph>i næste Aar</emph> skal faa 500 Kroner. Det <emph>maa</emph> vi afsé. Men
-                    at han <emph>saa</emph> maa lade mig i Ro.</p>
-                <p>Han <emph>tør</emph> ikke, <emph>saa vist som dog det eneste sande Haab til
-                        Fremtiden beror paa Fru Ferslew</emph>, hvis jeg da nogensinde skal komme
-                    hjem ‒ han <emph>tør</emph> ikke gaa til Ferslews. <emph>Men opsæt ikke</emph>.
+                        <hi rend="italics">helst</hi> det første, <hi rend="italics">saa</hi> har vi Ro en Tid ‒ at
+                        A:<ref target="n6"/>
+               <hi rend="italics">i næste Aar</hi> skal faa 500 Kroner. Det <hi rend="italics">maa</hi> vi afsé. Men
+                    at han <hi rend="italics">saa</hi> maa lade mig i Ro.</p>
+            <p>Han <hi rend="italics">tør</hi> ikke, <hi rend="italics">saa vist som dog det eneste sande Haab til
+                        Fremtiden beror paa Fru Ferslew</hi>, hvis jeg da nogensinde skal komme
+                    hjem ‒ han <hi rend="italics">tør</hi> ikke gaa til Ferslews. <hi rend="italics">Men opsæt ikke</hi>.
                     Sig ham ogsaa (Ord er ikke skrevet) det, jeg her skriver til dig.</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

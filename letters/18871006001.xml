@@ -1,109 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18871006001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 437</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1887-10-06">[1887, cirka 6. oktober, torsdag] <note>Eftersom
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18871006001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 437</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Teplitz [Teplice]</placeName>
+               <date when="1887-10-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-10-06">[1887, cirka 6. oktober, torsdag] <note>Eftersom
                         Bang anfører sin kommende midlertidige hoteladresse i Lübeck, er brevet
                         formentlig skrevet i slutningen af hans ophold i Teplitz. Det nøjere
                         datoforslag er udgiverens gæt</note>
-                </date>
-                <placeName cert="high">Teplitz [Teplice]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Sæt paa Pengene: Teplitz. <emph>Bøhmen</emph>.</p>
-                <p>Kære Paul.</p>
-                <p>Jeg antager, at dette maa begynde med Pag: 40<note>Dvs. side 40</note>, naar det
-                    foregaaende ret pagineres. Ti De har vel faaet det ændrede Mnskrpt?<note>Dvs.
-                        manuskript</note> I det ufrankerede Brev<note>Bang hentyder til sit brev til
-                        Paul Langhoff, dateret »Teplitz, Fredag Aften«, i denne udgave anbragt under
-                        datoen 16.9.1887</note>.</p>
-                <p>Ja ‒ min Ven ‒ saa er »Stuk« ude.</p>
-                <p>Om <emph>dette</emph> er lykkedes eller ej ‒ er svært at sé, naar man ikke naa'r
+            </date>
+            <placeName cert="high">Teplitz [Teplice]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sæt paa Pengene: Teplitz. <hi rend="italics">Bøhmen</hi>.</p>
+            <p>Kære Paul.</p>
+            <p>Jeg antager, at dette maa begynde med Pag: 40<ref target="n1"/>, naar det
+                    foregaaende ret pagineres. Ti De har vel faaet det ændrede Mnskrpt?<ref target="n2"/> I det ufrankerede Brev<ref target="n3"/>.</p>
+            <p>Ja ‒ min Ven ‒ saa er »Stuk« ude.</p>
+            <p>Om <hi rend="italics">dette</hi> er lykkedes eller ej ‒ er svært at sé, naar man ikke naa'r
                     derhen gennem hele Bogen. I alle Fald udtrykker det min Tanke.</p>
-                <p>Og saa ‒ Gud befalet.</p>
-                <p>Send mig altsaa de resterende Penge efter Modtagelsen heraf. Korrekturen sender
+            <p>Og saa ‒ Gud befalet.</p>
+            <p>Send mig altsaa de resterende Penge efter Modtagelsen heraf. Korrekturen sender
                     jeg imorgen.</p>
-                <p><emph>Saasnart jeg faar Pengene</emph>, rejser jeg. Og alt, hvad De saa sender,
-                    Korrektur og Breve skal <emph>uden</emph> mit Navn adresseres:</p>
-                <p>Max Eisfeld. Hotel Stadt Hamburg. <emph>Lübeck.</emph></p>
-                <p>Tak nu, min Ven, for alt. For hvert venligt og hvert opmuntrende Ord ‒ for al
+            <p>
+               <hi rend="italics">Saasnart jeg faar Pengene</hi>, rejser jeg. Og alt, hvad De saa sender,
+                    Korrektur og Breve skal <hi rend="italics">uden</hi> mit Navn adresseres:</p>
+            <p>Max Eisfeld. Hotel Stadt Hamburg. <hi rend="italics">Lübeck.</hi>
+            </p>
+            <p>Tak nu, min Ven, for alt. For hvert venligt og hvert opmuntrende Ord ‒ for al
                     Hjælp.</p>
-                <p rend="right">Herman.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

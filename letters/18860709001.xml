@@ -1,114 +1,132 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18860709001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 77</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-07-09" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 9. juli], Fredag<note>Brevet er skrevet en fredag
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860709001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 77</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-07-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-07-09"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 9. juli], Fredag<note>Brevet er skrevet en fredag
                   mellem 17.6.1886 (Louise Brocks trafikulykke) og 15.7.1886 (Bangs artikel, omtalt
                   i brevets efterskrift og trykt i Politiken denne dato), formentlig tættest på
                   sidstnævnte, men fredag 2.7. er ligeledes en mulighed</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fredag.</p>
-                <p>Kære Don.</p>
-                <p>Det er længe siden jeg har skrevet. En Artikel til "Tilskueren"<note>Artiklen er ikke
-                  verificeret</note> tog mig fulde otte Dage og saa var jeg syg et Par Dage. Heden
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Don.</p>
+            <p>Det er længe siden jeg har skrevet. En Artikel til "Tilskueren"<ref target="n1"/> tog mig fulde otte Dage og saa var jeg syg et Par Dage. Heden
                er nu forfærdelig, og det Hul, hvor jeg boer, er fuldt af Væggetøi.</p>
-                <p>Tak fordi jeg denne Gang fik Pengene saa expedit.</p>
-                <p>Hvordan gaar det Frøken <persName key="Brock, Louise">Louise Borchjunior</persName>
-                    <note>Peter Nansens forlovede, skuespillerinden Louise Brock (1864-1900)</note>? Jeg
+            <p>Tak fordi jeg denne Gang fik Pengene saa expedit.</p>
+            <p>Hvordan gaar det Frøken <persName key="Brock_Louise">Louise Borchjunior</persName>
+               <ref target="n2"/>? Jeg
                haaber da, at det vil gaa over og at der <app>
-                        <lem>er</lem>
-                        <rdg>Ordet er en fejlskrivning, ikke rettet af Bang</rdg>
-                    </app> igen er kommet Humør i baade dig og hende. Den stakkels Dampsporvei – den
+                  <lem>er</lem>
+                  <rdg>Ordet er en fejlskrivning, ikke rettet af Bang</rdg>
+               </app> igen er kommet Humør i baade dig og hende. Den stakkels Dampsporvei – den
                betaler Torten.</p>
-                <p>Jeg havde haabet at kunne tage lidt paa Landet. Men det bliver ikke til noget. Det er
+            <p>Jeg havde haabet at kunne tage lidt paa Landet. Men det bliver ikke til noget. Det er
                vel bedre at holde ud her noget endnu og saa skifte Opholdssted – enten <placeName key="Prag">Prag</placeName> eller <placeName key="Pest">Pest</placeName>. Jeg véd
-               endnu ikke hvilket. En Trøst er det jo, at <emph>værre</emph> end Wien kan det ikke
+               endnu ikke hvilket. En Trøst er det jo, at <hi rend="italics">værre</hi> end Wien kan det ikke
                blive. Hvis du finder et Par Minutter, da skriv lidt til mig. Jeg er ganske alene
                her. Mit Selskab er lidt Bøger – en Gang om Ugen Politiken.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-                <p>Hils <persName key="Nansen, Immanuel">Hvalpen</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>
-                </p>
-                <p>"Politikeren" er <emph>ingen</emph> Fiktion – hvor skulde jeg vide de Ting fra? – men
-                  <emph>skrive</emph> hans Navn tør jeg ikke.<note>Drejer sig formentlig om Bangs
-                  artikel "Økonomisk Krig", Politiken, 15.7.1886</note>
-                </p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n3"/>
+            </p>
+            <p>"Politikeren" er <hi rend="italics">ingen</hi> Fiktion – hvor skulde jeg vide de Ting fra? – men
+                  <hi rend="italics">skrive</hi> hans Navn tør jeg ikke.<ref target="n4"/>
+            </p>
+         </div>
+      </body>
+   </text>
 </TEI>

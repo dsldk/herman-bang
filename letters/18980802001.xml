@@ -1,121 +1,128 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18980802001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung (dvs. J.L.
-                                        Lybecker)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Datoen »d. 2/8 1898« er tilføjet med blyant, formodentlig af
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18980802001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Datoen »d. 2/8 1898« er tilføjet med blyant, formodentlig af
                                         Aage Hirschsprung (eller J.L. Lybecker)</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1898-08-02">[1898, 2. august, tirsdag] <note>Brevet er
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1898-08-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung (dvs. J.L.
+                                        Lybecker)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-08-02">[1898, 2. august, tirsdag] <note>Brevet er
                         stilet til J.L. Lybecker (Aage Hirschsprungs kompagnon i ledelsen af Det
                         Schubotheske Forlag); det indgik i den store samling breve fra Bang, som
                         frem til auktionssalget i 2011 ejedes af Aage Hirschsprungs efterkommere. ‒
                         Brevets sekundært anførte datering tages til følge</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Slagelsegade 22.</p>
-                <p>Kære Hr. Lybecker.</p>
-                <p>Deres Brev var kun altfor berettiget. Men i min Sygdoms ganske hjælpeløse
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Slagelsegade 22.</p>
+            <p>Kære Hr. Lybecker.</p>
+            <p>Deres Brev var kun altfor berettiget. Men i min Sygdoms ganske hjælpeløse
                     Tilstand har jeg kun haft Forlaget ‒ desværre.</p>
-                <p>Lad mig til Gengæld arbejde alt, hvad jeg kan.</p>
-                <p>1. Her er »Ved Vejen«<note>Anden udgave af <emph>Ved Vejen</emph> udkom som
-                        selvstændig bog 9.11.1898 på Det Schubotheske Forlag. Bang har antagelig
-                        læst korrektur, som han returnerer til forlaget i et par omgange</note>.
+            <p>Lad mig til Gengæld arbejde alt, hvad jeg kan.</p>
+            <p>1. Her er »Ved Vejen«<ref target="n1"/>.
                     Resten iovermorgen.</p>
-                <p>2. Desuden to Digte til Bogen<note>Bangs roman Det hvide Hus, udgivet 26.11.1898
-                        af Det Schubotheske Forlag</note>.</p>
-                <p>Hvis De kan sende mig en god <emph>Afskriver</emph> imorgen Kl. 12, <emph>da kan
-                        jeg godt diktere Teksten, der hører til disse to Digte</emph> og første
+            <p>2. Desuden to Digte til Bogen<ref target="n2"/>.</p>
+            <p>Hvis De kan sende mig en god <hi rend="italics">Afskriver</hi> imorgen Kl. 12, <hi rend="italics">da kan
+                        jeg godt diktere Teksten, der hører til disse to Digte</hi> og første
                     Afsnit af Bogen er da sluttet.</p>
-                <p>Hirschsprung<note>Aage Hirschsprung (Einar Aage Hirschsprung) (1869-1909),
-                        forlægger. Han var 1893-1908 sammen med J.L. Lybecker (1862-1923) direktør
-                        for J.H. Schubothes Boghandel og Det Schubotheske Forlag</note> har en Gang
-                    sagt mig, at et lille Honorar skulde jeg have for »Ved Vejen«<note>Dvs. for den
-                        nye udgave</note>.</p>
-                <p>Det er altsammen brugt og meget mer, jeg ved det. Men De maa sende tyve Kr. Det
+            <p>Hirschsprung<ref target="n3"/> har en Gang
+                    sagt mig, at et lille Honorar skulde jeg have for »Ved Vejen«<ref target="n4"/>.</p>
+            <p>Det er altsammen brugt og meget mer, jeg ved det. Men De maa sende tyve Kr. Det
                     er til min Kur og til Mad. Først i næste Uge kan jeg hæve ved Teatret. Send
                     imorgen med Afskriveren det No. af »Ill. Tidende«, hvori mit Digt
-                        stod<note>Formodentlig Bangs digt Sten-Varsler, der er trykt i Illustreret
-                        Tidende, 24.7.1898, s. 696</note>.</p>
-                <p>Helst talte jeg imorgen med Dem selv.</p>
-                <p>Jeg er hjemme hele Dagen, da jeg ligger tilsengs.</p>
-                <p>Skuf mig ikke med de tyve Kr., ti min Kur maa holdes og her er sletingen Penge.
+                        stod<ref target="n5"/>.</p>
+            <p>Helst talte jeg imorgen med Dem selv.</p>
+            <p>Jeg er hjemme hele Dagen, da jeg ligger tilsengs.</p>
+            <p>Skuf mig ikke med de tyve Kr., ti min Kur maa holdes og her er sletingen Penge.
                     Giv Bud'et dem.</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

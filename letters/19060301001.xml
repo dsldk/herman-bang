@@ -1,119 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19060301001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 395</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1906-03-01" notBefore="9999-99-99" notAfter="9999-99-99">1906. 1. marts.  [torsdag]<note>Bang instruerede Henrik
-                  Ibsens <title key="Rosmersholm">Rosmersholm</title>, spillet ialt 8 gange på
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060301001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 395</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1906-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-03-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 1. marts.  [torsdag]<note>Bang instruerede Henrik
+                  Ibsens <!--start title reference--><title key="Rosmersholm">Rosmersholm</title>
+                  <!--end title reference-->, spillet ialt 8 gange på
                   Folketeatret, 21.-28.4. 1906, og med Betty Nansen i rollen som Rebekka
                   West</note>
-                </date>
-                <placeName cert="low">[København?]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">1.3.1906.</p>
-                <p>Ja, min Ven, jeg har saamæn ogsaa længe længtes efter at snakke med dig. Men det er
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">1.3.1906.</p>
+            <p>Ja, min Ven, jeg har saamæn ogsaa længe længtes efter at snakke med dig. Men det er
                vel Alderdomssvaghed, at jeg intet mere overkommer end lige det, jeg
-                  <emph>skal</emph> .... og meget har jeg jo at tænke paa – Nutid og Fremtid ....
-               Saa kommer da <persName key="Nansen, Betty">Fruen</persName>
-                    <note>Betty Nansen; i Politiken, 28.2.1906, omtales hendes afskedsforestilling for et
-                  udsolgt hus i Helsingfors dagen før. "Fra Teatret fik Fruen en Sølvkrans, desuden
-                  fik hun en Lavrbærkrans og en Mængde Blomsterbuketter. Efter Forestillingens
-                  Slutning blev hun fremkaldt en Snes Gange."</note> hjem igen. Hvad godt er ....
-               Jeg har tænkt meget paa: Hvem skal være Brendel<note>Ulrik Brendel, person i den norske dramatiker
-                     <persName key="Ibsen, Henrik">Henrik Ibsen</persName>s skuespil
-                  Rosmersholm</note>? Saa gik jeg igaar hen og saa <persName key="Helsengreen, Emil">Helsengren</persName>
-                    <note>Skuespilleren Emil Helsengreen (1863-1932), fra 1900 knyttet til Folketeatret; bror til skuespilleren Albert Hensengreen</note> og sagde til mig selv: Naa, ham kan det altsaa
-                  <emph>ikke</emph> være. Men hvem da? Naturligvis <persName key="Dorph-Petersen, J.F.S.">Dorph</persName>
-                    <note>J.F.S. Dorph-Petersen (1845-1927) var 1900-08 direktør for Folketeatret og 1903-05 Betty Nansens meddirektør</note> overtog den jo gerne. Men han var dog næppe "den
-               heldigste". Burde <persName key="Neiiendam, Nicolai">Neiiendam</persName>
-                    <note>Nicolai Neiiendam (1865-1945), skuespiller, 1895-99 ved Dagmarteatret, 1899-1930 ved Det Kongelite Teater, gift 1897 med skuespillerinden Jonna Neiiendam; bror til skuespilleren Robert Neiiendam</note> forsøges?</p>
-                <p>I "<title key="Lad os skilles">Lad os skilles</title>"<note>Lystspil af franskmændene <persName key="Sardou, Victorien">V. Sardou</persName> og <persName key="Najac, Émile de">E. de Najac</persName>, i delvis ny oversættelse ved forfatteren <persName key="Nielsen, L.C.">L.C. Nielsen</persName> med premiere på Folketeatret
-                  31.3.1906 og med Betty Nansen i rollen som Cyprienne</note> synes jeg, at
-                  <persName key="Tscherning, Leo">Tscherning</persName>
-                    <note>Skuespilleren Leo Tscherning (1880-1914), fra 1912 tillige filminstruktør. I Politikens anmeldelse 1.4.1906 står: "... fortræffeligt af
-                  Hr. Tscherning, som virkelig gjorde Adhémar til et Menneske"</note> skulde være
+                  <hi rend="italics">skal</hi> .... og meget har jeg jo at tænke paa – Nutid og Fremtid ....
+               Saa kommer da <persName key="Nansen_Betty">Fruen</persName>
+               <ref target="n1"/> hjem igen. Hvad godt er ....
+               Jeg har tænkt meget paa: Hvem skal være Brendel<ref target="n2"/>? Saa gik jeg igaar hen og saa <persName key="Helsengreen_Emil">Helsengren</persName>
+               <ref target="n3"/> og sagde til mig selv: Naa, ham kan det altsaa
+                  <hi rend="italics">ikke</hi> være. Men hvem da? Naturligvis <persName key="Dorph-Petersen_J.F.S.">Dorph</persName>
+               <ref target="n4"/> overtog den jo gerne. Men han var dog næppe "den
+               heldigste". Burde <persName key="Neiiendam_Nicolai">Neiiendam</persName>
+               <ref target="n5"/> forsøges?</p>
+            <p>I "<!--start title reference--><title key="Lad_os_skilles">Lad os skilles</title>
+               <!--end title reference-->"<ref target="n6"/> synes jeg, at
+                  <persName key="Tscherning_Leo">Tscherning</persName>
+               <ref target="n7"/> skulde være
                Adhémar. Den Rolle er altid blevet saa helt forkert spillet.</p>
-                <p>Der optren iaftes i "<title key="Boubouroche">Bouberoche</title>"<note>Boubouroche,
-                  komedie af den franske dramatiker <persName key="Courteline, Georges">Georges Courteline</persName> (1858-1929),
-                  (oversat af <persName key="Marer, Johannes">Johannes Marer</persName>), opført 23
-                  gange på Folketeatret mellem 10.2. og 6.5.1906</note> et nyt Fruentimmer<note>Det
-                  må være en dubleant for skuespillerinden <persName key="Winter, Johanne">Johanne Winter</persName> (1882-1930). Dubleantens navn ses ikke nævnt i Nationaltidende eller
-                  Politiken 28.2.1906</note>, som var en Gru af Skabagtighed. Fy for den sorteste
+            <p>Der optren iaftes i "<!--start title reference--><title key="Boubouroche">Bouberoche</title>
+               <!--end title reference-->"<ref target="n8"/> et nyt Fruentimmer<ref target="n9"/>, som var en Gru af Skabagtighed. Fy for den sorteste
                Satan.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

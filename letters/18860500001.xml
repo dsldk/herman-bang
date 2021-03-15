@@ -1,136 +1,145 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860500001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 447</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Edvard Brandes</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-05-01">[1886, ca. maj måned] Torsdag<note>Bang boede i
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860500001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-05-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-05-01">[1886, ca. maj måned] Torsdag<note>Bang boede i
                         Wien 24.2. til 28.7.1886, i de sidste par måneder sammen med den unge tyske
                         skuespiller Max Eisfeld</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Torsdag.</p>
-                <p>Det er vel noget sént, kære Dr. Brandes, at spørge om Tilladelse til at oversætte
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Det er vel noget sént, kære Dr. Brandes, at spørge om Tilladelse til at oversætte
                     »et Besøg«, naar Oversættelsen er ‒ færdig. Men jeg haaber, De vil give
                     »Erlaubnis« nu.</p>
-                <p>Oversættelsen, tror jeg, er ikke slet.</p>
-                <p>Men nu skulde der tænkes paa Opførelsen. Professor <app>
-                        <lem>Sbreben</lem>
-                        <rdg>Navnet er svært tydbart. Måske et stor H- og ikke Sb-??</rdg>
-                    </app>, en Lærer her, som har et Theater, vil lade Stykket spille og indbyde
-                        <emph>Agenterne</emph>. Det er den bedste Maade til at faa
-                        <emph>solgt</emph>. Men skal vi naa »Burg«, maa Pressen enkurageres. Naar
+            <p>Oversættelsen, tror jeg, er ikke slet.</p>
+            <p>Men nu skulde der tænkes paa Opførelsen. Professor <app>
+                  <lem>Sbreben</lem>
+                  <rdg>Navnet er svært tydbart. Måske et stor H- og ikke Sb-??</rdg>
+               </app>, en Lærer her, som har et Theater, vil lade Stykket spille og indbyde
+                        <hi rend="italics">Agenterne</hi>. Det er den bedste Maade til at faa
+                        <hi rend="italics">solgt</hi>. Men skal vi naa »Burg«, maa Pressen enkurageres. Naar
                     jeg siger Dem, at jeg om to Maaneder <app>
-                        <lem>forhaabenlig</lem>
-                        <rdg>Ordets første bogstaver er rettet fra: forhbe</rdg>
-                    </app> for bestandig forlader Wien for at forlægge mit Exil til Bad og til
-                    Vinter til Prag eller Pest ‒ vil De kunne forstaa, at <emph>jeg</emph> ikke
+                  <lem>forhaabenlig</lem>
+                  <rdg>Ordets første bogstaver er rettet fra: forhbe</rdg>
+               </app> for bestandig forlader Wien for at forlægge mit Exil til Bad og til
+                    Vinter til Prag eller Pest ‒ vil De kunne forstaa, at <hi rend="italics">jeg</hi> ikke
                     søger nogen Fordel for mig uden ialfald i Forening med Stykket (og kun i dette
                     Forhold) naar jeg spørger Dem, om De ingen Journalister her kender, hvis
-                        <emph>Navne</emph> kunde opgives mig, saa jeg kunde gaa til <app>
-                        <lem>dem</lem>
-                        <rdg>Ordets første bogstav er rettet fra: D</rdg>
-                    </app> og faa dem ud at sé »et Besøg«. Til »Berliner Tageblatt« skriver jeg
-                    selv. Men ogsaa <emph>her</emph> maa der skrives og det i »Neue, freie Presse«.
+                        <hi rend="italics">Navne</hi> kunde opgives mig, saa jeg kunde gaa til <app>
+                  <lem>dem</lem>
+                  <rdg>Ordets første bogstav er rettet fra: D</rdg>
+               </app> og faa dem ud at sé »et Besøg«. Til »Berliner Tageblatt« skriver jeg
+                    selv. Men ogsaa <hi rend="italics">her</hi> maa der skrives og det i »Neue, freie Presse«.
                     Jeg har imidlertid ‒ ingen af mine egne Anbefalingskort har jeg afleveret uden
-                    til Lewinsky<note>Den østrigske skuespiller Joseph Lewinsky (1835-1907). Se også
-                        Bangs brev til Peter Nansen, Mandag [5.4.1886]</note>... som ikke var hjemme
+                    til Lewinsky<ref target="n1"/>... som ikke var hjemme
                     ‒ ikke Lyst til at blive smidt ned ad Trappen og vil derfor nødig gaa til
                     d'Herrer paa Lykke og Fromme for at bede dem beære Teatret og »Et Besøg«.
                     Ligesaa elskværdig man er i <app>
-                        <lem>Berlin</lem>
-                        <rdg>Første bogstav er rettte fra: W</rdg>
-                    </app> ‒ ligesaa absolut tølperagtig er man i Wien.</p>
-                <p><emph>Jeg</emph> spiller jo ingen Rolle i den hele Sag. Er kun en ung dansk, som
+                  <lem>Berlin</lem>
+                  <rdg>Første bogstav er rettte fra: W</rdg>
+               </app> ‒ ligesaa absolut tølperagtig er man i Wien.</p>
+            <p>
+               <hi rend="italics">Jeg</hi> spiller jo ingen Rolle i den hele Sag. Er kun en ung dansk, som
                     har gennemsét Oversættelsen.</p>
-                <p>Oversætteren er en ung Meininger-Skuespiller<note>Max Eisfeld, egl. Max Appel
-                        (1863-1935), tysk skuespiller, Bangs bofælle i Wien juni-juli 1886 og
-                        derefter i Prag frem til forholdets ophør i april 1887. Der foreligger ingen
-                        oplysninger om hvorvidt Max Eisfeld havde kundskaber i dansk sprog. ‒
-                        Brandes' skuespil Ein Besuch udkom på tysk i 1889, men i en oversættelse af
-                        Julius Hoffory</note>, et lyst Hoved og meget begeistret for Dr. Georg
+            <p>Oversætteren er en ung Meininger-Skuespiller<ref target="n2"/>, et lyst Hoved og meget begeistret for Dr. Georg
                     Brandes. Det vil blive spillet af to dygtige unge Mænd og en ‒ Dame. Men hende
                     skal jeg vel kudske.</p>
-                <p>Honorar-Betingelser er det svært at tale om før man har talt med Agenter. Men en
+            <p>Honorar-Betingelser er det svært at tale om før man har talt med Agenter. Men en
                     Aftale derom ønsker Oversætteren gerne. Hvad fik mon Benzon for »En
-                        Skandale«?<note>Otto Benzons skuespil En Skandale udkom på dansk i 1884; i
-                        1886 forelå en engelsk oversættelse, A Regular Scandal, oversat af Robert
-                        Wintle og vistnok udgivet i København</note></p>
-                <p rend="right">Deres</p>
-                <p rend="right">Herman de B.</p>
-
-            </div>
-        </body>
-    </text>
+                        Skandale«?<ref target="n3"/>
+            </p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman de B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

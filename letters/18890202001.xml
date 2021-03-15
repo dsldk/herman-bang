@@ -1,118 +1,127 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18890202001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4426, 4to; uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Anna Feilberg</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1889-02-02">[1889, cirka 2. februar] Lørdag <note>Måske bør
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890202001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Nakskov</placeName>
+               <date when="1889-02-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-02-02">[1889, cirka 2. februar] Lørdag <note>Måske bør
                         brevet dateres til lørdag 26.1.1889, men breve til Peter Nansen og til
                         Kristian Dahl fra dagene deromkring omtaler ikke at være forkølet og syg i 8
                         dage... ‒ I perioden 13.1.-19.5.1889 boede Herman Bang på Hotel
                         Skandinavien, Vejlegade 33 i Nakskov</note>
-                </date>
-                <placeName cert="high">Nakskov</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Nakskov. Lørdag.</p>
-                <p>Kære Fru Feilberg.</p>
-                <p>Skønt jeg er saa forkølet, at jeg knap kan sé og lige er krøben ud af Sengen og
+            </date>
+            <placeName cert="high">Nakskov</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nakskov. Lørdag.</p>
+            <p>Kære Fru Feilberg.</p>
+            <p>Skønt jeg er saa forkølet, at jeg knap kan sé og lige er krøben ud af Sengen og
                     lige netop kan sidde oprejst af Mathed ‒ vil jeg dog forsøge at skrive Dem til.
-                    Hvad er nu <emph>det</emph> med Skrams Komedie<note>Forfatterægteparret Amalie
-                        Skram (1846-1905) og Erik Skram (1847-1923) havde i fællesskab skrevet
-                        lystspillet Fjældmennesker (trykt 1889, opført 1892 på Dagmarteatret i
-                        København)</note>, som atter er taget tilbage efter at alt var i Orden?
+                    Hvad er nu <hi rend="italics">det</hi> med Skrams Komedie<ref target="n1"/>, som atter er taget tilbage efter at alt var i Orden?
                     Skriv mig derom. Fru Skram gør paa mig Indtryk af at være meget syg. Jeg tror,
                     det, der er sygt, er deres Ægteskab, og Stykket nu, som de har arbejdet sammen,
                     det skulde være det ydre Kit, som skulde hele meget, der var ifærd med at gaa
                     itu. Men maaske tager jeg fejl.</p>
-                <p>Jeg har været syg i otte Dage og fortæres af Uro og Utaalmodighed. Hvoraf skal
+            <p>Jeg har været syg i otte Dage og fortæres af Uro og Utaalmodighed. Hvoraf skal
                     jeg leve, hvis jeg ikke snart bliver rask? Om Natten vaagner jeg, badet i Sved,
                     fordi jeg sér Værten med sin Regning, jeg ikke kan betale. Og jeg skriver jo
                     nok, men inde i København skal de først have, og ‒ aa, Gud véd, hvordan det skal
                     gaa. Saadan slet intet at have og saa blive syg og ikke kunne tvinge sin Hjerne
-                    ‒ <emph>det</emph> er forfærdeligt, maa De vide.</p>
-                <p>Det er ellers ikke min Vane at skrive til Folk om mine Sorger. Men jeg véd intet
-                    glædeligt. Selv min Bog<note>Dvs. arbejdet med romanen Tine, der udkom
-                        24.10.1889</note> synes mig slet. Og en Bog er dog for mig saa meget. Jeg er
+                    ‒ <hi rend="italics">det</hi> er forfærdeligt, maa De vide.</p>
+            <p>Det er ellers ikke min Vane at skrive til Folk om mine Sorger. Men jeg véd intet
+                    glædeligt. Selv min Bog<ref target="n2"/> synes mig slet. Og en Bog er dog for mig saa meget. Jeg er
                     fuld af religiøs Andagt, naar jeg skal skrive. Jeg tænker kun det. Véd og vil
-                    kun det. Med den store Dannevirkenat er jeg færdig<note>Dvs. det andet kapitel
-                        af romanen Tine. I sit brev af 23.1.1889 til Peter Nansen fortæller Bang, at
-                        dette kapitel blev færdigskrevet 22.1.1889</note>. Noget er lykkedes mig.
+                    kun det. Med den store Dannevirkenat er jeg færdig<ref target="n3"/>. Noget er lykkedes mig.
                     Men hvor stor skulde ikke denne Bog være, hvor sand, hvis den skulde være sit
                     Emne værd. Den maa ikke plettes hverken af Patos eller af Deklamation. Helt
-                        <emph>jævnt</emph>, fordi kun det jævne er helt ægte, skulde man fortælle om
+                        <hi rend="italics">jævnt</hi>, fordi kun det jævne er helt ægte, skulde man fortælle om
                     disse to Skæbner, Krigen knuste i sin vældige Haand.</p>
-                <p>Aa ‒ Herre Gud ‒ ja, hvis endda ikke Bekymringen for Værten sad ved mit
+            <p>Aa ‒ Herre Gud ‒ ja, hvis endda ikke Bekymringen for Værten sad ved mit
                     Hovedgærde. Men man bliver ti Gange syg, naar han sidder dér og truer, Dag og
                     Nat..... Jeg lever ellers hélt alene. Jeg ser ingen og taler med ingen. Og de
                     første Dage, da jeg endnu var rask, nød jeg fuldkommen denne store Lykke:
@@ -121,29 +130,21 @@
                     Lykke; at elske Fædrelandet med hele sin Sjæl. Kun i Ensomheden er man et
                     virkeligt Menneske. Kun da er man sine Venner i Sandhed nær. Kun da er man god
                     og forstaar at forsage.</p>
-                <p>Jeg kan ikke skrive mer, kære Fru Fejlberg. Kulden ryster mig, saa jeg maa i
+            <p>Jeg kan ikke skrive mer, kære Fru Fejlberg. Kulden ryster mig, saa jeg maa i
                     Seng. Men skriv mig snart til. Lad mig høre om Dem og Skrams. Min Adresse er
-                    kun: <emph>Herman Bang. Nakskov</emph>. Jeg havde haabet ved Oplæsninger her i
+                    kun: <hi rend="italics">Herman Bang. Nakskov</hi>. Jeg havde haabet ved Oplæsninger her i
                     Stiftet at tjene det Meste til Brødet, men da jeg slet ingen Lykke gjorde ved
-                    min første Oplæsning<note>Kort efter sin ankomst 13.1.1889 til Nakskov har Bang
-                        formentlig afholdt en offentlig oplæsningsaften ... Avisomtale heraf skal
-                        findes!!</note>, maa den Chance begraves. Jeg er derfor ret fortvivlet.</p>
-                <p>Naar imidlertid blot Forkølelsesfebren holdt op. Skal <app>
-                        <lem>Rist</lem>
-                        <rdg>Bang har først skrevet et andet begyndelsesbogstav og rettet til:
+                    min første Oplæsning<ref target="n4"/>, maa den Chance begraves. Jeg er derfor ret fortvivlet.</p>
+            <p>Naar imidlertid blot Forkølelsesfebren holdt op. Skal <app>
+                  <lem>Rist</lem>
+                  <rdg>Bang har først skrevet et andet begyndelsesbogstav og rettet til:
                             R</rdg>
-                    </app> udgive et Tidsskrift?<note>Uoplyst hvad der er Bangs kilde. Forfatteren
-                        P.F. Rist (1844-1926) blev medredaktør af <emph>Museum. Tidsskrift for
-                            Historie og Geografi</emph>, der udkom 1890-1896</note> Jeg læste noget
-                    derom. Hils Deres Mand<note>Carl Feilberg (1844-1937), fra 1876 læge ved
-                        Øresundshospitalet i København; gift 1876 med Anna Feilberg (1846-1923),
-                        født Krabbe</note> saa mange Gange og Børnene. Tak for alt Deres Venskab og
+               </app> udgive et Tidsskrift?<ref target="n5"/> Jeg læste noget
+                    derom. Hils Deres Mand<ref target="n6"/> saa mange Gange og Børnene. Tak for alt Deres Venskab og
                     al Deres Godhed ‒ jeg gemmer hvert Bevis derpaa i et trofast Sind.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">Herman Bang.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

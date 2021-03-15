@@ -1,105 +1,117 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18900212001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 168</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1890-02-12" notBefore="9999-99-99" notAfter="9999-99-99">[1890. 12. februar, cirka, onsdag] <note>Louise Nansens
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900212001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 168</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Kristiania]</placeName>
+               <date when="1890-02-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-02-12"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890. 12. februar, cirka, onsdag] <note>Louise Nansens
                   tilstand og Esmann (forstået i forlængelse af nyheden om hans forlovelse, jf.
                   brevet 1890. 8. februar. ) er dateringsmæssige fingerpeg. Bangs anonyme, men sandsynlige
                   notitsbidrag til Politiken kan nøjere datere brevet</note>
-                </date>
-                <placeName cert="high">[Kristiania]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Nansen.</p>
-                <p>Tak for dit Brev. Det gjorde mig inderlig ondt at høre, at <persName key="Brock, Louise">din Kone</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> havde været saa syg. Jeg skriver til hende én af de
+            </date>
+            <placeName cert="high">[Kristiania]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Nansen.</p>
+            <p>Tak for dit Brev. Det gjorde mig inderlig ondt at høre, at <persName key="Brock_Louise">din Kone</persName>
+               <ref target="n1"/> havde været saa syg. Jeg skriver til hende én af de
                nærmeste Dage.</p>
-                <p>Du finder sikkert vedlagte Stump<note>I rubrikken Smæld og Smuld, Politiken, mandag
-                  17.2.1890, står bl.a. følgende usignerede nyhed: "I <placeName key="Stavanger">Stavanger</placeName> aabnes til Foraaret en Turist-Udstilling, der synes at
-                  vinde meget stor Tilslutning, saa stor, at man mener at maatte opføre en ny og
-                  større Udstillingsbygning for at kunne faa Plads til alle de anmeldte Genstande. /
-                  Mon ikke vor Turistforening burde arrangere en Udstilling for at vække Interesse
-                  for sin Sag. Vi trænger saa vist til mange Forbedringer for at kunne optræde
-                  nogenlunde præsentabelt overfor fremmede Turister – og danske da ogsaa." Avisens
-                  honorarprotokol krediterer Bang for bidrag til rubrikken denne dato, og både stil
-                  og indhold er karakteristisk for Bang</note> saare interesseløs. Men alt den
+            <p>Du finder sikkert vedlagte Stump<ref target="n2"/> saare interesseløs. Men alt den
                Slags er mit halve Liv.</p>
-                <p>Gud holde sin Haand over <persName key="Esmann, Gustav">Esmann</persName>
-                    <note>Den fælles ven, forfatteren Gustav Esmann (1860-1904)</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman Bang</p>
-            </div>
-        </body>
-    </text>
+            <p>Gud holde sin Haand over <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n3"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman Bang</p>
+         </div>
+      </body>
+   </text>
 </TEI>

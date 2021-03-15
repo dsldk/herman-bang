@@ -1,140 +1,153 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18861123001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 116</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Med blyant har Peter Nansen sat er <q>?</q> på brevets sidste side ud
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861123001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 116</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant har Peter Nansen sat er <q>?</q> på brevets sidste side ud
                               for Amalievej. På brevets bagside står nogle blyantsudregninger,
                               formentlig skrevet af Nansen</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXI</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-11-23" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 23. november], Tirsdag<note>Dateringen i Vandreaar s.
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXI</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-11-23"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 23. november], Tirsdag<note>Dateringen i Vandreaar s.
                   239 følges. Den bygger på oplysninger i brevet og er sikker nok. </note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Tirsdag.</p>
-                <p>Tak for dit Brev, kære Peter, det glædede mig saa meget midt under alt. Din
-               "Farce-Digter"- Virksomhed<note>Peter Nansen og <persName key="Kjerulf, Charles">Charles Kjerulf</persName>: <title key="Pr. Kongebrev">Pr. Kongebrev</title>.
-                  Farce i fem akter med sange og kor, premiere 24.10.1886 på Casino</note> kan jeg
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Tirsdag.</p>
+            <p>Tak for dit Brev, kære Peter, det glædede mig saa meget midt under alt. Din
+               "Farce-Digter"- Virksomhed<ref target="n1"/> kan jeg
                levende forestille mig. Jeg tror selv, at det i den Branche mest kommer an paa "det
-               første Skridt" – som maa være det ene, glade Spring ud i "le ridicule"<note>fr.: det
-                  latterlige</note>. Kunde jeg blot skrive Farcer. Jeg er ret plaget af Sorg for
-               Udkommet. Som du begriber, gaar "Bernhard Hoff"<note>Arbejdstitel på romanen <title key="Stuk">Stuk</title>
-                    </note> saa saare langsomt – og <emph>det</emph> er jo
+               første Skridt" – som maa være det ene, glade Spring ud i "le ridicule"<ref target="n2"/>. Kunde jeg blot skrive Farcer. Jeg er ret plaget af Sorg for
+               Udkommet. Som du begriber, gaar "Bernhard Hoff"<ref target="n3"/> saa saare langsomt – og <hi rend="italics">det</hi> er jo
                dog min Hovedindtægt. Til idag, den 23, er min hele Maanedsindtægt 91 Gylden, og
                Gylden gælder som Kroner. Det er jo ikke saa meget, og du kan tro, jeg har lært at
                "slaa mægtigt af". De fleste Dage gaar jeg slet ikke ud, ellers kun i en Kafé. Enfin
-               – c'est la vie, ca<note>fr.: Altså – sådan er livet</note>.</p>
-                <p>Var det ikke muligt, at jeg nu i denne Tid kunde anmelde et Par Bøger i "Politiken"
+               – c'est la vie, ca<ref target="n4"/>.</p>
+            <p>Var det ikke muligt, at jeg nu i denne Tid kunde anmelde et Par Bøger i "Politiken"
                af dem, ingen bryder sig om. For mig var det altid et Gode, og det med Afsending er
                ikke saa omstændeligt som du maaske tror. Naar du blot tog dem med hjem, sendte
-                  <persName key="Ottesen, Otto Andreas">Ottesen</persName>
-                    <note>Otto Andreas
-                  Ottesen (født ca. 1835), ejer af ejendommen Studiestræde 4, Bangs københavnske bopæl siden 1884</note> dem sikkert under et Korsbaand samme Dag. Saadan
-               de tredie Rangs Bøger. Eller de <emph>svenske</emph>.</p>
-                <p>Ja – havde jeg blot en Oversættelse, men Forlæggerne er for forsigtige i disse
+                  <persName key="Ottesen_Otto_Andreas">Ottesen</persName>
+               <ref target="n5"/> dem sikkert under et Korsbaand samme Dag. Saadan
+               de tredie Rangs Bøger. Eller de <hi rend="italics">svenske</hi>.</p>
+            <p>Ja – havde jeg blot en Oversættelse, men Forlæggerne er for forsigtige i disse
                Tider.</p>
-                <p>
-                    <persName key="Schou, Andreas">Schou</persName>
-                    <note>Andreas Schou (1829-89), boghandler og forlægger i København, indehaver af Andr. Schous Forlag indtil nytår 1889; forlægger for Herman Bang</note> sender mig 35 Kroner for hvert færdigt Ark. Men du kan
-               nok forstaa, at jeg jo egenlig endnu er træt af "<title key="Ved Vejen">Ved
-                  Veien</title>", og de første Ark af en stor Roman er jo svært skrevet.</p>
-                <p>Ja – de er <emph>det</emph>.</p>
-                <p>Hvorfor raader <persName key="Brandes, Edvard">Edv: Brandes</persName>
-                    <note>Edvard Brandes (1847-1931), medstifter 1884 og redaktør af Politiken</note> ikke
-                  <persName key="Andersen, Theodor">Andersen</persName>
-                    <note>Theodor Andersen (1835-1909), 1884-87 direktør for Dagmarteatret</note> til at spille <persName key="Freytag, Gustav">Freytag</persName>
-                    <note>Den tyske dramatiker Gustav Freytag (1816-95)</note>s "Journalister"? Jeg tror dog helt sikkert, det vilde
+            <p>
+               <persName key="Schou_Andreas">Schou</persName>
+               <ref target="n6"/> sender mig 35 Kroner for hvert færdigt Ark. Men du kan
+               nok forstaa, at jeg jo egenlig endnu er træt af "<!--start title reference--><title key="Ved_Vejen">Ved
+                  Veien</title>
+               <!--end title reference-->", og de første Ark af en stor Roman er jo svært skrevet.</p>
+            <p>Ja – de er <hi rend="italics">det</hi>.</p>
+            <p>Hvorfor raader <persName key="Brandes_Edvard">Edv: Brandes</persName>
+               <ref target="n7"/> ikke
+                  <persName key="Andersen_Theodor">Andersen</persName>
+               <ref target="n8"/> til at spille <persName key="Freytag_Gustav">Freytag</persName>
+               <ref target="n9"/>s "Journalister"? Jeg tror dog helt sikkert, det vilde
                blive en Sukces. Stykket har Gehalt, vilde more og kunde spilles (paa
-                  <emph>hans</emph> Manér) af <persName key="Wulff, Carl">Hr. Wulff</persName>
-                    <note>Carl Wulff (1840-88), skuespiller, fra 1884 ved Dagmarteatret</note>.</p>
-                <p>Tænk saa paa det med Bøgerne.....</p>
-                <p>Jeg synes, min egen, kære Peter, at du skulde gifte dig. Det kommer jo ikke mig ved,
+                  <hi rend="italics">hans</hi> Manér) af <persName key="Wulff_Carl">Hr. Wulff</persName>
+               <ref target="n10"/>.</p>
+            <p>Tænk saa paa det med Bøgerne.....</p>
+            <p>Jeg synes, min egen, kære Peter, at du skulde gifte dig. Det kommer jo ikke mig ved,
                og der var maaske ogsaa mange, der vilde finde det dumt. Men jeg synes, at det klare
                og aabne Forhold altid stiller os bedst i Livet. Tilgiv, at jeg falder saadan med
                Døren ind i dit Hus. Men du véd, at jeg mener det vel – og du kan jo lade som om du
-               slet ikke har læst denne høist mærkelige Efterskrift. Helst kunde da <persName key="Brock, Louise">din Frue</persName>
-                    <note>Skuespillerinden Louise Brock (1864-1900), debut 1880 hos August Rasmussen i Odense, fra 1884 tilknyttet Casino i København; gift 1887 med Peter Nansen, ægteskabet opløst ca. 1891</note> gaa til
+               slet ikke har læst denne høist mærkelige Efterskrift. Helst kunde da <persName key="Brock_Louise">din Frue</persName>
+               <ref target="n11"/> gaa til
                Folketeatret, mente jeg. Men jeg kender jo nu saa lidt til alle Forhold.</p>
-                <p>Hils hvem der bryder sig om en Hilsen. Slynglerne paa Amalievej<note> I Vandreaar, s.
-                  241, er sat en note: "Vistnok <persName key="Larssen, Otto">Otto
-                     Larssen</persName> og <persName key="Nansen, Immanuel">Immanuel
-                     Nansen</persName>". Bekræftes af Vejviseren 1887, hvor stud.jur. I.J. Nansen
-          figurerer på adressen Amalievej 10, Frederiksberg. Otto Larssen (1864-1910, skuespiller, oprindelig skibsdreng og kontorist ved DSB, bror til skuespillerinden Oda Nielsen) og Peter Nansens lillebror Immanuel Nansen (1867-1934, cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen) var ungdomsvenner</note> skal du ikke hilse. De
-               besvarer ikke mine Breve. Og Digteren <persName key="Esmann, Gustav">Esmann</persName>
-                    <note>Vennen og forfatteren Gustav Esmann (1860-1904)</note> ikke heller.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Hils hvem der bryder sig om en Hilsen. Slynglerne paa Amalievej<ref target="n12"/> skal du ikke hilse. De
+               besvarer ikke mine Breve. Og Digteren <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n13"/> ikke heller.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

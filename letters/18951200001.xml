@@ -1,106 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18951200001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 03</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1895-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1895.  december. ] Lørdag Morgen<note>Håndskriften peger på
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18951200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 03</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1895-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1895-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1895.  december. ] Lørdag Morgen<note>Håndskriften peger på
                   dette tidspunkt, den første linje ("Jeg kan ikke løbe op til dig...") på København
                   som Bangs opholdssted: En datering foreslås derfor til efter Bangs lange
                   Norgesophold og før Nansens bryllup i marts 1896 – og formentlig i god tid før
-                  Betty Müller fra 29.1.1896 spillede titelrollen i <title key="Kameliadamen">Kameliadamen</title>
-                    </note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lørdag Morgen.</p>
-                <p>Kære Nansen.</p>
-                <p>Jeg kan ikke løbe op til dig, da jeg har altfor meget at gøre. Men kunde du ikke
-               gennem Vilhelm Hansen<note>Wilhelm Hansens Musikhandel, Gothersgade 11,
-                  København</note> faa "<title key="Marcelle">Marcelle</title>"<note>Komedie i fire akter af den franske dramatiker <persName key="Sardou, Victorien">Victorien Sardou</persName> (1831-1908), førsteopført i Paris i
-                  december 1895</note> at læse? Ti – ærlig talt – det er jo meget godt med "Det
-               store Lod"<note>Den norske forfatter <persName key="Heiberg, Gunnar">Gunnar Heiberg</persName> (1857-1929): <title key="Det store lod">Det store
-                  lod</title>. Skuespil i fem akter. København, P.G. Philipsens Forlag, 1895</note> men
-               maaske vil <persName key="Schrøder, Richard">Schrøder</persName>
-                    <note>Richard Schrøder (1840-1901), direktør 1894-1900 for Casino-teatret i København</note> ikke (det ved man jo aldrig)
-               og da var det godt at have to Forslag paa Haanden. Desuden er <emph>min</emph>
-               Interesse <persName key="Nansen, Betty">"Frøken Betty Müller"</persName>
-                    <note>Peter Nansens forlovede, gift 14.3.1896</note> – af alle Grunde, ogsaa af det
-               Klogskabshensyn, at om hende <emph>véd</emph> jeg, at hun kan <emph>bære</emph> et
+                  Betty Müller fra 29.1.1896 spillede titelrollen i <!--start title reference--><title key="Kameliadamen">Kameliadamen</title>
+                  <!--end title reference-->
+               </note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag Morgen.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg kan ikke løbe op til dig, da jeg har altfor meget at gøre. Men kunde du ikke
+               gennem Vilhelm Hansen<ref target="n1"/> faa "<!--start title reference--><title key="Marcelle">Marcelle</title>
+               <!--end title reference-->"<ref target="n2"/> at læse? Ti – ærlig talt – det er jo meget godt med "Det
+               store Lod"<ref target="n3"/> men
+               maaske vil <persName key="Schrøder_Richard">Schrøder</persName>
+               <ref target="n4"/> ikke (det ved man jo aldrig)
+               og da var det godt at have to Forslag paa Haanden. Desuden er <hi rend="italics">min</hi>
+               Interesse <persName key="Nansen_Betty">"Frøken Betty Müller"</persName>
+               <ref target="n5"/> – af alle Grunde, ogsaa af det
+               Klogskabshensyn, at om hende <hi rend="italics">véd</hi> jeg, at hun kan <hi rend="italics">bære</hi> et
                Stykke. Det gælder for mig hende først. Véd hun ikke selv en Rolle at vælge i et
                Stykke, som kunde saa nogenlunde besættes?</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

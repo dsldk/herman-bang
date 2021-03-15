@@ -1,118 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870516001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 504</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-05-16">1887, 16. Maj [mandag]<note>empty</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. 16.5.87.</p>
-                <p>Kære Kammerraad.</p>
-                <p>Ja ‒ min kære Raad ‒ <emph>jeg</emph>
-                    <emph>modtager naturligvis gerne Tilbudet</emph>. Lad ham da udsende
-                        Bogen<note>Bangs bog <emph>Verfehltes Leben</emph>, dvs. de to noveller
-                        »Hendes Høihed« og »Charlot Dupont«, oversat af Emil Jonas og udgivet i 1887
-                        i Leipzig, Verlag von Wilhelm Friedrich. Udgivelsestidspunkt på året er
-                        uoplyst</note>
-                    <emph>strax</emph>.</p>
-                <p>Rigtignok er det <emph>mér</emph> end sørgeligt, at De skal arbejde med sligt
-                    pekuniært Resultat. Men kun, naar vi trykkes, overhovedet »erschein'er«<note>Af
-                        det tyske verbum <emph>erscheinen</emph>, at komme til syne; her:
-                        publiceres</note>, kan vi jo have Haab om en Bedring!</p>
-                <p>Altsaa: <emph>jeg</emph> modtager Forslaget med Glæde. Men sig saa Hr.
-                        Friedrich<note>Wilhelm Friedrich (18......), forlægger i Leipzig</note>, at
-                    han ogsaa maa <emph>arbejde</emph> godt (med Kritiker o:s:v:)</p>
-                <p>Skulde Bindet ikke kaldes: »Zwei Kasten« ‒ »to Kaster« ‒; det vilde dog være
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870516001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 504</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-05-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-05-16">1887, 16. Maj [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 16.5.87.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Ja ‒ min kære Raad ‒ <hi rend="italics">jeg</hi>
+               <hi rend="italics">modtager naturligvis gerne Tilbudet</hi>. Lad ham da udsende
+                        Bogen<ref target="n1"/>
+               <hi rend="italics">strax</hi>.</p>
+            <p>Rigtignok er det <hi rend="italics">mér</hi> end sørgeligt, at De skal arbejde med sligt
+                    pekuniært Resultat. Men kun, naar vi trykkes, overhovedet »erschein'er«<ref target="n2"/>, kan vi jo have Haab om en Bedring!</p>
+            <p>Altsaa: <hi rend="italics">jeg</hi> modtager Forslaget med Glæde. Men sig saa Hr.
+                        Friedrich<ref target="n3"/>, at
+                    han ogsaa maa <hi rend="italics">arbejde</hi> godt (med Kritiker o:s:v:)</p>
+            <p>Skulde Bindet ikke kaldes: »Zwei Kasten« ‒ »to Kaster« ‒; det vilde dog være
                     »pikant« og sandt. Og skulde jeg skrive et »Forord«.</p>
-                <p>Fra Hirsch fik jeg igaar et Billede at skrive Tekst til. Sender den snarest.
+            <p>Fra Hirsch fik jeg igaar et Billede at skrive Tekst til. Sender den snarest.
                     Ogsaa dette om Norge ‒ det er jo det eneste, der betales.</p>
-                <p>Til »Ved Vejen« kunde jeg skaffe et »Forord« af Bjørnson<note>Bjørnstjerne
-                        Bjørnson (1832-1910), norsk forfatter</note>. Men hvad hjælper det?</p>
-                <p>Og Deres Haand ‒ arme, gamle Raad. Naar rejser De dog? Hils Deres
-                        Kone<note>Hertha Adele Jonas, født Wadskiær (1807-1894), gift 1848 med Emil
-                        Jonas</note>.</p>
-                <p rend="right">Fra Deres Ven</p>
-                <p rend="right">H de B.</p>
-                <p>Men i Friedrichs Brev staar intet om »Hendes Højhed«. <emph>Den skal da følge
-                        med??</emph></p>
-                <p>Og <emph>Herman</emph>
-                    <emph>Bang</emph>.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p>Til »Ved Vejen« kunde jeg skaffe et »Forord« af Bjørnson<ref target="n4"/>. Men hvad hjælper det?</p>
+            <p>Og Deres Haand ‒ arme, gamle Raad. Naar rejser De dog? Hils Deres
+                        Kone<ref target="n5"/>.</p>
+            <p rend="right">Fra Deres Ven</p>
+            <p rend="right">H de B.</p>
+            <p>Men i Friedrichs Brev staar intet om »Hendes Højhed«. <hi rend="italics">Den skal da følge
+                        med??</hi>
+            </p>
+            <p>Og <hi rend="italics">Herman</hi>
+               <hi rend="italics">Bang</hi>.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

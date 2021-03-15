@@ -1,116 +1,128 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19080600001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 220</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1908-06-01" notBefore="9999-99-99" notAfter="9999-99-99">[1908.  juni], Søndag<note>Den foreslåede datering, cirka
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19080600001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 220</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1908-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1908-06-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1908.  juni], Søndag<note>Den foreslåede datering, cirka
                   maj/juni 1908, bygger på brevets information om, at Peter Nansen nyligt har set
                   Bang syg og elendig, hvad der formentlig sigter til Nansens ophold i Berlin
                   april/maj 1908</note>
-                </date>
-                <placeName cert="high">[Berlin]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Min kære Ven.</p>
-                <p>Tak for dine Breve.</p>
-                <p>Og tilgiv, at jeg først takker nu. Men jeg er bestandig saa syg og elendig som du saá
-               mig .... Hvis noget kunde overraske mig maatte det have været <persName key="Larsen, Karl">Professor Karl</persName>
-                    <note>Forfatteren Karl Larsen (1860-1931), formand for Dansk Forfatterforening 1902-08, titulær professor 1899</note>. Jeg véd nok, hvad han er Professor i: i "sorte
-                  Kunster"<note>Sigter sandsynligvis til Karl Larsens roman om homoseksualitet:
-                     <title key="Daniel-Daniela">Daniel-Daniela</title>. Aus dem Tagebuch eines
-                  Kreuzträgers, som udkom uden forfatternavn i Berlin 1908. På dansk udkom bogen
-                  først i 1922 med en efterskrift af Oluf Thomsen, medicinsk professor</note>. Jeg
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Min kære Ven.</p>
+            <p>Tak for dine Breve.</p>
+            <p>Og tilgiv, at jeg først takker nu. Men jeg er bestandig saa syg og elendig som du saá
+               mig .... Hvis noget kunde overraske mig maatte det have været <persName key="Larsen_Karl">Professor Karl</persName>
+               <ref target="n1"/>. Jeg véd nok, hvad han er Professor i: i "sorte
+                  Kunster"<ref target="n2"/>. Jeg
                skal, naar han skriver, <app>
-                        <lem>svare</lem>
-                        <rdg>Ordet er øjensynligt rettet fra: svarer</rdg>
-                    </app> ham ganske, som du skrev .... Og saa den anden Professor. <persName key="Borchsenius, Otto">"Professor Otto"</persName>
-                    <note>Otto Borchsenius (1844-1925), forfatter og journalist, titulær professor 1900; redaktør 1885-92 af avisen Morgenbladet, 1892-1910 af avisen Dannebrog, 1905-24 censor og dramatisk konsulent for Det Kongelige
-                  Teater. Frem til sidst i januar 1909, da afgørelse blev truffet om
-                  teaterchefembedets nybesættelse, verserede der i offentligheden rygter om
-                  Borchsenius som favorit hertil. Se også brevet 19090118</note> ... Store Himmel.
-                  <persName key="Borchsenius, Betty">Betty B.</persName>
-                    <note>Betty Borchsenius (1850-90), skuespillerinde, gift 1873-79 med Otto Borchsenius</note> naaede aldrig op paa Nationalteatrets Scene. Men Otto
-               B. bliver dens Chef. Merde alors<note>fr.: Fandens også!</note> .... Og hvad vil saa
-                  <persName key="Nansen, Betty">Fru Nansen</persName>
-                    <note>Betty Nansen</note>? ... <emph>Jeg forlader ikke Berlin, før jeg har bragt et
-                  Gæstespil her i Orden</emph>. Men hvad kan der <emph>bygges</emph> paa det
-               Gæstespil? ... Aa, Herre Je<note>En forkortet udgave af udbruddet "herre jemini", i
-                  talesproget en gammel forvanskning af lat.: Jesu domine (dansk: Herre Jesus!), med
-                  betydningen Åh, herregud</note> ....</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+                  <lem>svare</lem>
+                  <rdg>Ordet er øjensynligt rettet fra: svarer</rdg>
+               </app> ham ganske, som du skrev .... Og saa den anden Professor. <persName key="Borchsenius_Otto">"Professor Otto"</persName>
+               <ref target="n3"/> ... Store Himmel.
+                  <persName key="Borchsenius_Betty">Betty B.</persName>
+               <ref target="n4"/> naaede aldrig op paa Nationalteatrets Scene. Men Otto
+               B. bliver dens Chef. Merde alors<ref target="n5"/> .... Og hvad vil saa
+                  <persName key="Nansen_Betty">Fru Nansen</persName>
+               <ref target="n6"/>? ... <hi rend="italics">Jeg forlader ikke Berlin, før jeg har bragt et
+                  Gæstespil her i Orden</hi>. Men hvad kan der <hi rend="italics">bygges</hi> paa det
+               Gæstespil? ... Aa, Herre Je<ref target="n7"/> ....</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

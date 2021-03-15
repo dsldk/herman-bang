@@ -1,125 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870124001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 447</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Edvard Brandes</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-01-24">1887, 24. januar [mandag]<note>empty</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. 24.1.87.</p>
-                <p>Kære Dr. Brandes.</p>
-                <p>Hjertelig Tak for Deres Brev. Ja ‒ naar »Fædrelandet kalder«, er vi magtesløse.
-                    Og <emph>maaske</emph> er det, som De mener, i Aftagende.
-                        Valg-Travlheden<note>Der var i Danmark valg til Folketing og Landsting
-                        fredag 28.1.1887</note> er vel desuden hartad saa god som en Rejse.</p>
-                <p>Midt under al den Politik, vilde jeg strax meddele Dem, at den store Agent
-                        Bloch<note>Felix Bloch (1845-1887), fra 1872 indehaver af Felix Bloch
-                        Bühnenmanuskript-Verlag und Theateragentur, Berlin; efter hans død
-                        videreførtes firmaet under navnet Felix Bloch Erben</note> i Berlin nu ‒
-                    efter »Gengangere«<note>Skuespil af Henrik Ibsen, 1881</note> ‒ interesserer sig
-                    stærkt for »Et Besøg«<note>Skuespil af Edvard Brandes</note> og haaber at faa
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870124001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-01-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-01-24">1887, 24. januar [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 24.1.87.</p>
+            <p>Kære Dr. Brandes.</p>
+            <p>Hjertelig Tak for Deres Brev. Ja ‒ naar »Fædrelandet kalder«, er vi magtesløse.
+                    Og <hi rend="italics">maaske</hi> er det, som De mener, i Aftagende.
+                        Valg-Travlheden<ref target="n1"/> er vel desuden hartad saa god som en Rejse.</p>
+            <p>Midt under al den Politik, vilde jeg strax meddele Dem, at den store Agent
+                        Bloch<ref target="n2"/> i Berlin nu ‒
+                    efter »Gengangere«<ref target="n3"/> ‒ interesserer sig
+                    stærkt for »Et Besøg«<ref target="n4"/> og haaber at faa
                     det frem som Forsøg paa et »første Teater«. Jeg tror, at det er Mandens Alvor;
                     han indsér, at Momentet var der nu, hvor hele Berlin brænder for
-                        Ibsen<note>Henrik Ibsen (1828-1906) norsk dramatiker</note> og alt, hvad
+                        Ibsen<ref target="n5"/> og alt, hvad
                     ellers fælt og umoralsk er. »Gengangere« er nærved at kunne tage det op med
                     selve Parlamentsvalgene. Og om nu »Et Besøg« fulgte efter! Ikke ‒ det var dog
                     rart for os danske? Det er jo det eneste Stykke, vi ejer, der kan tage noget af
                     Kampen op med Norge. (Naa ‒ iøvrigt, det var paa Tiden, om vi hos os hørte lidt
-                    op med at være levende Reklame for Folk, der behandler <emph>os</emph> med
-                        »dédain«<note>fr.: ringeagt, foragt, hån</note>: saa højt som en
-                        Jæger<note>Hans Jæger (1854-1910), norsk forfatter, bl.a. til to
-                        samfundskritiske skuespil Olga, 1883, og En intellektuel forførelse,
-                        1884</note> naar vi dog ogsaa.)</p>
-                <p>Men ‒ det var »Et Besøg«. Kunde man ikke tage et af Benzons<note>Otto Benzon
-                        (1856-1927), hvis nyeste skuespil, Provisorisk og Tilfældigheder, begge
-                        havde premiere i 1886</note> nye Stykker eller »Kammerater«<note>Skuespil i
-                        en akt af Peter Nansen, udkom 1884</note> eller »I Stiftelsen«<note>Skuespil
-                        i en akt af Gustav Esmann, udkom 1886</note> til »pièce de rideau«? Hvilket
+                    op med at være levende Reklame for Folk, der behandler <hi rend="italics">os</hi> med
+                        »dédain«<ref target="n6"/>: saa højt som en
+                        Jæger<ref target="n7"/> naar vi dog ogsaa.)</p>
+            <p>Men ‒ det var »Et Besøg«. Kunde man ikke tage et af Benzons<ref target="n8"/> nye Stykker eller »Kammerater«<ref target="n9"/> eller »I Stiftelsen«<ref target="n10"/> til »pièce de rideau«? Hvilket
                     vilde De mene? saa man fik en hel dansk Forestilling ud af det, som vi kunde
                     have Ære af.</p>
-                <p>Ak ja ‒ nu skulde Deres Broder<note>Georg Brandes (1842-1927)</note> rejse gennem
+            <p>Ak ja ‒ nu skulde Deres Broder<ref target="n11"/> rejse gennem
                     Tyskland og holde Forelæsninger. Nu var det Tid.</p>
-                <p>Jeg, Sjæl, skriver nu paa en Artikel om »Et Besøg«<note>Har ikke kunnet
-                        verificeres</note> til et Berlinerblad.</p>
-                <p>God Lykke paa Langeland. Mellem os sagt var Optrykket af hin gamle
-                        Bahnson-Tale<note>...??...</note>
-                    <emph>meget</emph> vovet. Det gik med fede Typer gennem alle Blade.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Jeg, Sjæl, skriver nu paa en Artikel om »Et Besøg«<ref target="n12"/> til et Berlinerblad.</p>
+            <p>God Lykke paa Langeland. Mellem os sagt var Optrykket af hin gamle
+                        Bahnson-Tale<ref target="n13"/>
+               <hi rend="italics">meget</hi> vovet. Det gik med fede Typer gennem alle Blade.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

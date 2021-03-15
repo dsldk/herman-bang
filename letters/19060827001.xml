@@ -1,111 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19060827001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 402</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1906-08-27" notBefore="9999-99-99" notAfter="9999-99-99">1906. 27. august [mandag]<note>empty</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prinsesse Maries Alleé 5.</p>
-                <p rend="right">27.8.1906.</p>
-                <p>Kære Ven.</p>
-                <p>Jeg har i de sidste fire Uger været sygere end en syg Hund. Og ganske menneskesky
-               .... <persName key="Houmark, Christian">Houmark</persName>
-                    <note>Christian Houmark (1869-1950), journalist, fra 1899 ved avisen København, fra 1921 ved Det Berlingske Hus; fra 1899 lejlighedsvis sekretær for Herman Bang</note> sagde, du mente, det var, fordi jeg overanstrængte
-               mig med <persName key="Rye, Stellan">Rye</persName>
-                    <note>Stellan Rye (1880-1914), premierløjtnant ved feltartilleriet 1901-07, journalist og dramatiker, sceneinstruktør ved Dagmarteatret 1907 og ved Det Ny Teater 1910, bosat i Berlin 1912, deltog som frivillig på tysk side i slaget ved Ypres 1914, død i fransk fangenskab. Hans stykke <title key="Løgnens Ansigter">Løgnens Ansigter</title> havde premiere 5.9.1906 på
-                  Dagmarteatret, iscenesat af Rye selv, jf. Mette Borg, s. 118</note>s Stykker. Jeg
-               har kun én Gang, for tre Uger siden, talt med Rye og <persName key="Larssen, Anna">Anna Larssen</persName>
-                    <note>Skuespillerinden Anna Larssen (1875-1955), født Halberg</note> om den Ting – i en halv Time. Og siden har jeg ikke en
-               Gang set Rye. Nej, det er vel snarest <emph>det</emph>, at jeg ikke har været paa
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060827001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 402</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1906-08-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-08-27"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 27. august [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prinsesse Maries Alleé 5.</p>
+            <p rend="right">27.8.1906.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg har i de sidste fire Uger været sygere end en syg Hund. Og ganske menneskesky
+               .... <persName key="Houmark_Christian">Houmark</persName>
+               <ref target="n1"/> sagde, du mente, det var, fordi jeg overanstrængte
+               mig med <persName key="Rye_Stellan">Rye</persName>
+               <ref target="n2"/>s Stykker. Jeg
+               har kun én Gang, for tre Uger siden, talt med Rye og <persName key="Larssen_Anna">Anna Larssen</persName>
+               <ref target="n3"/> om den Ting – i en halv Time. Og siden har jeg ikke en
+               Gang set Rye. Nej, det er vel snarest <hi rend="italics">det</hi>, at jeg ikke har været paa
                Landet og saa fremfor alt, at mit Hoved ikke taaler Anstrængelsen ved at "digte" ɔ:
                gøre det Tænkte levende .... Alligevel hager jeg mig til denne Bog, spigrer mig fast
-               til den og den <emph>skal</emph> være færdig i ret <app>
-                        <lem>Tid</lem>
-                        <rdg>T'et er rettet fra et B eller R</rdg>
-                    </app> ....</p>
-                <p>Vil du gøre mig den Tjeneste at laane mig tredive Kroner til den første og give
-                  <persName key="Ernst, Knud">Ernst</persName>
-                    <note>Knud Ernst</note> dem?</p>
-                <p>
-                    <persName key="Nansen, Betty">Betty</persName>
-                    <note>Betty Nansen</note> saá straalende ud, da jeg saá hende sidst.
-                  <emph>Jeg</emph> maatte kun, saavidt gørligt, skjule, hvor syg jeg var. Godt dog,
+               til den og den <hi rend="italics">skal</hi> være færdig i ret <app>
+                  <lem>Tid</lem>
+                  <rdg>T'et er rettet fra et B eller R</rdg>
+               </app> ....</p>
+            <p>Vil du gøre mig den Tjeneste at laane mig tredive Kroner til den første og give
+                  <persName key="Ernst_Knud">Ernst</persName>
+               <ref target="n4"/> dem?</p>
+            <p>
+               <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n5"/> saá straalende ud, da jeg saá hende sidst.
+                  <hi rend="italics">Jeg</hi> maatte kun, saavidt gørligt, skjule, hvor syg jeg var. Godt dog,
                det ikke var omvendt.</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

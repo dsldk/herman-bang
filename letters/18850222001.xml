@@ -1,135 +1,154 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18850222001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 138</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Blyantspåskrift på s. 2 af Peter Nansen: <q>Jeg havde spøgende
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850222001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 138</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrift på s. 2 af Peter Nansen: <q>Jeg havde spøgende
                                  bebrejdet Bang, at jeg ikke kunde kende mine Ting i hans
                                  Gengivelse: han</q> digtede <q>saameget om paa dem</q>. – Og på s.
                               3 (til omtalen af Immanuel): <q>Kan det have været Fødselsdagsgave?
                                  Min Broder har Fødselsdag 19 Febr</q>
-                                    </ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. VIII</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1885-02-22" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 22. februar], Søndag<note>Dateringen i Vandreaar s. 71
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. VIII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Göteborg]</placeName>
+               <date when="1885-02-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-02-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 22. februar], Søndag<note>Dateringen i Vandreaar s. 71
                   følges</note>
-                </date>
-                <placeName cert="high">[Göteborg]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Tusind Tak, kære Peter, for dit Brev. Det glædede mig saa meget saa hurtigt at sé din
+            </date>
+            <placeName cert="high">[Göteborg]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Tusind Tak, kære Peter, for dit Brev. Det glædede mig saa meget saa hurtigt at sé din
                rare Skrift. Jeg er meget trist og meget syg. Jeg havde Krampe igaar af Angst for at
-               tale om <persName key="Ibsen, Henrik">Henrik Ibsen</persName>
-                    <note>Henrik Ibsen (1828-1906), norsk dramatiker</note>. For første Gang var
+               tale om <persName key="Ibsen_Henrik">Henrik Ibsen</persName>
+               <ref target="n1"/>. For første Gang var
                jeg helt konsekvent om den Mand, og naar jeg har sagt det et Par Gange, vil
                Foredraget blive paa Høide med Genstanden. Udsolgt Hus og utrolig Entusiasme. Men nok
                om det. Hvad i al Evighed forbereder I virkelig Revolutionen? Jeg Stakkel har aldrig
                hørt denne Skytteforening nævne – men det forstaar sig – Anledningen er jo det
                ligegyldige – Spektaklet og Agitationen er alt. Skriv mig endelig til, hvordan det
                gaar – helt hastigt, tre Ord mellem to Korrekturer.</p>
-                <p>Vil du ikke nok sende mig "Politiken" i Korsbaand to Gange om Ugen? Jeg bliver jo saa
-               længe borte fra "den" By. Send mig ogsaa <emph>strax</emph> "<title key="Unge                   Mennesker">Unge
-                  Mennesker</title>"<note>Novellesamling, Peter Nansens bogdebut, 1883</note>,
-                  "<title key="Kammerater">Kammerater</title>"<note>Skuespil af Peter Nansen,
-                  udgivet som bog 1884</note> og "<title key="Frøken Mimi">Frøken
-                  Mimi</title>"<note>Novelle af Peter Nansen, trykt i Korte Veje, 1890</note>. Jeg
+            <p>Vil du ikke nok sende mig "Politiken" i Korsbaand to Gange om Ugen? Jeg bliver jo saa
+               længe borte fra "den" By. Send mig ogsaa <hi rend="italics">strax</hi> "<!--start title reference--><title key="Unge___________________Mennesker">Unge
+                  Mennesker</title>
+               <!--end title reference-->"<ref target="n2"/>,
+                  "<!--start title reference--><title key="Kammerater">Kammerater</title>
+               <!--end title reference-->"<ref target="n3"/> og "<!--start title reference--><title key="Frøken_Mimi">Frøken
+                  Mimi</title>
+               <!--end title reference-->"<ref target="n4"/>. Jeg
                ser dig gyse – men det skal du ikke. "Frøken Mimi" bruger jeg til Paradenummer;
-                  "<title key="Fra et Dødsleje">Fra Dødsleiet</title>"<note>Novellen "Fra et
-                  Dødsleje" er trykt i Unge Mennesker, 1883</note> skal jeg læse uden Gnist af
+                  "<!--start title reference--><title key="Fra_et_Dødsleje">Fra Dødsleiet</title>
+               <!--end title reference-->"<ref target="n5"/> skal jeg læse uden Gnist af
                Forandring. Dit Navn bliver kendt, kære Peter, og det er det vigtigste. Du vil nok
                sende mig Bøgerne? Det vil ogsaa gøre mig Turnéen lettere, naar jeg dog har
                Bevidstheden om at gavne dig lidt. Og min Autoritet her er utrolig. Man skriver om
                mig en hel Literatur.</p>
-                <p>Her er vidunderlige Malerier og nogle unge Damer, som holder en Basar for et
-                  Musæum<note>Måske kan det dreje sig om den svenske storkøbmand <persName key="Fürstenberg, Pontus">Pontus
-                     Fürstenberg</persName>s (1827-1902) kunstsamling i Göteborg</note>. Saa udulgt Lidder har
+            <p>Her er vidunderlige Malerier og nogle unge Damer, som holder en Basar for et
+                  Musæum<ref target="n6"/>. Saa udulgt Lidder har
                jeg ikke oplevet. Her paa Hotellet lever man udelukkende af Ærter og Flæsk – jeg som
                Følge deraf udelukkende af Kaffe. Hvis du var her, skulde jeg faa Mod til at være
                humoristisk – nu takker jeg kun for dit Brev og ønsker det næste.</p>
-                <p>
-                    <persName key="Nansen, Immanuel">Immanuel</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), som 19.2. var fyldt 18 år. Se Bangs fødselsdagsbrev til ham
-                  18850220</note> maa for mig bruge Pengene til hvad han vil, den lille Sjæl – men
-               Cigarer – naa ja – saa har han noget at ryge saalænge. Jeg <emph>har</emph>
-               telegraferet til ham – efter hans eget Ønske den <emph>tyvende</emph> om Morgenen, og
+            <p>
+               <persName key="Nansen_Immanuel">Immanuel</persName>
+               <ref target="n7"/> maa for mig bruge Pengene til hvad han vil, den lille Sjæl – men
+               Cigarer – naa ja – saa har han noget at ryge saalænge. Jeg <hi rend="italics">har</hi>
+               telegraferet til ham – efter hans eget Ønske den <hi rend="italics">tyvende</hi> om Morgenen, og
                han skriver, han har ikke faaet Telegrammet. Jeg vilde ønske, at du var her og ikke
-               skulde til Jeres dumme – "Skytte<emph>fester</emph>".</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-                <p>Jeg reiser herfra Fredag. Dit og Immanuels Billede holder mig med Selskab paa mit
-               Skrivebord. Alle finder, at dit Billede er det "vakkrasta, som fin's["]<note>sv. "det
-                  vackraste som finns": det smukkeste, der findes</note> – naturligvis. Og jeg
-               siger saa, at du endda er "mycket vackrare". Jeg forbereder <emph>dine</emph>
+               skulde til Jeres dumme – "Skytte<hi rend="italics">fester</hi>".</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Jeg reiser herfra Fredag. Dit og Immanuels Billede holder mig med Selskab paa mit
+               Skrivebord. Alle finder, at dit Billede er det "vakkrasta, som fin's["]<ref target="n8"/> – naturligvis. Og jeg
+               siger saa, at du endda er "mycket vackrare". Jeg forbereder <hi rend="italics">dine</hi>
                Turnéer.</p>
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

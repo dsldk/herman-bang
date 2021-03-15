@@ -1,111 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19030826001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19030826001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
                                     30</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Jacob Hegel</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1903-08-26">[1903, 26. august ?] Onsdag<note>Brevet er
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1903-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Jacob Hegel</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1903-08-26">[1903, 26. august ?] Onsdag<note>Brevet er
                         sandsynligvis skrevet kort efter Bangs brev af cirka [19030825] til Jacob
                         Hegel</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Gamle Kongevej 25. Onsdag.</p>
-                <p>Kære Hr. Hegel.</p>
-                <p>Det er en Selvfølge, at jeg med Tak modtager de Bestemmelser, jeg selv har bedet
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gamle Kongevej 25. Onsdag.</p>
+            <p>Kære Hr. Hegel.</p>
+            <p>Det er en Selvfølge, at jeg med Tak modtager de Bestemmelser, jeg selv har bedet
                     Dem træffe for at lette mig Arbejdet med »Mikaël«.</p>
-                <p>Jeg bemærker kun, at en <emph>fuldkommen</emph> bestemt Datum kan jeg for
-                    Fuldendelsen naturligvis ikke fastsætte. Men er jeg ikke <emph>færdig</emph> til
+            <p>Jeg bemærker kun, at en <hi rend="italics">fuldkommen</hi> bestemt Datum kan jeg for
+                    Fuldendelsen naturligvis ikke fastsætte. Men er jeg ikke <hi rend="italics">færdig</hi> til
                     den tyvende November, vil det i alle Fald, hvis et Menneske magter at sige
                     sligt, kun dreje sig om faa Dage.</p>
-                <p>Om fire, fem Dage modtager Hr. Nansen Manuskript og skal det da derefter
+            <p>Om fire, fem Dage modtager Hr. Nansen Manuskript og skal det da derefter
                     indtræffe saa regelmæssigt som det nu en Gang staar i et Menneskes Magt at forme
                     en Bog, som har beskæftiget hans Tanker i otte Aar.</p>
-                <p>Jeg forbliver</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-                <p>Hr. Professor <app>
-                        <lem>Stefan</lem>
-                        <rdg>Navnet har Bang rettet fra: Chri</rdg>
-                    </app> Sinding, som paa Marienlyst har læst »Mikaëls« første Bog, vilde ansé det
+            <p>Jeg forbliver</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Hr. Professor <app>
+                  <lem>Stefan</lem>
+                  <rdg>Navnet har Bang rettet fra: Chri</rdg>
+               </app> Sinding, som paa Marienlyst har læst »Mikaëls« første Bog, vilde ansé det
                     for en Glæde, om jeg vilde benytte et Originalbillede af »Moder Jord« som et
                     Slags Titelbillede til »Mikaël«. Da jo imidlertid dette vilde fordyre Bogen, maa
                     jeg henstille til Forlaget, hvorvidt jeg skal modtage Hr. Sindings Tilbud, som
                     naturligvis personligt er mig en Ære.</p>
-
-
-            </div>
-        </body>
-    </text>
+         </div>
+      </body>
+   </text>
 </TEI>

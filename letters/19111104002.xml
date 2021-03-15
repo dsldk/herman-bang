@@ -1,112 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19111104002</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 5152, 4to. Det 20. brev</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Astrid von Scholten, født
-                                        Pålsson</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
-                                                  <emph>Ystad den ... 19..</emph> og <emph>Hotel
-                                                  Continental Ystad</emph> med tegning af
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111104002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5152, 4to. Det 20. brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
+                                                  <hi rend="italics">Ystad den ... 19..</hi> og <hi rend="italics">Hotel
+                                                  Continental Ystad</hi> med tegning af
                                                 hotelbygningen</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Øverst på brevet med blyant og i fremmed hånd:
-                                            <emph>[november 1911?]</emph>, formodentlig skrevet af
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Øverst på brevet med blyant og i fremmed hånd:
+                                            <hi rend="italics">[november 1911?]</hi>, formodentlig skrevet af
                                         en ansat på Det Kgl. Bibliotek</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1911-11-04">[1911, 4. november] Lørdag <note>empty</note>
-                </date>
-                <placeName cert="high">Ystad</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">[Ystad den ...] Lørdag.</p>
-                <p>Min kære Astrid.</p>
-                <p>Igaar var jeg i din Barndomsby Malmø. Hvor er den dog blevet stor ‒ en Hovedstad
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Ystad</placeName>
+               <date when="1911-11-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Astrid von Scholten, født
+                                        Pålsson</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-11-04">[1911, 4. november] Lørdag <note>empty</note>
+            </date>
+            <placeName cert="high">Ystad</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Ystad den ...] Lørdag.</p>
+            <p>Min kære Astrid.</p>
+            <p>Igaar var jeg i din Barndomsby Malmø. Hvor er den dog blevet stor ‒ en Hovedstad
                     at sé paa. Jeg kørte imorges i Bil og saá alle dens Fabrik'er. Sverigs Udvikling
                     i disse Aar er fabelagtig.</p>
-                <p>Idag er jeg her.</p>
-                <p>Imorgen i Kristiansstad, hvor din Søster boer.</p>
-                <p>Saaledes bliver det ved en Uge til ‒ hvar Dag. Og saa flyver jeg til
-                        Stockholm<note>Bang kørte med jernbane, men mener vel, at togrejsen vil gå
-                        hurtigt</note> og gaar lige ombord til Helsingfors.</p>
-                <p>Frøken Thune<note>Magdalene Thune (1872-1957), Bangs husholderske og
-                        rejseledsager på turnéen</note> er let fortumlet men tager sin Tilflugt til
+            <p>Idag er jeg her.</p>
+            <p>Imorgen i Kristiansstad, hvor din Søster boer.</p>
+            <p>Saaledes bliver det ved en Uge til ‒ hvar Dag. Og saa flyver jeg til
+                        Stockholm<ref target="n1"/> og gaar lige ombord til Helsingfors.</p>
+            <p>Frøken Thune<ref target="n2"/> er let fortumlet men tager sin Tilflugt til
                     meget kraftige Maaltider.</p>
-                <p>Til Jens og Børnene<note>Astrid von Scholtens mand, Jens Peter von Scholten
-                        (1882-1947), og to børn, Jobst Palle von Scholten, født 1907, og Franzisca
-                        von Scholten, født 1909</note> tusinde Hilsener. Der er ordenligt »Rør-om« i
-                    den kongelige danske Hær. Og Forfremmelser ‒ i Fodfolket<note>Jens Peter von
-                        Scholten var premierløjtnant ved 2. Dragonregiment</note>.</p>
-                <p rend="right">Jeres</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Til Jens og Børnene<ref target="n3"/> tusinde Hilsener. Der er ordenligt »Rør-om« i
+                    den kongelige danske Hær. Og Forfremmelser ‒ i Fodfolket<ref target="n4"/>.</p>
+            <p rend="right">Jeres</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

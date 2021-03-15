@@ -1,133 +1,147 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18861000005</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-10-01">[1886, Oktober] Mandag<note>Dateringsforslaget
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18861000005</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-10-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-10-01">[1886, Oktober] Mandag<note>Dateringsforslaget
                         stilles ud fra to omtalte omstændigheder: Stuk er under tilblivelse; Ved
                         Vejen er afsluttet. ‒ En flænge i brevpapiret har medført mindre teksttab
                         over tre linjer på brevets side 1</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right"><app>
-                        <lem>Pra[g]</lem>
-                        <rdg>Det sidste bogstav er ulæseligt pga. en flænge i papiret</rdg>
-                    </app> Mandag.</p>
-                <p>Ja ‒ min kære Ven ‒ Schous Brev <app>
-                        <lem>[mod]taget</lem>
-                        <rdg>Ordets første tre bogstaver er ulæselige pga. en flænge i papiret</rdg>
-                    </app>.</p>
-                <p>Men <emph>skal</emph> min Roman blive <app>
-                        <lem>[...]ns</lem>
-                        <rdg>Ordet er læderet pga. en flænge i papiret</rdg>
-                    </app> »fulde« Sukces, maa det være et <emph>Samarbeide</emph> mellem <app>
-                        <lem>ha[m]</lem>
-                        <rdg>Ordets sidste bogstav er ulæseligt pga. en flænge i papiret</rdg>
-                    </app> og mig; og <emph>om han er syg eller rask</emph>, maa Betalingen <app>
-                        <lem>[for]</lem>
-                        <rdg>Ordet er svært læseligt pga. en flænge i papiret</rdg>
-                    </app> mine Ark sendes mig prompt <emph>Det</emph> er mit eneste
-                        <emph>sikre</emph>, min egen Ven. For de Ark strider jeg Ugen igennem for at
-                    sende af Torsdag. Men saa <emph>maa</emph> ogsaa han give Ordre til, at naar
-                        <emph>du</emph> i <emph>Forretningen</emph> afleverer Manuskript, der da
-                    afsendes <emph>samme Dag</emph> det Beløb, til hvilket <emph>du</emph>
-                    <app>
-                        <lem>x)</lem>
-                        <rdg>Bang refererer til sit brevs side 4: x) til <emph>dig</emph> har han
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <app>
+                  <lem>Pra[g]</lem>
+                  <rdg>Det sidste bogstav er ulæseligt pga. en flænge i papiret</rdg>
+               </app> Mandag.</p>
+            <p>Ja ‒ min kære Ven ‒ Schous Brev <app>
+                  <lem>[mod]taget</lem>
+                  <rdg>Ordets første tre bogstaver er ulæselige pga. en flænge i papiret</rdg>
+               </app>.</p>
+            <p>Men <hi rend="italics">skal</hi> min Roman blive <app>
+                  <lem>[...]ns</lem>
+                  <rdg>Ordet er læderet pga. en flænge i papiret</rdg>
+               </app> »fulde« Sukces, maa det være et <hi rend="italics">Samarbeide</hi> mellem <app>
+                  <lem>ha[m]</lem>
+                  <rdg>Ordets sidste bogstav er ulæseligt pga. en flænge i papiret</rdg>
+               </app> og mig; og <hi rend="italics">om han er syg eller rask</hi>, maa Betalingen <app>
+                  <lem>[for]</lem>
+                  <rdg>Ordet er svært læseligt pga. en flænge i papiret</rdg>
+               </app> mine Ark sendes mig prompt <hi rend="italics">Det</hi> er mit eneste
+                        <hi rend="italics">sikre</hi>, min egen Ven. For de Ark strider jeg Ugen igennem for at
+                    sende af Torsdag. Men saa <hi rend="italics">maa</hi> ogsaa han give Ordre til, at naar
+                        <hi rend="italics">du</hi> i <hi rend="italics">Forretningen</hi> afleverer Manuskript, der da
+                    afsendes <hi rend="italics">samme Dag</hi> det Beløb, til hvilket <hi rend="italics">du</hi>
+               <app>
+                  <lem>x)</lem>
+                  <rdg>Bang refererer til sit brevs side 4: x) til <hi rend="italics">dig</hi> har han
                             vel den Tillid.</rdg>
-                    </app> anslaar Mnskpt.<note>Bangs forkortelse for: Manuskript</note> (ét eller
-                    to Ark) Kun saaledes kan <emph>jeg</emph> faa Ro og <emph>du</emph> have det let
-                    ‒ og er det af <emph>ham</emph> for meget forlangt? Min Maanedsindtægt til idag
-                    har været 129 Gylden. Derfor kan jeg kun leve under den yderste Uro. <emph>Og
-                        denne Maaned er gaaet tabt for min Roman</emph>. <emph>Jeg</emph> giver et
+               </app> anslaar Mnskpt.<ref target="n1"/> (ét eller
+                    to Ark) Kun saaledes kan <hi rend="italics">jeg</hi> faa Ro og <hi rend="italics">du</hi> have det let
+                    ‒ og er det af <hi rend="italics">ham</hi> for meget forlangt? Min Maanedsindtægt til idag
+                    har været 129 Gylden. Derfor kan jeg kun leve under den yderste Uro. <hi rend="italics">Og
+                        denne Maaned er gaaet tabt for min Roman</hi>. <hi rend="italics">Jeg</hi> giver et
                     halvt Aar med ti Timers Arbeide til denne Bog; men saa vil jeg ogsaa kunne vie
-                    mig ‒ til Arbeidet uden Sorger. <emph>Ellers, min Ven, er det jo bedre at stanse
-                        dette Arbeide, af hvilket Navn og Stilling afhænger</emph> ‒ ti én Gang
+                    mig ‒ til Arbeidet uden Sorger. <hi rend="italics">Ellers, min Ven, er det jo bedre at stanse
+                        dette Arbeide, af hvilket Navn og Stilling afhænger</hi> ‒ ti én Gang
                     gjort, kan det jo ikke gøres om. Han maa dog kunne forstaa det.</p>
-                <p>Har jeg ikke Ret? Jeg betler jo ikke. Men for at <emph>jeg</emph> skal kunne gøre
-                    mit yderste ‒ maa han <emph>uden Undtagelse</emph> gøre sit. De 35 Kroner er
+            <p>Har jeg ikke Ret? Jeg betler jo ikke. Men for at <hi rend="italics">jeg</hi> skal kunne gøre
+                    mit yderste ‒ maa han <hi rend="italics">uden Undtagelse</hi> gøre sit. De 35 Kroner er
                     endda ingen stærk Fordring.</p>
-                <p>For min Fremtids Skyld; for vore Forhaabningers Skyld, faa det <emph>nu</emph> i
-                    Gænge. Torsdag sendes atter Mnskpt.<note>Bangs forkortelse for:
-                        Manuskript</note> Men da jeg Nat efter Nat ei har sovet, er det hidtil
-                        <emph>slet</emph>. I »Ved Vejen« var der Orden i Pengeafsendelsen ‒ og jeg
+            <p>For min Fremtids Skyld; for vore Forhaabningers Skyld, faa det <hi rend="italics">nu</hi> i
+                    Gænge. Torsdag sendes atter Mnskpt.<ref target="n2"/> Men da jeg Nat efter Nat ei har sovet, er det hidtil
+                        <hi rend="italics">slet</hi>. I »Ved Vejen« var der Orden i Pengeafsendelsen ‒ og jeg
                     skrev godt.</p>
-                <p rend="right">Din Herman.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

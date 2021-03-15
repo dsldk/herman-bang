@@ -1,120 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860600008</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 478</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-06-01">[1886, ca. juni måned] Mandag<note>empty</note>
-                </date>
-                <placeName cert="high">Wien</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Wien Mandag.</p>
-                <p>Kære Kammerraad.</p>
-                <p>Hermed <app>
-                        <lem>tre</lem>
-                        <rdg>Ordet er rettet fra: to</rdg>
-                    </app> Ark af »Hendes Høihed«. Der er saa <app>
-                        <lem>2½</lem>
-                        <rdg>Tallet er rettet fra: 1½</rdg>
-                    </app>
-                    <app>
-                        <lem>to ½</lem>
-                        <rdg>Ord og brøk har Bang tilføjet i margin</rdg>
-                    </app> Ark tilbage. Ja, kære Raad ‒ Fortællingen <emph>maa</emph> være lang, da
-                    det er Skildringen af visse Menneskers <emph>Vaner</emph>.</p>
-                <p>Jeg sender samtidig en Skitse: »Sné« ‒ som jeg selv finder meget god. Den kan jo
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860600008</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 478</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-06-01">[1886, ca. juni måned] Mandag<note>empty</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien Mandag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Hermed <app>
+                  <lem>tre</lem>
+                  <rdg>Ordet er rettet fra: to</rdg>
+               </app> Ark af »Hendes Høihed«. Der er saa <app>
+                  <lem>2½</lem>
+                  <rdg>Tallet er rettet fra: 1½</rdg>
+               </app>
+               <app>
+                  <lem>to ½</lem>
+                  <rdg>Ord og brøk har Bang tilføjet i margin</rdg>
+               </app> Ark tilbage. Ja, kære Raad ‒ Fortællingen <hi rend="italics">maa</hi> være lang, da
+                    det er Skildringen af visse Menneskers <hi rend="italics">Vaner</hi>.</p>
+            <p>Jeg sender samtidig en Skitse: »Sné« ‒ som jeg selv finder meget god. Den kan jo
                     gives Hirsch, som vel nu er langt inde i Vinteren.</p>
-                <p>De har intet skrevet mig om Sammenkomsten med Schorer. Jeg har fire Dage levet af
-                    to Æg, Melange og Hvedebrød. Min danske Forlægger<note>Andreas Schou
-                        (1829-1889)</note> er paa Landet.</p>
-                <p>De har vel ikke noget, saa jeg kunde faa et Forskud paa »Hendes Høihed«? Alt er
+            <p>De har intet skrevet mig om Sammenkomsten med Schorer. Jeg har fire Dage levet af
+                    to Æg, Melange og Hvedebrød. Min danske Forlægger<ref target="n1"/> er paa Landet.</p>
+            <p>De har vel ikke noget, saa jeg kunde faa et Forskud paa »Hendes Høihed«? Alt er
                     velkomment. Jeg gaar meget snart ‒ saasnart jeg kan ‒ herfra. Nu truer ogsaa
-                        Koleraen<note>En mindre koleraepidemi i Wien kostede i 1886 nogle få dødsfald
-                        (if. google)</note>. Jeg havde haabet, at »H.H.« kunde være færdig i denne
-                    Maaned, saa vi kunde have haft Pengene. Men <emph>vi</emph> haaber ‒ og
-                    Trykkeren i København »raa'er«<note>Dvs. råder, bestemmer</note>.</p>
-                <p>Adieu, kære Raad, og hils Deres Kone<note>Hertha Adele Jonas, født Wadskiær
-                        (1807-1894), gift 1848 med Emil Jonas</note>. Det er dog slemt, at ogsaa De
-                    skal sidde den ganske Sommer <emph>der</emph> i den store By<note>Dvs. i Berlin
-                        ‒ og ikke ved kysten eller et andet feriested</note>.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. de B</p>
-                <p>Herold skrev mig til, at Schorer ønskede <emph>humoristiske</emph> Ting ‒ naa,
+                        Koleraen<ref target="n2"/>. Jeg havde haabet, at »H.H.« kunde være færdig i denne
+                    Maaned, saa vi kunde have haft Pengene. Men <hi rend="italics">vi</hi> haaber ‒ og
+                    Trykkeren i København »raa'er«<ref target="n3"/>.</p>
+            <p>Adieu, kære Raad, og hils Deres Kone<ref target="n4"/>. Det er dog slemt, at ogsaa De
+                    skal sidde den ganske Sommer <hi rend="italics">der</hi> i den store By<ref target="n5"/>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. de B</p>
+            <p>Herold skrev mig til, at Schorer ønskede <hi rend="italics">humoristiske</hi> Ting ‒ naa,
                     »H.H.« er jo saa halvt om halvt »humoristisk«.</p>
-                <p>Har De nogle Mark, da send dem.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Har De nogle Mark, da send dem.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

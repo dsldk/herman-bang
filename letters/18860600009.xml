@@ -1,110 +1,124 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860600009</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 484</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-06-01">[1886, ca. juni måned] Torsdag<note>empty</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Torsdag.</p>
-                <p>Kære Kammerraad.</p>
-                <p>Intet i Verden kunde forbause mig mere end Deres siste Brev. <emph>Jeg</emph>
-                    ville fra Dem? Kun vor <emph>fælles</emph>
-                    <app>
-                        <lem>Forlegenhed</lem>
-                        <rdg>Af Bang rettet fra: Forlegenhed,</rdg>
-                    </app> kan have gjort Dem saa nervøs, at De ser disse Spøgelser.</p>
-                <p>Her er Sandheden: Fra den anden Uge her i Wien har oversættende Damer søgt mig om
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860600009</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 484</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-06-01">[1886, ca. juni måned] Torsdag<note>empty</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Intet i Verden kunde forbause mig mere end Deres siste Brev. <hi rend="italics">Jeg</hi>
+                    ville fra Dem? Kun vor <hi rend="italics">fælles</hi>
+               <app>
+                  <lem>Forlegenhed</lem>
+                  <rdg>Af Bang rettet fra: Forlegenhed,</rdg>
+               </app> kan have gjort Dem saa nervøs, at De ser disse Spøgelser.</p>
+            <p>Her er Sandheden: Fra den anden Uge her i Wien har oversættende Damer søgt mig om
                     Ret til Oversættelsen. Jeg har altid givet samme Svar: Hr. Emil Jonas er min
-                    Oversætter. Jeg har <emph>trygt</emph> bevaret vor Aftale.</p>
-                <p>Ja ‒ bedste »Raad«, jeg faar Penge <emph>strax</emph> af min
-                        Forlægger<note>Andreas Schou (1829-1889)...</note> men kun
-                        <emph>treti</emph> Kroner Arket og jeg skriver nu paa »Hendes Høihed« i tre
+                    Oversætter. Jeg har <hi rend="italics">trygt</hi> bevaret vor Aftale.</p>
+            <p>Ja ‒ bedste »Raad«, jeg faar Penge <hi rend="italics">strax</hi> af min
+                        Forlægger<ref target="n1"/> men kun
+                        <hi rend="italics">treti</hi> Kroner Arket og jeg skriver nu paa »Hendes Høihed« i tre
                     Maaneder. Rest-Honoraret ud over de treti Kroner gaar jeg, naar Bogen er
-                        <emph>færdig</emph>. Ogsaa <emph>jeg</emph> er uden Korrekturark.</p>
-                <p>Hvorledes staar det? <emph>Oversætter De »Fædra«</emph>?</p>
-                <p>Har De lidt Penge at sende mig, er det mig en Nødhjælp.</p>
-                <p>At De, som er ældre, ogsaa lider Mangel gør mig mer end ondt. Men Schorer har
-                    ogsaa Skyld. Ti de af os leverede Manuskripter fylder <emph>meget</emph> mer end
+                        <hi rend="italics">færdig</hi>. Ogsaa <hi rend="italics">jeg</hi> er uden Korrekturark.</p>
+            <p>Hvorledes staar det? <hi rend="italics">Oversætter De »Fædra«</hi>?</p>
+            <p>Har De lidt Penge at sende mig, er det mig en Nødhjælp.</p>
+            <p>At De, som er ældre, ogsaa lider Mangel gør mig mer end ondt. Men Schorer har
+                    ogsaa Skyld. Ti de af os leverede Manuskripter fylder <hi rend="italics">meget</hi> mer end
                     han har troet.</p>
-                <p>Jeg venter hver Dag »Høihed-Korrektur« ‒ da maa De vel ogsaa faa.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. de B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Jeg venter hver Dag »Høihed-Korrektur« ‒ da maa De vel ogsaa faa.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

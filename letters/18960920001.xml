@@ -1,152 +1,161 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18960920001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Nr. 73</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1896-09-20" notBefore="9999-99-99" notAfter="9999-99-99">[1896. 20. september], Søndag<note>Jf. Bemærkninger ved brevet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18960920001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 73</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Skørping, syd for Aalborg</placeName>
+               <date when="1896-09-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1896-09-20"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1896. 20. september], Søndag<note>Jf. Bemærkninger ved brevet
                   1896. 16. september. </note>
-                </date>
-                <placeName cert="high">Skørping, syd for Aalborg</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Skørping. Søndag.</p>
-                <p>Kære Ven.</p>
-                <p>Mange, mange Tak for Deres Brev. Jeg har læst og læst det, til jeg syntes, det var,
-               som jeg saá Deres Martha<note>Person i den norske dramatiker <persName key="Ibsen, Henrik">Henrik
-                     Ibsen</persName>s skuespil <title key="Samfundets Støtter">Samfundets
-                     Støtter</title>
-                    </note> for mine Øjne. Og tilbage bliver for mig som den store
+            </date>
+            <placeName cert="high">Skørping, syd for Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Skørping. Søndag.</p>
+            <p>Kære Ven.</p>
+            <p>Mange, mange Tak for Deres Brev. Jeg har læst og læst det, til jeg syntes, det var,
+               som jeg saá Deres Martha<ref target="n1"/> for mine Øjne. Og tilbage bliver for mig som den store
                og lykkelige Ting, at denne lille Rolle strax og uvilkaarligt viste Deres
-                  <emph>Magt</emph> over Menneskene. Ti denne Magt er Evnen ... Hvor jeg husker
-                  <persName key="Heiberg, Johanne Luise">Fru Heiberg</persName>
-                    <note>Den legendariske skuespillerinde Johanne Luise Heiberg (1812-90) optrådte sidste gang i 1864. Herman Bang hentyder til sin artikel "Johanne Louise Heiberg om Jenny Lind" i Politiken,
-                  4.11.1887</note>, da hun svarede mig paa mine Spørgsmaal om <persName key="Lind, Jenny">Jenny Lind</persName>
-                    <note>Jenny Lind (1820-87), svensk operasangerinde af europæisk berømmelse</note>: Hun fyldte og man saá hende. Der er intet
+                  <hi rend="italics">Magt</hi> over Menneskene. Ti denne Magt er Evnen ... Hvor jeg husker
+                  <persName key="Heiberg_Johanne_Luise">Fru Heiberg</persName>
+               <ref target="n2"/>, da hun svarede mig paa mine Spørgsmaal om <persName key="Lind_Jenny">Jenny Lind</persName>
+               <ref target="n3"/>: Hun fyldte og man saá hende. Der er intet
                andet at sige ....</p>
-                <p>Nu skriver jeg strax og har min Grund: at jeg nødig vilde at Idéen med "<title key="Maria Stuart">Maria Stuart</title>"<note>Skuespil af den tyske dramatiker <persName key="Schiller, Friedrich">Friedrich Schiller</persName> (1759-1805)</note> skulde bide sig
+            <p>Nu skriver jeg strax og har min Grund: at jeg nødig vilde at Idéen med "<!--start title reference--><title key="Maria_Stuart">Maria Stuart</title>
+               <!--end title reference-->"<ref target="n4"/> skulde bide sig
                fast i Dem. For (ja, nu vil De rynke paa Næsen, før De selvbevidst stikker den i Sky)
                hun er nu en Gang Dronning og det tilmed en meget historisk Dronning. Skønt <app>
-                        <lem>det</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> nu naturligvis netop frister Dem, der selvfølgelig er som gal og en Hund efter
+                  <lem>det</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> nu naturligvis netop frister Dem, der selvfølgelig er som gal og en Hund efter
                Dronninger, og skønt det overordenlige, der er Deres og som netop er det, der giver
                Dem Magten, i og for sig vilde gøre Dem "Dronningeagtig" nok – saa tror jeg nu ikke,
                at Deres Tid for Dronninger er kommen endnu. Deres Maria vilde faa tusind Egenskaber
-               – men den vilde mangle "ampleur"<note>fr.: rummelighed, fylde</note>,
-                  <emph>den</emph> Fylde, <emph>som</emph> først visse Aar og <emph>den fuldkomne
-                  Bevidsthed</emph> om <emph>Midlernes Rækkevidde</emph> kan give. Ja, kære Betty,
+               – men den vilde mangle "ampleur"<ref target="n5"/>,
+                  <hi rend="italics">den</hi> Fylde, <hi rend="italics">som</hi> først visse Aar og <hi rend="italics">den fuldkomne
+                  Bevidsthed</hi> om <hi rend="italics">Midlernes Rækkevidde</hi> kan give. Ja, kære Betty,
                jeg ved meget godt, at dette dybt vil krænke Dem i en hemmelig Bagkrog af Deres Sjæl
                (ti De vil jo aldeles intet overlade til Aarene og, ja, gu' min Salighed, hvis nogen
-               bød Dem Lady Macbeth<note>Den kvindelige hovedrolle i den engelske dramatiker <persName key="Shakespeare, William">William Shakespeare</persName>s (1564-1616) skuespil <title key="Macbeth">Macbeth</title>
-                    </note>, saa tog De hende) men De maa tro, at jeg
+               bød Dem Lady Macbeth<ref target="n6"/>, saa tog De hende) men De maa tro, at jeg
                har Ret alligevel.</p>
-                <p>Derimod har jeg i den sidste Tid tænkt meget paa Portia<note>Den kvindelige
-                  hovedrolle i Shakespeares skuespil <title key="Købmanden i Venedig">Købmanden i
-                     Venedig</title>
-                    </note>. De ved, jeg holder ikke meget af Shakespeareske og
-                  <persName key="Goethe, Johann Wolfgang">Goetheske</persName>
-                    <note>Den tyske dramatiker m.m. Johann Wolfgang Goethe (1749-1832)</note> Roller, fordi de
+            <p>Derimod har jeg i den sidste Tid tænkt meget paa Portia<ref target="n7"/>. De ved, jeg holder ikke meget af Shakespeareske og
+                  <persName key="Goethe_Johann_Wolfgang">Goetheske</persName>
+               <ref target="n8"/> Roller, fordi de
                altid er saa altfor store i Tilskuernes Fantasi – paa Forhaand mener jeg.</p>
-                <p>Men alligevel er jeg, siden vi saaes, kommen til Portia. Og jeg skal sige Dem
+            <p>Men alligevel er jeg, siden vi saaes, kommen til Portia. Og jeg skal sige Dem
                hvorfor. Hun er ung, og hun har ikke noget Dronning-Navn klistret paa sig, skønt hun
-               er mer end Dronning: for hun er et <emph>Geni</emph>. Det er Tingen. Ser De, rent
-               praktisk var Rollen god, fordi <emph>De</emph> vilde magte, hvad ingen af de andre
-               magter. For den ganske Amazon-Trup af Mamsel Portia'er er Dommerscenen<note>4. akt,
-                  1. scene</note> clou'en, fordi Scenen her hjælper Gæssene over det. Men Scenen
-               med Bejlerne og med Nerissa<note>3. akt, 2. scene</note> bliver for disse Damer
-               Sludder og Vaas – overspændt og pretentiøst Vaas. <emph>Den</emph> Scene kunde
+               er mer end Dronning: for hun er et <hi rend="italics">Geni</hi>. Det er Tingen. Ser De, rent
+               praktisk var Rollen god, fordi <hi rend="italics">De</hi> vilde magte, hvad ingen af de andre
+               magter. For den ganske Amazon-Trup af Mamsel Portia'er er Dommerscenen<ref target="n9"/> clou'en, fordi Scenen her hjælper Gæssene over det. Men Scenen
+               med Bejlerne og med Nerissa<ref target="n10"/> bliver for disse Damer
+               Sludder og Vaas – overspændt og pretentiøst Vaas. <hi rend="italics">Den</hi> Scene kunde
                imidlertid De netop spille. Som unge Dyr boltrer sig i en Eng blot for at bruge deres
                Overmaal af Kræfter, saadan springer Portia rundt – overmodig og solbestraalet – i
                Ord og i lynsnare Billeder blot for at føle sit eget Overmaal af Aandens Kraft –
                eller slet ikke af nogen Grund: kun fordi hun kan ikke andet – –</p>
-                <p>Og Prøven med Skrinene<note>Ligeledes i 3. akt, 2. scene</note>. Hvor er den hende
-               ligegyldig. Hun <emph>ved</emph> jo dog saa sikkert, at <emph>hun</emph> faar den,
+            <p>Og Prøven med Skrinene<ref target="n11"/>. Hvor er den hende
+               ligegyldig. Hun <hi rend="italics">ved</hi> jo dog saa sikkert, at <hi rend="italics">hun</hi> faar den,
                hun vil ha'e.</p>
-                <p>Se – alt det kunde De spille. Den hele rige og stolte Følelse af Deres eget unge Selv
+            <p>Se – alt det kunde De spille. Den hele rige og stolte Følelse af Deres eget unge Selv
                kunde De lade boble og skumme gennem Portias Ord – – – Det var noget andet end
                Maria.</p>
-                <p>Se, nu blev dette en lang Sludder. Men det er jo sjældent, at jeg i Breve bliver saa
+            <p>Se, nu blev dette en lang Sludder. Men det er jo sjældent, at jeg i Breve bliver saa
                snaksom. Vil De gøre mig en Tjeneste. De gaar vist ofte forbi Silkegade for at hente
-                  <persName key="Nansen, Peter">Peter</persName>
-                    <note>Peter Nansen; Silkegade ligger
-                  i det indre København og løber parallelt med gaden Klareboderne, der var forlaget
-                  Gyldendals adresse</note>. Vil De da gaa ind hos Schubothe<note>Den Schubotheske
-                  Forlagsboghandel, Silkegade 13</note> og faa "Købmanden" og sende mig den. Jeg
+                  <persName key="Nansen_Peter">Peter</persName>
+               <ref target="n12"/>. Vil De da gaa ind hos Schubothe<ref target="n13"/> og faa "Købmanden" og sende mig den. Jeg
                vilde da maaske hist og her kunne sætte et Par smaa Streger, der vilde kunne give Dem
                endnu mere Lyst til Portia.</p>
-                <p>Hils Peter. Hvor han maa være glad og lykkelig.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Hils Peter. Hvor han maa være glad og lykkelig.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

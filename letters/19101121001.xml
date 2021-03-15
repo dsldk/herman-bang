@@ -1,158 +1,154 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19101121001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 925</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Bertha Holst (Bangs nièce)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 5 sider; brevets venstre kant er senere blevet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19101121001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 925</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 5 sider; brevets venstre kant er senere blevet
                                                 perforeret med to huller i en hullemaskine, således
                                                 at brevet har kunnet sættes ind i et ringbind</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="sekretær">
-                                        <ab>Sekretær; brevets underskrift er skrevet af Bang
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; brevets underskrift er skrevet af Bang
                                             selv</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1910-11-21">1910, 21. November [mandag] <note>Ordlyden er
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1910-11-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Bertha Holst (Bangs nièce)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1910-11-21">1910, 21. November [mandag] <note>Ordlyden er
                         dikteret til en sekretær (måske frøken Ville Kristiansen)</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">21.11.10.</p>
-                <p>Min egen Bertha.</p>
-                <p>Tak for Bogen, tak for Dit Brev, skønt det var saa bedrøvet. Du har Ret: jeg
-                    tilhører ingen mere ‒ og mindst mig selv, jeg tilhører to Theatre<note>Casino i
-                        Amaliegade, hvor Bang var sceneinstruktør august 1909 til august 1910 (...
-                        plus lidt mere?), og Dagmarteatret i Jernbanegade, hvor Bang var
-                        sceneinstruktør fra september 1910 til april 1911</note>, som er
-                        <emph>en</emph> Svindel, og jeg gaar i Angst for 150 Menneskers Brød. Der
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">21.11.10.</p>
+            <p>Min egen Bertha.</p>
+            <p>Tak for Bogen, tak for Dit Brev, skønt det var saa bedrøvet. Du har Ret: jeg
+                    tilhører ingen mere ‒ og mindst mig selv, jeg tilhører to Theatre<ref target="n1"/>, som er
+                        <hi rend="italics">en</hi> Svindel, og jeg gaar i Angst for 150 Menneskers Brød. Der
                     fordres alt af min Vilje, der hver Dag maa kunstigt ildnes, og alt af mine
-                    Kræfter, der hver Dag maa kunstigt styrkes. Fru Nansen<note>Betty Nansen
-                        (1873-1943), skuespillerinde, gift 1896 med Peter Nansen</note> sagde i Dag
-                    til mig paa en Prøve<note>Formentlig en prøve på Amalie Skrams skuespil
-                            <emph>Agnete</emph>, hvor Betty Nansen spillede titelrollen; skuespillet
-                        havde i Bangs instruktion repremiere 17.12.1910 på Dagmarteatret</note>:
+                    Kræfter, der hver Dag maa kunstigt styrkes. Fru Nansen<ref target="n2"/> sagde i Dag
+                    til mig paa en Prøve<ref target="n3"/>:
                     hvor De er flittig.</p>
-                <p>Ja, jeg er saa flittig, at jeg aldrig <app>
-                        <lem>lever.</lem>
-                        <rdg>Punktum er rettet fra et semikolon, og det følgende ords 'j' er rettet
+            <p>Ja, jeg er saa flittig, at jeg aldrig <app>
+                  <lem>lever.</lem>
+                  <rdg>Punktum er rettet fra et semikolon, og det følgende ords 'j' er rettet
                             til: J</rdg>
-                    </app> Jeg kom til at tænke paa en Aften for over femogtyve Aar siden, da Edvard
-                        Brandes<note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist
-                        og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet
-                        Politiken</note> spurgte mig, hvordan min Dag gik. Jeg rablede alle mine
+               </app> Jeg kom til at tænke paa en Aften for over femogtyve Aar siden, da Edvard
+                        Brandes<ref target="n4"/> spurgte mig, hvordan min Dag gik. Jeg rablede alle mine
                     Gøremaal af mig, og ganske overvældet sagde Manden: Men naar lever De da?</p>
-                <p>Det er netop det. Naar mit Liv en Gang er forbi, vil man ikke kunne sammenlægge
+            <p>Det er netop det. Naar mit Liv en Gang er forbi, vil man ikke kunne sammenlægge
                     hundrede Timer, hvor jeg levede ‒ og ikke to, hvor jeg var lykkelig. Da jeg
-                    nylig kom til Ulykke i en Bil<note>Som passager på bagsædet i en bil slog Bang
-                        sit hoved ved en hård opbremsning i den københavnske trafik mandag
-                        10.10.1910; efter et par dages forløb kunne det konstateres, at han ikke
-                        havde fået hjernerystelse</note>, og sad med Ansigtet fuldt af Blod, havde
+                    nylig kom til Ulykke i en Bil<ref target="n5"/>, og sad med Ansigtet fuldt af Blod, havde
                     jeg kun to Tanker. Den ene var: at slippe bort fra Pøbelen der gloede paa mig ‒
                     Den anden: Hvorfor kunde Du dog ikke have Lov til at ligge som en død, slynget
                     ud paa den Gade. Men Løbet var altsaa ikke fuldbyrdet. <app>
-                        <lem>Målet</lem>
-                        <rdg>Ordet er således stavet af sekretæren</rdg>
-                    </app> var ikke fuldt.</p>
-                <p>Men nok om det. Hvor Du dog arbejder. Hvor din Hjærne pulserer. Hvor rastløs Du
+                  <lem>Målet</lem>
+                  <rdg>Ordet er således stavet af sekretæren</rdg>
+               </app> var ikke fuldt.</p>
+            <p>Men nok om det. Hvor Du dog arbejder. Hvor din Hjærne pulserer. Hvor rastløs Du
                     ser ‒ og Du skaber. Du skriver om et Stykke? Om jeg har læst det? Min egen Ven,
                     jeg aner ikke dets Eksistents. Hvad hedder det? Og hvor befinder det sig? De til
                     Dagmarteatret indleverede Stykker naar mig kun i det aller sjældneste Tilfælde, <app>
-                        <lem>når</lem>
-                        <rdg>Ordet er således stavet af sekretæren</rdg>
-                    </app> jeg ikke <emph>fordrer</emph> at læse dem. Hvem der da læser dem?
+                  <lem>når</lem>
+                  <rdg>Ordet er således stavet af sekretæren</rdg>
+               </app> jeg ikke <hi rend="italics">fordrer</hi> at læse dem. Hvem der da læser dem?
                     Oprigtig talt, jeg tror slet ingen læser dem. Men skriv mig Titlen, og jeg skal
                     efterforske dit Stykkes Skæbne og faa fat i det. Mon Du ogsaa er Dramatiker,
                     kære Barn? Du skriver for voksne, og Du skriver for Børn. Forsøg Begrænsningen
                     en Smule. Jeg var maaske blevet en virkelig Romandigter, hvis jeg ikke havde
                     forsøgt saa meget andet.</p>
-                <p>Hvor skal Du være i Julen. Nini<note>Nini Holst (1853-1922), søster til Herman
-                        Bang, (adoptiv)mor til Bertha Holst; hun delte 1900-07 lejlighed i København
-                        med sin bror</note> rejser til Lyngballe. Det staar saa slet med
-                        Sofie<note>På Lyngballegaard ved Mundelstrup vest for Aarhus boede Nini
-                        Holsts og Herman Bangs yngste søster Sophie Øllegaard Gøtsche (1868-1912) og
-                        hendes mand, forpagter Thor Waldemar Gøtsche (se Dag Heede m.fl. (red.):
-                            <emph>Livsbilleder</emph>, Odense 2014, s. 48). Et telegram fra Bang til
-                        Bertha Holst, 24.12.1910, er adresseret til <emph>Lyngballegaard,
-                            Mundelstrup</emph></note>. Hvor fattigt hendes Liv faldt ud, og hun er
+            <p>Hvor skal Du være i Julen. Nini<ref target="n6"/> rejser til Lyngballe. Det staar saa slet med
+                        Sofie<ref target="n7"/>. Hvor fattigt hendes Liv faldt ud, og hun er
                     dog saa rigt udrustet, men Smærten er det visse for os alle. Livet udpønser dem
                     med en uudtømmelig Opfindsomhed ‒ og varierer dem tusindfold, saa der bliver nok
                     til os alle. Det er det rene Dampkøkken med en Portion til os hver. Naa, nu lev
                     vel, og hvis dette Brev ikke egentlig opmuntrer Dig, saa lad det i det mindste
                     sige Dig, at jeg ofte tænker paa Dig. Jeg har <app>
-                        <lem>Stunder</lem>
-                        <rdg>Et par af bogstaverne i dette ord har hullemaskinen fjernet</rdg>
-                    </app> til at tænke, for jeg sover til Tider meget slet.</p>
-                <p>Lev vel min egen Ven</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-
-            </div>
-        </body>
-    </text>
+                  <lem>Stunder</lem>
+                  <rdg>Et par af bogstaverne i dette ord har hullemaskinen fjernet</rdg>
+               </app> til at tænke, for jeg sover til Tider meget slet.</p>
+            <p>Lev vel min egen Ven</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

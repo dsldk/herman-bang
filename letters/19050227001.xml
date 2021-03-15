@@ -1,128 +1,146 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19050227001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Nr. 30</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 5 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1905-02-27" notBefore="9999-99-99" notAfter="9999-99-99">1905. 27. februar.  [mandag]<note>Brevets sidste ark bøttepapir
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050227001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 30</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 5 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Nakskov</placeName>
+               <date when="1905-02-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-02-27"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 27. februar.  [mandag]<note>Brevets sidste ark bøttepapir
                   er først blevet forsynet med blyantsnummer 69, som senere er udstreget og ændret
                   til 30, idet man altså ikke fra første færd har opfattet brevet som en
                   helhed</note>
-                </date>
-                <placeName cert="high">Nakskov</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Nakskov. 27.2. 1905.</p>
-                <p>Min kære Ven.</p>
-                <p>Jeg skriver igen, fordi jeg idag er mindre træt .... "<title key="Kjærlighedens tragedie">Kærlighedens Tragedie</title>"<note>Skuespil af den norske forfatter <persName key="Heiberg, Gunnar">Gunnar Heiberg</persName> (1857-1929), udgivet hos Gyldendal 1904;
-          ses først at være opført i 1919 i København</note> optager mig meget. Jeg kan jo ikke nægte, at det ikke
-               synes mig meget nyt. Men de store Konflikter er aldrig nye. Og Fru <persName key="Krohg, Oda">Oda Krogh</persName>
-                    <note>Den norske maler Oda Krohg (1860-1935), født Lasson, gift anden gang i 1888 med maleren og forfatteren Christian Krohg</note> vil altid leve om
+            </date>
+            <placeName cert="high">Nakskov</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nakskov. 27.2. 1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Jeg skriver igen, fordi jeg idag er mindre træt .... "<!--start title reference--><title key="Kjærlighedens_tragedie">Kærlighedens Tragedie</title>
+               <!--end title reference-->"<ref target="n1"/> optager mig meget. Jeg kan jo ikke nægte, at det ikke
+               synes mig meget nyt. Men de store Konflikter er aldrig nye. Og Fru <persName key="Krohg_Oda">Oda Krogh</persName>
+               <ref target="n2"/> vil altid leve om
                igen i Livet og i Kunsten. Det er ogsaa lidt højt for mig, til Tider, i Diktionen –
                men man trænger undertiden til at slynge sin Følelse ud i Ord af den Kaliber. Kommer
-                  <persName key="Heiberg, Gunnar">Hejberg</persName>
-                    <note>Nordmanden Gunnar Heiberg (1857-1929), forfatter til Kjærlighedens tragedie</note> herned?
-               Og skal han sætte i Scene?<note>Se brevet 19050326</note> Det vilde være baade godt
+                  <persName key="Heiberg_Gunnar">Hejberg</persName>
+               <ref target="n3"/> herned?
+               Og skal han sætte i Scene?<ref target="n4"/> Det vilde være baade godt
                og ondt. Godt, fordi han er en Ildner. Ondt, fordi der er dem, som vilde give ham det
                meste af Æren ..... "Skuespiller-Spjætteriet" interesserer mig lidet. Jeg har kun ét
                Ønske, at det Rak maa blive sat ned i Gager. Og det bliver de nok ...
-                  "Dagmar"<note>Dagmarteatret, København</note> maa da nu staa aabent for Dem – med
-               alle Porte paa vid Gab ... <emph>En</emph> har jeg ondt af, skønt det var ham, der <app>
-                        <lem>hev</lem>
-                        <rdg>Ordets sidste bogstav er rettet fra et andet, som er svært læseligt.</rdg>
-                    </app> mig ud af "Folkeboden" – <persName key="Fjelstrup, Peter">Fjelstrup</persName>
-                    <note>Skuespilleren Peter Fjelstrup (1866-1920)</note>. For han har Geni, trods alt. Men han er lidt gal, lidt
+                  "Dagmar"<ref target="n5"/> maa da nu staa aabent for Dem – med
+               alle Porte paa vid Gab ... <hi rend="italics">En</hi> har jeg ondt af, skønt det var ham, der <app>
+                  <lem>hev</lem>
+                  <rdg>Ordets sidste bogstav er rettet fra et andet, som er svært læseligt.</rdg>
+               </app> mig ud af "Folkeboden" – <persName key="Fjelstrup_Peter">Fjelstrup</persName>
+               <ref target="n6"/>. For han har Geni, trods alt. Men han er lidt gal, lidt
                for meget gal, tror jeg ..... Jeg er idag i Nakskov, hvor jeg skrev
-                  "Tine"<note>Nemlig i de første måneder af 1889</note>. Det var noget nær den
+                  "Tine"<ref target="n7"/>. Det var noget nær den
                strengeste Arbejdstid i mit Liv. Jeg talte i fem Maaneder kun med min Læge,
                Gæstgiveren og hans Familie ..... Hvor Tiden løber. Det er nu seksten Aar siden. En
                halv Menneskealder. Hvor daarligt jeg har brugt Tiden. Og nu er det snart altsammen
                forbi. Det vil sige ikke Turnéen, for af den er der seks – 6 – Uger tilbage. Ugerne
-               gaar og Maanederne gaar – men "Mestren døer"<note>Det 5. og sidste kapitel af romanen
-                     <title key="Mikaël">Mikaël</title> fra 1904 (Romaner og noveller, bind 5, s.
-                  221-238), et af Bangs hyppigt anvendte oplæsningsnumre</note> ustanseligt hver
-               Aften. Dette Kongerige er stort, naar <emph>alle</emph> Kroer medtages. Drag ud, kære
+               gaar og Maanederne gaar – men "Mestren døer"<ref target="n8"/> ustanseligt hver
+               Aften. Dette Kongerige er stort, naar <hi rend="italics">alle</hi> Kroer medtages. Drag ud, kære
                Ven, drag til Kros. Vær i Slæbkjole og tag Kroerne. Publikum er smigret og betaler –
                i Kroerne. Ak, min Gud, godt er det alligevel, at det snart er forbi – jeg mener om
                seks Uger.</p>
-                <p>Men <emph>De</emph> skulde skrive mig lidt om det Hele og om "Kærlighedens
+            <p>Men <hi rend="italics">De</hi> skulde skrive mig lidt om det Hele og om "Kærlighedens
                Tragedie".</p>
-                <p>Hils <persName key="Nansen, Peter">Nansen</persName>
-                    <note>Peter Nansen</note> saa mange Gange .....</p>
-                <p>Med mit Helbred er det forresten skidt, da jeg hoster lidt for kraftigt. Men, det
+            <p>Hils <persName key="Nansen_Peter">Nansen</persName>
+               <ref target="n9"/> saa mange Gange .....</p>
+            <p>Med mit Helbred er det forresten skidt, da jeg hoster lidt for kraftigt. Men, det
                forstaar sig, jeg er jo udødelig.</p>
-                <p rend="right">Herman B.</p>
-                <p>Tilgiv, at Papiret bliver beskidt. Det kommer af den megen Sværte.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman B.</p>
+            <p>Tilgiv, at Papiret bliver beskidt. Det kommer af den megen Sværte.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

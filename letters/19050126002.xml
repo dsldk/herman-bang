@@ -1,98 +1,122 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19050126002</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Gyldendals arkiv B4c</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1905-01-26" notBefore="9999-99-99" notAfter="9999-99-99">1905. 26. januar. 001 [torsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">Horsens</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Horsens. 26.1. 1905.</p>
-                <p>Kære Ven.</p>
-                <p>Følgerne af Rejsen begynder at vise sig. <persName key="Hirschsprung, Aage">Hirschsprung</persName>
-                    <note>Aage Hirschsprung (Einar Aage Hirschsprung) (1869-1909), forlægger. Han var 1893-1908 sammen med J.L. Lybecker (1862-1923) direktør for J.H. Schubothes Boghandel og Det Schubotheske Forlag, derefter meddirektør i Gyldendal</note> skriver idag, at ""<title key="Haabløse                   Slægter">Haabløse
-                  Slægter</title>" maa altsaa trykkes op paany". Jeg véd, at "<title key="Stuk">Stuk</title>" ikke kan undgaa samme
-               Skæbne. "<title key="De fire Djævle">De fire Djævle</title>" skal udgives som Sær-Udgave. Det bliver altsaa tre gamle
-               Bøger i dette Aar<note>Det Schubotheske Forlag udsendte 1.12.1905 tredjeudgaven af
-                  Haabløse Slægter. Stuk kom dog først i 1908 i 2. oplag</note>. Og hvordan mon det
-               gaar med "<title key="Mikaël">Mikaël</title>"<note>Romanen var 6.10.1904 kommet i 2. oplag</note>? Den er dog –
-               den og "<title key="Det graa Hus">Det Graa Hus</title>" – mit Hjerte nærmest.</p>
-                <p>Jeg flakker – og flakker videre. For udsolgt Hus og smaa <emph>virkelige</emph>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050126002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Horsens</placeName>
+               <date when="1905-01-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-01-26"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 26. januar. 001 [torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Horsens</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Horsens. 26.1. 1905.</p>
+            <p>Kære Ven.</p>
+            <p>Følgerne af Rejsen begynder at vise sig. <persName key="Hirschsprung_Aage">Hirschsprung</persName>
+               <ref target="n1"/> skriver idag, at ""<!--start title reference--><title key="Haabløse___________________Slægter">Haabløse
+                  Slægter</title>
+               <!--end title reference-->" maa altsaa trykkes op paany". Jeg véd, at "<!--start title reference--><title key="Stuk">Stuk</title>
+               <!--end title reference-->" ikke kan undgaa samme
+               Skæbne. "<!--start title reference--><title key="De_fire_Djævle">De fire Djævle</title>
+               <!--end title reference-->" skal udgives som Sær-Udgave. Det bliver altsaa tre gamle
+               Bøger i dette Aar<ref target="n2"/>. Og hvordan mon det
+               gaar med "<!--start title reference--><title key="Mikaël">Mikaël</title>
+               <!--end title reference-->"<ref target="n3"/>? Den er dog –
+               den og "<!--start title reference--><title key="Det_graa_Hus">Det Graa Hus</title>
+               <!--end title reference-->" – mit Hjerte nærmest.</p>
+            <p>Jeg flakker – og flakker videre. For udsolgt Hus og smaa <hi rend="italics">virkelige</hi>
                Indtægter, da Udgifterne er altfor store.</p>
-                <p rend="right">Din</p>
-                <p rend="right">H.B.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

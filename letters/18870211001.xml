@@ -1,120 +1,124 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18870211001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 182</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="visitkort">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Visitkort, 2 sider. Med trykt navn <q>Herman de Bang</q> i
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870211001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 182</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="visitkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Visitkort, 2 sider. Med trykt navn <q>Herman de Bang</q> i
                                  tilstræbt skriveskrift</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-02-11" notBefore="9999-99-99" notAfter="9999-99-99">[1887. 11. februar], Fredag Aften <note>Dateres ud fra
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1887-02-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1887-02-11"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1887. 11. februar], Fredag Aften <note>Dateres ud fra
                   brevtekstens egen oplysning om fredag den 11., kombineret med avisartiklerne i
                   Politiken</note>
-                </date>
-                <placeName cert="high">[Prag]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fredag <emph>Aften</emph>
-                </p>
-                <p>Kære Peter.</p>
-                <p>Jeg véd ikke, om du <emph>er</emph> paa Kontoret. Hermed en ret grinagtig Artikel,
-               som vil føde "Kandestøberier" ved nogle Middagsborde<note>Dvs. bedrevidende
-                  statsmandssnak blandt ukyndige, som bilder sig selv ind at have forstand på
-                  regeringsledelse; udtrykket refererer til <persName key="Holberg, Ludvig">Holberg</persName>s komedie <title key="Den politiske Kandestøber">Den
-                     politiske Kandestøber</title>. Bang har vedlagt et manuskript (ikke bevaret),
-                  måske til sin artikel "Chauvinister", trykt i Politiken, 14.2.1887</note>. Jeg
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag <hi rend="italics">Aften</hi>
+            </p>
+            <p>Kære Peter.</p>
+            <p>Jeg véd ikke, om du <hi rend="italics">er</hi> paa Kontoret. Hermed en ret grinagtig Artikel,
+               som vil føde "Kandestøberier" ved nogle Middagsborde<ref target="n1"/>. Jeg
                vilde lyve frygteligt, om jeg sagde, at jeg "behagedes" i dine "Aagerkarle" og "Mørke
-                  Huse"<note>"Aagerkarle", signeret "Hrk.", Politiken, 8.2.1887. "Mørke Huse
-                  (Interiør fra Kjøbenhavn)", usigneret, Politiken, 9.2.1887. Samt "Billige
-                  Aagerkarle" og "Mørke Huse", begge i Politiken, 10.2.1887. Artiklerne beskriver
-                  forskellige hverdagsmiljøer og eksempler på den ulykkelige sammenhæng mellem
-                  pengeudlån til ågerrenter og voksende storbyprostitution. Næppe nogen af dem er
-                  skrevet af Peter Nansen, men snarest af journalisten <persName key="Cavling, Henrik">Henrik
-                     Cavling</persName> (1858-1933), som i samme avis 7.2.1887 havde indledt dette feature-tema
-                  med "Stille Kampe (En Hverdagshistorie fra Kjøbenhavn)", signeret "Henrik". Temaet
-                  fortsattes med et antal artikler i Politiken i resten af februar måned; tilsammen
-                  er de et karakteristisk udtryk for datidens kritisk opsøgende journalistik, som
-                  Bang i høj grad havde været med til at give form på dansk grund</note> – som er
+                  Huse"<ref target="n2"/> – som er
                fortræffelig gjorte men – som er saare nær ved at være Sensationens siste "Vejr" i
                Lungerne. Tab hellere 500 Abonnenter strax – og have vedblivende 8000 om 6 Aar.</p>
-                <p>Indlagte modtog jeg idag fra Expeditionen (eller rettere <emph>igaar</emph> Aftes)
+            <p>Indlagte modtog jeg idag fra Expeditionen (eller rettere <hi rend="italics">igaar</hi> Aftes)
                hele Dagen har jeg saa ventet paa de velsagtens afsendte 41 Kr: – men de er ikke
                kommet indtil nu Aften. Vil du, da dette hidtil aldrig er forekommet, spørge i
                Expedit: – om Pengene er afsendt eller nej – jeg gør det selv.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-                <p>Flyttet er jeg ikke. Da jeg til nu – den 11! – ikke har set en Øres
-                  Indtægt<note>Senere i februar 1887 flyttede Bang til en anden adresse i
-                  Pragbydelen Weinberge, nemlig fra Balbingasse 192 til Jungmannstrasse 403, jf.
-                  Torbjörn Nilsson, s. 336</note>.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Flyttet er jeg ikke. Da jeg til nu – den 11! – ikke har set en Øres
+                  Indtægt<ref target="n3"/>.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

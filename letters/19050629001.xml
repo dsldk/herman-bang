@@ -1,122 +1,138 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19050629001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 386</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1905-06-29" notBefore="9999-99-99" notAfter="9999-99-99">1905. 29. juni [torsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">Marienlyst, ved Helsingør</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Marienlyst. 29.6.1905.</p>
-                <p>Min kære Ven.</p>
-                <p>Maaske har <persName key="Nansen, Betty">Betty</persName>
-                    <note>Betty Nansen, jf. brevet 19050623 og note hertil. Se også citatet fra hendes
-                  samtidige brev til Peter Nansen i denne udgaves <emph>Introduktion</emph>
-                    </note>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050629001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 386</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1905-06-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-06-29"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 29. juni [torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst. 29.6.1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Maaske har <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n1"/>
                skrevet dig til, hvilken Ulykke der har ramt mig. At jeg har haft – pludselig, uden
                Varsel – et Anfald af Drikkesyge. Og nu troede baade Lægerne og jeg, at jeg var
                helbredet. Det har virket frygteligt paa min Sindstilstand. Jeg har i lange Tider, i
                aarevis ikke været saa nedtrykt som nu – ikke saa nedtrykt og ikke saa alene. At det
                aldrig skal ophøre. Ti det hører aldrig op. Nu ved jeg det, at det er uhjælpeligt og
                hemmeligt forbundet med min Organisme. Jeg ved det, fordi det kun er efter et af de
-               Anfald jeg <emph>ser</emph> mine Bøger – ogsaa denne Gang saá jeg, paa samme Maade
+               Anfald jeg <hi rend="italics">ser</hi> mine Bøger – ogsaa denne Gang saá jeg, paa samme Maade
                som altid, pludselig, da det var forbi, min Bog som en Række levende Billeder paa et
                ophængt Klæde. Men hvilken Forbandelse. Aa, min Ven, af den Lænke af Lidelser, jeg
-               bærer, er denne den frygteligste – – En Grund var der og Grunden var <persName key="Petersen, Fritz">Fritz Petersen</persName>
-                    <note>Fritz Petersen (1877-1911), 1903-05 ejer af Sommerlyst, 1905-10 direktør for Casino og meddirektør for Dagmarteatret; gift 1899 med skuespillerinden Johanne Fritz-Petersen. Ifølge Harry Jacobsen: Den tragiske Herman Bang, s. 137, havde Bang engang i
-                  1904 sandsynligvis indgået aftale med Fritz Petersen, som fungerede som en slags
-                  impresario for Bangs oplæsningsturné "Rundt i Landet"</note>. Jeg havde
+               bærer, er denne den frygteligste – – En Grund var der og Grunden var <persName key="Petersen_Fritz">Fritz Petersen</persName>
+               <ref target="n2"/>. Jeg havde
                underskrevet min Kontrakt og skulde som alle andre have "Sommer-Forskud" og paa dette
                var alting indrettet. Jeg skulde have trehundrede Kroner om Maaneden og nu har jeg
                forgæves ventet tre Maaneder – – Derfor var det, jeg maatte sende <persName key="Eskildsen">Eskildsen</persName>
-                    <note>Bangs tjener og medhjælp</note> ind efter de Penge. Og saa, i
+               <ref target="n3"/> ind efter de Penge. Og saa, i
                Drukkenskabsdagene, brugte jeg dem. Det er saa frygteligt. Dobbelt frygteligt, fordi
-               du naturligvis tror – siden han har Teatret – at <persName key="Boesen, Fritz">Boesen</persName>
-                    <note>Fritz Boesen (1877-1931), skuespiller ved Folketeatret 1898-1900, i Norge 1903-04 med eget selskab, fik ca. 1905 egen teaterbevilling for danske stationsbyer. Om Herman Bangs ulykkelige kærlighed til ham, se: Breve til Fritz, 1951</note> er Skyld i al denne Uorden. Men jeg giver mit Æresord paa,
+               du naturligvis tror – siden han har Teatret – at <persName key="Boesen_Fritz">Boesen</persName>
+               <ref target="n4"/> er Skyld i al denne Uorden. Men jeg giver mit Æresord paa,
                at han ikke har modtaget og ikke vil modtage en Øre – – – Jeg ødede dem i
-               Drukkenskaben. Og nu er <persName key="Holst, Nini">min Søster</persName>
-                    <note>Nini Holst (1853-1922), Herman Bangs søster, enke siden 1899, adoptivmor til Bertha Holst</note> her og iovermorgen er det den første og selve Huset maa
+               Drukkenskaben. Og nu er <persName key="Holst_Nini">min Søster</persName>
+               <ref target="n5"/> her og iovermorgen er det den første og selve Huset maa
                stanse. Og hvad vil man tro paa Forlaget om Uordenen i mine Ting, skønt jeg nu i
                Aarevis har kæmpet med det ene Maal: at faa Orden.</p>
-                <p>Jeg er endnu feberhed, naar jeg skriver. Men jeg beder dig sige Forlaget, at jeg maa
+            <p>Jeg er endnu feberhed, naar jeg skriver. Men jeg beder dig sige Forlaget, at jeg maa
                have mine Penge for August den første Juli. De for September maa jeg saa have første
                August og første September kan jeg saa undvære – – – To Døgn har jeg opsat at skrive
                dette Brev. Jeg lover dig personlig, at, naar dette sker, skal jeg i dette Aar ikke
                gøre dig flere Sorger. Men nu er jeg saa syg, at jeg beder dig svare mig et
                telegrafisk Ord.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

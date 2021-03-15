@@ -1,117 +1,130 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18860622001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 42</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-06-22" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 22. juni], Tirsdag Aften<note>Den trafikulykke, som
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860622001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 42</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-06-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-06-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 22. juni], Tirsdag Aften<note>Den trafikulykke, som
                   Louise Brock var impliceret i, fandt sted torsdag 17.6.1886</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Tirsdag Aften.</p>
-                <p>Kære Don.</p>
-                <p>Det har gjort mig mer end ondt at læse om den græsselige Malheur<note>fr.: uheld,
-                  ulykke</note>, som har truffet <persName key="Brock, Louise">Frøken
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag Aften.</p>
+            <p>Kære Don.</p>
+            <p>Det har gjort mig mer end ondt at læse om den græsselige Malheur<ref target="n1"/>, som har truffet <persName key="Brock_Louise">Frøken
                   Broch</persName>
-                    <note>Torsdag 17.6.1886 stødte skuespillerinden Louise Brock (1864-1900), forlovet med Peter Nansen, i sin lille
-                  ponyvogn sammen med dampsporvognen på Strandvejen i <placeName key="Klampenborg">Klampenborg</placeName>. Hun pådrog sig svære læsioner og en brækket underarm,
-                  jf. Karin Bang, s. 208-212</note>. Og just nu – nu, hvor Livet var kommet i Gang
+               <ref target="n2"/>. Og just nu – nu, hvor Livet var kommet i Gang
                for hende, hvor der var Grøde i Tingene, og hvor hun kunde sé hen ad en lys Vei med
                glad Liv i socialt "Velvære". Vil du hilse hende saa mange Gange. Deltagende Ord er
-               saa lidt, naar man lider – men <emph>det</emph> ialfald kan du trygt sige hende, at
+               saa lidt, naar man lider – men <hi rend="italics">det</hi> ialfald kan du trygt sige hende, at
                dine Venner er ogsaa mine; og inderligt ønsker jeg, at det alt maa lykkeligst
                overvindes, og hun vende tilbage til fuldt Liv og fuld Virksomhed.</p>
-                <p>Og du, kære Peter, maa nu igen sidde ved Sygeseng ligesom ifjor. Men du passer
+            <p>Og du, kære Peter, maa nu igen sidde ved Sygeseng ligesom ifjor. Men du passer
                dertil. Stille at sidde der og nu og da kun sige et Par Ord med din bløde Stemme. Om
                det er muligt – vil du blive elsket endnu høiere.</p>
-                <p>– Rimeligvis vil de to Smaa-Artikler (som om dette Emne er de siste) træffe dig og
-               Bladet i <emph>Reaktion</emph> mod dette "Bayreri"<note>Sigter til den omfangsrige
-                  presseomtale i kølvandet på kong <persName key="Ludwig 2.">Ludwig 2.</persName> af
-                  Bayerns død 13.6.1886</note>.</p>
-                <p>De er imidlertid gode for Eders Standpunkt, og "Lyse Øieblikke"<note>Politiken,
-                  29.6.1886</note>
-                    <emph>bør</emph> tages; man maa ikke ophøre med at fremhæve disse Geménheder – og den
-                  <emph>siste</emph> Gemenhed er endnu den største: En <emph>Idiot</emph> med –
-               "lyse Øieblikke". Tryk dem Dag efter hinanden og <emph>"Lyse Øieblikke"</emph> først.
-               Skildringen af "<emph>Kong</emph>
-                    <persName key="Otto 1.">Otto</persName>
-                    <note>Otto 1. af Bayern, i Politiken,
-                  1.7.1886</note>" har jeg lavet selv efter forskellige Kilder.</p>
-                <p>Hils <persName key="Nansen, Immanuel">Hvalpen</persName>
-                    <note>Peter Nansens lillebror Immanuel Nansen (1867-1934), cand.jur. 1890, derefter ansat ved De Danske Statsbaner, 1895 fuldmægtig, fra 1927 afdelingschef; gift 1892 med Christiane Nansen</note>.</p>
-                <p rend="right">Din Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>– Rimeligvis vil de to Smaa-Artikler (som om dette Emne er de siste) træffe dig og
+               Bladet i <hi rend="italics">Reaktion</hi> mod dette "Bayreri"<ref target="n3"/>.</p>
+            <p>De er imidlertid gode for Eders Standpunkt, og "Lyse Øieblikke"<ref target="n4"/>
+               <hi rend="italics">bør</hi> tages; man maa ikke ophøre med at fremhæve disse Geménheder – og den
+                  <hi rend="italics">siste</hi> Gemenhed er endnu den største: En <hi rend="italics">Idiot</hi> med –
+               "lyse Øieblikke". Tryk dem Dag efter hinanden og <hi rend="italics">"Lyse Øieblikke"</hi> først.
+               Skildringen af "<hi rend="italics">Kong</hi>
+               <persName key="Otto_1.">Otto</persName>
+               <ref target="n5"/>" har jeg lavet selv efter forskellige Kilder.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n6"/>.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

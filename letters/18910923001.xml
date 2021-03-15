@@ -1,155 +1,153 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Peter Nansen</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18910923001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 76</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Peter Nansen</persName> til <persName role="recipient">Herman Bang</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brevkoncept, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="pn">
-                                        <ab>empty</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1891-09-23" notBefore="1891-09-23" notAfter="1891-09-23">1891. 23.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18910923001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 76</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brevkoncept, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="pn">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1891-09-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1891-09-23"
+                  notBefore="1891-09-23"
+                  notAfter="1891-09-23">1891. 23.
           september [onsdag]<note>Peter Nansens egenhændige koncept til besvarelse af Herman
             Bangs brev til ham, brevet 1891. 22. september, skrevet på bagsiden af dette brev</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>
-                    <emph>Svar</emph>.</p>
-                <p rend="right">23 Sept. 91</p>
-                <p>Kære Bang!</p>
-                <p>Situat. er følgende: Vi<note>Ledelsen af Studentersamfundets fri Theater, København,
-            hvortil blandt andre hørte Peter Nansen, Johan Knudsen, Carl Behrens og formentlig den
-            unge jurastuderende Holger Federspiel</note> havde, som Du véd, vedtaget at opføre "Ens.
-              M."<note>
-                        <title key="Ensomme Mennesker">Ensomme Mennesker</title> (ty. Einsame
-            Menschen), skuespil i fem akter af den tyske forfatter <persName key="Hauptmann, Gerhart">Gerhart Hauptmann</persName> (1862-1946), uropført i Berlin
-            11.1.1891. En oversættelse til norsk ved A. Trampe Bødtker udkom i serien "Bibliothek
-            for De tusen hjem", Fagerstrand pr. Høvik, uden trykkeår (men formodentlig i
-            1891)</note> ved 1ste Forest., og endel forbered. Arb. i saa Hens. blev straks gjort. Et
-          lille St. af <persName key="Wied, Gustav">Gustav Wied</persName>
-                    <note>Forfatteren Gustav
-            Wieds (1858-1914) korte skuespil <title key="En Bryllupsnat">En Bryllupsnat</title>,
-            skuespil i en akt (udgivet i bogform 1892)</note> antog vi ifjor, men, da "E.M." er et
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>
+               <hi rend="italics">Svar</hi>.</p>
+            <p rend="right">23 Sept. 91</p>
+            <p>Kære Bang!</p>
+            <p>Situat. er følgende: Vi<ref target="n1"/> havde, som Du véd, vedtaget at opføre "Ens.
+              M."<ref target="n2"/> ved 1ste Forest., og endel forbered. Arb. i saa Hens. blev straks gjort. Et
+          lille St. af <persName key="Wied_Gustav">Gustav Wied</persName>
+               <ref target="n3"/> antog vi ifjor, men, da "E.M." er et
           meg. langt St., mente vi ik., der kunde være Tale om at føre det frem ved 1ste Forest.</p>
-                <p>Saa kom imidl. Dit St.<note>
-                        <title key="Brødre">Brødre</title>, jf. note til brevet
-            18910922</note> Jeg og <persName key="Behrens, Carl">Behrens</persName>
-                    <note>Carl Behrens (1867-1946), journalist og forfatter, 1889-92 knyttet til avisen
-            København, redaktør af tidsskriftet Ny Jord 1888-89</note> – <persName key="Knudsen, Johan">Joh. Knudsen</persName>
-                    <note>Johan Knudsen (1865-1942), udgiver og
-            medredaktør af avisen København 1890-92, ejer af godset Bangsbo ved Frederikshavn
-            1891-1909</note> var jo bortrejst – var straks paa det Rene med, at Det fr. Th.<note>Det
-            fri Theater</note> selvf. stillede sig til Din Disp. – altsaa at Du paa de af Dig satte
+            <p>Saa kom imidl. Dit St.<ref target="n4"/> Jeg og <persName key="Behrens_Carl">Behrens</persName>
+               <ref target="n5"/> – <persName key="Knudsen_Johan">Joh. Knudsen</persName>
+               <ref target="n6"/> var jo bortrejst – var straks paa det Rene med, at Det fr. Th.<ref target="n7"/> selvf. stillede sig til Din Disp. – altsaa at Du paa de af Dig satte
           Vilkaar fik Dit St. antaget, selv spillede deri og selv satte det i Scene. Vi mente ogs.,
           at vi af H. t. den særl. Interesse ved et St. af Dig, spillet af Dig selv, burde fravige
           Bestemm. om ikke at have noget For- eller Efterst. til "E.M."</p>
-                <p>Men ved et Th. som "Det fri" er der jo mange Hens. at tage. For det første erklærede
-            <persName key="Lehmann, Julius">Lehmann</persName>
-                    <note>Julius Lehmann (1861-1931),
-            sceneinstruktør ved Dagmarteatret 1888-90, derefter ved Folketeatret og fra 1893 ved Det
-            Kongelige Teater</note>, at han, da han i Okt var ganske opt. af "<title key="Sportsmænd">Sportsmænd</title>"<note>Et lystspil i fem akter af <persName key="Benzon, Otto">Otto Benzon</persName> (1856-1927)</note>, først i Nov. for Alv.
+            <p>Men ved et Th. som "Det fri" er der jo mange Hens. at tage. For det første erklærede
+            <persName key="Lehmann_Julius">Lehmann</persName>
+               <ref target="n8"/>, at han, da han i Okt var ganske opt. af "<!--start title reference--><title key="Sportsmænd">Sportsmænd</title>
+               <!--end title reference-->"<ref target="n9"/>, først i Nov. for Alv.
           kunde hellige Det fr. Th. sin Opmærks.</p>
-                <p>Desu. bad han – liges. et Par Skuespil., der har Hovedrol. i "E.M." – saa
-          [...ulæseligt...], at vi ikke, som ifjor, da vi gav <persName key="Esmann, Gustav">Esmann</persName>s St. foruden "Th. Raq."<note>
-                        <title key="Thérèse Raquin">Thérèse
-              Raquin</title>, skuespil af den franske forfatter <persName key="Zola, Émile">Émile
-              Zola</persName> (1840-1902), oversat af Peter Nansen; premiere ved Det fri Theaters
-            åbningsforestilling på Folketeatret 25.3.1891</note>, maatte overfylde Progr., hvilk.
-          han mente var til Skade baade for Hoved- og Bist. "E.M." vil <emph>mindst</emph> spille 3
+            <p>Desu. bad han – liges. et Par Skuespil., der har Hovedrol. i "E.M." – saa
+          [...ulæseligt...], at vi ikke, som ifjor, da vi gav <persName key="Esmann_Gustav">Esmann</persName>s St. foruden "Th. Raq."<ref target="n10"/>, maatte overfylde Progr., hvilk.
+          han mente var til Skade baade for Hoved- og Bist. "E.M." vil <hi rend="italics">mindst</hi> spille 3
           3/4 T., alts. med Dit lille St. til, vilde Forest. vare til henad Midnat.</p>
-                <p>Naa, dette er naturl. en Biting. Hvis Du lagde Vægt paa at faa Dit St. frem ved 1ste
+            <p>Naa, dette er naturl. en Biting. Hvis Du lagde Vægt paa at faa Dit St. frem ved 1ste
           Forest., kunde det jo endda arrangeres.</p>
-                <p>Men det værste er, at vi ikke <emph>kan</emph> faa vor 1ste Forest. saa betids, at det
+            <p>Men det værste er, at vi ikke <hi rend="italics">kan</hi> faa vor 1ste Forest. saa betids, at det
           kan passe Dig, hvis Du vil rejse i Slutn. af Okt.</p>
-                <p>I Virkel. tør jeg – efter Erfar. fra ifjor – ikke garantere Forest. til før "engang i
+            <p>I Virkel. tør jeg – efter Erfar. fra ifjor – ikke garantere Forest. til før "engang i
           Nov.", – alts. jeg tør end ikke love Dig sikkert, at den bliver f.Ex. midt i Maaneden.</p>
-                <p>Da jeg derf. igen talte med <persName key="Federspiel, Holger">Federspiel</persName>
-                    <note>Holger Federspiel (1868-1934) tog 1898 eksamen som
-            cand.jur.</note>, sagde jeg, at jeg havde tænkt Sagen ordnet saaledes, at Du først
+            <p>Da jeg derf. igen talte med <persName key="Federspiel_Holger">Federspiel</persName>
+               <ref target="n11"/>, sagde jeg, at jeg havde tænkt Sagen ordnet saaledes, at Du først
           medvirkede ved 2den Forest., der sagtens falder i Februar og ved hvilken vi paatænker at
-          give "<title key="En Pariserinde">En Pariserinde</title>"<note> En komedie i to akter af
-            franskmændene <persName key="Souvestre, Émile">Émile Souvestre</persName> og <persName key="Dubois-Davesne">Dubois-Davesne</persName> (1800-74), oversat til dansk af
-              <persName key="Collin, Jonas">Jonas Collin</persName> (1840-1905)</note>, der er en
+          give "<!--start title reference--><title key="En_Pariserinde">En Pariserinde</title>
+               <!--end title reference-->"<ref target="n12"/>, der er en
           forholdsv. kort 1 Akter.</p>
-                <p>Kan det ikke gaa?</p>
-                <p>Jeg gentager, at vi vil gøre vort Bedste for at imødekomme Dine Ønsker, men Du vil indse,
-          at <emph>hvis</emph> Du rejser i <emph>Okt</emph>, og <emph>hvis</emph> vi (hvad der
-          forøvrigt er afgjort) først kan faa 1ste Forest...gen i <emph>Nov</emph>. – saa staar vi
-          overfor et Dilemma, det, Hr. <persName key="Goldstein, Emanuel">Em. Goldstein</persName>
-                    <note>Den danske forfatter Emanuel Goldstein (1862-1921)</note> kalder Bryderier.</p>
-                <p>Dette er ing. "off." Direktionsskrivelse, men en privat Redegør.</p>
-                <p>Ser Du nogen Muligh. for at klare Dilemmaet?</p>
-                <p>Kan eller vil Du ikke vente til 2den Forest.?</p>
-                <p rend="right">Din hengivne</p>
-                <p rend="right">Peter Nansen.</p>
-            </div>
-        </body>
-    </text>
+            <p>Kan det ikke gaa?</p>
+            <p>Jeg gentager, at vi vil gøre vort Bedste for at imødekomme Dine Ønsker, men Du vil indse,
+          at <hi rend="italics">hvis</hi> Du rejser i <hi rend="italics">Okt</hi>, og <hi rend="italics">hvis</hi> vi (hvad der
+          forøvrigt er afgjort) først kan faa 1ste Forest...gen i <hi rend="italics">Nov</hi>. – saa staar vi
+          overfor et Dilemma, det, Hr. <persName key="Goldstein_Emanuel">Em. Goldstein</persName>
+               <ref target="n13"/> kalder Bryderier.</p>
+            <p>Dette er ing. "off." Direktionsskrivelse, men en privat Redegør.</p>
+            <p>Ser Du nogen Muligh. for at klare Dilemmaet?</p>
+            <p>Kan eller vil Du ikke vente til 2den Forest.?</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">Peter Nansen.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

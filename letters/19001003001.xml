@@ -1,113 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19001003001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Dateringen »3/10 1900« er tilføjet med blyant, formodentlig
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19001003001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »3/10 1900« er tilføjet med blyant, formodentlig
                                         af Aage Hirschsprung</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1900-10-03">[1900, 3. oktober] Onsdag <note>Datering: den
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-10-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-10-03">[1900, 3. oktober] Onsdag <note>Datering: den
                         angivne ugedag i kombination med brevets sekundært anførte datering; denne
                         er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Onsdag.</p>
-                <p>Kære Hirschsprung.</p>
-                <p>Jeg maa besvære Dem med en Forespørgsel i Anledning af Meddelelsen i Deres
-                        Brev<note>Dette brev til Bang er ikke bevaret</note> om, at der var
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>Jeg maa besvære Dem med en Forespørgsel i Anledning af Meddelelsen i Deres
+                        Brev<ref target="n1"/> om, at der var
                     krediteret mig 500 Kr. paa min Konto som Honorar for den nye Udgave af
-                        Tine<note>Andenudgaven af Bangs roman <emph>Tine</emph> udkom i dagene før
-                        5.10.1900 på Det Schubotheske Forlag. Denne udgave er illustreret med
-                        tegninger af Christian Frederik Beck</note>.</p>
-                <p>Er det virkelig Deres Mening, at 500 Kr. skulde være Honoraret for den 16-17
-                        Ark<note>Et trykark i denne bogs format består af 16 trykte sider.
-                        Andenudgaven af <emph>Tine</emph> er på 276 trykte sider</note> store Bog,
+                        Tine<ref target="n2"/>.</p>
+            <p>Er det virkelig Deres Mening, at 500 Kr. skulde være Honoraret for den 16-17
+                        Ark<ref target="n3"/> store Bog,
                     hvoraf første Oplag var udsolgt til sidste Eksemplar?</p>
-                <p>De vil maaske svare mig, at jeg jo nøjedes med 500 Kr. for den nye Udgave
-                    iforfjor af »Ved Vejen«<note>Andenudgaven af <emph>Ved Vejen</emph> udkom
-                        9.11.1898 på Det Schubotheske Forlag. Denne udgave er illustreret med
-                        tegninger af Knud Larsen</note>. Men Forholdene laa den Gang helt
-                    anderledes. Af »Ved Vejen« opkøbte De af et andet Forlag<note>Førsteudgaven af
-                            <emph>Ved Vejen</emph> er en del af Bangs novellesamling <emph>Stille
-                            Eksistenser</emph>, der udkom i 1886 på Andr. Schous Forlag</note> et
+            <p>De vil maaske svare mig, at jeg jo nøjedes med 500 Kr. for den nye Udgave
+                    iforfjor af »Ved Vejen«<ref target="n4"/>. Men Forholdene laa den Gang helt
+                    anderledes. Af »Ved Vejen« opkøbte De af et andet Forlag<ref target="n5"/> et
                     stort Restoplag. At De, tiltrods for at Bogen ikke var udsolgt, vilde
                     foranstalte en ny Udgave, var en Chance, De gav mig og til Gengæld for hvilken
                     jeg fandt det saare rimeligt at nøjes med et <app>
-                        <lem>meget</lem>
-                        <rdg>Bang har rettet ordets første bogstav fra: saa</rdg>
-                    </app> beskedent Honorar.</p>
-                <p>Men »Tine«, som var udsolgt og som jeg vilde faa 8-900 Kr. for ved et ganske
+                  <lem>meget</lem>
+                  <rdg>Bang har rettet ordets første bogstav fra: saa</rdg>
+               </app> beskedent Honorar.</p>
+            <p>Men »Tine«, som var udsolgt og som jeg vilde faa 8-900 Kr. for ved et ganske
                     almindeligt Oplag paa 1000 Eksemplarer ‒ hvorfor i Alverden skulde jeg dog nu
                     sælge den for 500 Kr. til en Udgave i 3000 Eksempl? At De har ønsket en
                     illustreret Udgave, skal jeg dog ikke bøde saa mange Penge for. Hvordan vi saa
@@ -121,13 +129,11 @@
                     dog, kære Hirschsprung, bedst véd, hvor gode Betingelser, Forlaget ejer, naar
                     jeg er død. Jeg burde vel derfor have dem saa gunstige som muligt, mens jeg
                     levede.</p>
-                <p>Jeg venter derfor at høre fra Dem, at Deres Honoraransættelse har beroet paa en
+            <p>Jeg venter derfor at høre fra Dem, at Deres Honoraransættelse har beroet paa en
                     Misforstaaelse.</p>
-                <p rend="right">Deres hengivne</p>
-                <p rend="right">Herman Bang.</p>
-
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,107 +1,121 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18960328001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1896-03-28" notBefore="9999-99-99" notAfter="9999-99-99">[1896. 28. marts], Lørdag<note>Dateringsforslaget hos Mette
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18960328001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1896-03-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1896-03-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1896. 28. marts], Lørdag<note>Dateringsforslaget hos Mette
                   Borg, s. 194, note 57, følges</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Lørdag.</p>
-                <p>Kære lille Ven.</p>
-                <p>Tilgiv mig min Tølperagtighed – det gør mig saa inderlig ondt, hvis jeg har krænket
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære lille Ven.</p>
+            <p>Tilgiv mig min Tølperagtighed – det gør mig saa inderlig ondt, hvis jeg har krænket
                Dem og gjort Dem vred, om blot et Minut. Men Tingen var, at jeg havde ærgret mig,
-               mens De spillede<note>Titelrollen i <persName key="Riegels, Emma">Emma
-                     Riegels</persName>' (1871-1934) skuespil <title key="Eva">Eva</title>, ifølge Mette Borg
-                  instrueret af Herman Bang. Det opførtes én gang, nemlig ved skuespillerinden <persName key="Recke-Madsen, Caroline">Caroline Recke-Madsen</persName>s (1833-1901)
-                  beneficeforestilling på Dagmarteatret lørdag 28.3.1896. I dette korte trekantdrama
-                  spillede <persName key="Riis, Elisabeth">Elisabeth Riis</persName> (1867-1929) hustruen,
-                  Nicolai Neiiendam (1865-1945) ægtemanden og Betty Nansen elskerinden Eva. Forestillingen blev
-                  anmeldt i Politiken, 29.3.1896</note>. Just fordi <persName key="Neiiendam, Nicolai">Neiiendam</persName>
-                    <note>Nicolai Neiiendam (1865-1945), skuespiller, 1895-99 ved Dagmarteatret, 1899-1930 ved Det Kongelite Teater, gift 1897 med skuespillerinden Jonna Neiiendam; bror til skuespilleren Robert Neiiendam</note> spillede sig op, sad jeg og ventede og ventede paa,
+               mens De spillede<ref target="n1"/>. Just fordi <persName key="Neiiendam_Nicolai">Neiiendam</persName>
+               <ref target="n2"/> spillede sig op, sad jeg og ventede og ventede paa,
                at nu vilde ogsaa De leve op saaledes som alene De kan det.</p>
-                <p>Forstaar De ikke det? Og tilgiver De mig saa?</p>
-                <p>I sidste Scene var De udmærket. Det er kun Kærlighedsscenen, at De maa leve stærkere
-               og <emph>inderligere</emph> med – synes jeg.</p>
-                <p rend="right">Deres <app>
-                        <lem>Ven</lem>
-                        <rdg>Med V'et har Bang rettet et: h</rdg>
-                    </app>
-                </p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Forstaar De ikke det? Og tilgiver De mig saa?</p>
+            <p>I sidste Scene var De udmærket. Det er kun Kærlighedsscenen, at De maa leve stærkere
+               og <hi rend="italics">inderligere</hi> med – synes jeg.</p>
+            <p rend="right">Deres <app>
+                  <lem>Ven</lem>
+                  <rdg>Med V'et har Bang rettet et: h</rdg>
+               </app>
+            </p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

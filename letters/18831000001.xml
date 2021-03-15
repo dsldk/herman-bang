@@ -1,113 +1,127 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18831000001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 93</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1883-10-01" notBefore="9999-99-99" notAfter="9999-99-99">[1883.  oktober]<note>Antagelig fra oktober 1883, da Bang
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18831000001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 93</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1883-10-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1883-10-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1883.  oktober]<note>Antagelig fra oktober 1883, da Bang
                   ved denne tid havde forhandlet sig frem til Nansens journalistiske tilknytning til
                   Nationaltidende, jf. Karin Bang, s. 129</note>
-                </date>
-                <placeName cert="low">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Min kære Peter.</p>
-                <p>Saa endte den puniske Krig<note>Dvs. således endte den puniske krig. I antikken førte
-                  romerne tre krige imod bystaten Karthago på Nordafrikas kyst, de såkaldt puniske
-                  krige, i hhv. 269-241, 217-201 og 149-146 f.Kr. Citatet stammer fra <persName key="Thrige, S.B.">S.B. Thrige</persName>s (1820-1901) "Lærebog i den gamle Historie til
-                  Brug for de lærde Skoler", 2.udg. 1863, som Bang må have stiftet bekendtskab med
-                  som gymnasieelev</note>.</p>
-                <p>1. <persName key="Bjerring, Emil">Bierring</persName>
-                    <note>Emil Bjerring (1837-96), journalist, fra 1878 redaktionssekretær ved Nationaltidende, 1880 medstifter af Journalistforeningen</note> sagde, at det aldrig havde været hans Mening, at der ikke
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Min kære Peter.</p>
+            <p>Saa endte den puniske Krig<ref target="n1"/>.</p>
+            <p>1. <persName key="Bjerring_Emil">Bierring</persName>
+               <ref target="n2"/> sagde, at det aldrig havde været hans Mening, at der ikke
                skulde findes Feuilletoner med dit Navn(!) Kun ønskede han, at du blev N: fem eller
-               sex den første Gang - da "Dagbladet"<note>Nationaltidendes konkurrent som partiet
-                  Højres toneangivende avis</note> "lurede paa os" –</p>
-                <p>2 Dernæst ønskede han meget, at du, <emph>for at Bladet strax i den første Tid kunde
-                  drage den størst mulige Nytte af dig,</emph> skabte dig et Pseudonym, som det da
+               sex den første Gang - da "Dagbladet"<ref target="n3"/> "lurede paa os" –</p>
+            <p>2 Dernæst ønskede han meget, at du, <hi rend="italics">for at Bladet strax i den første Tid kunde
+                  drage den størst mulige Nytte af dig,</hi> skabte dig et Pseudonym, som det da
                galdt om at begynde med at gøre saa sympatisk som muligt.</p>
-                <p>Det besluttedes da, at "Fritz Holm"<note>Et af Peter Nansens pseudonymer som
-                  journalist</note> skulde skrive nu og Peter Nansen som <emph>
-                        <app>
-                            <lem>N:</lem>
-                            <rdg>rettet fra: nu</rdg>
-                        </app> sex</emph> – hvilket var baade Honnøren og Pengene reddet.</p>
-                <p>Jeg indskærpede atter min Opfattelse af "de Unges" Forhold til "Nationaltidende" og
+            <p>Det besluttedes da, at "Fritz Holm"<ref target="n4"/> skulde skrive nu og Peter Nansen som <hi rend="italics">
+                  <app>
+                     <lem>N:</lem>
+                     <rdg>rettet fra: nu</rdg>
+                  </app> sex</hi> – hvilket var baade Honnøren og Pengene reddet.</p>
+            <p>Jeg indskærpede atter min Opfattelse af "de Unges" Forhold til "Nationaltidende" og
                haaber, at det vil gavne nogen Tid.</p>
-                <p>
-                    <emph>Saa</emph> endte den puniske.</p>
-                <p>Sov vel, kære Peter, og vær uden Frygt for baade Penge og Fremtid.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>
+               <hi rend="italics">Saa</hi> endte den puniske.</p>
+            <p>Sov vel, kære Peter, og vær uden Frygt for baade Penge og Fremtid.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

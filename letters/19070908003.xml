@@ -1,143 +1,149 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19070908003</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 897</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Oluf Heise</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider, sendt som ekspresbrev. Brevets kuvert
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070908003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 897</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider, sendt som ekspresbrev. Brevets kuvert
                                                 er bevaret; den er frankeret med to frimærker, et 40
                                                 og et 5 Pfennigs-frimærke, poststemplet:
-                                                  <emph>Berlin.W.-8.9.07.2-3N</emph>; dansk
-                                                modtagerstempel på bagsiden: <emph>Kjøbenhavn K.
-                                                  3.OMB -9.9.07</emph>. Bang har selv skrevet
-                                                adressen på kuverten: <emph>Express / Hr.
+                                                  <hi rend="italics">Berlin.W.-8.9.07.2-3N</hi>; dansk
+                                                modtagerstempel på bagsiden: <hi rend="italics">Kjøbenhavn K.
+                                                  3.OMB -9.9.07</hi>. Bang har selv skrevet
+                                                adressen på kuverten: <hi rend="italics">Express / Hr.
                                                   Overretssagfører Oluf Heise / Kopenhagen. K. /
-                                                  Nørregade / (Folketeatrets Gaard.)</emph> Med rød
+                                                  Nørregade / (Folketeatrets Gaard.)</hi> Med rød
                                                 farveblyant er der sat et stort kryds henover
-                                                kuvertens forside, og ordet <emph>Express</emph> er
+                                                kuvertens forside, og ordet <hi rend="italics">Express</hi> er
                                                 kraftigt understreget. Kuvertens bagsiden bærer ‒
                                                 foruden det danske modtagerstempel ‒ spredte beløb
                                                 skrevet med blyant, formentlig af Oluf Heise:
-                                                  <emph>21,000</emph>, <emph>19,500</emph>,
-                                                  <emph>9,000</emph> og <emph>10,000</emph></ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1907-09-08">1907, 8. September [søndag] <note>Bang flyttede
+                                                  <hi rend="italics">21,000</hi>, <hi rend="italics">19,500</hi>,
+                                                  <hi rend="italics">9,000</hi> og <hi rend="italics">10,000</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-09-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-09-08">1907, 8. September [søndag] <note>Bang flyttede
                         mandag 9.9.1907 fra sin lejlighed i Nürnbergerstrasse til en i
                         Fasanenstrasse</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Nürnbergerstrasse 36. Berlin W.</p>
-                <p rend="right">8.9.1907.</p>
-                <p>Min Ven.</p>
-                <p>Nej, nu kan jeg ikke mer. Nu har jeg i ti Uger ustanseligt og ustanseligt fyldt
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nürnbergerstrasse 36. Berlin W.</p>
+            <p rend="right">8.9.1907.</p>
+            <p>Min Ven.</p>
+            <p>Nej, nu kan jeg ikke mer. Nu har jeg i ti Uger ustanseligt og ustanseligt fyldt
                     Bladspalter og Bogsider og Tidskriftsider og om otte og fyrretyve Timer skal jeg
-                    forlade disse Stuer<note>Bang flyttede 9.9.1907 fra sin lejlighed i
-                        Nürnbergerstrasse 36 til en lejlighed i Fasanenstrasse 58</note> og har ‒
+                    forlade disse Stuer<ref target="n1"/> og har ‒
                     ikke Tag over Hovedet. Det lyder som et Eventyr og det er sandt. Jeg skal jo
                     flytte den 10 ↄ: iovermorgen. Som en Gal har jeg arbejdet for at naa det: at faa
                     disse stakkels Værelser møblerede med nogle Kurvestole og nogle Bondeborde. Og
                     alt syntes i Orden og saa, da jeg staaer foran selve Huslejen, kommer Pengene
-                    ikke. Schibsted<note>Den norske journalist Amandus Schibsted (1849-1913), ejer
-                        af og chefredaktør for den konservative avis Aftenposten, der udkom i
-                        Kristiania og var Norges største dagblad. Herman Bang leverede artikler i
-                        1889-1890 og igen sporadisk efter 1901, flest i 1907</note> (Aftenposten,
+                    ikke. Schibsted<ref target="n2"/> (Aftenposten,
                     Kristiania) er i Udlandet. »Svenska Dagbladet« svarer mig ikke. »Hvar 8 Dag«
                     (Göteborg) ligesaa lidt. »Det nye Aarhundrede« sender 40 Reichsmark for en
-                        Essay<note>Bangs artikel <emph>Kvinder. I. Benedicte Arnesen-Kall</emph> er
-                        trykt i månedsskriftet Det ny Aarhundrede, oktober 1907, s. 1-8</note>, som
+                        Essay<ref target="n3"/>, som
                     har taget mig en Uge.... Hvorfor har jeg saa arbejdet, siden jeg dog aldrig kan
                     naa videre end til at betle? Jeg har i Maanederne Juli og August skrevet 7000
-                    (syvtusind) Linjer i »København«<note>Bang havde siden 1902 været journalistisk
-                        bidragyder til avisen København</note> for en Betaling af 400 Kroner,
+                    (syvtusind) Linjer i »København«<ref target="n4"/> for en Betaling af 400 Kroner,
                     tohundrede Kroner om Maaneden, tohundrede Kroner for 3500 Linjer.... Men hvad
                     nytter det? Det er jo min Lod at blive saaledes betalt og derfor, trods alt
                     Arbejde, at maatte tigge. Og tilmed hos dem, som selv har lidt. Men, kære Heise,
-                    hvis De <emph>kan</emph>, da <emph>telegrafér</emph>, naar De har modtaget dette
+                    hvis De <hi rend="italics">kan</hi>, da <hi rend="italics">telegrafér</hi>, naar De har modtaget dette
                     sørgelige Brev tohundrede Kroner til mig. Det lyder saa latterligt, naar jeg
                     lover Dem, at jeg skal betale dem tilbage. Og dog skal jeg det, naar min
-                    Oplæsningstid her i Tyskland har taget Fart<note>Bang holdt sin første
-                        offentlige oplæsning i Berlin 28.11.1907; oplæsningsrejser til store byer i
-                        Tyskland og Østrig gennemførte han januar-april 1908</note>. Jeg begynder i
-                    Slutningen af November og jeg bruger her <emph>saa</emph> lidt, at der til den
+                    Oplæsningstid her i Tyskland har taget Fart<ref target="n5"/>. Jeg begynder i
+                    Slutningen af November og jeg bruger her <hi rend="italics">saa</hi> lidt, at der til den
                     Tid vil blive adskilligt tilovers. Vær ikke vred paa mig. Jeg har lidt saa meget
                     og (endnu en Gang) arbejdet saa meget ‒ forgæves. Maaske er De slet ikke i
                     København ‒ ‒</p>
-                <p>Hils Fru Heise<note>Inger Heise (1864-1932), født Groot, gift 1893 med
-                        overretssagfører Oluf Heise, København</note>.</p>
-                <p rend="right">Deres Ven</p>
-                <p rend="right">H. B.</p>
-
-            </div>
-        </body>
-    </text>
+            <p>Hils Fru Heise<ref target="n6"/>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

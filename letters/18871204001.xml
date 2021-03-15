@@ -1,125 +1,136 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18871204001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 519</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Emil Jonas</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-12-04">1887, 4. December [søndag]<note>empty</note>
-                </date>
-                <placeName cert="high">København</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">København. Studiestræde 4. K.</p>
-                <p rend="right">4.12.87.</p>
-                <p>Kære Kammerraad.</p>
-                <p>Saa har De vel ganske glemt mig ‒ og Skylden vil De give mig selv. Men ‒ tro mig
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18871204001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 519</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1887-12-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-12-04">1887, 4. December [søndag]<note>empty</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">København. Studiestræde 4. K.</p>
+            <p rend="right">4.12.87.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Saa har De vel ganske glemt mig ‒ og Skylden vil De give mig selv. Men ‒ tro mig
                     ‒ det har maattet tage al min Tid og Kraft igen at komme en Smule ind i
-                    Forholdene her og atter faa blot <emph>noget</emph> at leve af. Nu skal jeg
+                    Forholdene her og atter faa blot <hi rend="italics">noget</hi> at leve af. Nu skal jeg
                     atter sende Dem Manuskripter, kære gamle Raad, og atter lade de to gamle Venner
                     i Friedrichsstrasse høre fra mig.</p>
-                <p>»Stuk« er blevet meget rost og meget dadlet. Dog har alle (undtagen
-                        »Avisen«<note>En usigneret anmeldelse i Avisen, 20.11.1887</note>) behandlet
+            <p>»Stuk« er blevet meget rost og meget dadlet. Dog har alle (undtagen
+                        »Avisen«<ref target="n1"/>) behandlet
                     den med Respekt. Tyskere vil ikke have Taalmod til at læse en saa »speciel« Bog
                     om København. Hvordan er det med »Ved Vejen«? Kan vi virkelig ikke faa nogen
                     Forlægger til denne Fortælling, som her af alle Partier kaldes »udmærket«? Det
                     er dog sørgeligt, at De skal have udført saa stort et Arbejde saa ganske
                     forgæves.</p>
-                <p>Og alle mine andre Ting: »Schnee« ‒ »Petite Mouche« (til »Gesellschaft«); »Nat
+            <p>Og alle mine andre Ting: »Schnee« ‒ »Petite Mouche« (til »Gesellschaft«); »Nat
                     Batavia« (Schorer); »Norgerejsen« (Vom F: z: M:); »Der alte Studiengenosse«
-                    (Bazar) ‒ ‒ alt dette, som dog var antaget, naar <emph>kommer</emph> det? Og De
+                    (Bazar) ‒ ‒ alt dette, som dog var antaget, naar <hi rend="italics">kommer</hi> det? Og De
                     har jo ovenikøbet oversat saa meget andet.</p>
-                <p>De skulde, kære Raad, i Tide sørge for at samle nogle Blade, der til Sommer vilde
-                    optage en Serie Artikler: »Fra Norden« med Udstillingen<note>Den store nordiske
-                        Industri-, Landbrugs- og Kunstudstilling, der afholdtes i København
-                        18.5.-2.10.1888</note> som Midtpunkt. Udstillingen synes at skulle blive
-                        <emph>meget</emph> storartet. Samtidig med dette afsender jeg til Dem en
+            <p>De skulde, kære Raad, i Tide sørge for at samle nogle Blade, der til Sommer vilde
+                    optage en Serie Artikler: »Fra Norden« med Udstillingen<ref target="n2"/> som Midtpunkt. Udstillingen synes at skulle blive
+                        <hi rend="italics">meget</hi> storartet. Samtidig med dette afsender jeg til Dem en
                     Føljeton til Prager »Politik«. Man vil strax trykke den naturligvis.</p>
-                <p>Hele min Tid gaar hen med Skriveri. Jeg har i disse to Maaneder<note>Dvs. siden
-                        Bangs tilbagekomst til København i begyndelsen af oktober 1887</note> været
+            <p>Hele min Tid gaar hen med Skriveri. Jeg har i disse to Maaneder<ref target="n3"/> været
                     to Gange i Teatret ‒ og dét er min Hovedfornøjelse! Stort Skæg har jeg faaet ‒
                     det vil sige Overskæg. Da der udstilledes et med denne nye Pryd forsynet Portræt
                     i Nygade, var der Opløb af Damer. Gud give, man havde kunnet tage Entré.</p>
-                <p>Men her florerer <emph>kun</emph> de gratis Fornøjelser. Tilstandene er ganske
+            <p>Men her florerer <hi rend="italics">kun</hi> de gratis Fornøjelser. Tilstandene er ganske
                     græsselige, maa De tro, og jeg ved ikke, hvor det hele skal ende. Ti overfor den
-                    truende Misère paa <emph>alle</emph> Omraader kan alle <emph>snakke</emph> ‒
-                        <emph>men ingen handler</emph>.</p>
-                <p>Hils Deres Kone<note>Hertha Adele Jonas, født Wadskiær (1807-1894), gift 1848 med
-                        Emil Jonas</note> saa mange Gange. <emph>Herfra</emph> vil jeg forsøge at
+                    truende Misère paa <hi rend="italics">alle</hi> Omraader kan alle <hi rend="italics">snakke</hi> ‒
+                        <hi rend="italics">men ingen handler</hi>.</p>
+            <p>Hils Deres Kone<ref target="n4"/> saa mange Gange. <hi rend="italics">Herfra</hi> vil jeg forsøge at
                     blive benaadet. Naar det dog kunde ské.</p>
-                <p>Lev vel, kære Kammerraad, og skriv en Smule</p>
-                <p rend="right">til Deres Ven</p>
-                <p rend="right">Herman B.</p>
-            </div>
-        </body>
-    </text>
+            <p>Lev vel, kære Kammerraad, og skriv en Smule</p>
+            <p rend="right">til Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

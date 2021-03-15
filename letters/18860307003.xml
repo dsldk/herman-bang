@@ -1,103 +1,122 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18860307003</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 156</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 2 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1886-03-07" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 7. marts], Søndag Aften<note>Dette brev er Bangs
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860307003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 156</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-03-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-03-07"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 7. marts], Søndag Aften<note>Dette brev er Bangs
                      <q>postscriptum</q> til brevet 1886. 7. marts, "Søndag", men ifølge sin ordlyd er det blevet
                   afsendt som et selvstændigt brev to timer efter det første brev</note>
-                </date>
-                <placeName cert="high">[Wien]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag Aften</p>
-                <p>
-                    <emph>Post skr:</emph>
-                    <note>Af lat. postscriptum: efterskrift</note>
-                    <emph>til mit Brev.</emph>
-                </p>
-                <p>Jeg beder dig, kære Peter, <emph>holde <persName key="Ottesen, Christine Margrethe">Fru Ottesen</persName>
-                    </emph>
-                    <note>Christine Margrethe Ottesen (født ca. 1843), Bangs værtinde i Studiestræde
-                  4, København</note>
-                    <emph>hen med:</emph> at "Underhandlingerne er svævende".</p>
-                <p rend="right">Herman.</p>
-                <p>Sig <emph>ingen</emph> Indholdet af mit Brev. Men skriv mig <emph>strax</emph>, hvad
-                  <emph>du</emph> vil – for Himlens Skyld.</p>
-                <p>Kære Ven – jeg tror, at mit Brev, som er afsendt for to Timer siden, er adresseret
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag Aften</p>
+            <p>
+               <hi rend="italics">Post skr:</hi>
+               <ref target="n1"/>
+               <hi rend="italics">til mit Brev.</hi>
+            </p>
+            <p>Jeg beder dig, kære Peter, <hi rend="italics">holde <persName key="Ottesen_Christine_Margrethe">Fru Ottesen</persName>
+               </hi>
+               <ref target="n2"/>
+               <hi rend="italics">hen med:</hi> at "Underhandlingerne er svævende".</p>
+            <p rend="right">Herman.</p>
+            <p>Sig <hi rend="italics">ingen</hi> Indholdet af mit Brev. Men skriv mig <hi rend="italics">strax</hi>, hvad
+                  <hi rend="italics">du</hi> vil – for Himlens Skyld.</p>
+            <p>Kære Ven – jeg tror, at mit Brev, som er afsendt for to Timer siden, er adresseret
                "Politiken" ved en Fejltagelse, af gammel Vane.</p>
-                <p>Hent det, for Guds Skyld, <emph>strax</emph>.</p>
-            </div>
-        </body>
-    </text>
+            <p>Hent det, for Guds Skyld, <hi rend="italics">strax</hi>.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

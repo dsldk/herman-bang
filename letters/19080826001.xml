@@ -1,117 +1,131 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19080826001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 459</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1908-08-26" notBefore="9999-99-99" notAfter="9999-99-99">1908. 26. august [onsdag]<note>empty</note>
-                </date>
-                <placeName cert="high">Berlin</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Fasanenstrasse 58.</p>
-                <p rend="right">Berlin. W.</p>
-                <p rend="right">26.8.1908.</p>
-                <p>Min kære Ven.</p>
-                <p>Endelig har <app>
-                        <lem>jeg</lem>
-                        <rdg>Ordet er tilføjet over linjen</rdg>
-                    </app> en Time, hvor jeg kan skrive. Jeg har nemlig saa stærke Smerter i Hovedet, at
-               det idag ikke gaar med Romanen<note>Det er usikkert, hvilket romanprojekt Bang var
-                  ved at tage fat på: måske <title key="Helg">Helg</title>, som blev udgivet i 1935
-                  i ufuldendt form. Se også brevene 19090329 og 19090712</note>. Hvad den angaaer,
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19080826001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 459</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1908-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1908-08-26"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1908. 26. august [onsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">26.8.1908.</p>
+            <p>Min kære Ven.</p>
+            <p>Endelig har <app>
+                  <lem>jeg</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> en Time, hvor jeg kan skrive. Jeg har nemlig saa stærke Smerter i Hovedet, at
+               det idag ikke gaar med Romanen<ref target="n1"/>. Hvad den angaaer,
                er det bedst ikke at tale om den. Man skal ikke tale om Bogen, mens man skriver den,
-               og, naar den <emph>er</emph> skreven – helst saa lidt som muligt ....
-                  "Forordet"<note>Bangs forord til Peter Nansen: <title key="Samlede Skrifter">Samlede Skrifter</title>, jf. brevet 19080823</note> glæder jeg mig oprigtigt
+               og, naar den <hi rend="italics">er</hi> skreven – helst saa lidt som muligt ....
+                  "Forordet"<ref target="n2"/> glæder jeg mig oprigtigt
                til at lave. Jeg tror, jeg har faaet noget ganske Fint tænkt sammen. Idag skal jeg nu
-               skrive til <persName key="Fischer, Samuel">Sammy</persName>
-                    <note>Dewn tyske forlægger Samuel Fischer (1859-1934), indehaver af S. Fischer Verlag, Berlin</note> om det og meget andet .... Ja, hvad min Sygdom angaar,
+               skrive til <persName key="Fischer_Samuel">Sammy</persName>
+               <ref target="n3"/> om det og meget andet .... Ja, hvad min Sygdom angaar,
                saa <app>
-                        <lem>har</lem>
-                        <rdg>Foran ordet har Bang overstreget et: jeg</rdg>
-                    </app> jeg været slæbt fra Specialist til Specialist, og, hvad det er, siger de mig
+                  <lem>har</lem>
+                  <rdg>Foran ordet har Bang overstreget et: jeg</rdg>
+               </app> jeg været slæbt fra Specialist til Specialist, og, hvad det er, siger de mig
                ikke – – hvis de selv véd det. Kun saa meget forstaaer jeg, at det ikke mere er
                Nerverne men Organismen, der er ramt. En Gang maatte det jo komme. Naar jeg er oppe,
                arbejder jeg som før. Maaske lidt langsommere, men jeg tror ikke, meget
-                  ringer<note>Dvs. ikke meget ringere</note> .... Da jeg hørte om <persName key="Nansen, Betty">Fru Nansen</persName>
-                    <note>Betty Nansen</note> paa "<placeName key="Frydenstrand">Frydenstrand</placeName>"<note>Frydenstrand Badesanatorium ved Frederikshavn, drevet
-                  af Adventistsamfundet og overlæge <persName key="Ottosen, Carl">Carl
-                     Ottosen</persName> (1864-1942), der også var direktør for Skodsborg Badesanatorium nord for København</note>,
+                  ringer<ref target="n4"/> .... Da jeg hørte om <persName key="Nansen_Betty">Fru Nansen</persName>
+               <ref target="n5"/> paa "<placeName key="Frydenstrand">Frydenstrand</placeName>"<ref target="n6"/>,
                satte jeg mig paa mine Halehvirvler. Det grufulde Sted. Og hvad har Primadonnaen
                levet af paa Sabbat'en? For da "koger" de jo ikke, de Sjæle, ikke en Gang Badevand,
                endsige Menneskeføde ... Men hver sin Lyst. Hvem skal være "Bygmestren", naar Fru
-               Nansen skal være Hilde<note>Det Kongelige Teater havde 10.11.1908 premiere på den norske dramatiker Henrik
-                  Ibsens skuespil <title key="Bygmester Solness">Bygmester Solness</title> med Betty Nansen i
-                  rollen som Hilde</note>? Det er af alle <persName key="Ibsen, Henrik">Ibsen</persName>s Skuespil det, som jeg helst vilde have iscenesat paa mit
+               Nansen skal være Hilde<ref target="n7"/>? Det er af alle <persName key="Ibsen_Henrik">Ibsen</persName>s Skuespil det, som jeg helst vilde have iscenesat paa mit
                Modersmaal. Stykket skal forstaaes og spilles som en Elskovsduet, der slaaes an,
                stiger, svulmer og sprænges. Kun saaledes river man Dramaet fra Sludderens høje Himle
                ned paa Jorden, hvor menneskelige Øren kan forstaa det. Men for at Indtrykket kan
@@ -120,57 +134,48 @@
                svunget sig op til at være ... Men alt det nytter det naturligvis ikke at skrive om.
                For paa det Kongelige bliver Sollnes nok alligevel en halvt Ibsen-lignende Olding med
                hvidt Haar og Dybsindighed. Skønt han dog er Elskeren og intet andet end det geniale
-               Menneske, der elsker – – Hvad <persName key="Knudsen, Johan">Johan</persName>
-                    <note>Godsejer Johan Knudsen (1865-1942), Bangsbo ved Frederikshavn, i 1906 indvalgt i Folketinget for Højre</note> angaaer, da burde nu, medens han endnu sidder i Tinget,
+               Menneske, der elsker – – Hvad <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n8"/> angaaer, da burde nu, medens han endnu sidder i Tinget,
                det energiske Forsøg gøres paa at lancere ham som "Peter Plus" Efterfølger paa
-                  Stolen<note>Dvs. som chef for Det Kongelige Teater, et embede greve <persName key="Danneskiold-Samsøe, Christian">Christian Danneskiold-Samsøe</persName> (1836-1908)
-                  havde beklædt til sin død; han efterfulgtes 1908-09 af <persName key="Christiansen, Einar">Einar Christiansen</persName> (1861-1939)</note>. Han passer
+                  Stolen<ref target="n9"/>. Han passer
                udmærket til den Post og slet ingen passer saa godt eller bedre (siden nu du en Gang
-               ikke kan). Det var let muligt, saasnart <persName key="Lange, Sven">S.L.</persName>
-                    <note>Velsagtens forfatteren og dramatikeren Sven Lange (1868-1930)</note>, helst paa et neutralt Sted som f:Ex: i "Gads
+               ikke kan). Det var let muligt, saasnart <persName key="Lange_Sven">S.L.</persName>
+               <ref target="n10"/>, helst paa et neutralt Sted som f:Ex: i "Gads
                Magazin", havde lanceret Navnet, paa en Gang at rykke ud fra flere Sider:</p>
-                <p>Jeg i "København", <persName key="Henriques, Robert">Robert</persName>
-                    <note>Musikkritikeren Robert Henriques (1858-1914)</note> i "Vort Land"... "Den lille Presse" kan paa forskellig
-               Maade "<emph>paavirkes</emph>" .... Og saa var Johan dog i Land og havde noget at
+            <p>Jeg i "København", <persName key="Henriques_Robert">Robert</persName>
+               <ref target="n11"/> i "Vort Land"... "Den lille Presse" kan paa forskellig
+               Maade "<hi rend="italics">paavirkes</hi>" .... Og saa var Johan dog i Land og havde noget at
                tænke paa. Aa, jeg vilde ønske, jeg kunde opleve den Dag .... Ellers ønsker jeg saa
-               lidt at leve mange Dage. <persName key="Jensen, Johannes V.">Johannes V.
-                 Jensen</persName> ramte godt, da han ramte. For han ramte mit Hjerte<note>Forfatteren Johannes V. Jensen (1873-1950), se brevet 19061200</note>. Hjemme lo
+               lidt at leve mange Dage. <persName key="Jensen_Johannes_V.">Johannes V.
+                 Jensen</persName> ramte godt, da han ramte. For han ramte mit Hjerte<ref target="n12"/>. Hjemme lo
                jeg dog en Gang imellem. I disse Stuer bliver der aldrig lét .... "Det norske
-               Studentersamfund" ønskede mig til Taler ved <persName key="Lie, Jonas">Jonas
+               Studentersamfund" ønskede mig til Taler ved <persName key="Lie_Jonas">Jonas
                   Lie</persName>s "Mindefest". Trods alt har jeg sagt Ja, hvad jeg troer, du vil
-               finde rigtigt<note>12.9.1908 holdt Bang i <placeName key="Kristiania">Kristiania</placeName> (Oslo) en mindetale over den norske forfatter Jonas Lie (1833-1908)</note>. Over mit eget
+               finde rigtigt<ref target="n13"/>. Over mit eget
                Lands Stormænd kan jeg ikke tale. Men maaske er det netop derfor godt, mine Landsmænd
                erfarer, at over Norges kan jeg det. Jeg rejser altsaa via <placeName key="Sassnitz">Sassnitz</placeName>-<placeName key="Trelleborg">Trelleborg</placeName>
-                    <note>Færgerute mellem Nordtyskland og Skånes sydkyst</note>. Til
+               <ref target="n14"/>. Til
                   <placeName key="Rusland">Rusland</placeName> derimod tør Lægerne ikke sende mig og
                jeg – er lykkelig over det. De Sejre interesserer mig saa lidt. Og svært nok vil det
                falde i November at slæbe sig gennem femten tyske Byer, hvor man i "Goethe" og andre
                "Selskaber" har ønsket at høre mig. Jeg skal jo ogsaa optræde her i Berlin – og til
                al den Omflakken og Faren skal "Dannevirkenatten" indstuderes. Bien vous fasse,
-               mesdames et messieurs<note>fr.: God fornøjelse, mine damer og herrer</note> – –</p>
-                <p>Med "<title key="Ludvigsbakke">Ludvigsbakke</title>" fik du Ret<note>Antagelig den
-                  tyske oversættelse <title key="Ludwigshöhe">Ludwigshöhe</title>. Roman einer
-                  Krankenpflegerin, som udkom 1.2.1908 hos S. Fischer Verlag i Berlin</note>. Den
+               mesdames et messieurs<ref target="n15"/> – –</p>
+            <p>Med "<!--start title reference--><title key="Ludvigsbakke">Ludvigsbakke</title>
+               <!--end title reference-->" fik du Ret<ref target="n16"/>. Den
                har vakt megen Entusiasme og bliver endogsaa solgt. Hvad jeg synes, et Under er ....
-               Det er da dejligt, at <persName key="Houmark, Christian">Houmark</persName> har faaet
-               skrevet den Bog<note>Journalisten Christian Houmarks (1869-1950) debutbog, romanen <title key="Det Syndens Barn">Det Syndens Barn</title>, udkom hos
-                  Gyldendal 1908</note>, til hvilken jeg har opfordret ham i flere Aar ...
-                  <persName key="Holst, Bertha">Bertha Holst</persName>s "<title key="Vingeslag">Vingeslag</title>" skal nu udkomme paa Tysk. "Politikens" Anmeldelse var
-               kolossal. Naa, det var vel <emph>min</emph> Nièce, som fik det Spark<note>Bertha
-                  Holsts debutroman Vingeslag blev anmeldt af litteraturkritikeren <persName key="Rimestad, Christian">Christian Rimestad</persName> i Politiken, 18.5.1908: "Denne elskværdige og
-                  gammeldags Fortælling er et Opbyggelsesskrift af den forsigtigt fritænkeriske Art
-                  [...] Det er ikke blot ikke nyt, det er ganske overfladisk skildret [...] Bogen er
-                  overhovedet blottet for Menneskeskildring." Og Rimestad slutter sin relativt
-                  kortfattede anmeldelse med ordene: "Tilbage bliver et Indtryk af en Forfatterinde,
-                  der kærligt har forherliget sine Søstre som pure Engle af uplettet Godhed." –
-                  Nogen tysk udgave af romanen ses ikke at være udkommet</note> .... Hils nu
-               Primadonnaen de hundrede Gange og bed <persName key="Nansen, Esther">Esther</persName>
-                    <note>Esther Nansen (1897-1972), datter af Peter og Betty Nansen</note> ikke helt at glemme mig. Hvor er <persName key="Karoline">gamle Karoline</persName>
-                    <note>Ikke identificeret</note>? Og hvor færdes <persName key="Eisenhardt">Eisenhardt</persName>
-                    <note>Ikke identificeret</note>? Og selv lev vel og Tak endnu en Gang for dit lange
+               Det er da dejligt, at <persName key="Houmark_Christian">Houmark</persName> har faaet
+               skrevet den Bog<ref target="n17"/>, til hvilken jeg har opfordret ham i flere Aar ...
+                  <persName key="Holst_Bertha">Bertha Holst</persName>s "<!--start title reference--><title key="Vingeslag">Vingeslag</title>
+               <!--end title reference-->" skal nu udkomme paa Tysk. "Politikens" Anmeldelse var
+               kolossal. Naa, det var vel <hi rend="italics">min</hi> Nièce, som fik det Spark<ref target="n18"/> .... Hils nu
+               Primadonnaen de hundrede Gange og bed <persName key="Nansen_Esther">Esther</persName>
+               <ref target="n19"/> ikke helt at glemme mig. Hvor er <persName key="Karoline">gamle Karoline</persName>
+               <ref target="n20"/>? Og hvor færdes <persName key="Eisenhardt">Eisenhardt</persName>
+               <ref target="n21"/>? Og selv lev vel og Tak endnu en Gang for dit lange
                og dejlige Brev. Jeg faar ikke saa mange Breve.</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,99 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19070210001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Tilg. 565, 4to. Nr. 58</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Betty Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1907-02-10" notBefore="9999-99-99" notAfter="9999-99-99">[1907. 10. februar, cirka] Søndag<note>empty</note>
-                </date>
-                <placeName cert="low">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Søndag.</p>
-                <p>Min kære Ven.</p>
-                <p>Maaske kan det gøre Dem lidt glad: jeg tror nu ikke, at der vil være nogen Hindring
-               for et Gæstespil hos <persName key="Reinhardt, Max">Max Reinhardt</persName>
-                    <note>Max Reinhardt (1873-1943), tysk skuespiller og teaterleder</note>.</p>
-                <p>Længe har det varet. Men idag har jeg faaet det gjort.</p>
-                <p>Og "<title key="Agnete">Agnete</title>"<note>Skuespil af den norske forfatter <persName key="Skram, Amalie">Amalie Skram</persName> (1846-1905), gik 1905-06 på Folketeatret med
-                  Betty Nansen i titelrollen; én forestilling i samme regi blev givet
-                  1.3.1907</note> og "<title key="Gertrud">Gertrud</title>"<note>Skuespil af den svenske forfatter
-                     <persName key="Söderberg, Hjalmar">Hjalmar Söderberg</persName> (1869-1941), oversat af
-                  Peter Nansen, premiere på Folketeatret 13.2.1907 med Betty Nansen i
-                  titelrollen</note> og det Hele.</p>
-                <p rend="right">Deres gamle Ven</p>
-                <p rend="right">Herman.</p>
-                <p>Aa, hvor er jeg træt –</p>
-            </div>
-        </body>
-    </text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070210001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 58</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1907-02-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1907-02-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1907. 10. februar, cirka] Søndag<note>empty</note>
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Min kære Ven.</p>
+            <p>Maaske kan det gøre Dem lidt glad: jeg tror nu ikke, at der vil være nogen Hindring
+               for et Gæstespil hos <persName key="Reinhardt_Max">Max Reinhardt</persName>
+               <ref target="n1"/>.</p>
+            <p>Længe har det varet. Men idag har jeg faaet det gjort.</p>
+            <p>Og "<!--start title reference--><title key="Agnete">Agnete</title>
+               <!--end title reference-->"<ref target="n2"/> og "<!--start title reference--><title key="Gertrud">Gertrud</title>
+               <!--end title reference-->"<ref target="n3"/> og det Hele.</p>
+            <p rend="right">Deres gamle Ven</p>
+            <p rend="right">Herman.</p>
+            <p>Aa, hvor er jeg træt –</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,112 +1,129 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18891211001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18891211001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
                                 Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 74</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev. Brevpapir med trykte initialer: H.B. øverst tilvenstre; begge
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 74</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev. Brevpapir med trykte initialer: H.B. øverst tilvenstre; begge
                         bogstaver med en lang nedstreg</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1889-12-11" notBefore="9999-99-99" notAfter="9999-99-99">[1889. 11. december. ] Onsdag<note>Kan dateres ud fra notitsen i Politiken,
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1889-12-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1889-12-11"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1889. 11. december. ] Onsdag<note>Kan dateres ud fra notitsen i Politiken,
                 13.12.1889</note>
-                </date>
-                <placeName cert="high">Odense</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Odense. Onsdag.</p>
-                <p>Kære Nansen.</p>
-                <p>
-                    <emph>Mange</emph> Tak for dit Brev.</p>
-                <p>Hvad <persName key="Lie, Jonas">Lie</persName>
-                    <note>Den norske forfatter Jonas Lie (1833-1908)</note> angaar, har
-                        du ganske Ret. Giv det <emph>ikke</emph> til <persName key="Rode, Ove">Rode</persName>
-                    <note>Journalisten Ove Rode (1867-1933), dvs. avisen København</note> –
+            </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Odense. Onsdag.</p>
+            <p>Kære Nansen.</p>
+            <p>
+               <hi rend="italics">Mange</hi> Tak for dit Brev.</p>
+            <p>Hvad <persName key="Lie_Jonas">Lie</persName>
+               <ref target="n1"/> angaar, har
+                        du ganske Ret. Giv det <hi rend="italics">ikke</hi> til <persName key="Rode_Ove">Rode</persName>
+               <ref target="n2"/> –
                         allenfals ikke nu.</p>
-                <p>Hvad "Digtene"<note>Bangs bog <title key="Digte">Digte</title> udkom 17.12.1889</note> angaar, da kalder
+            <p>Hvad "Digtene"<ref target="n3"/> angaar, da kalder
                         jeg saa vist ikke din Mening for Vrøvl – desværre. Men, at man vil ansé
                         Bogen for umulig, véd jeg. Hvorfor jeg ønskede, du skulde læse, var af mer
-                                <emph>private</emph> Grunde.</p>
-                <p>Naa, hvis du troede, at det kunde befrygtes, at man vilde være for nærgaaende mod
-                        mig, havde du jo nok stanset <persName key="Langhoff, Paul">Langhoff</persName>
-                    <note>Forlæggeren Paul Langhoff (1862-94), indehaver af J.H. Schubothes Forlag, København</note>. Nu beder jeg dig
+                                <hi rend="italics">private</hi> Grunde.</p>
+            <p>Naa, hvis du troede, at det kunde befrygtes, at man vilde være for nærgaaende mod
+                        mig, havde du jo nok stanset <persName key="Langhoff_Paul">Langhoff</persName>
+               <ref target="n4"/>. Nu beder jeg dig
                         (da det altid beroliger at vide mig borte) i "Politiken" at meddele, at Hr.
                         H.B. opholder sig i Odense, hvor han forbliver, til han i Februar vender
-                        tilbage til Norge.<note>Notits under rubrikken Smæld og Smuld i Politiken,
-                                fredag 13.12.1889: "Herman Bang har taget fast Vinterophold i
-                                Odense, hvor han bliver, indtil han i Februar atter rejser til
-                                Norge."</note>
-                </p>
-                <p rend="right">Din Ven</p>
-                <p rend="right">H. B.</p>
-            </div>
-        </body>
-    </text>
+                        tilbage til Norge.<ref target="n5"/>
+            </p>
+            <p rend="right">Din Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

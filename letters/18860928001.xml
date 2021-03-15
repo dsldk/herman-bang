@@ -1,106 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18860928001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Julius Schiøtt</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-09-28">[1886, 28. september] Tirsdag<note>Bang har fået
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860928001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-09-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="schioett_j_1856">Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-09-28">[1886, 28. september] Tirsdag<note>Bang har fået
                         svar fra sine nærmeste venner i København om Stille Eksistensers
                         kunstneriske kvaliteter. Bogen udkom i København sidst i oktober. To kendte
                         brevdedikationer til hhv. Julius Schiøtt og Vilhelm Møller er begge dateret
                         Prag, 26.9.1886 ...</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-
-                <p rend="right">Prag. Tirsdag.</p>
-                <p>Kære Julius.</p>
-                <p>Det har glædet mig rentud balsamisk, at baade Møller og Nansen nu i Breve har
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Tirsdag.</p>
+            <p>Kære Julius.</p>
+            <p>Det har glædet mig rentud balsamisk, at baade Møller og Nansen nu i Breve har
                     mént som du om »Ved Veien«. De mener det begge mit bedste Arbeide.</p>
-                <p>Gudgive nu, at blot nogle maa mene som I.</p>
-                <p>Jeg beder dig <emph>indstændigt</emph> om dog <emph>nu</emph> at pirke ved Schou.
+            <p>Gudgive nu, at blot nogle maa mene som I.</p>
+            <p>Jeg beder dig <hi rend="italics">indstændigt</hi> om dog <hi rend="italics">nu</hi> at pirke ved Schou.
                     Jeg skulde bruge Pengene til den første. Faar dem nu vel tidligst den tredie.
                     Den 11 Sept. skrev han »en af Dagene«. Er det dog ikke et trist Svineri? Og jeg,
                     som trænger til at have Ro. Lad ham nu sende denne usalige Rest ‒ jeg er dog
-                    ikke forpligtet til at vente længere. Og <emph>jeg</emph> faar allerede paa
-                        Fredag<note>Dvs. 1. oktober</note> Ubehageligheder. Lad ham nu sende dem ‒
-                    og den hele <emph>min</emph> Rest. Jeg vil jo dog ogsaa gerne nu have Tryghed,
-                    at jeg kan begynde paa »Bernh. H.«<note>Bernhard Hoff, der var Bangs
-                        arbejdstitel på romanen Stuk</note></p>
-                <p>Hils din Kone.</p>
-                <p rend="right">Din Herman.</p>
-
-            </div>
-        </body>
-    </text>
+                    ikke forpligtet til at vente længere. Og <hi rend="italics">jeg</hi> faar allerede paa
+                        Fredag<ref target="n1"/> Ubehageligheder. Lad ham nu sende dem ‒
+                    og den hele <hi rend="italics">min</hi> Rest. Jeg vil jo dog ogsaa gerne nu have Tryghed,
+                    at jeg kan begynde paa »Bernh. H.«<ref target="n2"/>
+            </p>
+            <p>Hils din Kone.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

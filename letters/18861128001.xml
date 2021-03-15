@@ -1,154 +1,164 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18861128001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 115</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 3 sider. Fortrykt brevpapir: kronet monogram HB, violet
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861128001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 115</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Fortrykt brevpapir: kronet monogram HB, violet
                                  farve</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>Blyantspåskrift af Nansen på s. 2: <q>Bernhard Hoff = Stuk</q>
-                                    </ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXII</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-11-28" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 28. november], Søndag<note>Vandreaar s. 242 placerer
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrift af Nansen på s. 2: <q>Bernhard Hoff = Stuk</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-11-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 28. november], Søndag<note>Vandreaar s. 242 placerer
                   brevet mellem 23.11. og 7.12. Der er således to søndage at vælge imellem;
                   udgiveren foreslår den første: 28.11</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Søndag.</p>
-                <p>Tak for dit Brev, kære Peter. En lang Uge har jeg forgæves kæmpet med en smertelig og
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Søndag.</p>
+            <p>Tak for dit Brev, kære Peter. En lang Uge har jeg forgæves kæmpet med en smertelig og
                træt Modfaldenhed. Du kender mig, naar jeg ikke viger fra det Skrivebord, hvor jeg i
                otte Timer faar skrevet otte Linier. Impressionistisk, prikket – som Sprog og Tanke
                nu ligger for mig, kæmper jeg fortvivlet for at komme til større Ro, Baarethed i
                Foredraget og Fylde. Gode Gud – at dette er Livet. Alle disse Lidelser og saa læses
-               en Gang, <emph>en</emph> Gang og stilles paa Hylde og være glemt ɔ: gemt i en
-               Literaturhistorie. Jeg læste igaar <persName key="Jacobsen, J.P.">I.P.J's</persName>
+               en Gang, <hi rend="italics">en</hi> Gang og stilles paa Hylde og være glemt ɔ: gemt i en
+               Literaturhistorie. Jeg læste igaar <persName key="Jacobsen_J.P.">I.P.J's</persName>
                Bog. Der staar etsteds noget om, at maaske vil om "mange, mange Aar to Studenter
-               synge min Sang, mens de ser ud over Sundet"<note>"Solnedgang", del af "Hervert
-                  Sperring. Lyrisk Digtning" i den posthume udgave af J.P. Jacobsen: <title key="Digte og Udkast">Digte og Udkast</title> (med forord af <persName key="Brandes, Edvard">Edvard Brandes</persName> og <persName key="Møller, Vilhelm">Vilhelm Møller</persName>), Gyldendal 1886, s.
-               43</note>. Jeg havde saadan Lyst til at smile ad den Sjæl. <emph>Hvis</emph> dansk
+               synge min Sang, mens de ser ud over Sundet"<ref target="n1"/>. Jeg havde saadan Lyst til at smile ad den Sjæl. <hi rend="italics">Hvis</hi> dansk
                Sprog eksisterer om "mange mange Aar" – vil "to Studenter" have andet at synge. Ikke
-               en Gang <emph>hans</emph> Vers vil de synge. Men saa er det hele i Grunden
-                  <emph>for</emph> idiotisk. Og tyve Gange om Dagen siger jeg til mig selv:
-                  <emph>Lev</emph>, mens du lever. <emph>Gavn</emph> det Liv, som fortsættes.
-               Efterslægtens <emph>Gerninger</emph> vokser paa vore. Altsaa <emph>gør</emph> noget.
-               Og jeg <emph>vilde</emph> maaske, <emph>om jeg ikke stod i alle Handlingens Meninger
-                  saa fjernt fra Jer</emph>
-                    <note>Jer: dvs. Politiken</note> – kun i <emph>et</emph> er jeg Jer nær:
+               en Gang <hi rend="italics">hans</hi> Vers vil de synge. Men saa er det hele i Grunden
+                  <hi rend="italics">for</hi> idiotisk. Og tyve Gange om Dagen siger jeg til mig selv:
+                  <hi rend="italics">Lev</hi>, mens du lever. <hi rend="italics">Gavn</hi> det Liv, som fortsættes.
+               Efterslægtens <hi rend="italics">Gerninger</hi> vokser paa vore. Altsaa <hi rend="italics">gør</hi> noget.
+               Og jeg <hi rend="italics">vilde</hi> maaske, <hi rend="italics">om jeg ikke stod i alle Handlingens Meninger
+                  saa fjernt fra Jer</hi>
+               <ref target="n2"/> – kun i <hi rend="italics">et</hi> er jeg Jer nær:
                Forsvarssagen. Ellers – naa, Gud hjælpe os. Nu bliver jeg i Fremmedland og "digter".
                Maalende mig hver Dag med saare ringe Sjæle og findende mig – – ringere end de.</p>
-                <p>"Bernhard"<note>Dvs. romanen <title key="Stuk">Stuk</title>
-                    </note> vokser i mit
+            <p>"Bernhard"<ref target="n3"/> vokser i mit
                Hoved. Om jeg kunde skrive den. Stoffet er saa stort, at mit flittige Talent –
                lykkelige: du har et "flittigt Talent" – summer rundt som en Bi om et Bjerg. Men
-               Arbeidet <emph>skal</emph> gøres. Det ligger for mig som noget saa forskrækkeligt, at
+               Arbeidet <hi rend="italics">skal</hi> gøres. Det ligger for mig som noget saa forskrækkeligt, at
                jeg er syg hver Morgen, naar jeg ser mit Skrivebord. Men de store Scener staar for
-               mig saa klart, at jeg <emph>maa</emph> frem til dem. Bogens Kulmination en Aften i
+               mig saa klart, at jeg <hi rend="italics">maa</hi> frem til dem. Bogens Kulmination en Aften i
                "Victoriateatret". Københavns Kommune har givet Middag for en Kongres. Kjoleklædte,
                med Ordner og Stjerner, kommer Medlemmerne fra Middagen og sidder i Balkonen – man
                har spist i Glasgalleri ved Havnen og drukket for Verdensstaden København. Der er
                alt, hvad vi har af Aktier og Guld. Med Kongefamilien i Spidsen i Stukteatret. Det
-                  <emph>aabnes</emph> – med "<title key="Prinsessen af Bagdad">Prinsessen af
-                  Bagdad</title>"<note>Skuespil af franskmanden <persName key="Dumas den yngre, Alexandre">Alexandre Dumas den yngre</persName> (1824-95). I virkelighedens København havde det
-                  6.5.1885 premiere på Dagmarteatret, i <persName key="Skram, Erik">Erik
-                     Skram</persName>s oversættelse. Prinsessen af Bagdad havde urpremiere i Paris i
-                  1881. I romanen Stuk er stykket benævnt "Lykkepigen" (Romaner og noveller, bind 2,
-                  s. 211)</note>. Beruste, forslugne, sitrende sér de <persName key="Holst, Louise">Louise Holst</persName>
-                    <note>Skuespillerinden Louise Holst (1840-83), født Carpentier</note> vælte sine Arme i Lionnes Guld<note>Skuespillets
-                  hovedrolle hedder Lionnette de Hun og bærer tilnavnet Prinsessen af
-               Bagdad</note>. Det skal være, som fik de alle Gaasekød over deres hele Sjæl ved at
-               sé paa – de Regnepenge<note>Møntlignende genstande i messing eller kobber med rigt
-                  varierede præg, anvendt i Europa især fra 1500-tallet til 1800-tallet som
-                  hjælpemidler ved regneoperationer på et regnebræt</note>, hun vælter ud ... I det
+                  <hi rend="italics">aabnes</hi> – med "<!--start title reference--><title key="Prinsessen_af_Bagdad">Prinsessen af
+                  Bagdad</title>
+               <!--end title reference-->"<ref target="n4"/>. Beruste, forslugne, sitrende sér de <persName key="Holst_Louise">Louise Holst</persName>
+               <ref target="n5"/> vælte sine Arme i Lionnes Guld<ref target="n6"/>. Det skal være, som fik de alle Gaasekød over deres hele Sjæl ved at
+               sé paa – de Regnepenge<ref target="n7"/>, hun vælter ud ... I det
                Teater, bygget for Veksler, drevet for falske Veksler.</p>
-                <p>Kunde jeg <emph>en</emph> Gang i mit Liv naa min Tanke. Og ikke blot gribe efter den
+            <p>Kunde jeg <hi rend="italics">en</hi> Gang i mit Liv naa min Tanke. Og ikke blot gribe efter den
                med Fingrene. Jeg vilde gerne skrive paa denne Bog ti Aar for at mætte hver Stemning
                med det yderste af min Evne. Men – du gode Gud – man faar 80 for Arket. Det vil sige:
-                  <emph>jeg</emph> faar 40. Undertiden siger jeg: Staten kunde give mig lidt. Jeg
+                  <hi rend="italics">jeg</hi> faar 40. Undertiden siger jeg: Staten kunde give mig lidt. Jeg
                synes, jeg ser det falde min Ven, Staten, ind.</p>
-                <p>Bogen er to Dele. I: Regn af Guld. II: Regn af Aske.</p>
-                <p>Store Ord og – fedt Flæsk.</p>
-                <p>"Politiken" sendte mig i denne Maaned to Gange Honorar?</p>
-                <p>Antagelig er den indlagte Artikel brugbar.</p>
-                <p>Læst haver jeg "<persName key="Stuckenberg, Viggo">Stuckenberg</persName>s <title key="Digte">Digte</title>"<note>Forfatteren Viggo Stuckenberg (1863-1905) debuterede med bogen Digte, der udkom i oktober
-                  1886</note>. Det er en sjælden Poesi. Fyldig og original. Den Sjæl vil som
-                  <persName key="Tyrtaios, ">Tyrtaios</persName> i "<title key="Kampen">Kampen</title>"<note>Digt af den græske digter Tyrtaios, der levede i 600-tallet f.Kr</note>
+            <p>Bogen er to Dele. I: Regn af Guld. II: Regn af Aske.</p>
+            <p>Store Ord og – fedt Flæsk.</p>
+            <p>"Politiken" sendte mig i denne Maaned to Gange Honorar?</p>
+            <p>Antagelig er den indlagte Artikel brugbar.</p>
+            <p>Læst haver jeg "<persName key="Stuckenberg_Viggo">Stuckenberg</persName>s <!--start title reference--><title key="Digte">Digte</title>
+               <!--end title reference-->"<ref target="n8"/>. Det er en sjælden Poesi. Fyldig og original. Den Sjæl vil som
+                  <persName key="Tyrtaios_">Tyrtaios</persName> i "<!--start title reference--><title key="Kampen">Kampen</title>
+               <!--end title reference-->"<ref target="n9"/>
                mægtigt hjælpe Frihedens hellige Sag: "Spring ud, du lille Danmark". Af I.P.J.s Bog
                finder jeg alt det stort, som jeg kan forstaa. Men en større Part forsvinder for min
-                  Per-Eriksens-Evne<note>Dvs. fattige og ringe evne. I ældre dansk hverdagssprog
-                  blev udtrykket "Per Eriksen" ofte brugt om en sølle, fattig fyr; se ODS</note> i
+                  Per-Eriksens-Evne<ref target="n10"/> i
                Egne, hvor jeg ikke har Forstaaelsens Fodfæste. "De faa udvalgte" vil sandsynligvis
                finde disse "Farvemonstrer" sublime.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

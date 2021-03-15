@@ -1,134 +1,142 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18870728001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 2353, folio. Blyantsnummer 421</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Paul (Poul) Langhoff</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1887-07-28">[1887, 28. juli] Torsdag<note>Torbjörn Nilssons
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870728001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 421</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-07-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-07-28">[1887, 28. juli] Torsdag<note>Torbjörn Nilssons
                         dateringsforslag s. 341 note 6 følges</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Torsdag.</p>
-                <p>Kære Paul.</p>
-                <p>Manuskript ‒ Midten af III<note>Dvs. kapitel 3 i romanen Stuks anden del</note> ‒
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Torsdag.</p>
+            <p>Kære Paul.</p>
+            <p>Manuskript ‒ Midten af III<ref target="n1"/> ‒
                     afsendt.</p>
-                <p>Modtaget de tre Ark Korrektur<note>De tre ark korrektur, som Bang kommenterer i
-                        det følgende, er tekst til de første kapitler i romanen Stuks første
-                        del</note>.</p>
-                <p>α) i Slutningen af I mangler en Slutning ‒ c: femten Linjer ‒ som jeg i sin Tid
-                    har sendt Schiøtt<note>Julius Schiøtt</note>.</p>
-                <p>β) Et Par af Medarbejderne paa Redaktionen maa jeg stryge, sér jeg. Der er for
-                    mange, og det bliver for springende. Det er <emph>et</emph> Stykke (Isac og
+            <p>Modtaget de tre Ark Korrektur<ref target="n2"/>.</p>
+            <p>α) i Slutningen af I mangler en Slutning ‒ c: femten Linjer ‒ som jeg i sin Tid
+                    har sendt Schiøtt<ref target="n3"/>.</p>
+            <p>β) Et Par af Medarbejderne paa Redaktionen maa jeg stryge, sér jeg. Der er for
+                    mange, og det bliver for springende. Det er <hi rend="italics">et</hi> Stykke (Isac og
                     Flindt) paa c: en Side, som gaar ud. Dét om Arnoldsen var selvkritisk allerede
                     længst strøget af mig selv.</p>
-                <p>γ) III begynder aldeles ikke her. Hele Barndom og Ungdom'en hører til II og dét,
+            <p>γ) III begynder aldeles ikke her. Hele Barndom og Ungdom'en hører til II og dét,
                     som i Korrekt: her kaldes »III« kommer paa Side 71: »hele sit Liv, det fjerne
-                    ganske nær«.... Saa <emph>kommer</emph> naturligvis hele Livet (bedst er det
+                    ganske nær«.... Saa <hi rend="italics">kommer</hi> naturligvis hele Livet (bedst er det
                     imidlertid at lade næsten en Kvartsides Sp:, at Publikum kan udhvile sin svage
                     Tænkeevne til de nye Anstrængelser ‒ og gøre det samme, naar Livet er fortalt)
                     og hele Kapitlet II slutter da med Siden:</p>
-                <p>‒ ‒ Herluf stod ved Vinduet o:s:v: Det er jo dér paa sit Værelse, han genoplever
-                    det. <emph>III begynder hos Gersters</emph>.</p>
-                <p>Der er udmærkede Ting i II men <emph>det</emph> vil blive det Kapitel, Folk vil
+            <p>‒ ‒ Herluf stod ved Vinduet o:s:v: Det er jo dér paa sit Værelse, han genoplever
+                    det. <hi rend="italics">III begynder hos Gersters</hi>.</p>
+            <p>Der er udmærkede Ting i II men <hi rend="italics">det</hi> vil blive det Kapitel, Folk vil
                     have mést ondt ved at samle. Udhævelserne lader vi fare. Hvad betyder de blaa
                     Streger? At det skal tydeliggøres? Det skal ské. Tredje Korrektur behøver
-                        <emph>jeg</emph> ikke ‒ naar <emph>De</emph> passer paa. Men vi vil ikke
+                        <hi rend="italics">jeg</hi> ikke ‒ naar <hi rend="italics">De</hi> passer paa. Men vi vil ikke
                     have det sædvanlige Vrøvl om Korrekturfejl i Kritikerne ‒ vel?</p>
-                <p>Esmann<note>Gustav Esmann (1860-1904), forfatter</note>, som ikke har skrevet til
+            <p>Esmann<ref target="n4"/>, som ikke har skrevet til
                     mig mér end halvandet Aar, skrev idag <app>
-                        <lem>i Anledning af Nansen<note>Sandsynligvis i forbindelse med nyheden om
-                                Peter Nansens og Louise Brocks bryllup, der fandt sted
-                                23.8.1887</note></lem>
-                        <rdg>Ordene har Bang tilføjet over linjen</rdg>
-                    </app>; bl:a: bad han mig <app>
-                        <lem>en passant</lem>
-                        <rdg>Ordene er tilføjet over linjen</rdg>
-                    </app> »gøre mig Umage med min Roman«!! Har De ladet ham sé noget af
-                        Mnskrpt<note>Dvs. manuskriptet</note>? Jeg beder: lad ingen læse noget, før
+                  <lem>i Anledning af Nansen<ref target="n5"/>
+                  </lem>
+                  <rdg>Ordene har Bang tilføjet over linjen</rdg>
+               </app>; bl:a: bad han mig <app>
+                  <lem>en passant</lem>
+                  <rdg>Ordene er tilføjet over linjen</rdg>
+               </app> »gøre mig Umage med min Roman«!! Har De ladet ham sé noget af
+                        Mnskrpt<ref target="n6"/>? Jeg beder: lad ingen læse noget, før
                     den Dag Bogen kommer ud..... Naa ‒ af Esmann er det jo kun en »billig«
                     Protektor-Rolle ‒ ‒ som »Stuks« Forfatter ikke behøver at lade sig genere
                     af.</p>
-                <p rend="right">Deres</p>
-                <p rend="right">Herman.</p>
-                <p>Jeg tror Mathilde lykkes mig i III<note>Dvs. skildringen af Mathilde Stern i
-                        kapitel III af Stuks anden del. Sammenlign med Bangs bemærkninger herom i to
-                        andre breve til Langhoff: »Prag Torsdag« [30.6.1887] og
-                    12.7.1887</note>!</p>
-                <p>Korrekturerne imorgen Middag.</p>
-
-            </div>
-        </body>
-    </text>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman.</p>
+            <p>Jeg tror Mathilde lykkes mig i III<ref target="n7"/>!</p>
+            <p>Korrekturerne imorgen Middag.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

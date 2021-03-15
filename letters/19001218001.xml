@@ -1,126 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">19001218001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>Acc. 2011/94; intet blyantsnummer</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Aage Hirschsprung</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="visitkort">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Visitkort, 2 sider, beskrevet på begge sider. Med
-                                                trykt navn <emph>Herman Bang</emph> i tilstræbt
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19001218001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="visitkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Visitkort, 2 sider, beskrevet på begge sider. Med
+                                                trykt navn <hi rend="italics">Herman Bang</hi> i tilstræbt
                                                 skriveskrift</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1900-12-18">[1900, 18. december, tirsdag] <note>Dateres ud
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-12-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-12-18">[1900, 18. december, tirsdag] <note>Dateres ud
                         fra brevtekstens egne hentydninger til avisanmeldelser af Bangs optræden
                         kombineret med oplysningen om, at det snart er jul</note>
-                </date>
-                <placeName cert="high">[København]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Ven. Det blev jo dog en Sukces<note>Bang hentyder til sin oplæsningsaften
-                        17.12.1900 i Casino, hvor han læste flere tekster af forfatteren J.P.
-                        Jacobsen (1847-1885), ‒ vistnok den første gang, at Bang optrådte med et
-                        helt program af tekster, der ikke var skrevet af ham selv</note>, hvor
-                    »Berlingske« tog »Rosernes« Parti<note>Berlingske Tidende ..... anmeldelsen af
-                        Bangs oplæsning i Casino SKAL EFTERSØGES ...</note> og kun min Ven
-                        Borchsenius<note>Otto Borchsenius (1844-1925), journalist og forfatter,
-                        1892-1910 redaktør af dagbladet Dannebrog</note> sagde den Sandhed, at jeg
-                    ikke var færdig med Indstuderingen<note>Dannebrog ... anmeldelsen af Bangs
-                        optræden i Casino SKAL EFTERSØGES ...</note>. Ti <emph>det</emph> var
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Ven. Det blev jo dog en Sukces<ref target="n1"/>, hvor
+                    »Berlingske« tog »Rosernes« Parti<ref target="n2"/> og kun min Ven
+                        Borchsenius<ref target="n3"/> sagde den Sandhed, at jeg
+                    ikke var færdig med Indstuderingen<ref target="n4"/>. Ti <hi rend="italics">det</hi> var
                     Hemmeligheden. Men hvilken Bravur der dog hørte til for at redde den ydre Sukces
                     ‒ saa halvvejs. Jeg skal ingensinde glemme den Aften ‒ ‒ ‒ Afregning med
-                        Musikhandelen<note>Kgl. Musik-Hofhandel, som øjensynlig var impressario for
-                        Bangs oplæsningsaftener; fra 1880 var Henrik Hennings (1848-1923)
-                        direktør</note> faar jeg aldrig. Derom er der intet Haab.</p>
-                <p>Og nu er det Jul og jeg kommer med mit sædvanlige Juletiggeri. Jeg ved saa godt,
-                    at De vil sige, at iaar <emph>kan</emph> De ikke give mig den sædvanlige
-                    Julegave. Men, kære Hirschsprung, De <emph>maa</emph>. Tingene er jo dog nu i en
-                    bedre Gænge og naar »Det graa Hus«<note>Roman af Bang; den udkom 26.11.1901 på
-                        Det Schubotheske Forlag</note> udkommer og tager »Det hvide Hus«<note>Roman
-                        af Bang; den udkom i 1898 og i 2. oplag 22.10.1901, ligeledes på Det
-                        Schubotheske Forlag</note> med sig samt naar jeg ‒ og det skal jeg ‒ gør
-                    Maupassant færdig (begyndt har jeg)<note>Sandsynligvis et opgivet projekt, som
-                        findes omtalt i flere af Bangs breve til Aage Hirschsprung fra 1899-1900,
-                        første gang 24.4.1899. ‒ Guy de Maupassant (1850-1893), fransk
-                        forfatter</note>, vil jo dog det næste Aar bære sig. Og selv om jeg, hvad
+                        Musikhandelen<ref target="n5"/> faar jeg aldrig. Derom er der intet Haab.</p>
+            <p>Og nu er det Jul og jeg kommer med mit sædvanlige Juletiggeri. Jeg ved saa godt,
+                    at De vil sige, at iaar <hi rend="italics">kan</hi> De ikke give mig den sædvanlige
+                    Julegave. Men, kære Hirschsprung, De <hi rend="italics">maa</hi>. Tingene er jo dog nu i en
+                    bedre Gænge og naar »Det graa Hus«<ref target="n6"/> udkommer og tager »Det hvide Hus«<ref target="n7"/> med sig samt naar jeg ‒ og det skal jeg ‒ gør
+                    Maupassant færdig (begyndt har jeg)<ref target="n8"/>, vil jo dog det næste Aar bære sig. Og selv om jeg, hvad
                     jeg gør, tager bort Juleaften, maa jeg dog lave lidt Jul her i Huset og
                     repræsentere som stor Digter. Jeg plejer jo at faa halvandethundrede Kr. til
                     Julen. Send mig dem idag. Ti min Nervøsitet stiger nu, jeg ser Juletræerne
                     allevegne, for hvert Minut. Og jeg taaler det kun daarligt.</p>
-                <p>Til Dem selv en glædelig Fest. For mig er der ingen Glæde. Men for Dem haaber
+            <p>Til Dem selv en glædelig Fest. For mig er der ingen Glæde. Men for Dem haaber
                     jeg, den maa findes. Hvor? Jeg véd det jo ikke. Men find den saa rigt, De kan,
-                        <emph>der</emph>, hvor den er.</p>
-                <p rend="right">Herman B.</p>
-                <p>Jeg skriver paa et Visitkort. For jeg har intet Papir. Saa rig er jeg.</p>
-
-
-            </div>
-        </body>
-    </text>
+                        <hi rend="italics">der</hi>, hvor den er.</p>
+            <p rend="right">Herman B.</p>
+            <p>Jeg skriver paa et Visitkort. For jeg har intet Papir. Saa rig er jeg.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

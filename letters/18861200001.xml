@@ -1,106 +1,125 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18861200001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 112</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LXV</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-12-01" notBefore="9999-99-99" notAfter="9999-99-99">[1886.  december] <note>Må indtil videre placeres ubestemt i
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861200001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 112</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LXV</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-12-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886.  december] <note>Må indtil videre placeres ubestemt i
                   december 1886. Brevet er i Vandreaar s. 249 placeret mellem 7.12. og et par breve
                   længere fremme i december måned 1886</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag.</p>
-                <p>Kære Peter.</p>
-                <p>Jeg har søgt og søgt om en Maade, paa samme Tid vane-frembringende for Læserne og
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg har søgt og søgt om en Maade, paa samme Tid vane-frembringende for Læserne og
                tvangfri for mig – at skrive kort om den store Verden, hvor snart det største
-               Skuespil, et Par Hundredaar har set, skal spilles. Her er "en Dagbog"<note>Antagelig
-                  Bangs manuskript til en avisartikel, ikke identificeret</note>. Dens første Blad
+               Skuespil, et Par Hundredaar har set, skal spilles. Her er "en Dagbog"<ref target="n1"/>. Dens første Blad
                er skrevet om i mange, mange Timer. Jeg vilde skrive – og I vilde kassere mange af
                dem – et sligt Blad hver Dag; forsøgende at have et Øje paa hver Finger, gættende
                Bevægelserne; snart talende om en Mand; snart om et Forhold; snart om "meget" – snart
                om "intet". Aldrig mer end en Spalte, ofte kun halv. Tagende Hensyn til Eders
                Stilling, vilde jeg forsøge at give i Vinterens Løb et Døgnbillede-Mosaik, der saa
                regelløst og saa tilfældigt det kunde sé ud – – – kunde forberede paa
-                  <emph>den</emph> Vaar, som vi oplever, naar det "bliver Pintse" igen.</p>
-                <p>Du maa tale med <persName key="Hørup, Viggo">Hørup</persName>
-                    <note>Viggo Hørup (1841-1902), politiker (Det Radikale Venstre), medstifter af dagbladet Politiken 1884, redaktør af samme</note> derom. Ti det er en "Rubrik". Maaske vil I slet ikke have
+                  <hi rend="italics">den</hi> Vaar, som vi oplever, naar det "bliver Pintse" igen.</p>
+            <p>Du maa tale med <persName key="Hørup_Viggo">Hørup</persName>
+               <ref target="n2"/> derom. Ti det er en "Rubrik". Maaske vil I slet ikke have
                den. Isaafald er jeg ikke vred. Men Folk, skulde du dog sige din Redaktion, har
-               oftest <emph>staaet</emph> sig ved mine "Rubrikker". Og i Enkeltheder har
-                  <emph>du</emph> "main libre"<note>fr.: fri hånd, dvs. frie hænder</note>.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+               oftest <hi rend="italics">staaet</hi> sig ved mine "Rubrikker". Og i Enkeltheder har
+                  <hi rend="italics">du</hi> "main libre"<ref target="n3"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,98 +1,115 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18851212001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 177</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1885-12-12" notBefore="9999-99-99" notAfter="9999-99-99">[1885. 12. december, cirka, lørdag]<note>En omtrentlig datering
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851212001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 177</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1885-12-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1885-12-12"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 12. december, cirka, lørdag]<note>En omtrentlig datering
                   må rette sig efter de aktuelle danske avisanmeldelser af Excentriske
                   Noveller</note>
-                </date>
-                <placeName cert="high">[Berlin]</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p>Kære Peter.</p>
-                <p>Minder dig venligt om dit Løfte at sende mig Kritiker. Især "Berlingske" og "Avisen".
-                  "Natt"<note>Dvs. Nationaltidende</note> og "Dagbladet" har jeg sét. <persName key="Brandes, Edvard">Edv. B</persName>
-                    <note>Edvard Brandes (1847-1931), forfatter, dramatiker, journalist og teaterkritiker, politiker, redaktør og medstifter 1884 af dagbladet Politiken</note>'s Kritik<note>Edvard Brandes anmeldte <title key="Excentriske Noveller">Excentriske Noveller</title> i Politiken,
-                  5.12.1885</note> var meget sand og glædede mig meget. Desværre er Salget vist kun
-               skidt, og det er det værste, da jeg jo <emph>aldrig</emph> naar udover den nedrige
-                  Betaling<note>Adjektivet nedrig kunne i gammel dansk sprogbrug have betydningen:
-                  ringe, ydmyg</note> – om jeg ikke naar det nu. Schandorph <note>Forfatteren Sophus Schandorph (1836-1901)</note>faar mer end det
-               dobbelte af hvad jeg faar. Og <emph>det</emph> er dog <emph>det</emph>, som frier
-               Folk fra at skrive "Høiheder"<note>Sigter til Bangs aktuelle arbejde med novellen
-                     "<title key="Hendes Højhed">Hendes Højhed</title>", trykt i <title key="Stille Eksistenser">Stille Eksistenser</title>, 1886</note>.</p>
-                <p rend="right">Din Herman</p>
-            </div>
-        </body>
-    </text>
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Peter.</p>
+            <p>Minder dig venligt om dit Løfte at sende mig Kritiker. Især "Berlingske" og "Avisen".
+                  "Natt"<ref target="n1"/> og "Dagbladet" har jeg sét. <persName key="Brandes_Edvard">Edv. B</persName>
+               <ref target="n2"/>'s Kritik<ref target="n3"/> var meget sand og glædede mig meget. Desværre er Salget vist kun
+               skidt, og det er det værste, da jeg jo <hi rend="italics">aldrig</hi> naar udover den nedrige
+                  Betaling<ref target="n4"/> – om jeg ikke naar det nu. Schandorph <ref target="n5"/>faar mer end det
+               dobbelte af hvad jeg faar. Og <hi rend="italics">det</hi> er dog <hi rend="italics">det</hi>, som frier
+               Folk fra at skrive "Høiheder"<ref target="n6"/>.</p>
+            <p rend="right">Din Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>

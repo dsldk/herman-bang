@@ -1,101 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18970905001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18970905001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
                                 Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 215</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1897-09-05" notBefore="9999-99-99" notAfter="9999-99-99">[1897. 5. september. ] Søndag<note>Brevet lader sig datere i relation til brevet 1897. 10. september. Bang var fra
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 215</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+               <date when="1897-09-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1897-09-05"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1897. 5. september. ] Søndag<note>Brevet lader sig datere i relation til brevet 1897. 10. september. Bang var fra
                 28.8. til 8.9.1897 gæst hos Johan Knudsen på hans herregård Bangsbo</note>
-                </date>
-                <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Bangsbo. Søndag.</p>
-                <p>Kære Ven.</p>
-                <p>Tak for dit Brev.</p>
-                <p>Jeg forstaar saa vel dine Grunde, hvorfor du finder, jeg skulde blive her.</p>
-                <p>Men alligevel vender jeg paa Onsdag tilbage til Byen – ikke for at arbejde eller
-                        gaa ud eller vides hjemme eller gaa paa Bladet<note>Aftenbladets redaktion,
-                                hvor Bang indtil december 1897 var medarbejder</note> men for at
+            </date>
+            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Bangsbo. Søndag.</p>
+            <p>Kære Ven.</p>
+            <p>Tak for dit Brev.</p>
+            <p>Jeg forstaar saa vel dine Grunde, hvorfor du finder, jeg skulde blive her.</p>
+            <p>Men alligevel vender jeg paa Onsdag tilbage til Byen – ikke for at arbejde eller
+                        gaa ud eller vides hjemme eller gaa paa Bladet<ref target="n1"/> men for at
                         tilbringe Dagene til næste Mandag indelukket i mit Hus.</p>
-                <p>Skulde mit Ophold her hjælpe, maatte det vare Maaneder. Jeg føler det, skønt jeg
+            <p>Skulde mit Ophold her hjælpe, maatte det vare Maaneder. Jeg føler det, skønt jeg
                         er meget bedre. Men mens mit Ben er bedre er Ryg og Hjerte lige skidt.</p>
-                <p>Tro mig, jeg vilde helst blive her.</p>
-                <p>Men jeg tror, jeg maa hjem.</p>
-                <p>Hils Betty saa mange Gange.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p>Tro mig, jeg vilde helst blive her.</p>
+            <p>Men jeg tror, jeg maa hjem.</p>
+            <p>Hils Betty saa mange Gange.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

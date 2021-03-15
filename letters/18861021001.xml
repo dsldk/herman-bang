@@ -1,120 +1,136 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">18861021001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 121</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="visitkort">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Visitkort, 2 sider. Fortrykt: Herman de Bang i trykt
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861021001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 121</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="visitkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Visitkort, 2 sider. Fortrykt: Herman de Bang i trykt
                                  "skriveskrift"</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>Vandreaar nr. LVI</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1886-10-21" notBefore="9999-99-99" notAfter="9999-99-99">[1886. 21. oktober. ] Torsdag<note>Vandreaar s. 228 fejllæser
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LVI</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-10-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-10-21"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 21. oktober. ] Torsdag<note>Vandreaar s. 228 fejllæser
                   Bangs datering af dette brev (Tirsdag i stedet for det rigtige: Torsdag). Den
                   foreslåede datering 21.10.1886 er sat i relation til Vandreaars datering af det
                   følgende brev nr. LVII til 22.10.1886</note>
-                </date>
-                <placeName cert="high">Prag</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Prag. Torsdag.</p>
-                <p>Kære Peter.</p>
-                <p>Her en helt lille Artikel. Men, kæreste Ven. skal saadan noget have Spor af Nytte,
-                  <emph>kan</emph> det ikke vente en Uge. Enten <emph>strax</emph> eller slet
-                  <emph>ikke</emph>. Ti Begivenhederne er for hurtige. Skriv mig, om I vil have
-               disse Artikler eller ei. Men trykkes <emph>hastigt</emph> maa de.</p>
-                <p>Henrivende er <persName key="Esmann, Gustav">Esmann</persName>s "I
-                  Stiftelsen"<note>Gustav Esmann: <title key="I Stiftelsen">I Stiftelsen</title>.
-                  Skuespil i 1 Akt, udkom i 1886</note>. Det vil sige Datteren og den storartede
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Torsdag.</p>
+            <p>Kære Peter.</p>
+            <p>Her en helt lille Artikel. Men, kæreste Ven. skal saadan noget have Spor af Nytte,
+                  <hi rend="italics">kan</hi> det ikke vente en Uge. Enten <hi rend="italics">strax</hi> eller slet
+                  <hi rend="italics">ikke</hi>. Ti Begivenhederne er for hurtige. Skriv mig, om I vil have
+               disse Artikler eller ei. Men trykkes <hi rend="italics">hastigt</hi> maa de.</p>
+            <p>Henrivende er <persName key="Esmann_Gustav">Esmann</persName>s "I
+                  Stiftelsen"<ref target="n1"/>. Det vil sige Datteren og den storartede
                Gamle. Megen Sans for Scenens Komik viser Chokoladescenen – noget paa Livets
                Bekostning. Den Gamle er saa fuldkommen, at denne ene Tegning stiller Esmann blandt
                vor Literaturs største Kunstnere. Det vil nu være hans Opgave at vise sit Talents
                Omfang og Styrke ved at vise os sine levende, men stillesiddende Skikkelser i
                Konflikters Bevægelse. Han bør ikke frygte. Talentet har en utrolig Bæreevne – som
                Fordringer til det og de store Opgaver bestandig styrker.</p>
-                <p>"<title key="Pebersvende">Pebersvendene</title>"<note>Gustav Esmann: Pebersvende.
-                  Lystspil i 1 Akt, udkom i 1886</note> er mig en fadere Mad. Doktoren er fin som
+            <p>"<!--start title reference--><title key="Pebersvende">Pebersvendene</title>
+               <!--end title reference-->"<ref target="n2"/> er mig en fadere Mad. Doktoren er fin som
                et aandfuldt malt Portræt – men den hele Historie virker som en Sjat Vand slaaet i
                Ansigtet. Tak ham for Bøgerne – jeg skriver selv en af Dagene.</p>
-                <p>Vil du gøre mig en stor Tjeneste: naar nu min Bog<note>
-                        <title key="Stille Eksistenser">Stille Eksistenser</title>, udkom senest
-                  27.10.1886</note> udkommer, da oppe paa Kontoret, naar du gennemsér Bladene at
-               klippe ud <emph>hver</emph> Kritik og slaa en Konvolut om – <emph>strax</emph>, at du
+            <p>Vil du gøre mig en stor Tjeneste: naar nu min Bog<ref target="n3"/> udkommer, da oppe paa Kontoret, naar du gennemsér Bladene at
+               klippe ud <hi rend="italics">hver</hi> Kritik og slaa en Konvolut om – <hi rend="italics">strax</hi>, at du
                ikke glemmer det.</p>
-                <p>Og <emph>alle</emph>. Det er for mig nu, hvor jeg for saa længe, og maaske for altid
+            <p>Og <hi rend="italics">alle</hi>. Det er for mig nu, hvor jeg for saa længe, og maaske for altid
                bliver borte fra den Jord, hvorom jeg skriver, nødvendigt, at jeg hører hvert Ord om
                mit Arbeide. Tag intet Hensyn til, om jeg rakkes ned. Man lærer kun ved at sé
                Sandheden i Øinene, selvom den er ublidt sagt. Og mest nu, hvor "Bernhard
-                  Hoff"<note>Bangs arbejdstitel på romanen <title key="Stuk">Stuk</title>
-                    </note> er
+                  Hoff"<ref target="n4"/> er
                under Arbeide. Vil du ikke læse Korrektur? Da kan du ogsaa rette Smaating.</p>
-                <p rend="right">Din Herman.</p>
-            </div>
-        </body>
-    </text>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

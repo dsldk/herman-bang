@@ -1,109 +1,120 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2019</date>
-                <idno type="hbb">18850828001</idno>
-
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NBD 2.rk. Blyantsnummer 478</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName
-                                        role="recipient">Vilhelm Greibe (dansk vicekonsul i
-                                        Hamburg)</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 1 side. Brevpapir med et trykt slyngmonogram
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18850828001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 2.rk. Blyantsnummer 478</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side. Brevpapir med et trykt slyngmonogram
                                                 HB uden krone</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="low" when="1885-08-28">[1885, ca. 28. august, fredag]<note>Bang
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">München</placeName>
+               <date when="1885-08-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Vilhelm Greibe (dansk vicekonsul i
+                                        Hamburg)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1885-08-28">[1885, ca. 28. august, fredag]<note>Bang
                         tilbragte nogle dage i München undervejs mellem foredraget i Hamburg
                         21.8.1885 og det langvarige ophold fra 31.8.1885 på pianistinden Sophie
                         Menters slot Itter i Tyrol. Den foreslåede datering til 28.8. er udgiverens
                         gæt</note>
-                </date>
-                <placeName cert="high">München</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Hotel <app>
-                        <lem>Bairisher</lem>
-                        <rdg>Således stavet af Bang</rdg>
-                    </app> Hof. München.</p>
-                <p>Kære Greibe.</p>
-                <p>Her var heller ingen Penge.</p>
-                <p>Jeg forespurgte derfor telegrafisk og fik indlagte Svar<note>Det vedlagte svar
-                        findes ikke bevaret på Det Kongelige Bibliotek</note>.</p>
-                <p>Jeg beder Dem, da der altsaa <emph>maa</emph> finde en Vildfarelse Sted, at
+            </date>
+            <placeName cert="high">München</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hotel <app>
+                  <lem>Bairisher</lem>
+                  <rdg>Således stavet af Bang</rdg>
+               </app> Hof. München.</p>
+            <p>Kære Greibe.</p>
+            <p>Her var heller ingen Penge.</p>
+            <p>Jeg forespurgte derfor telegrafisk og fik indlagte Svar<ref target="n1"/>.</p>
+            <p>Jeg beder Dem, da der altsaa <hi rend="italics">maa</hi> finde en Vildfarelse Sted, at
                     forhøre igen paa Telegrafen samt i Hotellets Bureau. Hvis De opdager Pengene
-                        nogetsteds<note>Det er uoplyst hvilke penge, men det må antages at være i
-                        Hamburg, at Greibe på Bangs opfordring nu bør undersøge sagen nøjere</note>,
+                        nogetsteds<ref target="n2"/>,
                     da lad dem telegrafisk gaa videre til mig. Skriv mig allenfals til strax. Tak
-                    for sist<note>Bang sigter til sit ophold i Hamburg i forbindelse med sit
-                        Ibsen-foredrag 21.8.1885</note>.</p>
-                <p rend="right">Deres H.B.</p>
-                <p rend="right">Hotel Bairisher Hof.</p>
-
-            </div>
-        </body>
-    </text>
+                    for sist<ref target="n3"/>.</p>
+            <p rend="right">Deres H.B.</p>
+            <p rend="right">Hotel Bairisher Hof.</p>
+         </div>
+      </body>
+   </text>
 </TEI>

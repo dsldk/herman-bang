@@ -1,134 +1,152 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>Bangs Breve</title>
-                <author>Herman Bang</author>
-                <editor>gp</editor>
-                <funder>Carlsbergfondet</funder>
-                <funder>Augustinus Fonden</funder>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Danske Sprog- og Litteraturselskab</publisher>
-                <pubPlace>København</pubPlace>
-                <date>2015</date>
-                <idno type="hbb">19111217001</idno>
-                <idno type="isbn">nil</idno>
-                <availability status="restricted">
-                    <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="A">
-                        <msDesc>
-                            <msIdentifier>
-                                <settlement>København</settlement>
-                                <repository>Det Kongelige Bibliotek</repository>
-                                <idno>NKS 4043, 4to. Nr. 473</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <summary>
-                                    <persName role="author">Herman Bang</persName> til <persName role="recipient">Peter Nansen</persName>
-                                </summary>
-                            </msContents>
-                            <physDesc>
-                                <objectDesc form="brev">
-                                    <supportDesc material="empty">
-                                        <support>
-                                            <ab>Brev, 4 sider</ab>
-                                        </support>
-                                    </supportDesc>
-                                </objectDesc>
-                                <handDesc>
-                                    <handNote scribe="herman-bang">
-                                        <ab>Herman Bang</ab>
-                                    </handNote>
-                                </handDesc>
-                                <additions>
-                                    <ab>empty</ab>
-                                </additions>
-                            </physDesc>
-                            <history>
-                                <ab>empty</ab>
-                            </history>
-                            <additional>
-                                <listBibl>
-                                    <bibl>empty</bibl>
-                                </listBibl>
-                            </additional>
-                        </msDesc>
-                    </witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <ab>Bangs Breve 2014</ab>
-            </projectDesc>
-        </encodingDesc>
-        <profileDesc>
-            <creation>
-                <date cert="high" when="1911-12-17" notBefore="9999-99-99" notAfter="9999-99-99">1911. 17. december [søndag]<note>Bang har dateret sit brev
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19111217001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 473</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Moskva</placeName>
+               <date when="1911-12-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1911-12-17"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1911. 17. december [søndag]<note>Bang har dateret sit brev
                   efter vestlig og ikke efter lokal tid. Ifølge russisk tidsregning må denne dato
                   have været 4.12.1911</note>
-                </date>
-                <placeName cert="high">Moskva</placeName>
-            </creation>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="da">
-                <p rend="right">Moskwa. 17.12.1911.</p>
-                <p>Min kære Ven.</p>
-                <p>Endelig, endelig ligger Kremls Taarne foran mine Vinduer...</p>
-                <p>Men jeg har ikke Tid og maa tale kun om det Praktiske, ti om tre Uger skal jeg gaa
+            </date>
+            <placeName cert="high">Moskva</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Moskwa. 17.12.1911.</p>
+            <p>Min kære Ven.</p>
+            <p>Endelig, endelig ligger Kremls Taarne foran mine Vinduer...</p>
+            <p>Men jeg har ikke Tid og maa tale kun om det Praktiske, ti om tre Uger skal jeg gaa
                ombord i <placeName key="Hamburg">Hamburg</placeName>.</p>
-                <p>Altsaa:</p>
-                <p>Jeg skrev til <persName key="Witzansky, Harald">Witzansky</persName>
-                    <note>Harald Witzansky (1862-1940), fra 1902 redaktør af avisen København</note> om min Rejse. Skrev min Pris og alt.
-               Jeg sendte med Brevet en lille Skitse "Newski", som han trykte<note>"Newski", dateret
-                  "Petersborg, d. 4. Decbr. 1911", trykt i København, 9.12.1911</note>, ti jeg har
-               læst eller sét den i <placeName key="Sankt Petersborgs">St Petersborgs</placeName>
+            <p>Altsaa:</p>
+            <p>Jeg skrev til <persName key="Witzansky_Harald">Witzansky</persName>
+               <ref target="n1"/> om min Rejse. Skrev min Pris og alt.
+               Jeg sendte med Brevet en lille Skitse "Newski", som han trykte<ref target="n2"/>, ti jeg har
+               læst eller sét den i <placeName key="Sankt_Petersborgs">St Petersborgs</placeName>
                Aviser.</p>
-                <p>Brevets <emph>Indhold</emph> sprang han imidlertid over og svarer med et Brev, hvori
-               han spørger om Prisen og Brevenes Antal<note>Bang gav sine reportager hjem til avisen
-                  benævnelsen "breve"</note> – alt dette kun for at trække Tiden ud og maaske faa
+            <p>Brevets <hi rend="italics">Indhold</hi> sprang han imidlertid over og svarer med et Brev, hvori
+               han spørger om Prisen og Brevenes Antal<ref target="n3"/> – alt dette kun for at trække Tiden ud og maaske faa
                et Par Billeder fra <placeName key="Rusland">Rusland</placeName> gratis.</p>
-                <p>Nu har jeg atter skrevet ham til – et Brev, som ikke kan misforstaaes.</p>
-                <p>1) at Rejsen gaar rundt om Jorden</p>
-                <p>2) at den varer fra 6 Januar til ultimo Maj.</p>
-                <p>3) at jeg i denne Tid skriver <emph>15</emph> Breve.</p>
-                <p>4) at Prisen for disse 15 Breve er Rm: 1000<note>Dvs. 1000 Reichsmark</note>
-                </p>
-                <p>5) at Pengene d. 29 December skal indbetales hos Gyldendal.</p>
-                <p>6) at han skal give <emph>dig</emph> Svar.</p>
-                <p>Jeg har skrevet, at han skulde svare <emph>dig</emph>, fordi du ved jo, at han ofte
+            <p>Nu har jeg atter skrevet ham til – et Brev, som ikke kan misforstaaes.</p>
+            <p>1) at Rejsen gaar rundt om Jorden</p>
+            <p>2) at den varer fra 6 Januar til ultimo Maj.</p>
+            <p>3) at jeg i denne Tid skriver <hi rend="italics">15</hi> Breve.</p>
+            <p>4) at Prisen for disse 15 Breve er Rm: 1000<ref target="n4"/>
+            </p>
+            <p>5) at Pengene d. 29 December skal indbetales hos Gyldendal.</p>
+            <p>6) at han skal give <hi rend="italics">dig</hi> Svar.</p>
+            <p>Jeg har skrevet, at han skulde svare <hi rend="italics">dig</hi>, fordi du ved jo, at han ofte
                har betalt meget dyrere. Det er kun mig, han aldrig vil betale.</p>
-                <p>Vil W: altsaa ikke betale denne "Sum", da beder jeg dig tale med <persName key="Cavling, Henrik">Cawling</persName>
-                    <note>Henrik Cavling (1858-1933), fra 1886 journalist ved Politiken, redaktør samme sted fra 1905; bror til Frejlif Olsen</note>. Der er intet andet for. Men hvis "Politiken"
+            <p>Vil W: altsaa ikke betale denne "Sum", da beder jeg dig tale med <persName key="Cavling_Henrik">Cawling</persName>
+               <ref target="n5"/>. Der er intet andet for. Men hvis "Politiken"
                heller ikke vil betale 1000 Reichsmark, da maa altsaa "Fædrelandet" undvære Brevene.
                Ogsaa "Politiken" skal den 29 December indbetale Pengene til Gyldendal.</p>
-                <p>Ogsaa fra "Aftenposten" o:s:v: sendes Pengene til Gyldendal. Jeg beder da <persName key="Nielsen, Christian">Hr. Nielsen</persName>
-                    <note>Christian Nielsen, fuldmægtig, Gyldendal</note> sende Breve, Penge o:s:v: til <placeName key="Berlin">Berlin</placeName>, hvorfra jeg skal telegrafere min Adresse,
+            <p>Ogsaa fra "Aftenposten" o:s:v: sendes Pengene til Gyldendal. Jeg beder da <persName key="Nielsen_Christian">Hr. Nielsen</persName>
+               <ref target="n6"/> sende Breve, Penge o:s:v: til <placeName key="Berlin">Berlin</placeName>, hvorfra jeg skal telegrafere min Adresse,
                saasnart jeg paa Lørdag er naaet derhen.</p>
-                <p>Iovermorgen skal jeg tale her.</p>
-                <p>
-                    <persName key="Houmark, Christian">Houmark</persName>
-                    <note>Christian Houmark</note> telegraferede et underligt Telegram fra
-                  <emph>dig</emph> og W: om et Forbud mod mine Oplæsninger. Jeg fik det i Toget, da
+            <p>Iovermorgen skal jeg tale her.</p>
+            <p>
+               <persName key="Houmark_Christian">Houmark</persName>
+               <ref target="n7"/> telegraferede et underligt Telegram fra
+                  <hi rend="italics">dig</hi> og W: om et Forbud mod mine Oplæsninger. Jeg fik det i Toget, da
                jeg skulde rejse fra Petersborg og blev højst forbauset. Ti jeg havde i Onsdags –
                Morgenen efter min første Oplæsning – sendt Gyldendal et Telegram. Min Sukces i
                P-burg var meget stor og alle store Aviser fejrede mit "Mesterskab". Men det er s'gu
-               ligegyldigt, naar det først <emph>er</emph> naaet.</p>
-                <p>Tanken om, hvordan <persName key="Nansen, Betty">Betty</persName>
-                    <note>Betty Nansen</note> har det, piner mig hver Nat, naar jeg ikke kan sove, og
+               ligegyldigt, naar det først <hi rend="italics">er</hi> naaet.</p>
+            <p>Tanken om, hvordan <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n8"/> har det, piner mig hver Nat, naar jeg ikke kan sove, og
                jeg sover meget slet.</p>
-                <p>Tusind Hilsener fra Foden af Kreml.</p>
-                <p rend="right">Din</p>
-                <p rend="right">Herman</p>
-            </div>
-        </body>
-    </text>
+            <p>Tusind Hilsener fra Foden af Kreml.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
 </TEI>
