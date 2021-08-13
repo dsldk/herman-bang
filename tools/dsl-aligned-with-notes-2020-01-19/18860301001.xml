@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860301001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 316</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>En blyantspåskrift af Peter Nansen på brevets side 4: <q>x) En
+                                 Aagerkarl</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XLIII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-03-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1886. 1. marts [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien d. 1.3.86.</p>
+            <p>Min kære Peter.</p>
+            <p>Du blander i dit hastigt skrevne Brev meget sørgelige Sandheder med besynderlige
+               Meninger. Alt hvad Pengene angaar – det er de sørgelige Sandheder. En horribel
+               Tilstand (og tifold horriblere end du tænker dig – ti – naa –) – <hi rend="italics">men</hi>:
+               Tilstanden kan vel bedres. Hos Schorer i <placeName key="Berlin">Berlin</placeName>
+               har jeg beholdt min Stilling, som i Løbet af lidt Tid giver god Indtægt. I "Berliner
+               Tageblatt" er man villig til at tage Artikler o:s:v:</p>
+            <p>Og Maalet – vil du sige? Min Ven – ogsaa <hi rend="italics">der</hi> har du en af de sørgelige
+               Sandheder. Maalet forsvinder for mine Øine.</p>
+            <p>Ja – hvis jeg nu kunde komme til Ro. Hvis jeg ikke plagedes af denne Dødsens Angst
+               ogsaa <hi rend="italics">her</hi> at blive udvist. Ti <hi rend="italics">her</hi> er dog <hi rend="italics">Wien</hi>.
+               Du skriver tre Gange dette Navn – Navnet paa en Millionby ved Donau, Hovedstad i
+                  <placeName key="Østrig">Østrig</placeName>, bekendt for sin Danselyst og sine
+               skønne, letfærdige Kvinder – med to Udraabstegn. Wien er dog Verden – og er
+                  <hi rend="italics">tysk</hi>. Ogsaa her findes store Blade, store Forlæggere, ogsaa her kan
+               man arbeide, hvis man faar Ro – vente – hvis man faar <hi rend="italics">Lov</hi> dertil. Altsaa
+               – lad os foreløbig sé, om jeg faar Ro og Lov.</p>
+            <p>Min første Gang var til <persName key="Knuth_J.S.D.">Gesandten</persName>
+               <ref target="n1"/>, som i
+               en speciel Skrivelse anbefalede Herman <hi rend="italics">de</hi>(!) Bang til alle keiserlige
+               Myndigheder. Han var meget elskværdig og sagde, at om Udvisning herfra var der da
+               ikke Tale. (Naar jeg vilde undgaa al Avissnak hjemme, var det for ikke at irritere
+               paany i Berlin og maaske bevirke et "Ønske" fra sammesteds.)</p>
+            <p>Dernæst vil og maa jeg befæste mig ved Anbefalingsbrev. <persName key="Hoffory_Julius">Hoffory</persName>
+               <ref target="n2"/> vil sende mig nogle. Havde jeg blot ét til <persName key="Franzós_Karl_Emil">Karl Emil Franzós</persName>
+               <ref target="n3"/> – saa var meget gjort.</p>
+            <p>Du ser altsaa – at jeg ligesom Myren begynder at bære forfra. Og du tror, min egen
+               Ven, at jeg har meget Mod? At jeg er lykkelig? At jeg slet ikke svimler naar jeg sér
+               ned ad Bjergsiden. Aa-jo... jeg lever i en stadig Fornemmelse som den, jeg havde i
+               Sommer paa "<placeName key="Hohe_Salve">Hohe Salve</placeName>" naar
+                  Muldyret<ref target="n4"/> behagede at attraa en Tot Grønt, der hang et Par Alen
+               ud over Afgrunden.</p>
+            <p>Men – hvorfor jeg da bliver?</p>
+            <p>Sig mig, hvad er det for et lysteligt Billede, du kan vise mig derhjemme? En Fallit –
+               enfin! Jeg lader det gaa. Men ellers! Jeg indlægger et Brev, som vil være dig
+               interessant. At det er til <hi rend="italics">dig</hi> og under Taushed behøver jeg ikke at
+               sige. <persName key="Brandes_Edvard">Doktoren</persName>
+               <ref target="n5"/> og <persName key="Ottesen_Otto_Andreas">Ottesen</persName>
+               <ref target="n6"/> har dikteret det. Det er det gamle fra ifjor ved denne Tid.
+               Hvad jeg har lidt ved at læse det – jeg saa igen for mine Øine alle dette Aars
+               resultatløse Anstrængelser, mine Seire, som tomme Blærer, mine Forhaabninger
+               kostumerede som Ligbærere. Og jeg skriver imorgen atter mit <hi rend="italics">Nei</hi>.</p>
+            <p>Selv om ikke personlige Forhold gjorde mig en Stilling i <hi rend="italics">dette</hi>
+                  Blad<ref target="n7"/> umulig, vilde
+               jeg – og derfor er mit Nei intet Offer – <hi rend="italics">ikke passe mere hjemme</hi>. Eders
+               Stridigheder er mig smaa; Eders Kamp frugtesløs fordi den gaar imod Verdensstrømmen;
+               Eders Ledere snart trætte – – der er større Syn; jeg har sét dem, der er store
+               Aander: <hi rend="italics">her</hi>ude mærker man idetmindste Vingeslagene af deres Geni.</p>
+            <p>I "Politiken" – jeg kan skrive der, naar jeg er <hi rend="italics">ude</hi>. Hvis jeg var
+               hjemme, var en <hi rend="italics">anden</hi> Stilling mig for lidt. Du ved, jeg staar svært
+               under nogen. Og jeg tror, det var bedst – om jeg <hi rend="italics">ikke</hi> tog
+                  <hi rend="italics">nogen</hi> Plads ved "Politiken" hjemme.</p>
+            <p>Med alt det har du Ret i, at Stillingen er slem – foreløbig, selv om det viser sig,
+               at jeg <hi rend="italics">kan</hi> blive i Østrig (for at <hi rend="italics">naa</hi> det, ingen stærke Ord
+               om eller for mig – ikke engang til en <persName key="Boldt_H.V.">Boldt</persName>
+               <ref target="n8"/> ); <hi rend="italics">ti</hi> de nordiske Blade vil – – ikke have mine
+               Korrespondancer: Dagens Nyheter ikke, "Handelstidningen" sparsomt, "Aftenposten"
+               ikke, <placeName key="Bergen">Bergen</placeName>
+               <hi rend="italics">betaler</hi> ikke. Ser du – <hi rend="italics">det</hi> er egenlig Ulykkens
+                  <hi rend="italics">Kærne</hi>. Ti vilde de Blade tage mine Artikler, kunde jeg jo vel igen om
+               et Par Dage skrive løs – men nu! Nu maa jeg bare skrive paa min Bog, for hvilken
+                  <persName key="Andreasen_A.O.">Andreasen</persName>
+               <ref target="n9"/> skal have
+               Pengene. Og hvordan bliver vel en Bog skreven under saadanne Forhold.</p>
+            <p>Vil du, min Ven, <hi rend="italics">strax</hi> sende mig et Exemplar af "<!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->" og "<!--start title reference--><title key="Hverdagskampe">Hverdagskampe</title>
+               <!--end title reference-->". Det er mig
+               meget vigtigt. Kan E.B.
+          <ref target="n10"/> ikke anbefale mig nogetsteds?</p>
+            <p>Lev vel.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

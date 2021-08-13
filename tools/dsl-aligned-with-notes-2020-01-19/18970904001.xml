@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18970904001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Datoen »1895?« er tilføjet med blyant, formodentlig af Aage
+                                        Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+               <date when="1897-09-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1897-09-04">[1897, 4. september] Lørdag <note>Bang opholdt
+                        sig 28.8.-8.9.1897 som Johan Knudsens gæst på herregården Bangsbo</note>
+            </date>
+            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <hi rend="italics">Bangsbo. Lørdag.</hi>
+            </p>
+            <p>Kære Hirschsprung.</p>
+            <p>Jeg har i disse Dage ‒ min Læge sagde, »det var ligesaa godt« ‒ faaet opsat mit
+                    Testamente. Det vil sige, jeg har bestemt alt angaaende mine Bøger, naar det en
+                    Gang bliver mig forundt ikke mere at være til.</p>
+            <p>De har jo nu dem alle undtagen »Haabløse Slægter«. Det vilde vistnok være klogt
+                    at faa at vide <app>
+                  <lem>af Schou<ref target="n1"/>
+                  </lem>
+                  <rdg>Tilføjet over linjen</rdg>
+               </app>, paa hvilke Vilkaar han har solgt den til Hr. Wulff<ref target="n2"/>. Særlig mange kan der
+                    ikke være tilbage. Har derfor Hr. Wulff kun købt de resterende af anden
+                        Udgave<ref target="n3"/>, da er det jo godt og intet
+                    behøver at gøres.</p>
+            <p>I hvert Fald vil jeg gerne tale med Dem, naar jeg paa Onsdag vender tilbage til
+                    København. Her kan jeg ikke blive. Mit Helbred bliver kun slettere.</p>
+            <p>Tak for alt, hvad De allerede har gjort for mig og tilgiv en Syg en Bøn, der for
+                    lang Tid skal blive den sidste.</p>
+            <p>Jeg har i <hi rend="italics">disse Dage</hi> bogstavelig ingen at vende mig til. Derfor
+                    beder jeg, for at jeg kan naa hjem: Send mig telegrafisk Mandag Morgen, saasnart
+                    De kommer i Forretningen fem og halvfjerds Kroner: Herman Bang, Poste restante,
+                    Frederikshavn.</p>
+            <p>Den Tid kommer vel, hvor ‒ trods alt ‒ min Gæld er betalt, i alle Fald til
+                    Dem.</p>
+            <p>Men det maa være tidlig paa Dagen, De sender dem, for ellers kan jeg ikke rejse.
+                    Jeg har jo Pige<ref target="n4"/> med, da jeg er for svag.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

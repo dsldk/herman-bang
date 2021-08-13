@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18840819001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet
+                                    blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevets bagside har Niels Neergaard skrevet en kladde med
+                                        mange rettelser til sit brev til Severin Abrahams: <hi rend="italics">Hr.
+                                            Direktør S. Abrahams. / I det af mig udg. Maanedsskrift
+                                            Tilskueren agter jeg i den kommende Sæson af og til at
+                                            optage Artikler om Teaterforhold og særlig fremtrædende
+                                            Begivenheder paa Teaterlivets Omraade, og jeg har dertil
+                                            sikret mig dygtig Bistand. I Fortsættelse af de Bidrag,
+                                            Tidsskriftet allerede har indeholdt af Dr. E. Brandes om
+                                            det kgl. Teaters sidste Sæson og af H. Schwanenflügel om
+                                            Opførelsen af Hamlet, har jeg nu for næste Hæfte truffet
+                                            Aftale med Hr. H. Bang om en Artikel om
+                                            Judic-Forestillingerne paa Folketeatret og tillader mig
+                                            i den Anledning at henstille til Dem, om De vil vise
+                                            »Tilskueren« den Velvilje at overlade den en Billet til
+                                            de nævnte tre Forestillinger. / I Haab om et
+                                            imødekommende Svar forbliver jeg Deres ærbødigste / N.
+                                            Neergaard</hi>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1884-08-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Niels Neergaard</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1884-08-19">1884, 19. August [tirsdag] <note>Fra september
+                        1884 til 1886 var Bang bidragyder til det nyligt grundlagte månedsskrift
+                            <hi rend="italics">Tilskueren</hi>, der havde Niels Neergaard (1854-1936) som
+                        redaktør</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">19.8.84.</p>
+            <p>Kære Hr. Neergaard.</p>
+            <p>Det skal være mig en Fornøielse at opfylde Deres Ønske. Artiklen<ref target="n1"/> skal De have den tredivte
+                    bestemt ‒ men skriv til Abrahams<ref target="n2"/> eller hellere gaa til ham paa
+                        Theatret<ref target="n3"/> Kl. 11 og sig ham, at
+                            »Tilskueren«<ref target="n4"/> maa
+                    have en Billet. De kan da benytte den første Aften, jeg de to næste.</p>
+            <p rend="right">Bien à vous<ref target="n5"/>.</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

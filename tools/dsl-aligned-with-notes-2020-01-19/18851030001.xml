@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851030001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 299</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev. Fortrykt brevpapir med træsnit af pladsen foran Stortinget og
+                        hotellet på hjørnet: <q>Grand Hotel. / J.Fritzner. Christiania den ......
+                                188 .</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XXIX</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Kristiania (dvs. Oslo)</placeName>
+               <date when="1885-10-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-10-30"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 30. oktober [fredag]<note>Herman Bang har skrevet datoen forkert som 30.11. og har tillige
+                rettet på det første ciffer. Der kunne evt. stå: 10.11.1885, men ud fra brevets
+                indhold må det mest sandsynlige være 30.10., således som det også er tolket af
+                Vandreaar, s. 151</note>
+            </date>
+            <placeName cert="high">Kristiania (dvs. Oslo)</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Christiania den] <app>
+                  <lem>30.11.</lem>
+                  <rdg>Skrivefejl for 30.10., jf. Vandreaar, s. 151</rdg>
+               </app> [188]5</p>
+            <p>Kære Don.</p>
+            <p>Den, som skulde skrive mit Livs Historie maatte begynde med en skøn Lignelse om
+                        "Forhindringsløb" – saa tage rigeligt med Grøfter og Hække o:s:v: og saa
+                        lade mig falde af og sætte mig op igen og dumpe igen.</p>
+            <p>Publikum, som jublede ifjor, modtog mig som en fremmed iaar. Jeg blev saa
+                        desorienteret over den kolde Genkomst-Hilsen, at jeg fuldkommen tabte
+                                Kontenancen<ref target="n1"/>, og jeg, som pleier, ved
+                        Anspændelse, at beherske dette Publikum, blev grebet af Slaphed og laa under
+                        for det. <hi rend="italics">Publikum</hi> forblev uberørt, og vi kender, hvordan
+                        Bladene tager fat, naar jeg ikke har Sukces.</p>
+            <p>
+               <persName key="Menter_Sophie">Fru Menter</persName>
+               <ref target="n2"/>
+                        opnaaede – "Herren være takket" o:s:v: – en fanatisk Sukces.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n3"/> mange Gange fra</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

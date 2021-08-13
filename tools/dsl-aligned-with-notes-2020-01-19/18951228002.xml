@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18951228002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 154</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Sorø]</placeName>
+               <date when="1895-12-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1895-12-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1895. 28. december. ] Lørdag Aften<note>Jf. Bangs telegram til
+                  Nansen tidligere samme dag</note>
+            </date>
+            <placeName cert="high">[Sorø]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag Aften.</p>
+            <p>Nej, jeg fik ikke Lov at tage afsted og dog havde jeg glædet mig saa meget. Du véd
+               maaske, hvor sentimental jeg er og smaa Ting gør saa stærkt et Indtryk paa mig ... Og
+               jeg vilde saa gerne have siddet <hi rend="italics">der</hi> ved Bordet nu. Ogsaa for din Skyld,
+               for jeg tror, at Aarene, der er gaaet, vilde ligesom have slaaet tættere Kreds om
+               dig, hvis du ogsaa havde sét mit Ansigt et Sted blandt de mange .... Men nu sidder
+               jeg kun her – ligesaa ene som jeg plejer.</p>
+            <p>Enfin<ref target="n1"/>. Det vilde <app>
+                  <lem>være</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> det rette Sted til at vise daarligt Humør i et Brev, som du skal læse lige,
+               naar du slaar Øjnene op Morgenen efter en Festaften.</p>
+            <p>Men egenlig har jeg jo slet intet at skrive uden dette, at jeg sidder og skriver,
+               mens de andre sidder og spiser .... Det er mig hele Tiden, som skulde jeg et Sted hen
+               og saa maa jeg slet ikke gaa ud af min Stue ..... Jeg tænker paa, om du og <persName key="Nansen_Betty">Frøken Müller</persName>
+               <ref target="n2"/> ikke kunde komme herned en Dag.
+               F:Ex: Nytaarsdag. Men I skal vel et eller andet Sted til Middagsselskab.</p>
+            <p>Med "<!--start title reference--><title key="Kameliadamen">Kameliadamen</title>
+               <!--end title reference-->"<ref target="n3"/> bliver det vel ikke til
+               noget? Jeg har da i alle Fald ikke hørt fra Hr. <persName key="Schrøder_Richard">Schrøder</persName>
+               <ref target="n4"/>. Du kan tro, det er fordi han nødig vil have mig. Det
+               vil de jo alle nødig. Men, ser du, saa lav det for Guds Skyld saadan, at jeg ganske
+               stille gaar ud af Spillet. Rollen er <hi rend="italics">for</hi> vigtig for din Kæreste og hende
+               kan jeg jo altid hjælpe lidt hjemme i Stuerne – naar vi flytter lidt Møbler i din
+               Spisestue – som jeg hjalp salig <persName key="Secher_Julie">Julie
+                 Secher</persName>
+               <ref target="n5"/>. Ikke sandt? Og hvad Pokker, jeg kan vel lave den Honnør foruden at
+               have dresseret <persName key="Nathansen_Thora">Nathansen</persName> og den
+                  <persName key="Thomsen">lille Thomsen</persName>
+               <ref target="n6"/> ....
+               Du kan tro, "Politikens" Medarbejdere ikke er i saa godt Humør, naar nu <persName key="Rode_Ove">Ove</persName>
+               <ref target="n7"/> skal være "saadan den øverste". Jeg vilde saagu' heller ikke
+               være glad.</p>
+            <p>Men hvorfor sidde her og pladre, naar jeg dog ikke har noget at skrive – – og bare
+               sidder og tænker paa Festen.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

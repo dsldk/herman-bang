@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19051118001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 31</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København?]</placeName>
+               <date when="1905-11-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-11-18"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 18. november.  [lørdag]<note>Bang må have fejldateret
+                  brevet, der ifølge sit indhold er skrevet efter 18.11.1905, da prins Carl af
+                  Danmark blev valgt som Norges konge. Brevet er sendt til Betty Nansen under hendes
+                  turné rundt i Skandinavien, jf. Kvam s. 66</note>
+            </date>
+            <placeName cert="high">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">18.<app>
+                  <lem>9.</lem>
+                  <rdg>Bang har fejlskrevet måneden, se Bemærkninger</rdg>
+               </app> 1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Hvor jeg synes, De er langt borte og hvor meget jeg dog længes efter Dem. Her sker
+               saa meget – og det meste er sørgeligt – men jeg orker ikke at skrive om det, fordi
+               det vilde blive en hel Bog .... <persName key="Lange_Sven">Sven Lange</persName> tog
+               altsaa Kloral<ref target="n1"/> og døde
+               ikke. Kloral er ogsaa altfor upaalidelig en Gift. Hvis man tager en meget stor Dosis,
+               kaster man den op, og tager man en mindre "Skefuld", døer man ikke. Maaske havde det
+               været ret nødvendigt for Sven L. at dø. Man taler her – som De kan tænke – om alle
+               Slags Ting. Jeg tror nu, at det er Pengene .... Og saa vil <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n2"/> skilles, hvad
+                  <persName key="Riis_Elisabeth">Riiset</persName>
+               <ref target="n3"/> ikke
+               vil. Jeg tog i Anledningen til <placeName key="Bangsbo">Bangsbo</placeName>
+               <ref target="n4"/>. En rask lille Rejse – frem og tilbage med det Resultat,
+               at Reden deroppe var tom, da jeg kom. Fruen var rejst for at undgaa at træffe mig
+               .... Nu vil Johan giftes med <persName key="Knudsen_Olga">Fru
+                  Mygind</persName>
+               <ref target="n5"/>. Jeg
+               vil ikke paa Papiret udtrykke, hvad jeg mener om denne deplorable<ref target="n6"/> Idée. Men min Frygt er det, at det sidste
+               isaafald bliver endnu værre end det første.</p>
+            <p>En af Fruens Tillidsmænd er – <persName key="Thomsen_Ove">Ove
+                  Thomsen</persName>
+               <ref target="n7"/>, som igaar
+               havde tilkaldt <persName key="Wied_Gustav">Gustav Wied</persName>
+               <ref target="n8"/> til en Konference.
+               De ægteskabelige Lagener vadskes paa alle Torve og hænger til Tørring paa
+                  "Hesten"<ref target="n9"/> .... mens Johan taler om at
+               ville tage en Tur til <placeName key="Indien">Indien</placeName> – med "Hjælpens"
+                  digter<ref target="n10"/>. Allez-y<ref target="n11"/> .... Hvad mig angaar, begriber jeg ikke, at den Slags skal foregaa
+               for aabne Døre .... Jeg talte med <persName key="Ring_Johannes">Ring</persName>
+               <ref target="n12"/> imorges. Han var henrykt over
+               Lynggaard <ref target="n13"/> og <persName key="Nielsen_Johannes">Johannes</persName>
+               <ref target="n14"/>. Paa Kasino slaaes Direktørerne og paa Dagmar slaaes –
+               Abonnenterne. Forleden begravede jeg "de Otte"<ref target="n15"/>, som anden Juledag
+               sandsynligvis skal spille i <placeName key="Valby">Valby</placeName> Kro.</p>
+            <p>Der var vist meget andet at skrive om. Men jeg hvisker ikke mere .... Jeg skal til
+                  <placeName key="Kristiania">Kristiania</placeName>, naar nu iovermorgen <persName key="Carl_prins">Prins Carl</persName> bliver Konge<ref target="n16"/> .... Og De? Begynder De at blive træt eller holder Sejrene Dem
+               vaagen? Jeg tænker paa Dem hver Dag og ønsker Dem herhjem .....</p>
+            <p>Hils <persName key="Madsen_frøken">Frøken Madsen</persName>
+               <ref target="n17"/>, som vel bliver helt
+               svensk. Kan ikke hun finde "en Befalingsmand" af Hestgarden? Disse Svenskere er dog
+               saa høflige mod Fremmede.</p>
+            <p>Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

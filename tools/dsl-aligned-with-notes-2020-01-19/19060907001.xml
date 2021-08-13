@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060907001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 3</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Randers</placeName>
+               <date when="1906-09-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-09-07"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 7. september.  [fredag]<note>empty</note>
+            </date>
+            <placeName cert="high">Randers</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Randers 7.9. 1906.</p>
+            <p>Min kære Ven.</p>
+            <p>Nej, den Idé gaar s'gu ikke. Alene af den Grund, at jeg først skal
+                  tiltræde<ref target="n1"/> i November. Det var
+               min Betingelse. Thi "Fædrelandet"<ref target="n2"/> skal og maa
+               jo gøres færdig – først og fremmest for Nansens Skyld<ref target="n3"/>.</p>
+            <p>Og derfor sidder jeg nu her. Jeg har valgt dette Hul, fordi jeg her ikke kender et
+               eneste Menneske. ...</p>
+            <p>Naar jeg sendte Dem "Inez"<ref target="n4"/>, var det, fordi der var noget i Rollen, som jeg synes passede Dem.
+               Men maaske synes De, at det Hele er noget Bras og afskyeligt .....</p>
+            <p>
+               <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n5"/> har jo været ved at dø. Livet og Døden er saagu' lige
+               besynderlige. Og rapt kan den ene naa os og gøre Kaal paa den anden.</p>
+            <p>Himlen véd, naar De skal begynde at optræde?</p>
+            <p>Kunde De ikke skrive det til mig – og saa om "Inez".</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850410001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 248</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider. Brevpapir med kronet slyngmonogram HJB.</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blyantspåskrift af Peter Nansen øverst tilvenstre på s. 4: <q>Ida
+                                 Alberg?</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XIV</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Helsingfors]</placeName>
+               <date when="1885-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-04-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 10. april], Fredag<note>Dateringen i Vandreaar s. 91
+                  følges</note>
+            </date>
+            <placeName cert="high">[Helsingfors]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg har kun ét Minut. Jeg talte her første Gang i Onsdags paa Teatret. Entusiasmen
+               var ubeskrivelig og Huset udsolgt Dagen forud. Jeg fik fra finske Damer til "<!--start title reference--><title key="Fædra">Fædras</title>
+               <!--end title reference-->
+               Digter" en <app>
+                  <lem>storartet</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> Lyre af røde og hvide Roser samt en Laurbærkrans. Til min første egen
+               Forelæsning igaar var alt udsolgt til Trængsel, og Bifaldet uendeligt. Indtægten var
+               2000 Francs men Udgifterne her svarer dertil. Alt er udsolgt til mine tre
+               Forestillinger. Paa Teatret skal jeg spille to Gange – siste Gang tredie Akt af
+                  Osvald<ref target="n1"/>. – I Slutningen af Maaneden gaar jeg til <placeName key="Sankt_Petersborg">Petersburg</placeName>,
+               hvor alt beredes til Krigen<ref target="n2"/>. At gaa til
+               <placeName key="Afghanistan">Afghanisthan</placeName> – hva'? Jeg har atter modtaget Tilbud fra Tyskland. Vilde gerne, aa, saa
+               gerne tale med dig for at spørge om din fornuftige Mening. Idag kom Posten – en Gang
+               om Ugen Post fra Jer – og fra dig intet Brev. Slet intet Ord fra Danmark. Du begriber
+               ikke, hvor Livet her er mærkeligt. Det er et brutalt Raffinement. Man overøser mig
+               med Gaver. Jeg har faaet en Skitse af <persName key="Edelfelt_Albert">Edelfelt</persName>
+               <ref target="n3"/>
+            </p>
+            <p>Her findes en finsk-svensk <persName key="Aalberg_Ida">Skuespillerinde</persName>
+               <ref target="n4"/> af Sarah-Rang<ref target="n5"/>, det rentud
+               vidunderlige, du, af Geni.</p>
+            <p>Her lever en Fyrstinde <persName key="Karamzin_Aurora">Kamrazim</persName>
+               <ref target="n6"/> – den skønneste Kvinde, jeg har set. Jeg
+               maa slutte, jeg skal nu just sé hende til Middag hos – <persName key="Musin-Pusjkin_enkegrevinde">Enkegrevinden af Puschkine</persName>
+               <ref target="n7"/>. Det er hele Ruslands Aristokrati. Igaar paa Døren til
+               Forelæsningssalen læstes Telegram fra Petersburg: Krigen erklæret. Og en Mængde
+               russiske Officerer sad endda og hørte roligt efter.</p>
+            <p rend="right">Din Herman.</p>
+            <p>Hils <persName key="Nansen_Immanuel">"Hvalpen"</persName>
+               <ref target="n8"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

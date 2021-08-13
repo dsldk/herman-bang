@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19030424001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 840</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær (vistnok Otto K. Rasmussen); brevets sidste tre
+                                            ord og underskrift er skrevet af Bang selv</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1903-04-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Bertha Holst (Bangs nièce)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1903-04-24">1903, 24. April [fredag] <note>Bertha Holst
+                        (1881-1929) var 1901-05 leder af en skole i Rørvig</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Den 24.4.03.</p>
+            <p>Min egen Bertha.</p>
+            <p>Inderlig Tak for Violerne Du sendte mig og Tak for Din
+                        Fødselsdagshilsen<ref target="n1"/>. Jeg savnede et
+                    Ord fra Dig paa min Fødselsdag ‒ det vil jeg ikke nægte. Jeg føler mig den Dag
+                    mere hjælpeløs end paa alle Aarets andre Dage.</p>
+            <p>Sofie<ref target="n2"/> har skrevet, at Du <app>
+                  <lem>studere</lem>
+                  <rdg>Ordet er således stavet af sekretæren</rdg>
+               </app> Latin og vejer 105 [tegnet for: pund]<ref target="n3"/>. Jeg synes, at begge Dele er for
+                    meget. Hvad vil Du med Latin og hvad med 105 [tegnet for: pund] ?</p>
+            <p>Nu rejser Adelgunde og Frk Andersen<ref target="n4"/>, saa af hele Huset<ref target="n5"/> er der kun de to gamle pjuskede Krager tilbage,
+                        Nini<ref target="n6"/> og jeg. Nini har det meget bedre nu, men hun var ogsaa en
+                    Tid altfor syg. Hun hører med umiskendelig Glæde hver lille Stump om Dig. Du
+                    bliver da ogsaa en umaadelig dygtig og støt lille Krabat.</p>
+            <p>
+               <app>
+                  <lem>Det</lem>
+                  <rdg>Hullemaskinen har fjernet de to første bogstaver af ordet</rdg>
+               </app> ender saamænd med, at Du opretter en Skole ligesom Frøken
+                        Langs<ref target="n7"/> i Silkeborg. Godt vilde det være, for saa behøvede jeg da
+                    ikke at komme paa Ladegaarden<ref target="n8"/>, men
+                    kunde finde et Asyl paa en Kvist i Bygningen. Til den Tid vilde jeg saa ikke
+                    mere farve mit Haar, men være hvidhaaret og en rigtig rar gammel Mand.</p>
+            <p>Tusind Hilsner</p>
+            <p rend="right">fra din Ven</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

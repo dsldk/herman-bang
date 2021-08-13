@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19100000003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 203</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Fortrykt brevpapir: <q>Hôtel Phønix. /
+                                    Telegram-Adresse: / "PHØNIX". / Statstelefon Nr. 24. / Aalborg,
+                                    den ... 19... / TELEFON NO. 12, 396, 911</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1910-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1910-01-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1910.  00,] Lørdag<note>Brevet er formentlig fra 1909,
+                  1910 eller 1911. Ud fra udgiverens nuværende viden om Bangs færden kan et
+                  Aalborgophold ikke nærmere dateres</note>
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Min kære Ven.</p>
+            <p>Fra din gamle By skriver jeg. Jeg maatte allerede rejse iaftes, da mit Befindende var
+               paa Katastrofens yderste Rand.</p>
+            <p>Med <persName key="Gulmann_Christian">Gulmann</persName>
+               <ref target="n1"/> har jeg talt – efter
+                  Recepten<ref target="n2"/>, om hvilken vi blev enige. Han vil sikkert forholde sig derefter.
+               Til <persName key="Henriques_Robert">Robert</persName>
+               <ref target="n3"/> og <persName key="J.C.">J.C.</persName>
+               <ref target="n4"/>
+               <hi rend="italics">skriver</hi> jeg idag. Ingen vil fatte nogen Mistanke, da "Recepten" klinger
+               meget sandsynlig. Jeg vil være <hi rend="italics">meget</hi> lykkelig, om jeg <hi rend="italics">en</hi>
+               Gang i mit Liv i Gerninger kan vise dig, hvor inderligt solidarisk jeg føler mig med
+               dig, <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n5"/> og alt, hvad Eders er. Livet er saa svært, at der kun er
+               et Smil, som forsoner dermed: at staa hinanden en Smule bi.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890608001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5159, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bergen</placeName>
+               <date when="1889-06-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Ægteparret Peder og Margarethe Jørgensen,
+                                        født Dreyer</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-06-08">1889, 8. Juni [lørdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Bergen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Bergen. 8.6.89.</p>
+            <p>Kære Børn.</p>
+            <p>Iaftes talte jeg for første Gang.</p>
+            <p>Jubelen var stor og ‒ Indtægten dækkede ikke Udgifterne. Heden er frygtelig, og
+                    det har ikke regnet i en Maaned.</p>
+            <p>Mangfoldig Tak for alt. Jeg gemmer, tro mig, Mindet om hver Godhed i mit
+                    Sind.</p>
+            <p>De forløbne Uger har været gruelige: paa Bornholm<ref target="n1"/>
+               <hi rend="italics">Tab</hi>; saa med 24 Timers Varsel til Norge (for at rejse med Nansens
+                        Skib<ref target="n2"/>) Referater,
+                    Telegrammer, Afrejse strax efter Festbanketten, tre Døgn ombord ‒ her afrikansk
+                    Hede ‒ Misstemning i Pressen. Buh!</p>
+            <p>Paa Mandag sender jeg »en Fremstilling« til Krog-Jensens<ref target="n3"/>. Bliv
+                    délagtig i den.</p>
+            <p>Og nu Tak og igen Tak.</p>
+            <p>Hils Fru Korup<ref target="n4"/> og Moder<ref target="n5"/> ‒ oh vé ‒ Frk. Vind<ref target="n6"/>, Morgenskoene, Ingse,
+                    Fru Dreyer<ref target="n7"/>. Og selv vær
+                    begge hilset og takket fra</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

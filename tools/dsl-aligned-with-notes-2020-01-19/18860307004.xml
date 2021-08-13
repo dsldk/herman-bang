@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860307004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 378</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-03-07">[1886, 7. marts] [søndag]<note>Hotel Hammerand er
+                        Bangs 3. logi efter hans ankomst 24.2.1886 til Wien. Derfor må en datering
+                        til 7.3. foretrækkes fremfor søndag 28.2.1886. Fra ca. 15.3. har Bang
+                        adresse paa Universitätsstrasse 4, IX Bezirk</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hotel Hammerand VIII Bezirk. Wien. Søndag.</p>
+            <p>Det <app>
+                  <lem>er</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> bedst, kære Kammerraad, at jeg tager mig Tiden til at skrive Dem allerede
+                    idag. Igaar var jeg for træt, derfor fik De kun et Par Ord.</p>
+            <p>Altsaa idag om Sagerne:</p>
+            <p>En Sammensværgelse er i Gang hjemme. Min <hi rend="italics">Læge</hi>
+               <ref target="n1"/> staar i Spidsen. Man bringer mig to Tilbud.</p>
+            <p>Det ene fra »Dagsavisen«. 5000 Kroner udbetalt strax og 6000 Kroner, garanteret
+                    for 5 Aar. Jeg bunden tre Aar fra første April at regne.</p>
+            <p>Det andet fra »Politiken«: meget smigrende c: 5000 Kr. aarlig for meget lidt
+                    Arbeide.</p>
+            <p>Mine Venner <hi rend="italics">vil</hi>, af Hensyn til mit Helbred, at jeg skal modtage et
+                    af disse Tilbud og vende hjem.</p>
+            <p>Dr:<ref target="n2"/> skriver: Saasnart De
+                    har bestemt Dem ‒ sendes Penge. Ingen før.</p>
+            <p>Altsaa en <hi rend="italics">Udhungring</hi>.</p>
+            <p>Mine skandinaviske Korrespondencer betaler sig <hi rend="italics">saa</hi> usikkert ‒ som De
+                    véd. Naar jeg en Gang er død, vil man afgøre Tingen med mine Arvinger.</p>
+            <p>Jeg <hi rend="italics">vil</hi> imidlertid ikke hjem. Forlader jeg nu Tyskland, groer jeg
+                    fast hjemme ‒ og jeg faar <hi rend="italics">aldrig</hi> tysk Navn og tysk Virksomhed.</p>
+            <p>Men hvorlænge kan mit Helbred udholde denne Usikkerhed?</p>
+            <p>Der <hi rend="italics">maa</hi> en Afgørelse. De er klog og diplomatisk. Gør Schorer bekendt
+                    med <hi rend="italics">hele</hi> Sagen. Forestil ham, at hvis jeg nu gaar, er jeg tabt for
+                    ham.</p>
+            <p>Jeg skal gøre alt Arbeide ‒ <hi rend="italics">navnlig ogsaa skrive til Illustrationer</hi>
+                    ‒ og jeg skal <hi rend="italics">binde mig til ham</hi>. Men da maa han ogsaa bekvemme sig
+                    til <hi rend="italics">trods mit Forskud</hi>, som maa langsomt afbetales, at give
+                        <hi rend="italics">os</hi> ‒ <hi rend="italics">Dem</hi> og mig, Dem ogsaa ‒ et maanedligt Fixum.
+                        <hi rend="italics">Minimum 300 Mark</hi> (at dele mellem os); hvad der
+                        <hi rend="italics">mere</hi> maatte tilkomme <hi rend="italics">mig</hi> i hver Maaned er
+                    Afdrag.</p>
+            <p>Kan det ordnes saaledes? Da har jeg dog idetmindste <hi rend="italics">noget</hi> fast? De
+                    ogsaa.</p>
+            <p>Og i modsat Fald maa <hi rend="italics">jeg</hi> skrive Dag og Nat og De, min gode
+                    Kammerraad, maa for vore forskellige Mærker finde nye Afsætningskilder ‒
+                        <hi rend="italics">det</hi> er De Mand for. Bernhard Hoff kan vel komme ind i »Salonen«
+                    o:s:v: Naar De blot siger mig <hi rend="italics">Genren</hi> for hvert Blad.</p>
+            <p>Gør Schorer opmærksom paa, at jeg <hi rend="italics">ikke</hi> har skrevet i »Fels und
+                    Meer«.</p>
+            <p>Tilgiv mig, kære Kammerraad, at jeg altid plager Dem ‒ men Tingen er nu paa det
+                    »spændende« Punkt. <hi rend="italics">Hjemme</hi> giver man saamæn ikke Køb.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. de B.</p>
+            <p>Paa det af Gesandten udfærdigede Pas staar Herman de Bang ‒ saa det er bedst er
+                    skrive <hi rend="italics">det</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

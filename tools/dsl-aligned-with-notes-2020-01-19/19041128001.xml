@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19041128001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 74</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1904-11-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-11-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 28. november [mandag]<note>empty</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien VI . Hotel Windsor.</p>
+            <p rend="right">28.11. 1904.</p>
+            <p>Min arme Ven.</p>
+            <p>Det er græsseligt.</p>
+            <p>Men om en Ting beder jeg: tag Bade, kør ud. Søg at gøre Deres Legeme stærkt i Stedet
+               for, ved kunstige Midler, at forsøge at glemme for Timer ..... Om Deres Liv tror jeg
+               ikke, at De kunde sige mig noget, som jeg ikke har tænkt mig. Kun dette sidste
+               ventede jeg ikke. Idetmindste ikke saa brat og saa ubarmhjertigt. Den unge
+                  Mand<ref target="n1"/> er af en
+               egoistisk Familie. Det maa være hans Undskyldning – men hvad hjælper
+               <hi rend="italics">det</hi>? Aa, at have gjort alt, alt for et Menneske og saa "sidde der" –
+               ikke andet end "sidde der" ... Men det, jeg mest frygter, er "<!--start title reference--><title key="Maria_Theresia">Maria Theresia</title>
+               <!--end title reference-->"<ref target="n2"/>.
+               Det Stykke og den Rolle nu vil berede Dem sjælelige og legemlige Pinsler, som De, min
+               Ven, endnu ikke har Begreb om. Og jeg er angst for, at De ikke vil have Kræfter til
+               at bære dem .... Og ene er De eller – – værre end ene. Det er frygteligt. Og der er
+               slet ikke noget at sige og ingen Ende at sé. Og ingen Trøst at give.</p>
+            <p>Kun: læg Dem ikke hen. Det hævner sig altfor frygteligt. Stram Dem <app>
+                  <lem>sammen</lem>
+                  <rdg>Et komma efter ordet er slettet</rdg>
+               </app> til at køre ud i Luften. Det er nu saa koldt, at Luften trætter .....</p>
+            <p>Deres Brev har jeg strax brændt.</p>
+            <p>Hvis De har Kræfter til at skrive, da skriv. Det letter ikke. Men der gaar nogle
+               Minutter, mens man skriver.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

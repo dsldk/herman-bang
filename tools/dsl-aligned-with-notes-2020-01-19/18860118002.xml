@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860118002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 2.rk. Blyantsnummer 488</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Meiningen</placeName>
+               <date when="1886-01-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Vilhelm Greibe (dansk vicekonsul i
+                                        Hamburg)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1886-01-18">1886, 18. Januar [mandag]<note>Efter sin
+                        udvisning af Preussen ankom Bang 15.1.1886 til Meiningen, hovedstaden i
+                        hertugdømmet Sachsen-Meiningen</note>
+            </date>
+            <placeName cert="high">Meiningen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">18.1.86. Meiningen. Hotel z. Erbprinzen.</p>
+            <p>Kære Greibe.</p>
+            <p>Jeg har ringe Tid og springer alt om »Udsmidningen« over. Sé
+                        »Politiken«<ref target="n1"/> o:s:v:</p>
+            <p>Nu maa der handles <hi rend="italics">hurtigt</hi>. Lad saafort Liebich<ref target="n2"/> tage fat paa Oversættelsen af »Fædra« og oversætte saa
+                    hurtigt han kan. Schorer tager den ‒ eller Pierson i Leipzig<ref target="n3"/>, som ogsaa gerne vil have den. Vil
+                    han have Penge forud, kan han faa. Blot at han sender <hi rend="italics">mig</hi> hvert
+                    Kapitel strax, det er færdigt, at Trykningen strax kan begynde.</p>
+            <p>Han maa oversætte <hi rend="italics">2 Kapitler mindst om Ugen</hi>. Svar mig
+                        <hi rend="italics">strax</hi>. <app>
+                  <lem>Jeg</lem>
+                  <rdg>I forbindelse med sideskift i brevet har Bang skrevet ordet igen uden
+                            at rette sin fejl</rdg>
+               </app> vil selv skrive en Fortale.</p>
+            <p rend="right">Lev vel.</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

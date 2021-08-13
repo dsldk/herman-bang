@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000110001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »10/1 1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-01-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-01-10">[1900, 10. januar] Onsdag <note>Datering: den
+                        angivne ugedag i kombination med brevets sekundært anførte datering; denne
+                        er formentlig skrevet af Aage Hirschsprung ved modtagelsen af brevet</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag Aften.</p>
+            <p>Min kære Hirschsprung.</p>
+            <p>Jo ‒ jeg kan jo godt ‒ og det er vel det bedste ‒ gennemgaa »Tine«<ref target="n1"/>. Meget er der ikke at
+                    rette, men nogle Ordgentagelser i Replik'erne bør dog uden al Tvivl
+                        stryges<ref target="n2"/>.</p>
+            <p>Paa Guy de Maupassant har jeg taget fat<ref target="n3"/>. Udvalget er imidlertid vanskeligt paa Grund af den urimelige
+                    embarras de richesse<ref target="n4"/>. Man synes uvilkaarligt, at alt maa med ‒ parbleu<ref target="n5"/>, da jeg gennemlæste mine egne Bind<ref target="n6"/> havde jeg lige den modsatte
+                    Fornemmelse.</p>
+            <p>»Det graa Hus«<ref target="n7"/> skal nok komme. Men med et slet opbygget Hus staar hverken De
+                    eller jeg mig. Det kan ikke nytte.</p>
+            <p>Med Brummerstedt<ref target="n8"/> har
+                    jeg nu atter Kvalm. Han skulde jo have hundrede Kr. efter Nytaar.</p>
+            <p>De maa nu uvægerligt <app>
+                  <lem>præsentere</lem>
+                  <rdg>
+                     <ref target="n9"/>
+                  </rdg>
+               </app> December-Anvisningen for Abrahams<ref target="n10"/>. Nu har alle faaet Gage ‒ undtagen
+                    jeg, der ‒ <hi rend="italics">foruden</hi> Anvisningen til Dem ‒ for December endnu har 150
+                    Kr. til Gode. Men jeg faar dem aldrig. Send mig saa »Tine«<ref target="n11"/> samt Hefterne af Shakespeare<ref target="n12"/>, som jeg
+                    ikke har sét siden Hefte 32. Det er otte Maaneder siden.</p>
+            <p>Jeg har det nu noget bedre. Dog er mit Hoved endnu saare svagt og Manglen paa
+                    Kloral lader mig hver Nat ligge vaagen, til den længst er slagen tre. Det er en
+                    Smule for langtrukket. Men enfin ‒ la vie est bien triste, soyons gais<ref target="n13"/>.</p>
+            <p rend="right">Sympathiquement</p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

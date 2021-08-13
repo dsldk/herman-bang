@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050800001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 194</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">empty</placeName>
+               <date when="1905-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1905-08-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1905.  august. ] Lørdag<note>Brevet kan dateres til august
+                  1905 ud fra Betty Nansens gæstespil i Stockholm hos den svenske teaterleder Albert Ranft (1858-1938), senere fortsat
+                  adskillige steder i Norden (jf. Kela Kvam, s. 66)</note>
+            </date>
+            <placeName cert="low">empty</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Ven.</p>
+            <p>"Tak for din Daad" og dit Venskab.</p>
+            <p>Gode Kineser, sikken et Mandschuriet<ref target="n1"/> der vist har været.</p>
+            <p>Men altsaa <hi rend="italics">underskrev</hi> jeg igaar om Procenterne<ref target="n2"/>. Gaar det, kan jeg tjene totusind Kroner og kan gøre
+                  "<!--start title reference--><title key="De_uden_Fædreland">De uden Fædreland</title>
+               <!--end title reference-->" færdig i Fred.</p>
+            <p>Det er underligt. Men for første Gang i mit Liv, <hi rend="italics">længes</hi> jeg efter at
+               skrive. Det er maaske, fordi jeg véd, at <app>
+                  <lem>kun</lem>
+                  <rdg>Sætningen mangler sit subjekt: det</rdg>
+               </app> saa kort Tid skal være min Levevej.</p>
+            <p>Jeg telegraferede igaar til Stockholm og opflammede <persName key="Nansen_Betty">vor
+                  "Prima"</persName>
+               <ref target="n3"/> med nogle Ord.</p>
+            <p>Tak.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

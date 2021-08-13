@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990928002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »28/9 99« er tilføjet med blyant, formodentlig af
+                                        Aage Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1899-09-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-09-28">[1899, 28. september] Torsdag <note>Datering:
+                        den angivne ugedag i kombination med brevets sekundært anførte datering;
+                        denne er formentlig skrevet af Aage Hirschsprung ved modtagelsen af
+                        brevet</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Min Ven.</p>
+            <p>Jeg sender først dette idag, da jeg atter har været helt elendig. Ak, mine
+                    Lungers Blod ‒ hvad gør det? det er jo mit Hjerte, der bløder....</p>
+            <p>Hermed altsaa Novellerne<ref target="n1"/>. Med disse sluttes 1
+                    Afdeling.</p>
+            <p>Jeg har nu fundet hele Samlingens <hi rend="italics">Redning</hi>: idet vi tager disse tre
+                        Afdelinger<ref target="n2"/>:</p>
+            <p>I <hi rend="italics">Forsøgene</hi>.</p>
+            <p>II Ungdomsfortællinger</p>
+            <p>III Senere Fortællinger.</p>
+            <p>Voilà la critique qui se taira bien<ref target="n3"/>.</p>
+            <p>II begynder da med »Franz Pander«<ref target="n4"/>.</p>
+            <p>Saa er her to »Digte«. De skal gemmes. »Kunde jeg mejsle dig ‒« er vist noget af
+                    det stolteste, jeg har skrevet<ref target="n5"/>. Men hvorfor, min Ven, skal
+                    et »Vers« koste saa meget Blod?</p>
+            <p>Hvad mine Digte angaar, da <hi rend="italics">maa</hi> vi have fat i de Digte, som i Bergen
+                    har staaet i »Blade af min Dagbog«<ref target="n6"/>. Jeg vilde saa
+                    gerne <hi rend="italics">selv</hi> ‒ og Tiden er kort ‒ samle dem alle sammen.
+                        <hi rend="italics">De</hi> vil dog leve længst. I dem vil stærke Hjerter hvile ud i
+                    egen Smerte.</p>
+            <p>Her paa Hotellet, fra hvilket jeg skal flytte paa Mandag<ref target="n7"/> ‒ til et
+                        Pensionat<ref target="n8"/> med 130 Kr. maanedlig for
+                    mig og Sofie<ref target="n9"/>
+                    ‒ fordrer man idag 100 Kr. ... Jeg er saa syg, at jeg maa bede Forlaget<ref target="n10"/> om dem. Naar denne Maaned er ude, er det jo forbi
+                    med mine Anmodninger. Herren ved, at det er ogsaa grusomt nok. Send mig
+                    »Excentriske Noveller«<ref target="n11"/>,
+                    »Stille Eksistenser«<ref target="n12"/> og
+                    »Under Aaget«<ref target="n13"/>. De er
+                    blevet borte. Saa skal De faa »De fire Djævle«<ref target="n14"/> imorgen og alle de andre paa Mandag. Giv Sofie Pengene.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

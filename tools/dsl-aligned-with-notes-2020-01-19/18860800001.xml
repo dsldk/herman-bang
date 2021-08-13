@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860800001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 125</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-08-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. august], Lørdag<note>Brevet er i Vandreaar, s. 216,
+                  ikke forsøgt nærmere dateret. Ordene "...disse siste otte Maaneders Historie",
+                  dvs. siden januar, peger på august 1886. – Brevet rummer Bangs tilsyneladende
+                  første omtale til Nansen af "Ved Vejen"</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p rend="right">Lørdag.</p>
+            <p>Forstaa, kære Peter, at det <hi rend="italics">kun</hi> er til dig – <hi rend="italics">og dig
+                  privatissime</hi> – at jeg skriver dette.</p>
+            <p>Sagen fortsætter sig smukt. Igaar modtog jeg Opfordring til at møde for Politiet. Jeg
+                  <hi rend="italics">blev taget i Forhør</hi>, og mine Udsagn ført til Protokol. Forgæves
+               protesterede jeg, og forgæves spurgte jeg, <hi rend="italics">hvorfor</hi> man underkastede mig
+               disse Pinligheder. Man gav mig intet Svar. Efter halvanden Times Krydsforhør, hvor
+               man udspurgte mig om hele mit Liv, og hvor jeg maatte opgive alle mine Forbindelser –
+               sendte man mig endelig bort. <hi rend="italics">Det eneste</hi>, man kunde anføre imod mig, var:
+               at jeg i <placeName key="Wien">Wien</placeName> var blevet en Værtinde 10 Gylden
+               skyldig – hun har snydt mig for et Par Hundrede – !</p>
+            <p>Jeg anmodede disse Herrer om, hvis jeg skulde udvises, da at sige mig det strax. Man
+               svarede mig: at naar jeg <hi rend="italics">ikke gjorde mig <app>
+                     <lem>skyldig</lem>
+                     <rdg>Ordet står med en dobbelt understregning</rdg>
+                  </app> i noget</hi>, kunde jeg <hi rend="italics">vel</hi> blive. Man vilde have opgivet,
+               hvorofte jeg modtog Penge, og hvilken <hi rend="italics">Dag</hi> omtrentlig i Maaneden. Man
+               tror, at jeg er Medlem af et hemmeligt socialistisk Selskab og modtager Penge for at
+               agitere for dette Selskab.</p>
+            <p>I Maaneder har man nu omgivet mig med Politi. <hi rend="italics">Jeg vil ikke paa nogen
+                  Maade</hi>, at du siger dette til nogen. Ti man har kun et eneste ud deraf, at
+               man – Gud straffe mig – tilsist tror, jeg er blevet en Forbryder. Vi kender det med
+               Røgen og Branden<ref target="n1"/>.
+               Hvad mig angaar, vil jeg her søge at erfare, hvorvidt det efter østrigsk Lov er
+               tilladt at "afhøre en Mand" uden at sige, hvorfor det sker, og hvorfor de hemmelige
+               Angivelser sigter ham.</p>
+            <p>Historien begyndte pludselig for tre Maaneder siden. Siden da har man bevogtet alle
+               mine Skridt og forsøgt at erfare om mig muligt og umuligt. Hvor saa lidt er at
+               erfare, fordi intet skér.</p>
+            <p>Du kan forstaa, at jeg lider noget under dette. Meget svækker Livet. Min Evne til at
+               lide har mit Liv endnu ikke formaaet at afstumpe – besynderligt nok, ti jeg har
+               saamæn lidt saa meget, at jeg snart maatte være blevet tykhudet.</p>
+            <p>Men fra hvem gaar dette ud? <hi rend="italics">Hvem</hi> er det, som paany rører sig? Der er saa
+               meget dunkelt i disse siste otte Maaneders Historie. "Hvem'et["] er det største og
+               gaadefuldeste Spørgsmaal.</p>
+            <p>Hvis man skulde udvise mig herfra, vil jeg ikke hvile, før jeg har Opklaring i mine
+               Hænder. Foreløbig vil jeg tie.</p>
+            <p>Vi lever i Tider, hvor "Retten" døer en stille Død Dag for Dag. Hver Gang jeg tænker
+               paa, hvorledes alt, hvad Menneskene har erobret i de siste hundrede Aar, Dag for Dag
+               visner i vore Hænder – kunde jeg græde.</p>
+            <p>Men <hi rend="italics">skriver</hi> jeg paa mine Noveller fletter jeg Humorens bittreste med
+               latterligste Kranse om de sørgelige Skæbner. Jeg har i "<!--start title reference--><title key="Ved_Vejen">Ved
+                  Veien</title>
+               <!--end title reference-->" skildret en Ægtemand, som vil vække din Beundring. Han er det
+               sandeste, jeg hidtil har gjort og fuldkommen humoristisk i sin Græsselighed.</p>
+            <p>"Ved Veien" vil vist gøre frygtelig Skandale: Efter Markedet gaar Mand – Kone og
+               Elsker hjem over Kirkegaarden. Manden gaar iforveien og "gik og slog ud med Armene,
+               som om han jagede Høns op under Buskene". Bagefter gaar Konen (hun elsker, men
+               "falder" ikke) og læser paa Ligstenene: "Kærlighed er Lovens Fylde" o:s:v:</p>
+            <p>Da de saa kommer ud, trækker Manden Elskeren til Side: Det er s'gu en Skandale, siger
+               han – jeg havde s'gu ikke troet det muligt – – – –; <hi rend="italics">han har gaaet og jaget
+                  Elskende op!</hi>
+            </p>
+            <p>Du vil vel synes, det er "raat" – men Scenen er det bedste, jeg nogentid har gjort og
+               skrevet med en Ro, som forbløffer.</p>
+            <p>I den Bog er "Indeklemthed" forbi. <hi rend="italics">De</hi> Folk ta'er, hvad de kan faa. Kun
+               Heltinden – min Mor – bevarer sig rén og ender sit Liv med at spørge:
+                  <hi rend="italics">hvorfor</hi> hun er forblevet det?</p>
+            <p>Lev vel.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

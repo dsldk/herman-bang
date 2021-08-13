@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851125001</idno>
+            <idno type="isbn">[København?]</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 167</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Torbjörn Nilsson, s. 100</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1885-11-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1885-11-25"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 25. november], Onsdag Aften<note>Brevet omhandler
+                  slutfasen af <!--start title reference--><title key="Excentriske_Noveller">Excentriske Noveller</title>
+                  <!--end title reference-->s
+                  trykning og stammer således fra november 1885, da Bang var på skandinavisk turné
+                  med den tyske pianist <persName key="Menter_Sophie">Sophie Menter</persName> (1846-1918). Med al sandsynlighed
+                  kan brevet dateres til onsdag 25.11.1885. Den færdige bog med det omtrykte halvark
+                  forelå mandag 30.11., jf. Bangs egenhændige dedikation denne dato i det eksemplar
+                  af bogen, som han forærede til sin ven og gamle skolekammerat <persName key="Schiøtt_Julius">Julius
+                     Schiøtt</persName> (nu i Det Kongelige Bibliotek). Muligvis befandt turnéen sig
+                  25.11.1885 i København. I Politiken står onsdag 18.11.1885 følgende notits: "Fru
+                  Sophie Menter har forandret sin oprindelige Rejseplan, og vil nu istedetfor at
+                  begive sig til St. Petersborg via Stockholm, rejse dertil over Berlin. Paa
+                  Tilbagerejsen fra Stockholm giver Kunstnerinden da, som forleden meddelt, en
+                  Afskedskoncert i Kjøbenhavn den 28de Novbr. i Kasinos store Sal, til hvilken
+                  Koncert Billetter kan forudtegnes i Hofmusikhandelen." Og i samme avis, søndag
+                  22.11.1885: "Sophie Menter har under sit Stockholmer-Ophold vakt al den sædvanlige
+                  Enthusiasme. Kong <persName key="Oskar_2.">Oskar</persName> modtog Kunstnerinden i
+                  Privat-Audiens om Formiddagen før den anden Koncert, og anmodede hende om at
+                  medvirke ved en Hofsoirée. Kongen overværede begge Fru Menters Koncerter."</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag Aften.</p>
+            <p>Min kære Don.</p>
+            <p>
+               <persName key="Schou_Andreas">And. Schou</persName>
+               <ref target="n1"/> har stillet sig meget velvillig. Et Halvark trykkes om
+               saaledes, at de "borede Smaahuller"<ref target="n2"/> helt gaar ud. Iøvrigt et Par
+               Smaaændringer efter <persName key="Brandes_Edvard">Brandes'</persName>
+               <ref target="n3"/> Ønske.</p>
+            <p>Istedetfor Smaahullerne har jeg faaet et lille Billede fra table d'hôte-Salen<ref target="n4"/>.</p>
+            <p>Jeg er iøvrigt ved godt Mod. Jeg læste inat hele Bogen. Jeg eier snart
+               Samfundsskildrerens Sikkerhed. Hvad der endnu vækker Indignation vil en Dag, naar vi
+               begge bliver noget ældre, blive en stor Auktoritet. Tak for al Hjælp.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860716001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 45</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Wien]</placeName>
+               <date when="1886-07-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-07-16"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 16. juli], Fredag<note>Brevet er formentlig skrevet
+                  en fredag i juli 1886. Kun den ene af de omtalte tre artikler har kunnet genfindes
+                  i Bibliografien over Herman Bangs forfatterskab</note>
+            </date>
+            <placeName cert="low">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Bliv ikke, kære Peter, forfærdet over, at tre Artikler kommer paa <hi rend="italics">en</hi>
+               Gang. Det er fordi jeg skriver saa ivrigt paa min Bog<ref target="n1"/>.</p>
+            <p>Dette om <persName key="Lucca_Pauline">Lucca</persName>
+               <ref target="n2"/> vil
+               forberede som – "Renz"<ref target="n3"/>. I vil beholde
+               Ret.</p>
+            <p>2. "Til Festspillene i Bayreuth"<ref target="n4"/> og 3
+                  "Rio"<ref target="n5"/> –. Det gaar snart løs her i
+                  <placeName key="Østrig">Østrig</placeName>.</p>
+            <p>Kan du ikke skrive en Gang til mig.</p>
+            <p rend="right">Din Herman.</p>
+            <p>Jeg skrev i Foraaret om "Lucca i Charkow", men den Artikel blev <hi rend="italics">ikke</hi>
+               trykt.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

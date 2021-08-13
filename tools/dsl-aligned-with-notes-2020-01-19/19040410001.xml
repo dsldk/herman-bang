@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040410001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 373</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1904-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-04-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 10. april.  [søndag]<note>empty</note>
+            </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Brockmanns Hotel. Odense.</p>
+            <p rend="right">10.4.1904.</p>
+            <p>Kære Nansen.</p>
+            <p>Tak for dit Brev. Hvert venligt Ord, man siger mig, er en Velgerning i denne Tid,
+                        hvor jeg er saa nedtrykt. Det piner mig fremfor alt, at
+                        "<!--start title reference--><title key="Mikaël">Mikaël</title>
+               <!--end title reference-->"<ref target="n1"/>
+                        naturligvis sælges saa daarligt. Hvad naturligt er, da man først forberedte
+                        Stemningen ved at gøre mig latterlig som Oplæser (og det var
+                                <hi rend="italics">ganske</hi> uden Grund) og nu tøver man med
+                                Kritikerne<ref target="n2"/>.</p>
+            <p>Naa, enfin –</p>
+            <p>Min Adresse er nu <hi rend="italics">den</hi>, som staar her ovenover Brevet.</p>
+            <p>Endnu en Gang Tak.</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

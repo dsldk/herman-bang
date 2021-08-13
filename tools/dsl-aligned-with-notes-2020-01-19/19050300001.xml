@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050300001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4858, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
+                                                  <hi rend="italics">Hotel Aalborg. / P. Henriksen. / Telefon Nr.
+                                                  19. / Thisted, d.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Thisted</placeName>
+               <date when="1905-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1905-03-01">[1905, marts?] Torsdag <note>Brevet er skrevet
+                        under en af Bangs oplæsningsturneer; det vides, at han i marts 1905 var i
+                        Nordjylland ... men dateringsforslaget er indtil videre usikkert ... Måske
+                        kan den nævnte gemene artikel identificeres..?</note>
+            </date>
+            <placeName cert="high">Thisted</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Thisted. Torsdag.</p>
+            <p>Min kære Ven.</p>
+            <p>Inderlig Tak for Deres Breve. Naar jeg ikke har skrevet, er det, fordi jeg har
+                    rejst og rejst ‒ ‒</p>
+            <p>Ja, den Artikel var mer end gemén<ref target="n1"/>. Naar man kender Deres
+                    Forhold til Familjens Medlemmer utroligt gemén. Desværre har han endnu to
+                    Artikler af mig. Men mere faar han heller aldrig, før han har givet Dem
+                    Oprejsning.</p>
+            <p>
+               <hi rend="italics">Dem</hi> kan Artiklen være fuldkomment ligegyldig. Men smertelig maa den
+                    være for Broderen<ref target="n2"/> ‒ ‒ som vel kender sin egen
+                    Broder....</p>
+            <p>Med mig er der intet Nyt ud over det, at jeg, trods alle de udsolgte Huse, ikke
+                    tjener noget, der er værd at nævne. Endnu har jeg intet Udbytte sét. Og jeg maa
+                    være glad, hvis jeg kan tjene 70(!) Kroner pr: Oplæsning!!! <hi rend="italics">Men dette
+                        strengt mellem os</hi>.</p>
+            <p>Til Tider er jeg i den Anledning ved at fortvivle. Imorgen er <app>
+                  <lem>det</lem>
+                  <rdg>Bang har tilføjet ordet over linjen</rdg>
+               </app> lille Clausens<ref target="n3"/> Fødselsdag ‒ gratulér ham, hvis
+                        <hi rend="italics">De</hi> ejer Pengene til en Kop Thé. <hi rend="italics">Jeg</hi> ejer dem
+                    ikke.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

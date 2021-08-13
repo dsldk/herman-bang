@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111027001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 63.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider, fortrykt brevpapir med tegning af
+                                                hotellet: <hi rend="italics">Grand Hotel. Grand Hotel Royal.
+                                                  Stockholm den ... 191...</hi>, med tilhørende
+                                                kuvert, fortrykt »Grand Hotel / Grand Hotel Royal.
+                                                Stockholm«, frankeret med et svensk 10 öres
+                                                frimærke, poststemplet <hi rend="italics">Stockholm 27.10.11.6-7
+                                                  [em]</hi>, og med den danske postvæsens
+                                                modtagerstempel på bagsiden: <hi rend="italics">Kjøbenhavn V.
+                                                  3.OMB.28.10.11</hi>; udskrift i Bangs
+                                                håndskrift: <hi rend="italics">Fru Olga Dahl. / København. V. /
+                                                  Prinsesse Maries Allée 14.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blæk i fremmed hånd på kuverten: <hi rend="italics">27 Oktbr
+                                            1911</hi>, formentlig skrevet af Olga Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Stockholm</placeName>
+               <date when="1911-10-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-10-27">1911, 27. Oktober [fredag] <note>empty</note>
+            </date>
+            <placeName cert="high">Stockholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Stockholm den] 27.10.[191]1.</p>
+            <p>Min egen Ven.</p>
+            <p>Jeg bliver mer og mer ængstelig for, at De er syg. Hvis De ikke formaaer det
+                    selv, kan da ikke Søster<ref target="n1"/> skrive mig til, hvordan det
+                    gaaer.</p>
+            <p>Her er intet nyt. Jeg »fejrer Triumfer« ‒ staaer der i Bladene. Jeg maa tilstaa,
+                    det er ikke morsomt »at fejre Triumfer«<ref target="n2"/>.</p>
+            <p>Leve gør jeg idetmindste ikke. Min Tilværelse er kedsommelig som den Regn, der
+                    idag, graa og tung, falder over Stockholm.</p>
+            <p>Tusind Hilsner.</p>
+            <p rend="right">H. B.</p>
+            <p>Ja, noget Nyt er der: da jeg vaagnede imorges, fik jeg den Idé, at jeg vilde
+                    tilbringe Juleaften paa Krim. Der skal være saa skønt. Den Slags Idéer faar man,
+                    naar man er »tom« indvendig.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

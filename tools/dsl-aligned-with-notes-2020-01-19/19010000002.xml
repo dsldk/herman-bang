@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19010000002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevets bagside (drejet 90 grader) er med fremmed hånd og
+                                        med sort blæk skrevet et: G.</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1901-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1901-01-01">[1900 eller 1901] Fredag<note>Det usikre
+                        dateringsforslag bygger mest på håndskrift og grøn blækfarve kombineret med
+                        adressen, hvor Bang er flyttet ind i maj 1900 ...</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Dr: Brandes.</p>
+            <p>Tilgiv Skriften. Men jeg er endnu meget for syg til egenlig at kunne skrive selv.
+                    Og disse Linjer vilde jeg ikke diktere nogen. Der medfølger en Artikel<ref target="n1"/>, som De af politiske Grunde maaske
+                    vilde betænke Dem paa at optage. Og dog synes det mig, at Risikoen ‒ med mit
+                    Navn under og saa gerne med en Bemærkning af Redaktionen ‒ vilde være meget
+                    lille.</p>
+            <p>Men hvis De ikke vil have den, da vær saa elskværdig at sende mig den tilbage i
+                    en Konvolut. Jeg kan jo da lade den optage andetsteds. Men De vil nok læse den
+                    hurtigt.</p>
+            <p>Mit Hjerte har inat været saa rebelsk, at jeg endnu er ganske følesløs i min
+                    Krop.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Gamle Kongevej 25</p>
+            <p>B<ref target="n2"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

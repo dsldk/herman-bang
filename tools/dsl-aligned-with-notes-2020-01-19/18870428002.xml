@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870428002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 104</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-04-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1887-04-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1887. 28. april. ] Torsdag Aften<note>Efter sit indhold kan
+                  brevet med rimelighed kædes sammen med brevet 1887. 28. april. 001</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Torsdag Aften</p>
+            <p>Kære Peter.</p>
+            <p>I dette Nu fik jeg dit Brev, og jeg maa uopholdelig sige dig, at jeg intetsomhelst
+               har skrevet til <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n1"/> – <hi rend="italics">uden hvad jeg vidste, han havde bedre Besked om
+                  end jeg</hi>. Du paa din Side tager fejl, om du tror, at E' og den øvrige Verden
+               ikke "talrigt" konfererer bag din Ryg. <hi rend="italics">Jeg</hi> – mit Ord paa det – havde til
+               Esmann skrevet, saa vidt jeg nu mindes, ti det er længe siden, <hi rend="italics">kun</hi> en
+               Sætning om dit kunstneriske Arbejde og om at <hi rend="italics">jage</hi> dig til
+                  <hi rend="italics">dét</hi>. Om noget, som jeg ikke <hi rend="italics">burde</hi> skrive, har jeg ikke
+               skrevet ét Ord. Du kan være vis paa, at <hi rend="italics">jeg</hi> herfra ikke fører Sladder.
+               Og at det Hele var en liden "Komedie" af Esmann – <hi rend="italics">som</hi> i hele <hi rend="italics">denne
+                  Sag staar paa et ganske andet Standpunkt end mit</hi>. Hvad du i denne Sag
+               skriver – jeg tier. Vær vis paa det. Men Ulykken er forresten, du skriver ingenting,
+               og maaske <hi rend="italics">burde</hi> du. Dine Breve skal jeg brænde <hi rend="italics">strax</hi>.</p>
+            <p>Hvad <persName key="Diederichsen_Laura">Fru D.</persName>
+               <ref target="n2"/> angaar,
+               skrev jeg paa min Bog, at naar man gyngede for højt – kunde man falde ned. Jeg ved
+               ikke, hvilket "Samvete"<ref target="n3"/> man maa have for at tage
+               Mistanke af denne Sandhed.</p>
+            <p>Gud give, jeg havde din Bog i mine Hænder.</p>
+            <p>Jeg har kradset dette strax, fordi jeg ikke vil spise dine Høns<ref target="n4"/> – da jeg er aldeles
+               uskyldig.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

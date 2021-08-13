@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860305001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 317</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XLIV</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-03-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-03-05"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1886. 5. marts [fredag]<note>empty</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Wien. Hotel Hammerand. 5.3.86.</p>
+            <p rend="right">
+               <hi rend="italics">VIII Bezirk</hi>
+            </p>
+            <p>Kære Peter.</p>
+            <p>Bliv ikke forfærdet over, at jeg i de næste Dage sender dig en Artikel hver Dag – de
+               kan jo ligge paa Lager – men det er den eneste Maade, hvorpaa jeg efter saa mange
+               Lidelser kan arbeide mig op igen til nogen "fair" og "chic"<ref target="n1"/>.</p>
+            <p>Ret i denne Artikel, hvad der for<hi rend="italics">tjener</hi> at komme i "<!--start title reference--><title key="Punch">Punch</title>
+               <!--end title reference-->"<ref target="n2"/>. Det er en
+               Stemning, som maaske vil synes dig græsselig, og som dog ikke er hensat uden Kunst.
+               Der vil være dem, som vil sukke lidt, sé tilbage og sige "Ja".</p>
+            <p>
+               <hi rend="italics">Nu</hi> gaar det løs! Jeg svarede altsaa Firmaet "<persName key="Bjerring_Emil">Bierring</persName>
+               <ref target="n3"/> &amp;
+               <persName key="Ottesen_Otto_Andreas">Ottesen</persName>
+               <ref target="n4"/>" et bestemt "Nei". Modtager saa <hi rend="italics">nu</hi> en
+               Depeche: "Sig ikke <hi rend="italics">nei</hi>. Husk Tiden, da De faldt fra
+               Nationaltidende".</p>
+            <p>Depechen sætter mig Kniven paa Struben. Ti det er sikkert paany Meningen at udhungre
+               mig. <hi rend="italics">Men jeg vil ikke gaa til Dagsavisen</hi>, og naar jeg ikke vil det, kan
+               jeg i dette Moment ligesaa godt blive her. Jeg kan tjene det samme og har
+               Kreditorerne mindre. Man synes jo at ville lade mig blive her – jeg mener
+               Regeringen.</p>
+            <p>Naturligvis er Tilstanden græsselig; jeg er smidt ud af min Leilighed, da jeg ikke
+               kunde betale i maanedsvis; og skønt jeg arbeider som et Asen den Tid, jeg ikke ligger
+               i Sengen eller er besvimet – hvad der gaar jævnlig paa – er det jo næsten umuligt at
+               faa skrabet sammen saameget, at jeg kan holde min Regning Stangen paa dette Hotel,
+               hvor jeg atter har maattet flytte hen.</p>
+            <p>Og alt – hvad mine Udsmidninger har kostet.</p>
+            <p>For at komme lidt til Ro, behøvedes der jo dog 300 Kr. men – gode Gud – da kan jeg
+               saagu skrive <hi rend="italics">længe</hi>, især da I er det eneste Blad – som overhovedet
+               sender mig noget.</p>
+            <p>Og nu beer jeg dig: hvad fanger man an med 60 Kr. i en By, hvor Mønten er Gylden (60
+               Kr = 30 G.) og hvor man har sin Garderobe i <placeName key="Sachsen">Sachsen</placeName>
+               <ref target="n5"/> og andre tarvelige Eiendele i <placeName key="Preussen">Preussen</placeName>
+               <ref target="n6"/>.</p>
+            <p>Gud ske Tak – at jeg snart faar saadan Vane til at opleve det græsseligste, at det
+               ikke mere undrer mig, om jeg maa sidde i Skjorte<app>
+                  <lem>, bar,</lem>
+                  <rdg>Ordet og begge kommaer er tilføjet over linjen</rdg>
+               </app> – og du véd, hvor det vilde klæde mig – mens jeg nedskriver mine
+               "udødelige".</p>
+            <p>Naa – min Ven – jeg forsøger at lé, for at ikke en ensom Taare skal liste ned paa
+               Papiret.</p>
+            <p>Gud véd, hvor jeg sidder paa Onsdag, naar jeg skal betale min Regning.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n7"/>
+            </p>
+            <p rend="right">fra Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

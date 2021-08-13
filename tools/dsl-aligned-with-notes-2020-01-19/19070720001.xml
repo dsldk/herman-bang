@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070720001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 426</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 7 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1907-07-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-07-20"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 20. juli [lørdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">20.7.1907.</p>
+            <p>Min kære Ven.</p>
+            <p>
+               <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n1"/> skriver, du er syg, af Gigt, og rigtigt daarlig. Saa
+               skriver jeg straks for at adsprede dig en Smule. Sig straks Fru Nansen, at hun ikke
+               skal være bange for min Morfin. Jeg faar nu kun en Indsprøjtning hver femte Dag,
+               hvilket er et gevaldigt Afslag. Ellers gaar det, i ydre Henseende, ret vel. Imorges
+               havde jeg Kort fra <persName key="Fischer_Hedwig">Fru Fischer</persName>
+               <ref target="n2"/>, som er i <placeName key="Holland">Holland</placeName>
+               (alle Mennesker her er i Holland – underligt). "<!--start title reference--><title key="Det_graa_Hus">Det graa
+                  Hus</title>
+               <!--end title reference-->" skal begynde i "Rundschau" til Oktober og saa ud som Bog<ref target="n3"/>. Derefter skal
+                  "<!--start title reference--><title key="Ludvigsbakke">Ludvigsbakke</title>
+               <!--end title reference-->" følge ... Jeg har ogsaa skrevet
+               en Berliner Feuilleton, som er blevet meget nydelig, for "Tageblatt"<ref target="n4"/> ... Men selv arbejder jeg nu paa en mærkelig Novelle: "<!--start title reference--><title key="Barchán_er_død">Barchán er død –</title>
+               <!--end title reference-->"<ref target="n5"/>. Hvis den bliver god, vil jeg skrive en til<ref target="n6"/> og sammen med den
+               Spøgelseshistorie, jeg skrev ifjor<ref target="n7"/> – og som allerede længst er oversat rundtom,
+               for den var noget underlig – vilde jeg saa udgive disse to i et Bind under Titlen:
+               "Sære Historier" –. De kunde udkomme i Oktober ... De første Dage i August tager jeg
+               fat paa Julefortællingen<ref target="n8"/>. Den bliver vist meget sørgmodig. Ti jeg er
+               meget bedrøvet inde i mig .... I "Mercure de France" (for 16 Juli) staar der en lang
+               Kritik af "<!--start title reference--><title key="De_uden_Fædreland">De uden Fædreland –</title>
+               <!--end title reference-->"<ref target="n9"/>, hvor mit tekniske "Mesterskab" hæves op over Skyerne, og han siger,
+               at man gennem Bogen kan lære at kende "hele det danske Folk". Det er kun kedeligt med
+               alt det Mesterskab, at Bøgerne dog aldrig kan sælges saadan, som de rigtige, store
+               Digteres. Saa behøvede jeg ikke at sidde og skrive saa meget Skidt sammen ....
+                  <persName key="Volynskij_Akim">Wolynsky</persName>
+               <ref target="n10"/>, som er Ruslands største Kritiker – hans Bøger er
+               oversatte paa baade fransk og tysk og jeg har læst en af dem, om <persName key="Dostojevskij_Fjodor">Dostojewsky</persName>
+               <ref target="n11"/> – har nylig skrevet om "Mikaël". Han siger, at den er en sand
+               Historie om Geniet – –</p>
+            <p>Puh, det var sandelig en lang Præk om mig selv ... Nu er mine Ting kommet fra
+               Danmark. Betty hænger lige over mit Skrivebord og du under et dansk Maleri, det
+               eneste, jeg har foruden <persName key="Marie_prinsesse">Prinsessens</persName>
+               <ref target="n12"/>. Hun
+               er i "Die Woche"<ref target="n13"/>
+               idag – med et tatoveret Anker paa Armen. Sig til <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n14"/>, at han kunde gerne skrive lidt til mig. Saa skal jeg
+               straks svare .... Paa Kasino skal de spille "<!--start title reference--><title key="Første_Violin">Første
+                  Violin</title>
+               <!--end title reference-->"<ref target="n15"/> med <persName key="Pio_William">Pio</persName>
+               <ref target="n16"/> som Iscenesætter og <persName key="Carlson_Gudrun">Gudrun</persName>
+               <ref target="n17"/> som Pigebarnet. Foreløbig er hun (Gudrun) paa en Bilfart
+               til <placeName key="Budapest">Budapest</placeName> ... Naa, dejligt er det, at Wied
+                  <ref target="n18"/> har
+               faaet solgt "Violinen" igen og faar de Penge. <persName key="Petersen_Fritz">Fritz
+                  Petersen</persName>
+               <ref target="n19"/> skal ogsaa spille et Stykke, som <persName key="Lange_Sven">Sven Lange</persName>
+               <ref target="n20"/> har lovet ham. Jeg tager an, at det er et af den Slags, som
+                  <persName key="Fristrup_Peter">Fristrup</persName>
+               <ref target="n21"/> skriver ....</p>
+            <p>Nu tusind Hilsener til alle og god Bedring, kære Peter.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

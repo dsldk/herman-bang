@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860917001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 124</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LIII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-09-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-09-17"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 17. september, cirka; fredag] <note>Brevet er ikke søgt
+                  nærmere dateret i Vandreaar, s. 220. Dateringen må skønsmæssigt ligge en uge forud
+                  for brevet 1886. 24. september. </note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Kære Peter.</p>
+            <p>Hermed sender jeg i Korsbaand: "<!--start title reference--><title key="Ved_Vejen">Ved Veien</title>
+               <!--end title reference-->"s 5 Kap.</p>
+            <p>Læs det og skriv. Jeg véd, at de første otte Sider er mislykket og anstrengt skrevet.
+               Men ellers har jeg <hi rend="italics">haabet</hi> at det var dansk og godt. Aa – men, du gode
+               Gud – maaske er det rent skidt.</p>
+            <p>I <app>
+                  <lem>sjette</lem>
+                  <rdg>Ordet er rettet fra: femte</rdg>
+               </app> Kapitel døer hun. I syvende fyldes den tomme Plads langsomt ud. Undertiden
+               forekommer det mig, at der i denne stille Fortælling hviler noget af den larmløse
+               Fortvivlethed, som saadan rigtig sidder som Marv i dette glade Livs mindste
+               Knogler.</p>
+            <p>Jeg har villet skrive Fortællingen glad som <hi rend="italics">hele</hi> Karussellen – trøstløs
+               som hvert enkelt Liv. Men hvad nytter det, hvad jeg har villet?</p>
+            <p>
+               <hi rend="italics">Lever</hi> dette? Kender du disse Mennesker. Og er det Skæbner, som afspilles
+                  <hi rend="italics">der</hi> "ved Veien", paa denne Plet af Jorden? Er det lykkedes mig at
+               være fordringsløs som Sceneriet? <hi rend="italics">Det</hi> ialfald kan du nu dømme om – selv
+               om først det siste Kapitel i al sin "glade" Overgivenhed med Louise Ældst og
+               "Ligstens-Køben" og Enkemands Reise til København lader Fortællingens "Teknik" vise
+               sig. En trøstløs Arkitektur. Melodien: "Den enes Død"<ref target="n1"/>
+               –</p>
+            <p>Naa – hvorfor <app>
+                  <lem>snakker</lem>
+                  <rdg>Verbet står i præsens, men Bangs mening er antagelig: hvorfor snakke</rdg>
+               </app>. Jeg ved jo, dine Øine vil læse venligt – med venlig Bekymring. Ligesaa vist,
+               som du, naar du har læst, vil sige mig din Mening uden Omsvøb.</p>
+            <p>
+               <hi rend="italics">Jeg</hi> har ikke læst Korrektur. Saa Trykfeils-Raseriet – spar for en
+               Anden.</p>
+            <p rend="right">Din Herman.</p>
+            <p>Hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n2"/>.</p>
+            <p>Frygteligt vil du "ane" ved at sé Hr. von Pöllnitz<ref target="n3"/> "Ende".</p>
+         </div>
+      </body>
+   </text>
+</TEI>

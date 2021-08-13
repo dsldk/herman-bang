@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850829001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 135</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Brevpapir: slyngmonogram HJB (uden krone)</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med Peter Nansens blyantspåskrift: <q>Ida Aalberg optraadte som Gæst
+                                 her – Aug. Rasmussen fra Kasino</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XXIV</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">München</placeName>
+               <date when="1885-08-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-08-29"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 29. august], Lørdag Aften<note>Dateringen i Vandreaar
+                  s. 132 følges</note>
+            </date>
+            <placeName cert="high">München</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">München. Lørdag Aften.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg vil bede dig indlevere disse tre Akter<ref target="n1"/> til <persName key="Rasmussen_August">Rasmussen</persName>
+               <ref target="n2"/>. Inden han faar læst dem – har han Rest. Siste
+               Halvdel af tredie Akt vil du som jeg finde uventet lykkelig og dramatisk. Jeg har
+               arbeidet som et Bæst, inden jeg fandt. Nu er Stykket et Drama og Pokker takke R. for
+               at spille det.</p>
+            <p>
+               <persName key="Aalberg_Ida">Ida A.</persName>
+               <ref target="n3"/> vil være henrykt<ref target="n4"/>. Hun – som er "vakt ved mig" o:s:v: hvilket Numer, naar vi
+               under Indstuderingen lader hende skrive et Brev til <placeName key="Finland">Finland</placeName> og atter oversætter det. Angaaende Rollebesætningen maa
+                  <persName key="Züberlein_Diderot">
+                  <hi rend="italics">Züberlein</hi>
+               </persName>
+               <ref target="n5"/> spille Greven. Han er ikke "fornem" men han
+                  <hi rend="italics">kan</hi> spille Komedie.</p>
+            <p>Om det ønskes skal det sættes i Scene af Forfatteren – og gaar alt vel, kan jeg
+               overtage Vilsacs Rolle, naar Penge-Sukces'en mattes. Men helst maa det spilles strax
+               efter "Adrienne"<ref target="n6"/>.</p>
+            <p>
+               <persName key="Brock_Louise">Frøken Brock</persName>
+               <ref target="n7"/> maa spille Morfindamen<ref target="n8"/>, der altsaa
+               er en c 30 Aar – ligesom Ellen.</p>
+            <p>Det faldt mig ind inat – for den Rolle er hun skabt. Jeg skal ikke nægte, at jeg er
+               stolt over Akten fra 6 Scene. Min Adresse er: Itter<ref target="n9"/>. Hils
+                  <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n10"/> hundrede Gange. Nu tænker jeg kun paa dette. Det
+                  <hi rend="italics">maa</hi> og <hi rend="italics">skal</hi> gaa.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

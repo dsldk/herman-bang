@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040514001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B2, Kopibog: Breve fra forlaget 6.4.-23.9.1904, s.
+                           213</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="peter-nansen">
+                              <ab>Kopien viser, at brevet var egenhændigt skrevet af Peter
+                                 Nansen</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1904-05-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-05-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 14. maj.  [lørdag]<note>Gyldendals ufuldstændigt
+                  bevarede kopibøger rummer fortløbende nummererede blade med nøjagtig kopi af
+                  forlagets afsendte breve</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">14/5 [190]4.</p>
+            <p>Kære Bang!</p>
+            <p>Velkommen tilbage<ref target="n1"/>. Naar
+               Du har Tid en Dag, saa kig ind paa Forlaget.</p>
+            <p>Fra Schubothe fik vi idag indlagte Brev, <hi rend="italics">som Du endelig maa lade mig faa
+                  tilbage</hi>. I en Telefonsamtale supplerede <persName key="Lybecker_J.L.">Lybecker</persName>
+               <ref target="n2"/> Brevets Oplysninger. "<!--start title reference--><title key="Ved_Vejen">Ved
+                  Vejen</title>
+               <!--end title reference-->"<ref target="n3"/>, for hvis 1ste Udgave
+               (3000) Du jo fik de berømte 600 Kr., tænker de at trykke i mindst 2000, <app>
+                  <lem>h</lem>
+                  <rdg>Betyder rimeligvis: højst</rdg>
+               </app> 3000 Exempl. Betalingen bliver, if. Kontrakten, 20%, altsaa for 2000 1200 Kr.,
+               for 3000 1800 Kr. Det er dog immer en Forskel. At forlange mere end 1000 Expl. af
+                  "<!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->" i den ny Udg, vilde vist være urimeligt. Med 50
+               Kr. pr. Ark bliver det vel ca. 800 (jeg husker ikke Ark-Antallet). "<!--start title reference--><title key="En_dejlig_Dag">En dejlig Dag</title>
+               <!--end title reference-->" mente Lybecker de vilde tage 75 Øre
+               for. 20% heraf bliver 15 Øre, altsaa for 3000 450 Kr. Paa den Maade skulde vi iaar
+               indkassere for gamle Bøger i nye Oplag ialtfald ca. 2500 Kr. Det synes jeg er ikke
+               saa daarligt.</p>
+            <p>Det var pænt af dig at sende <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n4"/> et Telegram.</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">P.N.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

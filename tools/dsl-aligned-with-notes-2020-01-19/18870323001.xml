@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870323001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-03-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-03-23">1887, 23. marts [onsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 23.III.87.</p>
+            <p>Kære Dr. Brandes.</p>
+            <p>Med en Tak for Deres Philipsenske Møje<ref target="n1"/> vil
+                    jeg sende Dem min hjerteligste Lykønskning til den Sukces, De har vundet med et
+                        Stykke<ref target="n2"/>, der ‒ efter G.E's
+                        Kritik<ref target="n3"/> ‒ synes mig
+                    sprunget, ved Hjælp af det sande Instinkt, der er den dramatiske Digters halve
+                    Evne, lige ud af Livet i vort syndige Babel. Er dette udmærkede Sujet »dukket«
+                    rigtigt i den vidunderlige Københavnerluft, hvorover De altid ellers har raadet,
+                    da har De sikkert i dette <hi rend="italics">almenere</hi> Stykke naaet »Et Besøgs«
+                    lykkelige Resultat.</p>
+            <p>Jeg har skrevet <app>
+                  <lem>efter</lem>
+                  <rdg>Ordets første bogstav er rettet, vistnok fra et: o</rdg>
+               </app> Stykket, og vil gerne udbede mig Tilladelse til at oversætte <app>
+                  <lem>det</lem>
+                  <rdg>Ordet er tilføjet over ordet: Stykket, som Bang har overstreget</rdg>
+               </app> til tysk. Vil De tilstaa mig denne <app>
+                  <lem>Ret</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> ‒ halvt om Pengene, hvis vi faar det opført?</p>
+            <p>Da jeg ikke ret har Rede paa Peters<ref target="n4"/>
+                    Redigeren eller Ikke-Redigeren, sender jeg indlagte til Deres Adresse,
+                    benyttende Lejligheden. (Det er til »Politiken«.)</p>
+            <p>Dette Drama er overordenligt. Det forener den paa Scenen muligste psykologiske
+                    Finhed med en mægtig ‒ undertiden noget »voldsom« ‒ dramatisk Stigning.
+                        <hi rend="italics">Vi</hi> betages af den digteriske Særlighed, den kække Konsekvents ‒
+                    Publikum tages i Nakken af en kæk Haand, som ikke slipper Taget.</p>
+            <p>Endnu en Gang min Lykønskning.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang</p>
+         </div>
+      </body>
+   </text>
+</TEI>

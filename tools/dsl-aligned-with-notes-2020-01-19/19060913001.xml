@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060913001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 403</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Randers]</placeName>
+               <date when="1906-09-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-09-13"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 13. september.  [torsdag]<note>For at færdigskrive sin
+                  roman opholdt Bang sig i september 1906 på et hotel i Randers, jf. Harry Jacobsen:
+                  Den tragiske Herman Bang, s.141</note>
+            </date>
+            <placeName cert="high">[Randers]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">13.9.1906.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg var s'gu ikke "ophidset", fordi du ikke svarede. Men "Direktøren"<ref target="n1"/> satte mig jo Kniven paa Halsen.</p>
+            <p>Men om det skriver jeg til <persName key="Nansen_Betty">din Kone</persName>
+               <ref target="n2"/>.</p>
+            <p>Nu digter jeg, saa det fyger. Paa Søndag afsender jeg en stor Portion<ref target="n3"/>. Mon jeg ikke skulde "knibe" den en Gang til? Jeg
+               synes dog, det "lever" nu. Det er altid, naar jeg sidder i disse Huller og slet ikke
+                  <hi rend="italics">taler</hi>. Saa gaar det bedre. Men hvor længe kan jeg <app>
+                  <lem>sidde</lem>
+                  <rdg>Ordet er rettet fra: sidder</rdg>
+               </app> her? Baade for Teatret og for Pengene – – Men færdig <hi rend="italics">skal</hi> og
+                  <hi rend="italics">vil</hi> jeg være – om ikke for andet, saa for din Skyld. Jeg vil ikke
+               have, at du skal have Ubehageligheder for min Skyld – –</p>
+            <p rend="right">Mange Hilsener.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+            <p>Her lider jeg af tyndt Liv<ref target="n4"/>, mens jeg skriver. I Khavn<ref target="n5"/>
+               var det Opkastninger. Tyndt Liv er dog bedre. Men en Ulykke kan ske. I den Anledning
+               digtede jeg iforgaars følgende lille Vers til mig selv, i hvis barnlige Poesi du kan
+               delagtiggøre din Frue</p>
+            <p>At gøre i sin Buks</p>
+            <p>det er ilde.</p>
+            <p>Lille Luks, lille Luks,</p>
+            <p>
+               <hi rend="italics">der</hi> tør man ikke spilde.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

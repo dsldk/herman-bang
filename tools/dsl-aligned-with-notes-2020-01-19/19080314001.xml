@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19080314001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 43.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider, med tilhørende kuvert frankeret med
+                                                to 10 Pfennigs frimærker, poststemplet <hi rend="italics">Berlin
+                                                  W 15.3.08.4-5N</hi>; udskrift i Bangs
+                                                håndskrift: <hi rend="italics">Fru Olga Dahl. / Kopenhagen. K. /
+                                                  Frederiksborggade.</hi>. På kuvertens bagside et
+                                                fragment af postvæsenets modtagerstempel:
+                                                  <hi rend="italics">Kjøbenhavn 3.OMB.[...]</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant i fremmed hånd øverst på brevets kuvert:
+                                            <hi rend="italics">15-3-08</hi>, rimeligvis skrevet af Olga
+                                        Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1908-03-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1908-03-14">1908, 14. Marts [lørdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">14.3.1908.</p>
+            <p>Min kære Ven.</p>
+            <p>Tilgiv mig, at jeg ikke har skrevet. Men jeg har været saa saare træt i de sidste
+                    Uger. Saa jeg har ikke orket ret meget..... Og desuden ‒ hvad skal jeg skrive?
+                        <hi rend="italics">Her</hi> sker saavist intet, og om hvad hjemme hænder, hører jeg
+                    intet. Men det sidste er maaske kun godt. Ti det er mestendels kun lidet
+                    glædeligt, det, som foregaar i Danmark.... <hi rend="italics">En</hi> Ting vilde jeg
+                    oprigtigt ønske ‒ for »Politikens« Skyld ‒ at »Politiken« og dens
+                        Aftenudgave<ref target="n1"/>, i Stilhed, vilde ændre sin Tone en
+                    Smule, mens Tid er. Ti ellers ender det dog galt.... Men et Blad, som to Brødre
+                    Cawling <ref target="n2"/> er Chefer for, og hvor en Steen Drewsen<ref target="n3"/> er Medarbejder, <hi rend="italics">kan</hi> vel ikke forandres. Desværre for
+                    dem ‒ og for vort stakkels Land.... Jeg tænker saa ofte paa Dem ‒ ofte, ofte. Og
+                    jeg spørger mig selv, naar jeg atter skal sé Deres kære Ansigt ‒ ‒ Nu skal jeg
+                    snart atter til Wien. Og i April til Hamburg. Disse Rejser er min Sjæls Rædsel.
+                    Det koster mig saa uhyre en Overvindelse, alt det. Mine Tanker er saa langt
+                    borte fra Laurbærkranse, at jeg glemmer at smile, endnu mens jeg staar med
+                    Kransene i Hænderne. Og dog skal jeg til Efteraaret til: Petersburg ‒ Finland ‒
+                    Stockholm ‒ Kristiania ‒ Göteborg ‒ Berlin (<hi rend="italics">via</hi>
+                        Sassnitz-Trelleborg<ref target="n4"/>).... Sandsynligvis
+                    vil Hr. Cawlings Broder<ref target="n5"/>,
+                    trods Sassnitz, alligevel ikke undlade at sende en Stinkpotte efter mig over
+                    Vandet. Hils Børnene. Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111027003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 591</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider; fortrykt brevpapir med tegning af
+                                                hotellet: Grand Hotel. Grand Hotel Royal. Stockholm
+                                                den ... 191....</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Stockholm</placeName>
+               <date when="1911-10-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Josef Melnik</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-10-27">1911, 27. Oktober [fredag] <note>empty</note>
+            </date>
+            <placeName cert="high">Stockholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Stockholm den] 25.7.[191]1.</p>
+            <p>Mein lieber guter Ossip.</p>
+            <p>Endlich schreibe ich denn und vielleicht werden Sie sagen: Ja, denn jetzt ist es
+                    nothwendig. Und doch ‒ es ist nicht so. Ich habe aber so ungeheuerlich viel zu
+                    thun, dass ich an meine Freunde wohl denken kann ‒ schreiben aber nicht.</p>
+            <p>Also, liebes Kind, zwei Sachen, von welchen wir so oft gesprochen, liegen jetzt
+                    vor:</p>
+            <p>1. Vorträge in Russland (Anfangs Decemb:)</p>
+            <p>Mein Verleger (Antik @ Co in Moskwa) soll sie arrangieren. Ich habe es im Vertrag
+                    mit ihm. Und schreibe ihm heute über die Details.</p>
+            <p>Damit ist es aber nicht gethan. Ich muss ja in Petersburg Verbindungen haben. In
+                    der Gesellschaft und in der Presse. Wie soll ich sie haben? Ist Ossip
+                        Dymoff<ref target="n1"/> da? Geben Sie mir da Adressen, bitte, damit
+                    ich mich ausfinden kann.</p>
+            <p>2. Ich mache mit der Hamburg-Amerika Linie »die zweite Reise um die Welt« mit.
+                    (Was meinen Sie dazu?)<ref target="n2"/>
+            </p>
+            <p>Können Sie nicht mitgehen?</p>
+            <p>Wenn es irgend möglich ist, dann thun Sie es.</p>
+            <p>Jedenfalls verschaffen Sie mir alle Auskünfte.</p>
+            <p>Ich kann 5000 Mark für die Fahrt zahlen. Meine Verleger zahlen das. Sagen Sie
+                    aber Ballin<ref target="n3"/> ein Wort darüber. Ich <app>
+                  <lem>werde</lem>
+                  <rdg>Bang har skrevet: werden, men slettet det sidste bogstav</rdg>
+               </app> ein Buch über die Reise schreiben, welches:</p>
+            <p>Spazierfahrt (mit Cleveland um die Welt)</p>
+            <p>Ferie (med Cleveland omkring Jorden)</p>
+            <p>Promenade (au bord de Cleveland)</p>
+            <p>in den drei Sprachen heissen soll.</p>
+            <p>Erhalten Sie alle Auskünfte:</p>
+            <p>1 <hi rend="italics">Wenn</hi> soll ich das Reisegeld einsenden?</p>
+            <p>2 <hi rend="italics">Wann</hi> fängt die Reise an?</p>
+            <p>3 <hi rend="italics">Wie</hi>
+               <app>
+                  <lem>gross</lem>
+                  <rdg>Bang har først skrevet: grosse Kosten, og overstreget det igen</rdg>
+               </app> werden die Kosten (ausserhalb die 5000 Mark) wohl werden?</p>
+            <p>
+               <hi rend="italics">Sie</hi> werden das ja am allerleichtesten erfahren.</p>
+            <p>Thun Sie dies. Aber vor allen Dingen: machen Sie die Reise mit. Denken Sie, wie
+                    schön. Nicht wahr? Ach, der Ballin wird doch einsehen können, dass es für »die
+                    Linie« gut ist, dass Sie die Reise machen. Und auch mein Buch wird doch eine
+                    Weltreklame sein für seine Reisen sein.</p>
+            <p>Und jetzt, lieber, guter Ossip, antworten Sie schnell und lang und
+                        <hi rend="italics">eingeschrieben</hi>. Adresse: Grand Hotel. Stockholm. Ich gehe von
+                    hier ‒ wo mein Erfolg enorm gewesen ‒ nach Finland, von da nach Petersburg.</p>
+            <p>Tausend Grüsse.</p>
+            <p rend="right">Immer Ihr Freund</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Lesen Sie »Die ohne Vaterland ‒«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

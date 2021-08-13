@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000402002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevets side 2 har Bang ‒ vinkelret på brevets
+                                        skriveretning ‒ skrevet den ufuldendte og overstregede
+                                        sætning: <hi rend="italics">Severin Abrahams blev en af dem</hi>. Der
+                                        er tale om genbrug af et kasseret stykke papir fra Bangs
+                                        samtidigt udarbejdede manuskript til nekrologen over Severin
+                                        Abrahams, trykt i <hi rend="italics">Politiken</hi>, 3.4.1900</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-04-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-04-02">[1900, 2. april, mandag] <note>Bang har skrevet
+                        månedstallet forkert i sin datering af brevet. Brevet skal dateres ud fra
+                        oplysningen om Bangs første artikel i <hi rend="italics">Politiken</hi>, omhandlende
+                        Severin Abrahams</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <app>
+                  <lem>2.4.1900</lem>
+                  <rdg>Bangs urettede fejlskrivning lyder: 2.1.1900</rdg>
+               </app>
+            </p>
+            <p>Kære Hirschsprung.</p>
+            <p>Hvad skal jeg gøre? Jeg lider lige saa meget som De ved min Hjælpeløshed. Men jeg
+                    har jo <hi rend="italics">endnu</hi> intet andet Sted at gaa hen end til Dem. Imorgen staar
+                    min første Artikel i »Politiken« ‒ om Abrahams<ref target="n1"/>. Ogsaa andre
+                    Artikler har jeg skrevet. Saa det kommer vel i Gænge.</p>
+            <p>Men det hjælper ikke <hi rend="italics">nu</hi>.</p>
+            <p>Og jeg skal jo betale her ‒ de hundrede Kr. for sidste Gang<ref target="n2"/>.</p>
+            <p>Om fjorten Dage skal De faa det første Guy de
+                        Maupassant-Manuskript<ref target="n3"/>. Og
+                    »Det graa Hus«<ref target="n4"/> skal ikke vente meget længere. Ti jeg mærker at skrive kan jeg
+                    endnu. Jeg maa betale idag.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

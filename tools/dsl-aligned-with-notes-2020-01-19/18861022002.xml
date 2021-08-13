@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861022002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 119</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LVIII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-10-22"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 22. oktober,  fredag] <note>Vandreaar placerer dette
+                  brev umiddelbart efter 22.10.1886. Det kan meget vel være skrevet senere denne
+                  dag</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Kære Peter.</p>
+            <p>Bliv ikke vred over, at jeg endnu en Gang indskærper dig, at mit Navn aldrig sættes
+               under Politik. En for os alle penibel udvisning kan være den umiddelbare Følge.</p>
+            <p>Denne Artikel<ref target="n1"/>
+               vil – tagen strax – gøre Europa-Runde!!!</p>
+            <p>Jeg modtog idag fra <persName key="Bojesen_Ernst">Forlæggeren</persName>
+               <ref target="n2"/> et Hefte af – – Norden<ref target="n3"/>. Mon den Mand har skammet sig et
+               Sekund, da han sendte mig dette Hefte?</p>
+            <p>Naar du en Gang skriver min Historie, da glem ikke at fortælle, at jeg, som har
+               samlet Sverig sammen med os andre efter første fattig Evne; som i "Nationaltidende"
+               førte <hi rend="italics">de</hi> Unge Svenske ind i Danmark, som knap kunde finde Forlag i
+                  Sverig<ref target="n4"/>; som har bereist det <hi rend="italics">hele</hi> Norden
+               og – skrevet Indbydelserne til et Foretagende, Bojesen aldrig har nægtet var min Idé
+               – – at jeg ikke turde findes paa den berømte "Skaal", hvor saa betydelige, for
+               nordisk Aandsliv <hi rend="italics">saa</hi> afgørende Navne findes, at Gud <hi rend="italics">maaske</hi>
+               kender <app>
+                  <lem>dem</lem>
+                  <rdg>Ordet er tilføjet over linjen.</rdg>
+               </app>, jeg ikke. Idag har jeg tænkt en Smule paa alt dette. Imorgen har jeg begravet
+               det. Men til <hi rend="italics">Schorer</hi>
+               <ref target="n5"/> kan jeg
+               dog – som lovet – ikke godt sende det Hefte. Han vilde dog faa et falsk Begreb om,
+               hvad <hi rend="italics">min</hi> Ungdom har betydet i Danmark og Norden.</p>
+            <p>Enfin – mon cher<ref target="n6"/> – man vil ikke
+                  <hi rend="italics">saa</hi> let slette ud af Literaturhistorien: Haabløse<ref target="n7"/> – <!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->
+               <ref target="n8"/> –
+               Ved Veien<ref target="n9"/> – som man har
+               arrangeret mig ud af dette "Salatfad". Og hvad har <hi rend="italics">jeg</hi> vel at sige, naar
+               Strindberg ikke er der. Gode Gud – en saadan Feighed – – en saadan Dumhed.</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

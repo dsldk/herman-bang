@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860811001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 393</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-08-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-08-11">[1886, 11. august] Onsdag<note>Dateringsforslaget
+                        er skønsmæssigt. Brevet må være skrevet efter politiundersøgelserne mod Bang
+                        i Prag</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Onsdag.</p>
+            <p>Kære Kammerraad.</p>
+            <p>Jeg skynder mig med at skrive Dem, at jeg fra Gesandten<ref target="n1"/> har modtaget
+                    et meget beroligende Brev. Han meddeler mig, at <hi rend="italics">intet</hi> er forefundet
+                    imod mig; og raader mig til roligt at blive her.</p>
+            <p>Jeg vilde nu være meget beroliget, om jeg ogsaa havde nogle Ord fra
+                        <hi rend="italics">Dem</hi>. De er jo dog min eneste Støtte, kære Raad, i dette store
+                    Tyskland. Skulde man hos Dem forespørge, hvad jeg i Tyskland tjente ‒ da opgiv,
+                    hvad jeg siden December har haft hos Schorer og Dem. Det er let at forklare,
+                    naar man <hi rend="italics">intet</hi> har at sige andet end Sandheden.</p>
+            <p>Politiet her har nu forholdt sig roligt. Og Ministeren mener, man nu kun vil
+                    kontrollere min Korrespondance og mine Indtægter, at jeg intet faar fra
+                    socialistiske Foreninger.</p>
+            <p>Opgivet har jeg efter Ministerens Raad, at jeg var Medarbeider <hi rend="italics">der</hi>
+                    og <hi rend="italics">der</hi>.</p>
+            <p>Kan den lille Artikel, der sendes under Korsbaand, bruges?</p>
+            <p rend="right">Altid Deres</p>
+            <p rend="right">H. de B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

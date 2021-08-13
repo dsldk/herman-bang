@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18851130001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4508, 4to.</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1885-11-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1885-11-30">1885. 30. november, [mandag]<note>Med den samme
+                        datering kendes et eksemplar af Herman Bangs nye bog <hi rend="italics">Excentriske
+                            Noveller</hi> med hans skrevne dedikation: »Min gamle Skolekammerat
+                        med al min Tak for al hans Godhed fra Herman. 30.11.85.« (bogen blev i 20xx
+                        erhvervet af Det Kongelige Bibliotek). Dagen efter rejste Bang til Berlin og
+                        genså først København i november 1887</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">30.11.85.</p>
+            <p>En hjertelig Lykønskning, min gamle Ven. Saa har du altsaa en Søn<ref target="n1"/>, et lille rødligt Væsen, som nu skriger i
+                    sin Vugge, nogle Skrig, <hi rend="italics">du</hi> finder melodiske ‒ og som en Gang skal
+                    blive stor.</p>
+            <p>Det slog mig saa meget ‒ da jeg fik dit Brev: hvor besynderligt de glider, disse
+                    Menneskeaar. Hvor kort er det dog ikke siden, at vi altid kaldte os selv og blev
+                    kaldt ‒ og af <app>
+                  <lem>gammmel</lem>
+                  <rdg>Skrivefejl, som Bang ikke har rettet</rdg>
+               </app>
+               <app>
+                  <lem>Vane</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> kalder og kaldes endnu ‒ for »Fremtidens Soldater« og alt dette andet med
+                    Fremtiden og inden vi ved det, min Ven, er vi <hi rend="italics">Nutiden</hi>, som skal
+                    forberede de andres, vore Børns Fremtid.</p>
+            <p>Hils din Hustru<ref target="n2"/> saa meget</p>
+            <p rend="right">fra din gamle</p>
+            <p rend="right">Skolekammerat</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

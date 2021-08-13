@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870108001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 43</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1887-01-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1887-01-08"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1887. 8. januar. ] Lørdag<note>8.1.1887 blev der udskrevet
+                  nyvalg til Folketinget til afholdelse 28.1.1887. – Kort efter nytår 1887 har Peter
+                  Nansen givetvis modtaget sin indkaldelse til den militære
+                  sygepassertjeneste</note>
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Peter.</p>
+            <p>Tak for dit Brev. Tak for dit Tilbud – som jeg ikke modtager. Mindre end nogensinde
+               gaar min Lyst mod Støjen og den offenlige Opmærksomhed i København. Maaske er jeg her
+               ikke lykkelig – men jeg er idetmindste ubegloet.</p>
+            <p>Jeg har været meget syg denne Gang. Men det er nu bedre. Hermed min første
+                  Artikel<ref target="n1"/>. Den gaar ind i Rækken af Eders – stærkt "holdte"
+               Agitationsskrig. Jeg skal sende saamange, jeg kan. Ti paa <hi rend="italics">dette</hi> Punkt
+               maa der kunne vindes Hjerter og Stemmer.</p>
+            <p>Saa du gaar nu ind for at passe Syge?<ref target="n2"/> Rart vil det jo næppe blive – før det er
+               overstaaet. <hi rend="italics">Da</hi> vil du med Smil tænke paa de andres "overstandne
+               Besværligheder" – som du transporterede ud i Potten.</p>
+            <p>Hils <persName key="Ottesen_Christine_Margrethe">Fru
+                  Ottesen</persName>
+               <ref target="n3"/>. Jeg
+               skriver til hende imorgen. Og hils <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n4"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Sæt intet Mærke under disse Artikler.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

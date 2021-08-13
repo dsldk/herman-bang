@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18851207001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 49</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Berlin]</placeName>
+               <date when="1885-12-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-12-07"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1885. 7. december], Mandag<note>"Morgenbladet"s usignerede
+                  anmeldelse af <!--start title reference--><title key="Excentriske_Noveller">Excentriske Noveller</title>
+                  <!--end title reference-->
+                  daterer brevet til efter 5.12.1885</note>
+            </date>
+            <placeName cert="high">[Berlin]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Don.</p>
+            <p>Uagtet jeg har meget at tænke paa og meget at arbeide med og paa, har jeg idag
+               uafladelig lét. <persName key="Henriques_Robert">Robert H.</persName>
+               <ref target="n1"/> bragte mig "Morgenbladet"<ref target="n2"/> og beredte mig
+               en Nydelse, som jeg sent skal glemme.</p>
+            <p>Ja, véd du, hvad – naar <persName key="Schandorph_Sophus">Schandorph</persName>
+               <ref target="n3"/> har leveret en Serie af Hotel-Interiører<ref target="n4"/>, saa
+               er det jo rigtignok ganske overflødigt at tilføie noget. Det kan ialfald ikke blive
+               noget nyt.</p>
+            <p>Det excentriske Sprog og Ankerne mod Titlen glædede mig ligeledes. Man griber altid
+               mine Titler som Køller mod mine Bøger.</p>
+            <p>Min gamle Klassekammerat <persName key="Steenbuch_Axel">Axel Steenbuch</persName>
+               <ref target="n5"/> saa jeg, var endnu i "den elvte Time" i sin
+               Lærers Føljeton. Gud velsigne ham.</p>
+            <p>
+               <persName key="Schiøtt_Julius">Schiøtt</persName>
+               <ref target="n6"/> glædede mig <app>
+                  <lem>med</lem>
+                  <rdg>Ordet er en skrivefejl, ikke rettet af Bang</rdg>
+               </app> imorges med at skrive, at "Avisen" havde været stor. Alle Høirebladene ønsker
+               jeg ikke at læse. Derimod beder jeg dig efter at have læst "Morgenbladet" sende mig
+               Udklip af mine "literære Meningsfæller": "Dagsavisen" og "Socialen". Den dybe
+               Forstaaelse hos mine Meningsfæller har, ved du, altid været mig en Trøst under mine
+               vekslende Skæbner.</p>
+            <p>Naar du tænker dig, at Titlen paa "de excentriske" er valgt som Koketteri med min saa
+               stærkt (<hi rend="italics">for</hi> stærkt) behandlede Stil – – er Morgenbladet <hi rend="italics">for</hi>
+               grinagtigt. Men at det ogsaa falder En ind at kokettere med Elefanter. Det eneste
+               Koketeri, som kan bide paa saa tykhudede Dyr – er da vist at gøre noget smaat Ærinde
+               ned ad Ryggen paa dem.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Kære Peter, ligesom jeg vil sende Brevet, kommer jeg i Tanker om <hi rend="italics">en</hi>
+               Ting, som jeg Dumfæ ikke har tænkt paa.</p>
+            <p>Stillingen hjemme kan jo saare let blive en saadan, at jeg i den nærmest blev en
+               Byrde for Jer – og I har saamæn nok. Ialfald er Tidspunktet vist uheldigt til at
+               tænke paa betalte Korrespondancer.</p>
+            <p>Du med dit klare Hoved har naturligvis sét dette ligestrax. Og er det
+                  <hi rend="italics">saa</hi>, da taler vi ikke mere om <hi rend="italics">den</hi> Ting.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

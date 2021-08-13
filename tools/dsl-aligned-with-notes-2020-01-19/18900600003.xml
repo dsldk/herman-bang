@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18900600003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Kristiania, dvs. Oslo</placeName>
+               <date when="1890-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1890-06-01">[1890, juni] <note>Dateringsforslaget forholder
+                        sig især til omtalen af Erik Skrams anmeldelse, som tryktes i tidsskriftet
+                        Tilskueren i juni 1890</note>
+            </date>
+            <placeName cert="high">Kristiania, dvs. Oslo</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Kristiania.</p>
+            <p>Kære Fru Fejlberg.</p>
+            <p>De har spurgt Fru Holter<ref target="n1"/>: om jeg sad paa
+                        »Victoria«<ref target="n2"/> endnu. Desværre ‒
+                    ja. Og Herren véd vel ene, naar jeg kommer herfra. De Dage, hvor jeg kan det,
+                    skriver jeg fra Morgen til den sene Aften ‒ men allevegne sluger Forskud
+                    Halvdelen, og den Halvdel, jeg skal have, maa jeg tigge mig til. Saa sidder jeg
+                    paa Victoria ↄ: jeg slider Fløjel af Armod. Lider Dag for Dag den samme Angst og
+                    taber den kostbare Tid i Bekymringer og Aviskram, som ikke betaler sig. Gud
+                    forbarme sig.</p>
+            <p>Naar jeg en Gang imellem er saa vidt istand til at sé glad ud, gaar jeg ned til
+                    Holters. De skal <app>
+                  <lem>ret</lem>
+                  <rdg>Bang har rettet det første bogstav, vist fra et: B</rdg>
+               </app> have Tak, fordi de har ført mig sammen med disse udmærkede Mennesker.</p>
+            <p>Af Nyt véd jeg intet.</p>
+            <p>Med min Novelle gaar det smaat frem. Skram var særdeles behagelig i
+                        »Tilskueren«<ref target="n3"/>. Hvor den Mand dog svinger ‒ lig en Vejrhane for sine
+                    Stemninger. Det er dog i al Beskedenhed min Mening, at »Tine«<ref target="n4"/> (idetmindste ved sin Fortælle<hi rend="italics">maade</hi>) vil spille
+                    fuldt saa stor Rolle for dansk Literatur som Dinesens »Jagtbreve«<ref target="n5"/>.</p>
+            <p>Men Skram er uberegnelig.</p>
+            <p>Hils ham og Fru Skram<ref target="n6"/> mange
+                    Gange.</p>
+            <p>Her aabnes Tivoli og opføres originale Udstyrsstykker. Hen over mit Hoved gaar
+                    det som de tomme Lyd. Jeg bare skriver om det ‒ lever ikke med i det.</p>
+            <p>Adieu, Fru Feilberg. Hils Deres Mand<ref target="n7"/> mange Gange. Jeg holder saameget af Dem
+                    begge.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

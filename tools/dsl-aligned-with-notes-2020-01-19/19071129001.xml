@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19071129001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 444</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 20 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-11-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen, Betty Nansen, Johan Knudsen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-11-29"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 29. november [fredag]<note>Det lange brev er stilet til
+                  "Min kære Ven" og ligger i Peter Nansens arkiv, men er ifølge sin ordlyd også
+                  rettet til Betty Nansen og Johan Knudsen</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">29.11.1907.</p>
+            <p>Min kære Ven.</p>
+            <p>Naa, saa er det altsaa foregaaet: jeg er optraadt og endogsaa to Gange. Ved en
+               Generalprøve, hos <persName key="Wasbutzki_Max">min Læge</persName>
+               <ref target="n1"/> , i et stort Selskab af Forfattere og Kunstnere og iaftes
+                  offentligt<ref target="n2"/>. Den
+               nøgne Sandhed er, at jeg, paa det fremmede Sprog, gennemførte mine Hensigter ganske
+               som hjemme, og at det tæt pakkede Publikum – der var udsolgt Dagen før – var grebet
+               ganske som hjemme.</p>
+            <p>Men nok om det.</p>
+            <p>Jeg havde lovet mig selv, at jeg, naar den "Fest" var overstaaet, vilde skrive til
+               dig og <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n3"/> og <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n4"/> et Fælledsbrev af ualmindelig Længde. Ti, oprigtig talt,
+               min Taalmodighed var omme. Venners altfor hastige Fantasi og "mindre-Venners"
+               Tildigtning har allerede naaet at faa mit Liv og min Livsførelse her i Staden saa
+               forvrængede, at jeg vil, at idetmindste I tre nøjagtigt kan sammenligne den brogede
+               Legende med den ret graa og ensfarvede Virkelighed.</p>
+            <p>Da jeg syntes, at Brevene hjemmefra blev saa underligt lunkne, spurgte jeg en Mand
+               rentud: Hvad Satan er der i Vejen? (udover det, at jeg har været syg ɔ: fuldkomment
+               afkræftet i de sidste otte, ni Uger.)</p>
+            <p>Og jeg erfoer, at jeg "havde indrettet mig" (som sædvanlig) "upraktisk".</p>
+            <p>Hvori? spurgte jeg.</p>
+            <p>Og erfoer:</p>
+            <p>"At der i mit Hus dagligt levede otte Personer foruden mig".</p>
+            <p>Nemlig:</p>
+            <p>1. <persName key="Ernst_Knud">Hr. Ernst</persName>
+               <ref target="n5"/>.</p>
+            <p>2. <persName key="Thune_Magdalene">Frøken Thune</persName>
+               <ref target="n6"/>
+            </p>
+            <p>3 En tysk Lærer til Ernst.</p>
+            <p>4 En tysk Dame for at vejlede Frøken Thune.</p>
+            <p>5 <persName key="Melnik_Josef">Hr. Melnik</persName>
+               <ref target="n7"/>.</p>
+            <p>6 Hr. Melniks Forlovede.</p>
+            <p>7 En Maskin-Afskriver.</p>
+            <p>8. Mig ikke opgivet af Livsstilling.</p>
+            <p>Af disse otte Figurer, aander og lever i det virkelige Liv i mit Hus:</p>
+            <p>Frøken Thune, som ene besørger alt Arbejdet og bestrider hele Husførelsen, og</p>
+            <p>Ernst, som kun kom med til Berlin, fordi <persName key="Abrahamsen_Jens">Dr:
+                  Abrahamsen</persName>
+               <ref target="n8"/> ansaá det for en Nødvendighed. Om et halvt Aar – ɔ:
+               naar min første Tournée er tilendebragt – skal Manden forlade baade Berlin og
+               "Huset".</p>
+            <p>Dernæst:</p>
+            <p>1. "Den tyske Lærer".</p>
+            <p>
+               <app>
+                  <lem>Ernst</lem>
+                  <rdg>Det første bogstav er rettet fra: H</rdg>
+               </app> har tre Timer om Ugen en Tysker, hvem jeg aldrig har set.</p>
+            <p>2. "En tysk Dame".</p>
+            <p>Da Frøken Thune ikke kunde et Ord Tysk, beholdt jeg min Jomfru fra Nürnbergerstrasse
+               tre Uger, indtil Frk Th. havde lært at købe ind o:s:v: Efter de tre Ugers Forløb
+               forlod "den tyske Dame" naturligvis Huset.</p>
+            <p>3. Hr. Melnik</p>
+            <p>Hr. Melnik boede i <hi rend="italics">Nürnbergerstrasse</hi> i samme <hi rend="italics">Ejendom</hi> som
+               jeg – i sin egen Lejlighed. Han spiste Frokost hos mig hver Søndag. Nu boer Manden i
+               en helt anden Gade. Han spiser (Kl. 7) til Middag her – mod en Betaling af M:
+                  45<ref target="n9"/> om Maaneden og læser saa for mig om Aftenen, da jeg
+               jo desværre ikke kan læse ved Lys.</p>
+            <p>4. "Hr. Melniks Forlovede".</p>
+            <p>Melnik er ikke forlovet. Sandsynligvis menes <persName key="Frilling_Emmy">Fru
+                  Frihling</persName>
+               <ref target="n10"/>, som er en aldeles daddelløs og
+               velhavende Dame, som <hi rend="italics">ikke</hi> staar i noget erotisk Forhold til Melnik. Naar
+               jeg undertiden har omtalt hende skete det maaske <hi rend="italics">ogsaa</hi>, fordi jeg gerne
+               vilde fjerne den Misforstaaelse, at mellem Melnik og mig skulde bestaa nogetsomhelst
+               "Forhold" udover et godt og tro Venskab. Jeg lider undertiden en Smule ved, at man –
+               tilgiveligt – forrykker det Forhold, hvori jeg staar til mine Omgivelser. Hvad Fru F.
+               angaar, kommer hun her i Huset men nyder <hi rend="italics">aldrig</hi> andet end en Kop The. Nu
+               er hun rejst til et Sanatorium.</p>
+            <p>5. En Mand til at skrive paa Maskine.</p>
+            <p>Min Værtinde (ɔ: hun som udlejede mig Værelserne) i Nürnbergerstrasse levede af at
+               skrive med Maskine. Dette skrev jeg i et humoristisk Brev. Denne Maskine i
+               Nürnbergerstrasse er blevet til en levende "Afskriver paa Maskine" i
+               Fasanenstrasse.</p>
+            <p>6. "Manden af ukendt Bestilling."</p>
+            <p>Om denne Mand kan jeg ikke give nogen Oplysning ... hans Eksistens saavel som hans
+               Oprindelse unddrager sig mine Efterforskninger.</p>
+            <p>I vil spørge, hvorfor jeg taler om alt dette eller tager mig det nær. Grunden er dog
+               klar</p>
+            <p>Hvis jeg <hi rend="italics">ikke</hi> huggede ind i hele dette Væv, idetmindste overfor Jer,
+               mine Nærmeste, vilde min Tilværelse her (som er det ensomste og det mest graa og det <app>
+                  <lem>mest</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> nøgterne i denne Verden) snart være indhyllet i en saadan Sky af Legender, at
+               vi aldrig fandt ind til den nøgne og fattige Sandhed.</p>
+            <p>Derfor har jeg skrevet.</p>
+            <p>Men om Et vil I maaske spørge mig: Hvis dette virkelig er din Tilværelse, hvorledes
+               er det da muligt, at dine Penge i den sidste Tid har kunnet slaa saa daarligt
+               til?</p>
+            <p>Det kan synes mer end sært og er det dog ikke.</p>
+            <p>Meget kort efter at jeg var flyttet herhen, randt Kræfterne fra mig. Jeg sluttede –
+               under stor Anspændelse – min "<!--start title reference--><title key="Stærkest">Stærkest</title>
+               <!--end title reference-->"<ref target="n11"/> og begyndte paa min næste Bog. Men
+               Kræfterne blev ved at rinde, som Havet rinder fra en Strand ved Ebbe.</p>
+            <p>Alle mine <hi rend="italics">usikre Indtægter</hi> svandt, under min Svaghedstilstand (fordi jeg
+               ikke <hi rend="italics">kunde</hi> skrive Korrespondancer og Føljetoner) og
+          <hi rend="italics">samtidig</hi> fik jeg i November (da Damen i <placeName key="Skørping">Skørping</placeName> skulde have de andre<ref target="n12"/>) fra Forlaget Kr: 200 i Stedet for Kr: 300 og fra "København" Kr:
+               150 i Stedet for Kr: 200. Det er allerede Penge. Og desuden skulde jeg i den forløbne
+               Maaned endnu betale <hi rend="italics">noget</hi> for mine Møbler. Nu skylder jeg paa hele Huset
+               her Mark 20 til Snedkeren og Mark 50 til Kurvemøbelhandleren. Det er alt.</p>
+            <p>Naar det har været saa svært for mig at blive rask, skyldes det naturligvis ogsaa det
+               dybe Mismod, som har grebet mig ved "Sælsommes"<ref target="n13"/> Skæbne. Den dybe Synken i mine Bøgers Salg
+               maa nødvendigvis fylde mig dels med Sorg, dels med Bekymring. Sorg over, at mit
+               Publikum, der var samlet med saa megen Møje, paany er saa ganske splittet og tabt.
+               Bekymring for Fremtiden. Ti, selv om jeg nu ogsaa iaar virkelig – jeg begynder nu
+               atter paa min næste Bog og sender meget snart det første Manuskript – kan skrive
+               endnu to Bøger (med "iaar" mener jeg inden første Juli) saa er <app>
+                  <lem>det</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> jo dog klart, at, naar mine Bøgers Salg er gaaet ned til det Halve, maa ogsaa
+               min Gage gaa ned .... Og denne Nedgang rammer mig trods alle mine Anstrængelser for
+               at hævde mig og Forsøg paa at forny mig ....</p>
+            <p>Naa, disse Sorger tilhører mig selv. Og jeg skal ikke plage Jer med dem. Hvad jeg
+               vilde, var kun, at i alle Fald I tre skulde vide Besked med Tingene, som de er
+               ....</p>
+            <p>Medens jeg skriver, bringer Folk hele Tiden Blomster og mægtige Kurve. Men I véd,
+               hvor lidet den Slags interesserer mig .... Jeg talte meget smukt tysk. Men det har jo
+               ogsaa kostet mig megen Anstrængelse. Og koster megen Aandsnærværelse at tale i
+               halvanden Time paa et fremmed Sprog. Jeg var saa træt, at jeg inat ikke kunde sove et
+               Sekund.</p>
+            <p>Mange, mange Hilsener til Jer.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

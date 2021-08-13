@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900500001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 337</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>En blyantsdatering: 24-6-1890 er påført med fremmed hånd (ikke Peter
+                              Nansens)</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Frederikshald, Norge</placeName>
+               <date when="1890-05-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-05-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890.  maj. ]<note>Pålideligheden af den sekundære
+                  blyantsdatering er uvis. Såfremt denne blyantsdato skal gengive poststemplets dato
+                  på den tilhørende kuvert, inden Det Kongelige Bibliotek i givet fald har
+                  bortskaffet den, er pålideligheden høj (forudsat at poststemplet er læst korrekt).
+                  Udgiveren foretrækker at følge Harry Jacobsen, der tidsbestemmer selvmordsforsøget
+                  til april eller maj 1890 i Larvik (Den miskendte Herman Bang, s. 41). – I brevet
+                  hentydes desuden til Louise og Peter Nansens ægteskabelige krise, jf. Karin Bang,
+                  s. 269</note>
+            </date>
+            <placeName cert="high">Frederikshald, Norge</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Frederikshald – paa Gennemrejse.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg nægter jo ikke, at dine hastige Ord virkede paa mig som et stærkt Slag. Selv det
+               Ventede kan virke saaledes. Jeg har vel i Stilhed gættet, hvad du forinden led – men
+               kunde jo ikke tale <hi rend="italics">der</hi>, hvor du taug. Min Ven, jeg tilstaar, at det for
+                  <persName key="Brock_Louise">hende</persName>
+               <ref target="n1"/> gør mig uendelig, saa trøstløst ondt. Ti jeg frygter
+               Fremtiden, den lange Fremtid.</p>
+            <p>Dette kummerlige Liv.</p>
+            <p>Og saa har det været nærved, at vi to ikke mer havde sét hinanden. Jeg er saa træt,
+               saa ganske træt. Saa havde jeg forleden sammensparet elve Opiumskapsler – 5 slaar
+               ihjel – og tog dem. Det er ikke svært at dø – det véd jeg nu. Ved et Mirakel fik man
+               mig imidlertid vækket og Lægen udspredte, at jeg havde haft en Hjernerystelse. Jeg
+               vil dog aldrig dø af "Ælde", dertil vil jeg ikke have Taalmodighed nok.</p>
+            <p>Ellers véd jeg intet nyt. Maaske rejser jeg til <placeName key="Nordkap">Nordkap</placeName>
+               <ref target="n2"/>. Lægerne tilraader mig det.</p>
+            <p>Hele Dagen har jeg kun kunnet tænke paa dette med dig og din Kone<ref target="n3"/>. Og jeg har meget ønsket – jeg, som paa de sidste Maaneder yderlig
+               sjældent giver mig af med at ønske – at jeg kunde være en Dag hos dig. Maaske kunde
+               vi dog da tale en Time sammen.</p>
+            <p>Adieu, kære Nansen. Altid forbliver jeg din</p>
+            <p rend="right">hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

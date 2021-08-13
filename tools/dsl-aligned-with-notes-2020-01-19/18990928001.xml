@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18990928001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 1604</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevets bagside er påklæbet Otto Linds exlibris: »Herman
+                                        Bang Samlingen af 1912«</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1899-09-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Valdemar Brummerstedt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1899-09-28">[1899, cirka 28. september] Torsdag
+                        <note>Dateringsforslaget bygger på en kombination af Bangs håndskrift,
+                        omtale af tjenestepigen Sofie og hans henvisning til en dato i den nære
+                        fremtid. Valdemar Brummerstedt (1868-1941) var Bangs læge fra sidst i
+                        1890'erne til de første år af 1900-tallet</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Kære Dr: Brummerstedt.</p>
+            <p>Kære Doktor ‒ jeg kan ikke mere. Inat har jeg ikke kunnet sove: jeg véd ikke mer,
+                    hvorfra jeg skal tage Maden. Og et ensomt Menneske, som jeg er blevet, har jeg
+                    ingen, til hvem jeg kan gaa. Vil De, som allerede har gjort saa uendelig meget
+                    for mig, laane mig tyve Kroner og lægge dem i en Konvolut med Bud'et? Tal ikke
+                    til Sofie<ref target="n1"/> om dette. Hun vilde blive altfor vred. Men opfyld min Bøn.
+                    Pengene skal De faa den anden Oktober<ref target="n2"/>. Tro mig, jeg skriver dette, fordi jeg er til det yderste
+                    forpint og ikke ved Raad mere. Svar med Bud'et. Ti jeg skal gaa herfra Kl. et og
+                    jeg er <hi rend="italics">saa</hi> forpint.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

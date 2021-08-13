@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860203001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 310</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XLI</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Meiningen]</placeName>
+               <date when="1886-02-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-02-03"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1886. 3. februar [onsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[Meiningen]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">3.<app>
+                  <lem>2.</lem>
+                  <rdg>Månedstallet har Bang øjensynligt rettet fra et 3-tal</rdg>
+               </app>86.</p>
+            <p>Du vil lé, kære Don, og sige "Død og Pine"!!!</p>
+            <p>I Virkeligheden er her store Ting i Gære. Vil du <hi rend="italics">strax</hi> sende mig "et
+                     Besøg"<ref target="n1"/> .</p>
+            <p>Jeg haaber, at <persName key="Ibsen_Henrik">Ibsen</persName>
+               <ref target="n2"/>
+               kommer.</p>
+            <p>At jeg ikke staar <hi rend="italics">udenfor</hi> alle disse Ting – ikke "ganske" – vil du
+               forstaa. Men endnu er alt i sin Vorden og beror paa Henrik Ibsens Sammentræffen med
+                  <persName key="Kainz_Josef">Kainz</persName>
+               <ref target="n3"/>, som er Elev af <persName key="Franz_Ellen">Hertugens
+                  Frue</persName>
+               <ref target="n4"/> og vistnok ogsaa indbudt hertil.</p>
+            <p>Gennem Ibsen vil vel jeg blive introduceret ved Hoffet.</p>
+            <p>"Nyheden" var god – hvis blot I Idioter interesserede Jer mer for store Ting i hele
+               Verden og store Tanker til Gavn for mange – end for smaa elendige Stridigheder, som
+               ødelægger os stakkels Faa – r. Gud sikken Vits.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

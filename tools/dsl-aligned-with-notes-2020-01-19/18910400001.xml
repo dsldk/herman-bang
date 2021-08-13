@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18910400001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 128.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På bagsiden et blyantsnummer: 29</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Taarbæk, nord for København</placeName>
+               <date when="1891-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Kristian Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1891-04-01">[1891, april?] Onsdag <note>Dette brede
+                        dateringsforslag er et gæt; at Bang besøgte Aarhus forår/sommer 1891 og
+                        efterfølgende opholdt sig i Taarbæk har indtil videre ikke kunnet
+                        verificeres</note>
+            </date>
+            <placeName cert="high">Taarbæk, nord for København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Taarbæk Hotel. pr. Klampenborg. Onsdag.</p>
+            <p>Længes Hr. Dahl maaske efter at høre en Smule fra mig? Længes maaske endogsaa
+                        Fruen<ref target="n1"/>? Jeg er nu her, Børn ‒ og Himlen velsigne Jer begge for Maade,
+                    jeg kom her paa. Aarhus var en fatal Stad. Jeg gjorde stor, meget stor Lykke hos
+                    et ganske antageligt Publikum. Men Penge ‒ ikke saameget som bag paa min Haand.
+                    Ikke saameget som til én Snaps Cognac af Dampskibsselskabets.</p>
+            <p>Og nu ‒ sidder jeg her.</p>
+            <p>Vi skulde vel have de norske og svenske Breve afsted. Men hvordan? i dette
+                    Hundevejr er en Københavnerrejse saa sin Sag. Kunde De ikke sende Brevene til
+                    ‒</p>
+            <p>
+               <app>
+                  <lem>»Morgonbladet« ‒ Malmö.</lem>
+                  <rdg>Af Bang overstreget med en stor bølgestreg, der også annullerer den
+                            følgende linje</rdg>
+               </app>
+            </p>
+            <p>
+               <app>
+                  <lem>»Norrköpings Tidningar ‒ Norrköpi</lem>
+                  <rdg>Denne ufuldendte linje overstreget af den samme bølgestreg, der også
+                            annullerer linjen ovenfor</rdg>
+               </app>
+            </p>
+            <p>Nej ‒ Sludder, det gaar ikke. Laan Postbogen den Dag, som jeg nærmere vil meddele
+                    Dem. Jeg maa vel dog til Byen i denne Uge.</p>
+            <p>Hils Deres Kone<ref target="n2"/> og Pup<ref target="n3"/> og Deres Svigermoder<ref target="n4"/>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

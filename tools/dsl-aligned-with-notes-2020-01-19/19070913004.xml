@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070913004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 900</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Postkort af italiensk herkomst; billedsiden viser en
+                                                tegning af en bondepige med et brænddeknippe på sin
+                                                ryg og nogle får i baggrunden og den trykte tekst:
+                                                  <hi rend="italics">Donna con fascine (G. Segantini)</hi>. De
+                                                to frimærker er dampet af; adressen i Bangs
+                                                håndskrift: <hi rend="italics">Mm. Nini Holst / Mundelstrup St. /
+                                                  Jylland. / Dänemark. / (Lyngballegaard)</hi>. Af
+                                                de tyske poststempler kan kun læses: <hi rend="italics">[...] 07.
+                                                  3-4N</hi>, fordi frimærkerne er borte; dansk
+                                                modtagerstempel: <hi rend="italics">Mundelstrup -14.9.07.8-11
+                                                  F</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-09-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-09-13">[1907, 13. september, fredag] <note>Dateres til
+                        enten 12.9. eller 13.9.1907. Bang var 9.9.1907 flyttet fra Nürnbergerstrasse
+                        36 til Fasanenstrasse 58</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Min kære Nini.</p>
+            <p>Saa, nu er Huset rejst<ref target="n1"/>. I en af Berlins
+                    fornemste Gader. I et saare fornemt Hus ‒ ud mod Haver. Stille og saa ensomt som
+                    paa Landet. I Stuerne tarveligt og fornemt. Og alt betalt.</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

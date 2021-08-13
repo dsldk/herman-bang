@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18901217001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 117.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Skråt over Bangs datering er med fremmed hånd skrevet:
+                                            <hi rend="italics">17 Decbr. 90</hi>, antagelig af Kr. Dahl. På
+                                        bagsiden et blyantsnummer: 13</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Fredensborg</placeName>
+               <date when="1890-12-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Kristian Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1890-12-17">[1890, 17. december] Onsdag <note>Den sekundært
+                        påførte datering skyldes formentlig brevmodtageren. Dette dateringsforslag
+                        tages til følge</note>
+            </date>
+            <placeName cert="high">Fredensborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredensborg. Onsdag.</p>
+            <p>Kære Dahl.</p>
+            <p>Jeg svarede ikke paa Telegrammet, fordi De ‒ ret betænkt ‒ ikke i
+                        »Tageblatt«<ref target="n1"/> skulde begynde med en saa
+                    difficil Sag. »Tageblatt« skal vi ordne saasnart De kommer herud.</p>
+            <p>Angaaende »Interwiewet«<ref target="n2"/> er det jo rimeligt, at Fru Nissen<ref target="n3"/> efter at have læst det
+                    modbydelige Angreb i »Nat-T.«<ref target="n4"/> har
+                    maattet ændre noget. For hende er jo dette en <hi rend="italics">Livssag</hi>.</p>
+            <p>
+               <hi rend="italics">Hvis</hi> »Tilskuer«-Artiklen ikke optages, er det <hi rend="italics">kun</hi>,
+                    fordi Hr. R-K<ref target="n5"/> ikke tilstiller »Tilskueren« nogetsomhelst,
+                    der ligner Billetter. Nu skal jeg skrive til Fruen.</p>
+            <p>Skriv til Göteborg, saasnart der er noget friskt og aktuelt ‒ som sidst. Og send
+                    nu ikke <hi rend="italics">hver</hi> Dag Brev til »Dagbladet«.</p>
+            <p> »Berliner-Tageblatt« faar De sikkert. Mærkeligt, at jeg ikke har tænkt paa det
+                    før.</p>
+            <p>Jeg er saa sørgmodig og træt.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

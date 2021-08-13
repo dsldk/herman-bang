@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19030119001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B4c</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1903-01-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1903-01-19"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1903. 19. januar. ] Mandag<note>Brevet er skrevet af en
+                  sekretær, – måske frøken Ville Kristiansen? Egenhændig underskrift</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg har været bortrejst<ref target="n1"/> og alene dette er Grunden til, at <persName key="Larsen_Karl">Professoren</persName>
+               <ref target="n2"/> først i Morgen kan gaa til Schubothe. Man er yderst
+               opsat paa at bringe Sagen til Ende og venskabeligt <hi rend="italics">tvinge</hi>
+               <persName key="Hirschsprung_Aage">Hr Hirschsprung</persName>
+               <ref target="n3"/> til at give Slip paa Bøgerne. Først ved at gennemlæse
+               alle <app>
+                  <lem>Papirene</lem>
+                  <rdg>Urettet skrivefejl for: Papirerne</rdg>
+               </app> hos <persName key="Heise_Oluf">Heise</persName>
+               <ref target="n4"/> blev han klar over den hele Lumpenhed.</p>
+            <p>Jeg maa desværre have Kr 150 af min Gage for Februar. Jeg slides saa ganske op i
+               Velgørende Øjemed, at jeg ikke kan komme Maaneden igennem. Men nu maa dette
+                  Hers<ref target="n5"/> for de Fattige vel snart
+               høre op.</p>
+            <p>Jeg vil en af Dagene komme ind i Bogladen<ref target="n6"/>
+               for at give Dig visse afgørende Oplysninger angaaende nogle Theaterforhold, som jeg
+               tror det er vigtigt at Du kender.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

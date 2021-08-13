@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18900126002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Kristiania, dvs. Oslo</placeName>
+               <date when="1890-01-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1890-01-26">[1890, cirka 26. januar] Søndag <note>Brevet skal
+                        dateres til 1890, sandsynligvis i januar, måske i februar</note>
+            </date>
+            <placeName cert="high">Kristiania, dvs. Oslo</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Kristiania Victoria-Hotel. Søndag.</p>
+            <p>Kære Fru Feilberg.</p>
+            <p>Sandsynligvis har De følt nogen Bekymring for mig ‒ ved min Rejsen og Kommen og
+                    Rejsen. Ja ‒ jeg har været meget syg. Saa syg som egentlig kun en eneste Gang i
+                    mit Liv. Og der har været adskillige Dage, hvor et Sindssygeasyl har syntes mig
+                    det bedste for mig. Men mine Modstandere vilde hovere for stærkt derved. Saa
+                    rejste jeg midt i det herop.</p>
+            <p>Naar jeg tænker tilbage paa de siste Uger, siden mine »Digte«
+                        udkom<ref target="n1"/>, staar mit Hjerte stille. Nu vil jeg blive her
+                    og skrive, til jeg kan naa ud paa den store Rejse til Japan eller Buenos Ayres.
+                    Maaske kan den give mig enten Sundheden eller Døden. At sidde her paa Hotel uden
+                    Penge og Dag for Dag sé en Hotelregning slaa sammen over sit Hoved ‒ det er kun
+                    af de smaa Lidelser, der kan bæres. Og muligt dog, at jeg faar Kræfter til at
+                    skrive saameget sammen, at jeg kan flytte hen i en Pension. Foreløbig har jeg da
+                    Penge til Frimærker. At man ikke kan give mig en Smule Statsunderstøttelse ‒
+                    ikke fordi jeg fortjener den, men fordi de andre har den, alle de, som fortjener
+                    den ligesaa lidt.</p>
+            <p>Naa ‒ det var ikke det.</p>
+            <p>Hils Fru Skram<ref target="n2"/> saa meget, meget.
+                    Naar udkommer hendes Bog?<ref target="n3"/> Gid den maa være rigtig, jeg mener
+                    særdeles god. Aa ‒ der skrives en saadan frygtelig Masse Bøger, og det store
+                    Glemsels Hav sluger saamange. Det er som den ene af de altfor mange Bøger rev
+                    den anden med sig ned i Dybet. »Kong Midas«<ref target="n4"/> har jeg læst. Ja, det er dygtigt, talentfuldt, fuldt af
+                    Virkning ‒ ‒ men det synes mig ikke ret nobelt, det Hele. Dog vil Manden tjene
+                    Penge, hvad man næppe nogentid gør paa den noble Kunst<ref target="n5"/>. Jeg skal nu i Lag med
+                    min nye Bogs sidste Novelle<ref target="n6"/>. Den bliver antagelig ikke just munter trods sine
+                    mange humoristiske Personer. Livet er jo meget latterligt, desværre
+                        <hi rend="italics">saa</hi> latterligt, at tænkende Personer maa græde ved det.</p>
+            <p>Lev vel, kære Feilbergs<ref target="n7"/>. Og skriv mig snart
+                    et Brev. Breve fra Venner er jo alt det Fædreland, som jeg ejer. Adieu.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang</p>
+         </div>
+      </body>
+   </text>
+</TEI>

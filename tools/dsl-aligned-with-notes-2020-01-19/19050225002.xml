@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050225002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 28</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Sakskøbing</placeName>
+               <date when="1905-02-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-02-25"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 25. februar [lørdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Sakskøbing</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sakskøbing. 25.2. 1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Naar jeg ikke har skrevet saa længe, er det, fordi jeg har været altfor træt. Jeg
+               slaar ikke til til mere end akkurat at slide mig igennem mit "Program".</p>
+            <p>Jeg er saa glad ved "Kærlighedens Tragedie"<ref target="n1"/>. <hi rend="italics">Der</hi> er da endelig noget at hente. Ørenlyd hos
+               Publikum, Værdsættelse hos Kritik'en. Og den Skikkelse, den fordrer
+                  <hi rend="italics">enten</hi> den store Feber <hi rend="italics">eller</hi> den store Ro, hvori man kan
+               beskue Lidenskaben .... <hi rend="italics">Naar</hi> skal det være? ... Men foreløbig sidder De
+               jo i Kaste-Gynge-Komité for at Fru <persName key="Carstensen_Mimi">Mimi
+                  (Carstensen</persName>
+               <ref target="n2"/>, vel at mærke, den gamle Mær) kan blive Etatsraadinde.
+               Naa, det kan vel ogsaa være godt for noget .... <persName key="Petersen_Fritz">Fritz
+                  P.</persName>
+               <ref target="n3"/> var i Nykøbing. Hans Hovedærinde var utvivlsomt at
+               formaa mig til at "sondere", hvorvidt det var tænkeligt, at De som Gæst vilde optræde
+               i en passende Rolle paa Kasino. <hi rend="italics">
+                  <persName key="Dorph-Petersen_J.F.S.">Dorph</persName> havde sagt ham</hi>
+               <ref target="n4"/>, at De forlod "Folketeatret". Jeg svarede kun, at
+               jeg skulde "sondere" – men tilføjede, at sikkert blev De dyr, hvad han sagde, han
+               forstod ..... Turnéer kunde han naturligvis ikke lede. Og, rent ud sagt, min Ven, saa
+               vilde jeg heller ikke raade til at lade ham lede en Turnée ...... Paa Kasino tror jeg
+               ikke. Fritz P. har ladet sig narre af den gamle "Vært", <persName key="Rasmussen_August">August</persName>
+               <ref target="n5"/>. Fritz P. sagde, at August havde sagt: Giv mig tyve
+               Piger, og vi laver et Teater ..... Tyve Piger og tyve Par brune Handsker, tænker
+               jeg.</p>
+            <p>Jeg har læst "<!--start title reference--><title key="Gyda">Gyda</title>
+               <!--end title reference-->"<ref target="n6"/> om. Ja, det er dejligt – – – men altfor sygt. <persName key="Michaëlis_Karin">Fru Michaëlis</persName> minder altfor meget om den døde
+                  <persName key="Holbek_Johannes">Holbeck</persName>
+               <ref target="n7"/>s Tegninger. Han skulde have illustreret hende.</p>
+            <p>Og ellers? Intet. Jeg rejser videre .... Nu er det 47 Aften og der er 40 igen – – –
+               Det bliver først forbi omkring den 10 April.</p>
+            <p>Jeg er i København Fastelavnssøndag<ref target="n8"/> paa "Kongen af
+                  Danmark"<ref target="n9"/>. Vil saa ikke De og <persName key="Nansen_Peter">Nansen</persName>
+               <ref target="n10"/> spise hos mig, alene, Kl. 6½? Det er imorgen otte Dage.
+               Fri har jeg kun, fordi det i hele Riget ikke har været muligt at opdrive
+                  <hi rend="italics">en</hi> Kro, hvor der ikke er Præmiemaskerade –</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

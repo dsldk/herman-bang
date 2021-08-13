@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060102001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 392</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blæknote af Peter Nansen øverst: <q>(1906?) (Efter "<!--start title reference--><title key="Agnete">Agnete</title>
+                                 <!--end title reference-->" 1/1 1906
+                                 Gæstespil paa Folketeatret)</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1906-01-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-01-02"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 2. januar.  [tirsdag]<note>Bangs fejldatering: 2.1.1905
+                  for 2.1.1906</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">2.1.<app>
+                  <lem>1905</lem>
+                  <rdg>Skrivefejl for 1906</rdg>
+               </app>.</p>
+            <p>Min kære Nansen.</p>
+            <p>Aftenen igaar var mig en stor Glæde<ref target="n1"/>. Jeg tror nu fast paa, at
+                  <persName key="Nansen_Betty">din Kone</persName>
+               <ref target="n2"/> – trods Sproget – kan gaa ud i <hi rend="italics">Europa</hi>. Hun
+               taaler nu Sammenligningen med <hi rend="italics">alle</hi> – og <hi rend="italics">hun</hi> er ung.</p>
+            <p>Jeg har ogsaa Planen om, hvordan alt skal lægges tilrette.</p>
+            <p>Men først skal "<!--start title reference--><title key="De_uden_Fædreland">De uden Fædreland –</title>
+               <!--end title reference-->"<ref target="n3"/> skrives.
+               Aa, desværre, jeg har ingen Drømme mere som Digter. De er døde, i Stilhed og under et
+               Par Taarer, som ingen har sét, i det Aar, som gik. Hvor lykkelige dog de Mennesker
+               er, som kan leve i en Løgn om deres egen Betydning og "Storhed". Den Evne har Guderne
+               nægtet mig.</p>
+            <p>Men jo bedre jeg véd, at "stor" naar jeg aldrig at blive – desmere maa jeg jo
+               anspænde mig for idetmindste ikke at <app>
+                  <lem>være</lem>
+                  <rdg>Ordet er skrevet over linjen, hvor Bang har overstreget ordet: blive</rdg>
+               </app> ringere end jeg er. Altsaa (som <persName key="Drachmann_Holger">Drachmann</persName>
+               <ref target="n4"/> siger) Alt for "De uden Fædreland" – – –</p>
+            <p>Jeg vilde gerne bede dig – hvis det ej volder dig Ubehag af nogen Art – om min
+               Februargage kunde deles i to Portioner, saa at jeg fik den ene nu med 150 Kroner og
+               den anden den første Februar med Kr: 200. Saa havde jeg klaret Skærene nu i Januar,
+               hvor Procenterne falder og jeg behøvede ikke mere at falde nogen til Byrde i denne
+               Tid.</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

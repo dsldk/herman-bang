@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19050928001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 388</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1905-09-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1905-09-28"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1905. 28. september [torsdag]<note>Vedrørende den spændte
+                  stemning mellem avisen København og forlaget Gyldendal, se også brevet 1905.  september. </note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">28.9.1905.</p>
+            <p>Kære Ven.</p>
+            <p>Dette strengt mellem os:</p>
+            <p>Igaar brast Bomben. Jeg indgav – i Anledning af "Gyldendals Molboer" – min bestemte
+                  Afskedsbegæring<ref target="n1"/>. Der fulgte en heftig Scene
+               paa halvanden Time. Saa lagde Vandene sig – og der opnaaedes en Vaabenhvile. Den vil
+               vise sig i, at Fjendtlighederne indstilles. Jeg hverken kunde eller vilde finde mig i
+               denne ganske i System satte Krigsførelse mod det Forlag, der udgiver mine Bøger og
+               hvis Chef du er.</p>
+            <p>Men idag har jeg saa forfærdelige Smerter i mit Hoved, at jeg næppe kan være til.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+            <p>Vil du maaske sige <persName key="Eskildsen">Eskildsen</persName>
+               <ref target="n2"/> med to Ord, hvordan det gaar i
+               <placeName key="Stockholm">Stockholm</placeName>
+               <ref target="n3"/> og hvad de
+               spiller.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

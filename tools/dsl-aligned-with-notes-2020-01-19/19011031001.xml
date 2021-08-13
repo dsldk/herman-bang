@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19011031001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 232</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1901-10-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1901-10-31"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1901. 31. oktober, cirka] Torsdag<note>Datering: en torsdag og
+                  et par uger inden Bang i november blev udskrevet fra dr. Johannes Torrilds
+                  nerveklinik i Aalborg</note>
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Aalborg. Torsdag.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg maa idag skrive selv, skønt det at skrive er det, som falder mig besværligst.</p>
+            <p>Jeg betragter mig nu, hvor "<!--start title reference--><title key="Det_graa_Hus">Det Graa Hus</title>
+               <!--end title reference-->" er
+               færdigt, som hørende til <app>
+                  <lem>"Det</lem>
+                  <rdg>Bang har skrevet Det en gang før og overstreget ordet</rdg>
+               </app> Gyldendalske Forlag". Men da jeg langtfra er rask endnu, maa jeg bede
+                  <persName key="Hegel_Jacob">Hr. Hegel</persName>
+               <ref target="n1"/>, give mig et Forskud stort 250 Kr. i to Uger – 250 Kr: pr:
+               Uge. Saasnart jeg om fjorten Dage er kommen til Ro i <placeName key="Aarhus">Aarhus</placeName>, skal jeg begynde at sende Manuskript til min nye Bog:
+                     "Fest"<ref target="n2"/>. Dens Emne har nu ligget i min Hjerne fire Maaneder, saa det vil
+               nok gaa rask – i Løbet af seks Uger tænker jeg. Og Bogen er "populær".</p>
+            <p>Men lad nu strax Pengene sende. Jeg maa have dem her paa Lørdag.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Til <persName key="Hirschsprung_Aage">Hirschsprung</persName>
+               <ref target="n3"/> binder intet mig.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

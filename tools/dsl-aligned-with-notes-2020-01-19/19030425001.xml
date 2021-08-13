@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19030425001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 3742, 4to (Den Hegelske Brevsamling). Blyantsnummer
+                                    23</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; de to sidste ord og underskriften er
+                                            egenhændige</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1903-04-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Jacob Hegel</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1903-04-25">1903, 25. April [lørdag]<note>empty</note>
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Den 25.4.03.</p>
+            <p>Kære Hr. Hegel.</p>
+            <p>Det er ingen Mangel paa Hensyn, naar jeg skriver i Stedet for personlig at komme
+                    i Bogladen. Sandheden er den, at jeg maa paalægge mig den største Skaansel, og
+                    intet paavirker mig saa stærkt som denne aldrig sluttede Sag med Schubothe.</p>
+            <p>Det er nu mange Uger, siden Karl Larsen underrettede mig om, at Schubothe var
+                    villige til at underskrive den ændrede Kontrakt og <hi rend="italics">vilde gøre det i Løbet
+                        af et Par Dage</hi>.</p>
+            <p>Ikke desto mindre har jeg indtil dette Øjeblik ikke hørt om, at Kontrakten er
+                    underskrevet. <app>
+                  <lem>Endnu</lem>
+                  <rdg>Sekretæren har vistnok stavet: Indnu</rdg>
+               </app> mindre noget om, at Schubothe var gaaet i Gang med »Ludvigsbakke« eller
+                    tænkte paa »Fædra« ‒ <app>
+                  <lem>hvad De dog havde erklæret at ville.</lem>
+                  <rdg>Ordene er tilføjet med Herman Bangs håndskrift</rdg>
+               </app>
+            </p>
+            <p>Er det dog ikke muligt, at De, kære Hr. Hegel, kunde forespørge hos Firmaet, hvad
+                    det blev til? Den Behandling, De Herrer lader mig lide, er dog ganske uværdig.
+                    Thi et Svar maa dog endelig gives mig. Og en Ordning, som sikrer
+                        <hi rend="italics">Dem</hi> Deres udlagde Penge i Tilfælde af min pludselige Død,
+                        <hi rend="italics">maa</hi> træffes til min Beroligelse. Intet er mig saa pinligt som
+                    den Tanke, at det Gyldendalske Forlag, for hvilket jeg hidtil har arbejdet saa
+                    lidt, skulde være udsat for Tab ved nogen Skæbne, der ramte mig. Og, som sagt
+                    Schubothe har jo erklæret, at ville ændre Kontrakten. Lad os dog derfor faa en
+                    Besked. Et Par Ord fra Dem maa jo være nok til at frembringe i al Fald et
+                    Svar.</p>
+            <p>To Aar har det ærede Firma nu, under Skældsord og tilsidst næsten Trusler, pint
+                    mig. Deres Penge har de faaet med Renter. Mine Bøger ejer de og har Magten til
+                    at modarbejde deres Salg.</p>
+            <p>Nu synes det mig, at der skyldes mig <hi rend="italics">Svar</hi>.</p>
+            <p>Tilgiv det lange Brev og alle de Ærgelser, jeg volder Dem. Jeg beder Dem hilse
+                    Fru Hegel og Deres Døtre.</p>
+            <p rend="right">Deres hengivne Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

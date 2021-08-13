@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18821231001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 5011, 4to</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med fremmed hånd ‒ sandsynligvis Anna Levins ‒ er øverst på
+                                        brevets forside som dateringsforslag skrevet: »31/12
+                                        82«</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Anna Levin: Fra Herman Bangs Journalistaar ved
+                                        »Nationaltidende«, Gyldendal 1932, s. 119-120</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1882-12-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Ferslew</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1882-12-31">[1882, 31. december, søndag]<note>Fortrykt
+                        brevpapir [eller påklæbet ‒ ?]: en miniature-gengivelse af en forside af
+                        bladet »The Graphic« .... ?</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Hr. Ferslev.</p>
+            <p>Lad Deres Hustru læse disse Linier for Dem, som jeg skriver paa Aarets sidste Dag
+                    ‒ for at røre Deres Hjerte eller rettere for at lade Deres Hjerte overbevise
+                    Deres Forstand. Det er om Hr. Bierring<ref target="n1"/>. De ved den
+                    Gang vi talte derom, gav De mig Skyggen af et Haab: De sagde, det var umuligt ‒
+                        <hi rend="italics">uden som Gratiale</hi>. Paa Hr. B. hvilte ved Siden af Dem <hi rend="italics">alt
+                        for os alle</hi>. At han helt og uden Sorger kan vie sig til sin Gerning
+                    er det vigtigste af alt. Ikke sandt? Og jeg <hi rend="italics">ved</hi>, at det er ham
+                    svært at leve nu ‒ hans Moder er gammel, begynder ei ret mere at vide Besked. I
+                    to Aar har hun omkalfatret paa »Elmebo«<ref target="n2"/> for 8000 Kroner, og Hr. B. nænner
+                    ikke at sige hende at de næppe har Raad dertil. Saaledes med alt. Dette ved jeg
+                    ikke fra B. men <hi rend="italics">fra andre</hi>. Tro, at det er Overbevisningen om det
+                    rette heri, som leder mig. Jeg stoler saa trygt derpaa, at De selv vurderer Hr.
+                    B. saa høit, at De ogsaa for Foretagendets Skyld ønsker, han skal leve
+                        <hi rend="italics">utrykket</hi>. Hvad om De lagde i en Portefølje med et lille
+                    Kort:</p>
+            <p>Fra den 9.777 Abonnent.</p>
+            <p>Gratialet?</p>
+            <p>Bliver De vred? Eller gjør De mig den Glæde til alt det meget, De har gjort mig i
+                    dette Aar, endnu at tro, at dette vilde baade gøre et Menneske lykkeligt, være
+                    heldigt for alle og glæde mig usigeligt.</p>
+            <p>Al ‒ al Lykke i det Aar, som kommer. Ingen ved den Lykke, hvorefter en anden mest
+                    længes ‒ men <hi rend="italics">den</hi> Lykke ønskes Dem og Deres af</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Hilsener til alle den siste Aften i det gamle Aar.</p>
+            <p>Indlagt et Brev til <hi rend="italics">Fruen</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

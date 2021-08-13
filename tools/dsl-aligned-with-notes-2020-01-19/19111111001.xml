@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111111001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 75.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; den tilhørende kuvert med fortrykt
+                                                hotelnavn på forsiden: <hi rend="italics">Hotell- &amp; Restaurant
+                                                  A.B. / Björkman &amp; Jansén / Grand Hôtel, Lund;
+                                                  Hippodromen, Malmö / Stadt Hamburg; Kungsparkens
+                                                  Restaurant, Malmö</hi> er frankeret med et
+                                                svensk 10 öres frimærke, poststemplet <hi rend="italics">[...]
+                                                  12.11.1911</hi> og med det danske postvæsens
+                                                modtagerstempel på bagsiden: <hi rend="italics">Kjøbenhavn V.
+                                                  1.OMB.13.11.11</hi>; udskrift i Bangs
+                                                håndskrift: <hi rend="italics">Fru Olga Dahl. / København. V. /
+                                                  Prinsesse Maries Allée 14.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blæk i fremmed hånd på kuverten: <hi rend="italics">11/11-11</hi>,
+                                        formentlig skrevet af Olga Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Lund</placeName>
+               <date when="1911-11-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-11-11">1911, 11. November, Lørdag <note>empty</note>
+            </date>
+            <placeName cert="high">Lund</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lund. 11.11.11. (Lørdag)</p>
+            <p>Min egen Ven.</p>
+            <p>Idag er det Lund og imorgen er det atter Malmö. Men Rejseruten er ændret:</p>
+            <p>Vi rejser <app>
+                  <lem>
+                     <hi rend="italics">Søndag</hi>
+                  </lem>
+                  <rdg>Det første bogstav er rettet fra: M</rdg>
+               </app> Aften Kl. 10.20 efter Oplæsningen til Stockholm og kommer dertil Mandag
+                    Morgen, hvorpaa vi <hi rend="italics">Mandag</hi> Aften afrejser med Skibet til Åbo, hvor
+                    vi kommer Tirsdag Middag. Saa fortsætter vi med Jernbanen til Helsingfors, hvor
+                    vi er Tirsdag Aften ved Midnatstid. Det bliver en Smule anstrængende. Men man
+                    skal jo holde det ud.</p>
+            <p>Idag regner det, saa jeg kan ikke komme udenfor en Dør.</p>
+            <p>Ak, hvor jeg dog længes efter, i Stockholm, at faa at vide, hvordan De har
+                    det.</p>
+            <p>Tusind Hilsener til Søster<ref target="n1"/>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

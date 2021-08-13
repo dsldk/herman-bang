@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18970415001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 195</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1897-04-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1897-04-15"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1897. 15. april], Torsdag<note>Brevet er skrevet
+                  skærtorsdag 15.4.1897 og fortsat langfredag 16.4.1897. – René Herrings tidstavle
+                  (i Romaner og noveller, bind 10, DSL 2010) daterer Bangs indflytning i
+                  Slagelsegade 22 til maj 1897. Ud fra sammenhængen mellem dette brev og brevet
+                  1897. 12. april.  bør vi snarere regne april 1897 for indflytningstidspunkt</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p rend="right">Slagelsegade 22.</p>
+            <p rend="right">Ø.</p>
+            <p>Kære Nansen.</p>
+            <p>Du maa undskylde, at der – saa længe jeg ikke kan gaa ud – kommer lidt Slinger i
+              Valsen som nu med din Ven <title key="Edison"><!--start title reference-->Edison<!--end title reference--></title>
+               <ref target="n1"/>. Jeg skal imidlertid, naar andet Hefte kommer, gøre
+               selve Omslaget til Skamme med en formidabel Straale.</p>
+            <p>Jeg har idag under Titlen "Man siger –"<ref target="n2"/> skrevet en Venlighed om <persName key="Bojesen_Ernst">Bojesen</persName>
+               <ref target="n3"/>, der lader "Aarhundredets Jubilæumsskrift" langt bag
+                  sig<ref target="n4"/>.</p>
+            <p>Mange, mange Hilsener til <persName key="Nansen_Betty">Fruen</persName>
+               <ref target="n5"/>.</p>
+            <p rend="right">H.B.</p>
+            <p>
+               <hi rend="italics">Fredag Morgen</hi>.</p>
+            <p>Brevet kom ikke afsted iaftes og nu maa jeg aabne det for at bede dig gøre mig en
+               stor Tjeneste. Jeg faar først Penge imorgen – fra <persName key="Korsgaard_K.P.">Korsgaard</persName>
+               <ref target="n6"/> – og har slet ingen. Vil du
+               laane mig 20 Kr. til imorgen. Men læg dem forsigtigt i en Konvolut, saa
+                  Pigen<ref target="n7"/> intet mærker.</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

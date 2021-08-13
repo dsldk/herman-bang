@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860224001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 315</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider. Fragment</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XLII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Wien</placeName>
+               <date when="1886-02-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-02-24"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1886. 24. februar [onsdag]<note>Fragment, idet brevets
+                  slutning mangler – og synes at have manglet allerede i 1918, jf. Vandreaar s. 191,
+                  hvor ordlyden i den trykte form sluttes før den afbrudte sætning</note>
+            </date>
+            <placeName cert="high">Wien</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <hi rend="italics">Wien</hi>. 24.2.86.</p>
+            <p>Min kære Peter.</p>
+            <p>Du er rimeligvis forbauset over min Taushed men jeg vilde ikke skrive, før jeg sad
+               her, hvor nu min Omvanken har fundet en Hvileplads – for hvorlænge? Ti jeg begynder
+               at tvivle paa, at menneskelige Forhold overhovedet existerer endnu.</p>
+            <p>Først og fremst: alt, hvad i dette Brev skrives, skrives <hi rend="italics">kun</hi> for dig,
+                  <persName key="Nansen_Immanuel">Immanuel</persName>
+               <ref target="n1"/>, og <persName key="Ottesen_Christine_Margrethe">Fru
+                  O.</persName>
+               <ref target="n2"/>, at ikke noget
+               Blad erfarer noget og paany fører mit Navn gennem alle Rendestene. Sig det specielt
+               til Fru O., at hun ikke taler til et Menneske derom, ikke f:Ex til <persName key="Lauridsen">Lauridsen</persName>
+               <ref target="n3"/>. Det hedder kun: jeg
+               er reist til Wien.</p>
+            <p>Men reist <hi rend="italics">frivillig</hi> – det er nu <hi rend="italics">det</hi>, jeg ikke er.
+                  Entendez<ref target="n4"/>: <app>
+                  <lem>Torsdag Aften</lem>
+                  <rdg>Dvs. den 18.2.1886</rdg>
+               </app> modtager jeg i <placeName key="Meiningen">Meiningen</placeName> den sædvanlige
+               Melding til Fredag Morgen Kl. <hi rend="italics">8</hi>. Disse Folk sørger jo altid for, at man
+               bliver berøvet sin eneste Søvn. Jeg stiller altsaa: udvist. Grund: "<placeName key="Bergen">Bergens</placeName> Artiklen"<ref target="n5"/> –
+               intet andet. Jeg gaar til Ministeren. Han beklagede det. Men "Udenrigsministeriet i
+               Berlin havde ønsket det". Udvisning var det mildeste. Hvis jeg ikke fremmed havde
+               skrevet i et fremmed Blad, vilde Domstolene have grebet ind. Altsaa: heraus. 48
+               Timer. Hvordan jeg kom bort, hvordan jeg naaede herhen – telegrafere hjem, vilde jeg
+               jo ikke, det vilde jo vække den Opsigt, jeg just vilde undgaa – jeg vil forskaane dig
+               for en Beskrivelse. Som en Gunst af <persName key="Georg_2.">Hertugen</persName>
+               <ref target="n6"/> opnaaede jeg, at de Meininger-Blade fik
+               Ordres til at tie om Udvisningen.</p>
+            <p>Som en Gunst!</p>
+            <p>At forlade Meiningen vilde ikke blot sige, at opgive alle de Planer, jeg havde med
+                  <persName key="Ibsen_Henrik">Ibsen</persName>
+               <ref target="n7"/> – og som Hertugen og Ibsen just skal drive paa,
+                  <hi rend="italics">mens</hi>
+               <persName key="Chronegk_Ludwig">Kronegh</persName>
+               <ref target="n8"/> spiller sin Svanesang i Amerika – men det vil sige, at
+               forlade <hi rend="italics">"Tyskland"</hi>. Ti det samme vil ramme mig – i alle Stater.</p>
+            <p>Du vil sige: Men hvorfor da ikke hellere komme hjem? Fordi jeg ikke <hi rend="italics">kan</hi>.
+               Hvad skal jeg hjemme? Her kan jeg <hi rend="italics">udrette</hi> noget. Derfor vilde jeg endnu
+               forsøge Wien. Og her kan man vel ikke smide mig ud. Men, skønt jeg jo nok ved dette,
+               er jeg blevet saa nervøs, at jeg nu lever i en evig Skræk, for at ogsaa dette skal
+               ske. Jeg har ikke sovet inat, fordi jeg tænkte derpaa. Jeg er saa nervøs, at jeg om
+               Natten brænder, som om jeg havde Brændenelder paa hele Kroppen. Og mit Hoved taaler
+               ikke at ligge paa Puden. Det er en frygtelig Tilværelse – og endnu frygteligere,
+               fordi jeg kun har et eneste at stole paa selve dette stakkels Hoved, som er ved at
+               sprænges. Naar jeg har gjort mine tre nødvendige Privatbreve færdige, skriver jeg to
+               Artikler til "Politiken" – stadig dateret Meiningen. Jeg véd, de kommer for <app>
+                  <lem>sént</lem>
+                  <rdg>Ordet er rettet af Bang efter en lille skrivefejl</rdg>
+               </app> til denne Maaned men lad dem saa gaa snelt paa i næste. Og dernæst beder jeg
+               dig sige til <persName key="Hørup_Viggo">Hr. Hørup</persName>
+               <ref target="n9"/>, at jeg <hi rend="italics">denne</hi> Maaned ikke <hi rend="italics">kan</hi>
+               (for Februar) betale Halvdelen af. Jeg skal skrive desto mere i næste Maaned.</p>
+            <p>Gør du mig, Peter, den <hi rend="italics">personlige</hi> Tjeneste strax efter Modtagelsen
+               af</p>
+         </div>
+      </body>
+   </text>
+</TEI>

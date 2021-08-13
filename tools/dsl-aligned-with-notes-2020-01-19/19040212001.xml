@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040212001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Gyldendals arkiv B2, Kopibog: Breve fra forlaget 15.10.1903-8.4.1904,
+                           s. 647</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="peter-nansen">
+                              <ab>Kopien viser, at brevet var egenhændigt skrevet af Peter
+                                 Nansen</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1904-02-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-02-12"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 12. februar.  [fredag]<note>Gyldendals ufuldstændigt
+                  bevarede kopibøger rummer fortløbende nummererede blade med nøjagtig kopi af
+                  forlagets afsendte breve</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">12/2 [1904]</p>
+            <p>Kære Bang!</p>
+            <p>Jeg tror ikke, vi bør være bange for Krigens<ref target="n1"/>
+               Indflydelse paa Bogmarkedet. <app>
+                  <lem>I fald</lem>
+                  <rdg>De to ord omslutter et linjeskift; nogle bogstaver er måske gået tabt efter
+                     "I" uden for den højre kant af kopibogens papir</rdg>
+               </app> bør din Bog gøres parat <app>
+                  <lem>hurtig[t.]</lem>
+                  <rdg>Rimeligvis er et bogstav og et tegn gået tabt uden for den højre kant af
+                     kopibogens papir</rdg>
+               </app> Saa kan vi jo altid se, hvordan det stiller sig. <app>
+                  <lem>Men</lem>
+                  <rdg>Ordet er overstreget</rdg>
+               </app>
+            </p>
+            <p>Jeg besørger saa 3die Korr. Jeg længes efter at se Bogen.</p>
+            <p rend="right">Din</p>
+            <p rend="right">P.N.</p>
+            <p>
+               <persName key="Lybecker_J.L.">Lybecker</persName>
+               <ref target="n2"/> mente ikke, at andre Bøger end "<!--start title reference--><title key="Fædra">Fædra</title>
+               <!--end title reference-->" iaar kom i nyt Oplag<ref target="n3"/>. Men han lovede at undersøge Sagen og give mig en Status.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

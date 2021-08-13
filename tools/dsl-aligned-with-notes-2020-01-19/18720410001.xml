@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18720410001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 1556</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>I brevets øverste venstre hjørne er et exlibris påklæbet på
+                                    langs: »HERMAN BANG SAMLINGEN AF 1912«, dvs. Herman
+                                    Bang-samleren Otto Lind (18xx-19xx). Det Kongelige Bibliotek
+                                    købte hans Bangsamling i 1957[?], og NKS 2353, fol. udgør i dag
+                                    den største del af Bangbrevene fra Linds samling</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Tersløse</placeName>
+               <date when="1872-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1872-04-10">1872, 10. april [onsdag]<note>Brevet er skrevet
+                        med gotisk håndskrift</note>
+            </date>
+            <placeName cert="high">Tersløse</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <app>
+                  <lem>Tersløsegaarden</lem>
+                  <rdg>Ordet er skrevet med latinsk håndskrift</rdg>
+               </app> d: 10/4 72</p>
+            <p>Kjære Ven!</p>
+            <p>Saa er vi da komne til vort nye Hjem, og jeg er confirmeret<ref target="n1"/>! Hele min Tid gaaer bort ved de øvrige Takkebreve. Hverken dig
+                    eller nogen Anden af de gamle <app>
+                  <lem>Base</lem>
+                  <rdg>Læsningen er usikker. Ordet er skrevet med latinske bogstaver</rdg>
+               </app>, har jeg noget at takke for: thi der er Ingen af Eder, der har uleiliget
+                    sig med at skrive til mig. Derfor skriver jeg heller ikke til dig for at takke
+                    men for at fordre: Oversættelsen til Livius, som du vist maa have endnu: den er
+                    slet ikke til at finde. Bragte du mig den om Løverdagen hos Holsts, hvis du
+                    gjorde det, saa skriv det til mig, at jeg kan faae den der, hvis ikke send den
+                        <hi rend="italics">snarest muligt</hi>. Jeg skal til Sorø til Mai<ref target="n2"/>. Jeg har
+                    faaet Skrivebord, med Stol, <hi rend="italics">Uhre, Guldkjæder</hi> o:s:v:, o:s:v:</p>
+            <p>Min Tid er knap, da Livius <app>
+                  <lem>venter</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> Derfor, hils dem Alle, Allesammen i den Skole<ref target="n3"/>! Gid jeg var der. Sorø er en slem
+                    Anstalt.</p>
+            <p rend="right">Din altid hengivne</p>
+            <p rend="right">HBang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19080706001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2751, folio; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1908-07-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1908-07-06">1908, 6. Juli [mandag] <note>Brevet sidder
+                        indklæbet i veksellerer Johan Levins brevsamling, 3. Bog; Johan Levin
+                        (1877-1959) erhvervede i 1920 et antal breve fra Christian Houmark</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fasanenstrasse 58.</p>
+            <p rend="right">Berlin. W.</p>
+            <p rend="right">6.7.1908.</p>
+            <p>Min kære Houmark.</p>
+            <p>Store Himmel, er De nu flyttet igen. Men da det denne Gang er til Amaliegade, er
+                    De sagtens nu endelig <hi rend="italics">landet</hi>... For finere kan det da ikke blive.
+                    Med mindre De flytter ind paa selve Amalienborg. Jeg er ogsaa flyttet ‒ fra
+                    Specialist til Specialist, fra Lægeundersøgelse til Lægeundersøgelse, fra Smerte
+                    til Smerte. Nu er snart to Maaneder eller mer gaaet hen paa denne trøstesløse
+                    Maade. Og jeg ønsker inderlig kun ét: at det maatte blive forbi ‒ uden altfor
+                    stærke Lidelser endelig forbi... En Maaned har nu Frøken Thune<ref target="n1"/> ligget i Dagligstuen af Angst for hvad der kunde
+                    ské. Og Lægen maa hentes paa alle Døgnets Tider... En Gang imellem er jeg dog
+                    oppe som f:Eks: idag.</p>
+            <p>Det glæder mig inderligt, at De atter er rask ‒ ‒</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

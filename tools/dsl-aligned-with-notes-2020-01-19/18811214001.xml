@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">1881214001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 2.rk. Blyantsnummer 476</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1881-12-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Vilhelm Greibe (dansk vicekonsul i
+                                        Hamburg)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1881-12-14">[1881, 14. december] Onsdag<note>Dateringen
+                        knytter sig til en kort omtale af Bangs forhold til J. Meyer i Bangs brev
+                        til Peter Nansen, ca. 15.12.1881</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Frederiksborggade 28/1 Sal.</p>
+            <p rend="right">Onsdag Nat.</p>
+            <p>Kære Greibe!</p>
+            <p>Ingen kan være saa sørgelig situeret som jeg efter denne usalige Hjemkomst, og
+                    mest tynger <hi rend="italics">De</hi> paa min Samvittighed. Jeg havde Penge paa Bladet
+                        her<ref target="n1"/> ‒ men Dom<ref target="n2"/>, Militærbøder<ref target="n3"/> ‒
+                    kortsagt alt nødvendigt for at undgaa offenlig Skandale slugte Pengene. Jeg har
+                    efter min Dom og under min Sygdom, som ødelægger mine Kræfter, ikke mere Venner
+                    ‒ jeg er alene. Saa begyndte da min Pilgrimsgang til de offenlige Velgørere mod
+                        Procent<ref target="n4"/> ‒ Endnu
+                    har jeg ikke faaet Pengene. Men bring Hr. Meyer<ref target="n5"/> indlagte
+                        Brev<ref target="n6"/>, som
+                    jeg beder Dem læse ‒ maaske vil han være at bevæge til at vente. Slaa saa en
+                    Konvolut om<ref target="n7"/>.</p>
+            <p>Hr. Ferslev<ref target="n8"/> er mig ikke mere god som før.</p>
+            <p>Tilgiv mig saa, bedste Greibe, thi jeg er meget syg, meget trist og meget træt.
+                    Derfor staar der ikke mere i dette elendige Brev.</p>
+            <p>Pengene <hi rend="italics">skal</hi> jeg skaffe, om jeg saa skal grave dem op af Jorden.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

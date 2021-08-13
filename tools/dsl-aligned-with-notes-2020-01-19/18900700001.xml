@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900700001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 217</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Fredrikshald, Norge</placeName>
+               <date when="1890-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-07-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890. juli] <note>Kan dateres til kort efter Paul
+                  Langhoffs bryllup</note>
+            </date>
+            <placeName cert="high">Fredrikshald, Norge</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">
+               <hi rend="italics">Fredrikshald</hi>.</p>
+            <p>Kære Nansen.</p>
+            <p>Atter maa jeg paakalde din Assistance – det skal da for lang Tid blive den sidste
+               Gang.</p>
+            <p>Jeg modtog imorges Kort fra <persName key="Langhoff_Paul">Paul L.</persName> og
+                  <persName key="Langhoff_Ingeborg">Fru Paul L. født Ingeborg med
+                  Apoteket</persName>
+               <ref target="n1"/>. Paul gør sine Sager godt. Først <persName key="Ferdinand">Ferdinand</persName>s<ref target="n2"/> Penge og nu Ingeborgs. Det
+               Forlag maa da æde Guld som Faraos Køer aad Nilens Græs<ref target="n3"/>.</p>
+            <p>Desværre er altsaa Langhoff vel endnu bestandig borte, denne Gang paa Bryllupsrejse.
+               Jeg tænkte, han nu var hjemme og et Brev fra mig krydsede hans Kort. Det var ét af
+               Leddene i disse Tiders evige Jammer. Jeg havde, ledsaget af Lægeattest, for to
+               Maaneder siden – mod megen Ret overdragen til Langhoff<ref target="n4"/> – bedt om 500 Kr. Efter lang Tid
+               sendtes mig 200.</p>
+            <p>Det var hverken helt eller halvt.</p>
+            <p>Nu vil og maa jeg imidlertid bort herfra. Jeg vil atter tage ned til Lolland, hvor
+               jeg skrev "<!--start title reference--><title key="Tine">Tine</title>
+               <!--end title reference-->", og bo i <placeName key="Maribo">Maribo</placeName> – à 60 Kr. om Maaneden – hos en ung Arkitektfamilje, som er
+               mine Venner fra gammel Tid, ligefra Sorødagene. Jeg tog mig for at sætte dette
+               igennem – den eneste kloge Idé, jeg har haft i snart et helt Aar – ved at læse op i
+               nogle Ravnekroge, men jeg kom tilbage hertil fattigere end jeg rejste ud.</p>
+            <p>Saa skrev jeg da til Langhoff og sagde som det var: at jeg maa bort herfra; at jeg i
+               Maribo <hi rend="italics">vil</hi> arbejde paany, og i lange Tider skal jeg ikke falde nogen til
+               Byrde uden med Manuskripter. Jeg vil paa Gennemrejse blive en halv Dag i København i
+               de Rubenske Væverier<ref target="n5"/> – for min Roman<ref target="n6"/>s Skyld.</p>
+            <p>Men til dette behøvedes 160 Kr. og vil nu, hvor alt forsinkes, behøves 200 (og intet
+               mindre, da jeg saa dog ikke <hi rend="italics">kan</hi> rejse[)].</p>
+            <p>Sér du – nu beder jeg dig i Bogladen at faa Pauls Adresse og paa min Konto
+                  <hi rend="italics">telegrafere</hi> til ham kort, hvordan Sagen staar. Sig ham, at det efter
+               alt synes dig nødvendigt, at dette sker. Ti, kære Nansen, det er nødvendigt. Og
+               nødvendigt, at det skér paa denne Maade, ti min Livslede overmander mig, og mine
+               Kræfter til Modstand er faa. Livet tabte allenfals kun lidt, men Kunsten dog maaske
+               en eller anden Bog.</p>
+            <p>Dette er da nu min Bøn.</p>
+            <p>Jeg har skrevet meget koldsindigt, meget koldsindigere end jeg er – for ikke at plage
+               dig. Anstrængelsen ved at skrive har badet mig i Sved.</p>
+            <p>Kun endnu dette: "Hvad der ske, det ské snart"<ref target="n7"/>.</p>
+            <p>Adieu.</p>
+            <p rend="right">H.B.</p>
+            <p>
+               <hi rend="italics">Fredrikshald</hi>.</p>
+            <p rend="right">Saa vil jeg forblive i Maribo, til jeg har skrevet mig i Orden – et
+               halvt Aars Tid.</p>
+            <p rend="right">
+               <hi rend="italics">Paul maa svare telegrafisk.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

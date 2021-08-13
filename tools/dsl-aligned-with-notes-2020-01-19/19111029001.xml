@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111029001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 936</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, skrevet på fortrykt brevpapir med en
+                                                tegning af hotellet: <hi rend="italics">Grand Hotel. Grand Hotel
+                                                  Royal. Stockholm den ... 191...</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Stockholm</placeName>
+               <date when="1911-10-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-10-29">[1911, 29. oktober] Søndag <note>empty</note>
+            </date>
+            <placeName cert="high">Stockholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">[Stockholm den ...] Søndag.</p>
+            <p>Min kære Nini.</p>
+            <p>Tilgiv mig, at jeg aldrig skriver. Men jeg skal give dig to Dages Spiseseddel,
+                    saa vil du forstaa min Taushed.</p>
+            <p>Lørdag: Kl. 9 1/4 Lægen</p>
+            <p>Kl. 9½ Bad</p>
+            <p>Kl. 10 Frisøren.</p>
+            <p>Kl. 12½ Frokost hos den danske Gesandt</p>
+            <p>Kl. 2 1/4-3 Skrive Artikel til et stort <app>
+                  <lem>Blad</lem>
+                  <rdg>Bang har skrevet: Blade</rdg>
+               </app>
+            </p>
+            <p>Kl. 6½ Middag</p>
+            <p>Kl. 8 Souper og Oplæsning i »Dansk Forening«.</p>
+            <p>Søndag: Kl. 9 1/4 Læge</p>
+            <p>Kl. 9½ Bad</p>
+            <p>Kl. 10 Friseur</p>
+            <p>Kl. 12½ Frokost hos den norske Minister.</p>
+            <p>Kl. 2 Matinée i et Teater.</p>
+            <p>Kl. 6½ Middagsselskab hos mig selv.</p>
+            <p>Kl. 8 Besøg i det kongelige Teater.</p>
+            <p>Altsaa ‒ men mange Tanker gaar altid til dig.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

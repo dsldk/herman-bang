@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19110226001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 84</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="telegram">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Telegram, indleveret i Odense 26.2.1911 kl. 13.10, adresseret til:
+                                    <q>Betty Nansen / Nørrevold 48 / Kbh</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="telegram">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På telegrammets bagside har Betty Nansen med blæk skrevet følgende
+                              (og Bang uvedkommende) kladde: <q>Mit herzlichen Dank für das
+                                 niedliche Patienceetui und vielen Grüssen Ihnen und Ihrer Frau.
+                                 Ihre Betty Nansen</q>. – På telegrammets forside er med blyant
+                              allernederst og omvendt skrevet: <q>teg. Paryk</q> [læsningen
+                              usikker], rimeligvis af Betty Nansen</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1911-02-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1911-02-26"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1911. 26. februar.  [søndag]<note>empty</note>
+            </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Tak min Ven, fordi De var der igaar<ref target="n1"/>. Det
+               virkelig rørte mig at De, anstrængt som De er af saa meget, vilde sidde der en hel
+               Time.</p>
+            <p>Tak min Ven</p>
+            <p rend="right">Herman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

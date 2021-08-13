@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870120001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Georg Brandes' Arkiv. Blyantsnummer 3</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-01-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Georg Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-01-20">1887, 20. Januar [torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. 20.1.87.</p>
+            <p>Det vil maaske meget undre Dem, Hr. Dr., at modtage disse Linjer fra mig, saa
+                    meget mere som Sygdom lader mig overspringe alle Formler og sige Sagen meget
+                    kort.</p>
+            <p>Tingen er denne: Frøken Frederike Bognár<ref target="n1"/>, der vel uomstridt ved Siden af
+                        Wolter<ref target="n2"/> tør ansés for det ganske Tysklands
+                    genialeste Aktrice ‒ vil her til sin Benefice spille <app>
+                  <lem>»Gengangere</lem>
+                  <rdg>Bang har glemt at slutte anførselstegn om skuespillets titel</rdg>
+               </app> (Fru Alving)<ref target="n3"/>, og, om det lykkes her, gøre Turné med Dramet.
+                        Ibsens<ref target="n4"/> Tilladelse til
+                    Beneficen haves. Nu var det, jeg, for Værkets Skyld, vilde spørge, om De ikke
+                    skulde have en ældre Omtale af Stykket, som De vilde sende mig for at den kunde
+                    blive oversat her og trykt i det første Blad for at forberede Publikum. Jeg er
+                    overbevist om, at De, om de har nogen Artikel, gerne skænker Værket Støtten af
+                    Deres store Navn.</p>
+            <p>Ialfald vil De ikke vredes over, at jeg er fremkommen med Anmodningen.</p>
+            <p rend="right">Deres ærbødige</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Prag. <hi rend="italics">Weinberge</hi>
+            </p>
+            <p>
+               <hi rend="italics">Balbingasse 192.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

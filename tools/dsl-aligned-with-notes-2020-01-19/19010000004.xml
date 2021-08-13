@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19010000004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 794</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1901-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Bertha Holst (Bangs nièce)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1901-01-01">[1901?], Onsdag <note>Dateringsforslaget er
+                        usikkert. De nærmere omstændigheder om den akutte konflikt mellem mor og
+                        datter, som brevet hentyder til, er uoplyst. Efter al sandsynlighed boede
+                        den knap 19-årige Bertha Holst fra august 1900 i København i samme lejlighed
+                        som Nini Holst og Herman Bang [se brev til Astrid Pålsson, 20.8.1900],
+                        indtil hun på et ukendt tidspunkt i 1901 blev leder af en skole i Rørvig.
+                        Brevet er formentlig skrevet efter hendes flytning til Rørvig, hvor hun
+                        boede indtil 1905</note>
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Min egen Bertha.</p>
+            <p>Dit Brev har gjort mig himmelfalden. Jeg, som har været meget syg, har ikke hørt
+                        <hi rend="italics">et</hi> Ord om det Hele. <hi rend="italics">Hvad</hi> er der da foregaaet? Ja,
+                    Himlen kender Nini<ref target="n1"/>. <hi rend="italics">Jeg</hi> idetmindste kender hende ikke. Men et
+                    fuldkomment Brud ‒ hvor er det muligt eller blot selskabelig tænkeligt? Nini
+                    holder jo dog saa meget paa <hi rend="italics">Formen</hi> i alle Ting. Kære, lille Bertha,
+                    hvor fortvivlet du maa være.... Ingen, ingen, slet ingen i Verden uden Jens
+                        Peter<ref target="n2"/>
+                    og mig elendigt syge Menneske.</p>
+            <p>Skriv strax til Din trofaste Ven</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

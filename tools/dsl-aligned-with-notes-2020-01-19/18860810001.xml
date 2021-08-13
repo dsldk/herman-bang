@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860810001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 127</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. L</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-08-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-08-10"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 10. august, tirsdag] <note>Brevet er ikke søgt nærmere
+                  dateret i Vandreaar, s. 211, men anbragt som udgavens første brev fra Prag. Ud fra
+                  de omtalte artiklers tryk i Politiken må brevet være skrevet før 19.8.1886. En
+                  placering på 10.8. er et skønsmæssigt forslag</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag.</p>
+            <p>Kære Peter.</p>
+            <p>Jeg overgiver denne Artikel<ref target="n1"/> til din specielle Godhed. Tryk den <hi rend="italics">strax</hi>. Jeg har
+               ikke <hi rend="italics">søgt</hi> denne Leilighed til at vise mit "Sindelag"; Lykken har
+                  <hi rend="italics">bragt</hi> den i dette Aktstykke, som har vakt min høieste Beundring. Det
+               er endnu muligt at være "Hersker" – naar man blot er – Menneske. <persName key="Franz_Joseph_1.">Franz Josef</persName>
+               <ref target="n2"/> er maaske middelmaadig begavet, men han er et meget,
+               meget betydeligt <hi rend="italics">Menneske</hi>. Den <persName key="Knuth_J.S.D.">danske
+                  Gesandt</persName>
+               <ref target="n3"/> sagde til mig: Det er en Ynk at sé denne ene
+               pligttro, honnette og arbeidsomme Mand kæmpe Dag for Dag med dette Lands
+               Slendrian.</p>
+            <p>Du skrev mig en Gang:"Det er nødigt at holde sammen. Saa kan vi jo ved Siden af drive
+               vor Politik paa egen Haand.["]</p>
+            <p>Dette Brev er "min Politik". Jeg vil <hi rend="italics">bede</hi> dig optage det
+                  <hi rend="italics">strax</hi>, selvom jeg ikke troede, at det for en Gangs Skyld ogsaa var
+               Eders "Politik", hvad jeg her har skrevet. – – Med Grev Knuth har jeg ført en
+               Brevveksling. Han er en fortræffelig Mand og har faaet lidt Klarhed over Sagen. Man
+               tager mig for en Socialist, fordi "hin" Artikel har staaet i "die
+                  Freiheit"<ref target="n4"/> i Oversættelse. Man holder mig nu <app>
+                  <lem>i</lem>
+                  <rdg>Bogstavet er rettet fra: o</rdg>
+               </app> Opsigt. Men jeg <hi rend="italics">kan</hi> ikke forlade Østrig paa den Maade; man vil
+               Gud straffe mig – hjemme tro, at jeg var blevet en Forbryder.</p>
+            <p>Optag nu denne Artikel; <hi rend="italics">og</hi> – kære – send mig samme Dag, men
+                  <hi rend="italics">selv</hi>, at det sker, <hi rend="italics">to</hi> Exemplarer.</p>
+            <p>Jeg har endnu ikke, tror jeg, takket dig for dit Brev, som glædede mig saa meget. Jeg
+               haaber inderligt, at <persName key="Brock_Louise">Frøken B.</persName>
+               <ref target="n5"/> maa slippe ganske karsk fra
+               det. Forholdet til <persName key="Rasmussen_August">R.</persName>
+               <ref target="n6"/> kan jeg ikke
+               forstaa. For mig staar det saaledes, at et Ægteskab var det eneste. Og véd du
+               hvorfor? Fordi saa en Skilsmisse var lettere. Langt lettere hugges et helt Forhold
+               over <app>
+                  <lem>end end</lem>
+                  <rdg>Skrivefejl, som ikke er rettet af Bang</rdg>
+               </app> et halvt og forviklet brydes. Maaske er det kun en Dumhed, jeg siger – som
+               sagt – jeg kender jo saa lidt til Sagen.</p>
+            <p>Ved at læse "Politiken" faar jeg det Indtryk, at I mægter at fantasere Mængden som
+                  Brahma<ref target="n7"/> Inderne. De
+               fanatiske Abonnenter kaster sig fri <hi rend="italics">villig</hi> for Dampsporvognen for at
+               skaffe Jer Seiren.</p>
+            <p>Jeg sender imorgen "Burg II"<ref target="n8"/>. Det har varet – nu er den halvskrevet.</p>
+            <p>Hils Frøken Brock, <persName key="Nansen_Immanuel">Hvalpen</persName>
+               <ref target="n9"/> og No. 4<ref target="n10"/>. Jeg skriver imorgen.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

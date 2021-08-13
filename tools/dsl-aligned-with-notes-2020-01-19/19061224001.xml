@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19061224001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4264, 4to. Det 8. brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1906-12-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Nielsen (fuldmægtig hos
+                                        Gyldendal)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1906-12-24">1906, 24. December [mandag] <note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Juleaftens Dag. 1906.</p>
+            <p>Kære Hr. Nielsen.</p>
+            <p>Jeg skriver til Dem, fordi jeg saa nødig vil udsætte Hr. Nansen<ref target="n1"/> for at maatte give mig
+                    et Afslag. De kan det meget lettere.</p>
+            <p>I denne ulykkelige Tid<ref target="n2"/> har jeg ogsaa
+                    maattet skaffe Penge ‒ og igen Penge.</p>
+            <p>Jeg staar derfor helt uden. Og beder om jeg maa faa de 250 for
+                    <hi rend="italics">April</hi>. Det er langt frem. Men fra første Januar har jeg jo min Gage
+                    paa Teatret og skal saavist ikke falde Forlaget til Byrde.</p>
+            <p>Vil De give Kudsken Svaret<ref target="n3"/> og ‒ om muligt ‒
+                    Pengene.</p>
+            <p>Dem takker jeg <hi rend="italics">oprigtigt</hi> for al Godhed. Og ønsker Dem en dejlig Jul
+                    i Deres Hjem.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

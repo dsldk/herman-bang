@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18981022001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1898-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1898-10-22">[1898, 22. oktober] Lørdag
+                        <note>Dateringsforslaget bygger på Bangs afsluttende korrekturlæsning af Det
+                        hvide Hus, der udkom 26.11.1898 på Det Schubotheske Forlag, se også hans
+                        brev til Hirschsprung fra den følgende lørdag, 29.10.1898</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære H.</p>
+            <p>Hermed endelig Korrekturen ‒ og saa er det slut<ref target="n1"/>.</p>
+            <p>Brevet fra Henrik Ibsen kan et af de unge Mennesker i Forretningen<ref target="n2"/> gaa hen og
+                    skrive af i Universitetsbiblioteket. Det findes i »Politiken« i December det
+                    Aar, da »Tine« udkom<ref target="n3"/>.</p>
+            <p>Naar kommer »Ved Vejen«?<ref target="n4"/>
+            </p>
+            <p>Pas endelig paa, at »Indskuddene« nu føres ind paa det rigtige Sted<ref target="n5"/>.</p>
+            <p>De maa endnu en Gang betale Husholdningspengene og give de halvtreds Kr. til
+                    Budet. Jeg skal saa til Gengæld paa Tirsdag tage fat paa den tredje
+                        Novelle<ref target="n6"/>. »Den
+                    hvide Paaske«<ref target="n7"/> er færdig og Enden er ‒ Gud være lovet ‒ ikke
+                    Begyndelsen lig. Den tredje Novelle, som De altsaa faar i Manuskript hedder »die
+                        Gnädige«<ref target="n8"/> og vil blive i samme Stil som den i
+                        »Danmark«<ref target="n9"/>.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19001006001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Dateringen »13/10 1900« er tilføjet med blyant, formodentlig
+                                        af Aage Hirschsprung. ‒ På brevets bagside har Bang skrevet
+                                        følgende notat, formodentlig til sig selv: <hi rend="italics">Føljetoner
+                                            af »Politiken«. (ikke »Frugtbarhed« / »Opstandelsen«. /
+                                            Tine. / Mit Fotografi. / 6977.</hi>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1900-10-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-10-06">[1900, 6. oktober] Lørdag <note>Den sekundært
+                        anførte blyantsdatering »13/10 1900« er formentlig en uge forkert,
+                        sammenlignet med det følgende brev fra Bang til Hirschsprung, »Lørdag«
+                        [13.10.1900], idet disse to breve næppe er blevet skrevet den samme dag.
+                        Desuden svarer Bangs beskrevne helbredstilstand bedre til beskrivelsen i det
+                        brev, som han ligeledes 6.10.1900 skrev til Fritz Boesen (Breve til Fritz,
+                        s. 157)</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kære Hirschsprung.</p>
+            <p>De maa tilgive, at jeg igaar lod min Læge skrive<ref target="n1"/>. Men jeg var for syg dertil.
+                    Hvad »Tine« angaar<ref target="n2"/>, da maa alt vente, til jeg er
+                    blevet rask nok til roligt at kunne besvare Deres Brev<ref target="n3"/>, som ‒ og det saavist ikke
+                    for Pengenes Skyld ‒ har beredt mig saa mange Lidelser. Og ellers maa jeg altsaa
+                    blive her og skrive saa godt og saa meget som jeg kan.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

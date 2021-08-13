@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050121003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2751, folio; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Skive</placeName>
+               <date when="1905-01-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-01-21">1905, 21. Januar [lørdag] <note>Bang havde
+                        3.1.1905 påbegyndt sin sidste store oplæsningsturné »rundt i landet«. ‒
+                        Brevet sidder indklæbet i veksellerer Johan Levins brevsamling, 3. Bog;
+                        Johan Levin (1877-1959) erhvervede i 1920 et antal breve fra Christian
+                        Houmark</note>
+            </date>
+            <placeName cert="high">Skive</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Skive 21.1.1905.</p>
+            <p>Min kære Ven.</p>
+            <p>Der er intetsomhelst paa Færde. Men jeg rejser og rejser og rejser igen og læser
+                    og læser og læser igen. Saa er jeg træt og skriver kun, naar der
+                        <hi rend="italics">hænder</hi> noget. Og der hænder <hi rend="italics">intet</hi>. Bogstavelig
+                    intet. Ikke en Gang Skyggen af Noget. Der er stadig »udsolgt«. Men jeg tror
+                    ikke, at jeg tjener ret meget. Jeg er næsten vis paa, at Udgifter og Procenter
+                    sluger omtrent Alt. Og netop derfor maa jeg blive ved. En ny Rute er lagt, som
+                    vil strække sig mindst til 1 April. Det er en Rædsel.</p>
+            <p>»Københavns«<ref target="n1"/> Udseende og Skæbne ængster mig alvorligt. Det er en
+                        Pæreskude<ref target="n2"/> med Henning
+                        Jensensk<ref target="n3"/> Madfrugt. Hvis De
+                        <hi rend="italics">kan</hi>, da gaa fraborde ‒ som de kloge Rotter<ref target="n4"/>.</p>
+            <p>Skriv til mig til Aarhus, hvor jeg er den 26.</p>
+            <p rend="right">Tusind Hilsener ‒</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

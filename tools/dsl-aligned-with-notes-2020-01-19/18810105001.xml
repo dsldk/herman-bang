@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18810105001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 992</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; det aflange papirstykke er foldet og
+                                                lukket som en kuvert, frankeret med et 8 øres
+                                                frimærke og poststemplet: <hi rend="italics">Kjøbenhavn 5.1. K 3
+                                                  668</hi>; på brevets første side er i øverste
+                                                venstre hjørne trykt en tegning af lille buket
+                                                liljekonvaller. Den nederste halvdel af brevets side
+                                                2 er afklippet; derfor mangler brevets afsluttende
+                                                hilsen og underskrift ‒ og på papirets anden side
+                                                det meste af Bangs udskrift med Ninis adresse; læses
+                                                kan kun: <hi rend="italics">[... Hol]st / Horsens</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1881-01-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Nini Holst (Bangs søster)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1881-01-05">[1881, 5. Januar, onsdag] <note>Dateres efter
+                        poststempel og i relation til udgivelsen af <hi rend="italics">Haabløse
+                        Slægter</hi>
+               </note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Man kan høre meget usandt, kære Nini, og at kende min Bog<ref target="n1"/> af Omtale er ikke nok for en Søsters Kærlighed,
+                    som vel ej vil nægte mig, hvad jeg beder om som om det eneste: at læse, før man
+                    dømmer. Ikke sandt ‒ det er kun at yde mig Retfærdighed at læse?</p>
+            <p>Tak for dine gode Ønsker ‒ <hi rend="italics">jeg</hi> haaber det nye Aar maa befri mig for
+                    Lidelser, som er mig uudholdelige, og at man vil tillade mig for bestandig at
+                    forlade dette skønne Land.</p>
+            <p>Din Frygt kan du spare, at skrive »Haabløse Slægter« har været min tungeste Pligt
+                    ‒ <hi rend="italics">nu</hi> har jeg ikke flere mod et Samfund, som stener Sandheden. Og at
+                    rejse for bestandig er nu mine Velynderes Løfte.</p>
+            <p>Lev vel. For dig og din Mand<ref target="n2"/> al Lykke. For mig fra dig, Nini, den
+                    Medlidenhedsgerning, at du læser ‒ saa ved jeg, <hi rend="italics">kan</hi> du ikke
+                    dømme.</p>
+            <p rend="right">
+               <hi rend="italics">[brevets afsluttende hilsen og underskriften er
+                        afklippet]</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18880731002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 104.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På en løs lap papir, som er vedlagt brevet, har Bang samme
+                                        dag kvitteret for Kristian Dahls svar: <hi rend="italics">Kære Dahl. /
+                                            Saa sés vi iaften Kl. 9 3/4 paa Skydebanen. / Deres Ven
+                                            / Herman B.</hi> Korrespondancen er sandsynligvis
+                                        foregået pr. bud. På brevets bagside et blyantsnummer:
+                                        2</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1888-07-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Kristian Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1888-07-31">[1888, 31. juli] Tirsdag <note>Den
+                        østrigsk-tyske skuespiller Josef Kainz' gæstespil i København i juli 1888
+                        blev afsluttet 31.7. ved et aftenselskab til hans ære på Skydebanen, jf. et
+                        lignende brev på den samme dato fra Bang til Peter Nansen</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Dahl.</p>
+            <p>Har De Raad til at give 12 Kroner ud for en munter Aften, da kom iaften med Deres
+                        Kone<ref target="n1"/> paa Skydebanen<ref target="n2"/>
+               <hi rend="italics">Kl. 9 3/4</hi>. Kainz læser op efter Bordet<ref target="n3"/>. Pris pr.
+                    Hoved 6 Kroner for alt. Jeg beder Dem at komme. Paaklædning for Dem Kjole og
+                    sort. Deres Kone den sorte Silkekjole med en Rose. Kom, om De kan. Jeg vil have
+                    »Fru Dahl« tilbords.</p>
+            <p>Hr. og Fru Oda Nielsen<ref target="n4"/> kommer.</p>
+            <p rend="right">Deres heng</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

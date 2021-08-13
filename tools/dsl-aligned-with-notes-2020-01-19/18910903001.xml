@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18910903001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1891-09-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1891-09-03">[1891, 3. september] Torsdag <note>Brevet er
+                        efter al sandsynlighed skrevet dagen før det brev, som Bang skrev fra
+                        Marienlyst til Carl Feilberg, og som udgiveren foreslår dateret til fredag
+                        4.9.1891</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Marienlyst ved Helsingør.</p>
+            <p rend="right">Torsdag Morgen.</p>
+            <p>Kære Fru Feilberg.</p>
+            <p>
+               <hi rend="italics">Tak</hi> for Deres Brev.</p>
+            <p>Nej, desværre til Dem kommer <hi rend="italics">jeg</hi> ikke for mine Kreditorers
+                    Skyld.</p>
+            <p>Jeg er flygtet herud. Jeg tænkte, jeg kunde vel bo her otte Dage for Indtægten af
+                    en Oplæsning og <hi rend="italics">endelig</hi> i de otte Dage faa skrevet det
+                        Sørgespil<ref target="n1"/>, som alt mit Haab staar til. Men Indtægten blev kun 27 Kr.
+                    ‒ Regnen strømmede ‒ og nu sidder jeg her. Det eneste Lysglimt er, at
+                    Sørgespillet er da halvvejs færdigt. Paa <hi rend="italics">det</hi> maa vi bygge.</p>
+            <p>Jeg beder Dem, kære Fru Feilberg, skønt jeg skammer mig over det, sende mig
+                    Pengene, at jeg kan rejse væk med mit Sørgespil imorgen Aften.</p>
+            <p>Hils Dr. Feilberg<ref target="n2"/> saa mange Gange. Naar jeg kommer til Byen<ref target="n3"/>, skal jeg kommer ud og læse det op.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

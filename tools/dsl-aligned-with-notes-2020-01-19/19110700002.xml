@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19110700002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bergen</placeName>
+               <date when="1911-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1911-07-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1911.  juli. ]<note>Skrevet under Bangs ophold hos
+                  familien Sundt på øen <placeName key="Skorpen">Skorpen</placeName> ved Bergen,
+                  juli-august 1911, jf. Harry Jacobsen: Den tragiske Herman Bang, s. 198f</note>
+            </date>
+            <placeName cert="high">Bergen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Bergen i juli.</p>
+            <p>Min kære Ven.</p>
+            <p>Nei nu bliver det for galt. Nu styrter De ogsaa ned ad trapperne og faar
+               hjernerystelse. Forhaabentlig gik det med Deres rystelse som med min ifjor<ref target="n1"/> at
+               den nogenlunde blev paa trapperne.</p>
+            <p>Jeg vilde dog meget ønske, at De kunde overvinde Deres uhyrlige dovenskab saavidt, at
+               De kunde give gamlingen en smule besked baade om Deres nye fald og Deres øvrige liv.
+               Men desværre De skriver s'gu ikke. De er jo fløiet<ref target="n2"/> i Tyskland og været over jorden. Jeg har
+               været under jorden<ref target="n3"/>. Deiligt har jeg havt det. Men syg er jeg. Jeg har som
+               sædvanlig digtet om Dem. I <placeName key="Horsens">Horsens</placeName> kirke sad der
+               paa alteret to gibsengle med trompeter i munden<ref target="n4"/>. De
+               to engle er jeg for Deres geni. <persName key="Ranft_Albert">Ranft</persName>
+               <ref target="n5"/> er en latterlig person og slyngel. Mange hilsener</p>
+            <p rend="right">fra</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

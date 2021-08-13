@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19070705003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2751, folio; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-07-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1907-07-05">[1907, 5. juli] Fredag <note>Bang havde 3.7.1907
+                        forladt København og var flyttet til Berlin, hvor han boede indtil sommeren
+                        1909. ‒ Brevet sidder indklæbet i veksellerer Johan Levins brevsamling, 3.
+                        Bog; Johan Levin (1877-1959) erhvervede i 1920 et antal breve fra Christian
+                        Houmark</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nürnbergerstrasse <app>
+                  <lem>36</lem>
+                  <rdg>Bang har rettet tallet, måske fra: 38</rdg>
+               </app>. Berlin. W.</p>
+            <p>Fredag.</p>
+            <p>Min kære Houmark.</p>
+            <p>Ja, nu er jeg altsaa her og ‒ borte. Saa »gaaet bort« som en Død.</p>
+            <p>Paul<ref target="n1"/> vil have sagt Dem,
+                    hvor frygteligt de sidste Dage artede sig. I den elvte Time styrtede jeg sammen.
+                    Det brast.</p>
+            <p>Min Afrejse lignede derfor en Flugt ‒ en Flugt for mig selv.</p>
+            <p>Og Ankomsten hertil var den rene Forvirring. Men lidt efter lidt, naar jeg vinder
+                    Sans og Kræfter tilbage, vil det vel ordne sig.</p>
+            <p>For idag kun dette.</p>
+            <p>Og skrive maa De.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

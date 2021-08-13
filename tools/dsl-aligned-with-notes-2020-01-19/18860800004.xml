@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860800004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevpapirets bagside har Bang gentaget brevkuvertens
+                                        udskrift: »Hrn. Julius Schiøtt / <hi rend="italics">Kopenhagen N</hi> /
+                                            <hi rend="italics">Sortedamsgade 5</hi>« og i øverste venstre
+                                        hjørne på skrå: »<hi rend="italics">Rekommand.</hi>«, dvs. afsendt som
+                                        rekommanderet post til en højere portosats</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-08-01">[1886. august] Torsdag<note>empty</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Torsdag.</p>
+            <p>Min Ven.</p>
+            <p>Dette har taget mig lang Tid, da »Scenen« skulde skiftes. Men den siste Halvdel
+                    deraf er saa ogsaa noget af det <hi rend="italics">bedste</hi> det er blevet mig givet at
+                    skrive. N'est-ce-pas?<ref target="n1"/>
+            </p>
+            <p>Send det <hi rend="italics">strax</hi> til Schou, at han ikke tager Lejligheden iagt til at
+                    skyde en Uge over med Pengene. Ti 25 fl.<ref target="n2"/> om Ugen med mit Slid ‒ da er der intet at give bort!</p>
+            <p rend="right">Hils din Kone og Børn.</p>
+            <p rend="right">Din Herman.</p>
+            <p>VII's maa med igen:</p>
+            <p>ti da døde vore Fædres Danmark.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18970117001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Datoen »1.2.97« er tilføjet med blyant, formodentlig af Aage
+                                        Hirschsprung</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1897-01-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Aage Hirschsprung</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1897-01-17">[1897, 17. januar] Søndag <note>Fra torsdag
+                        7.1.1897 havde Bang opholdt sig en række dage i Aarhus og i Viborg; som
+                            <hi rend="italics">Aftenbladet</hi>s udsendte medarbejder skrev han om en
+                        havnestrejke i Aarhus og deltog i begravelsen af tre ofre for en brandulykke
+                        i Viborg, hans reportager om sidstnævnte er trykt i <hi rend="italics">Aftenbladet</hi>
+                        12. og 13.1.1897. ‒ Brevets sekundære blyantsdatering 1.2.97 må anses for
+                        fejlagtig</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Leopolds Hotel. Søndag.</p>
+            <p>Kære Hr. Hirschsprung.</p>
+            <p>Deres ved Hjemkomsten forefundne Brev har bedrøvet mig meget.</p>
+            <p>Sagen var denne.</p>
+            <p>Jeg blev i Viborg syg og Natten til igaar maatte, da Besvimelsesanfaldene tiltog, <app>
+                  <lem>Lægen</lem>
+                  <rdg>Bang har rettet ordet fra: Lægerne</rdg>
+               </app> hentes. Som altid paa mine Rejser slog mine Rejsepenge ikke til og jeg
+                    vidste slet ikke, hvad jeg skulde gøre. Men om noget Misbrug af Deres Godhed er
+                    der sandelig ikke Tale. Det maa De tro.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

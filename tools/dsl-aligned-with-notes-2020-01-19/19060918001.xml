@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19060918001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4264, 4to. Det 7. brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Randers</placeName>
+               <date when="1906-09-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Nielsen (fuldmægtig hos
+                                        Gyldendal)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1906-09-18">1906, 18. September [tirsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">Randers</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Randers. 18.9.1906.</p>
+            <p>Kære Hr. Nielsen.</p>
+            <p>Tak for Johannes Jørgensens »Essays«<ref target="n1"/>.</p>
+            <p>Jeg har længe skullet skrive til Dem og sige Dem noget. Det var angaaende det
+                    Honorar fra »Det nye Aarhundrede«<ref target="n2"/>. Da jeg fik
+                    det paa en Postanvisning, troede jeg, at det var efter Aftale med Dem ‒ og at
+                    Forlaget havde ladet Naade gaa for Ret. Da saa Hr. Ernst<ref target="n3"/> meldte det modsatte, havde jeg ikke
+                    Pengene.</p>
+            <p>Men en Svindel fra min Side var det ikke.</p>
+            <p>Jeg beder Dem nu lade Græbe<ref target="n4"/> sende mig <hi rend="italics">et</hi> Aftryk af alle Arkene, <hi rend="italics">lagt
+                        i Orden</hi>, af »De uden Fædreland ‒«, da jeg nu om nogle Dage begynder
+                    Korrekturlæsningen og ej hitter ud, saa rigtigt, af de Ark, jeg nu har haft
+                    liggende saa længe.</p>
+            <p>Paa Forhaand Tak.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

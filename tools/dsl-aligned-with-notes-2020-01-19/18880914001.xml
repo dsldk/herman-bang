@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18880914001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 38</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1888-09-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1888-09-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1888. 14. september], Fredag<note>Brevet dateres i forhold til C.F.
+                  Tietgens tale 12.9.1888</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Nansen.</p>
+            <p>Ved du, at du er en Sjuft. Nægter, at du har med <persName key="Kjerulf_Charles">"Jens Kok"</persName>
+               <ref target="n1"/> at gøre, og <persName key="Rasmussen_August">August</persName>
+               <ref target="n2"/> maa fortælle mig det.</p>
+            <p>Men sér du: nu drejer sig Sagen om <persName key="Larssen_Otto">Otto</persName>
+               <ref target="n3"/>s allersidste Kort, før han maa "forsvinde". Du maatte
+               kunne lave en naivt forfjamsket og uforstaaende Sygepasser med en køn lille Sang – et
+               Par Scener blot – men kalkeret over ham. Saa fik han Debut strax og god Debut.</p>
+            <p>Lad Kjerulff tale meget om den fixe Idé – og det <hi rend="italics">er</hi> jo ikke ilde – med
+               de to Primadonnabrødre paa én Aften.</p>
+            <p>Gør, hvad du kan.</p>
+            <p rend="right">Herman B.</p>
+            <p>
+               <hi rend="italics">NB.</hi> Jeg har skrevet og sendt <persName key="Hørup_Viggo">Hørup</persName>
+               <ref target="n4"/> en Artikel om <persName key="Tietgen_C.F.">Tietgen</persName>
+               <ref target="n5"/>s Tale. <hi rend="italics">Den kan nu ikke komme paa.</hi> Sig
+                  <persName key="Adler_Viggo">Adler</persName>
+               <ref target="n6"/> det.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19110920001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 58.B.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, med tilhørende kuvert, frankeret med
+                                                to 5 øres frimærker, ulæseligt poststempel, og med
+                                                postvæsenets modtagerstempel på bagsiden:
+                                                  <hi rend="italics">Klampenborg 20.9.11.5-7E</hi>; udskrift i
+                                                sekretærens håndskrift: <hi rend="italics">Fru Olga Dahl. / Gl:
+                                                  Bellevue. / Klampenborg</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; den afsluttende hilsen, underskrift og
+                                            efterskriften er skrevet af Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant i fremmed hånd på bagsiden: <hi rend="italics">Sidste Brev fra
+                                            Gl. Kongevej 11 / 23-9-11</hi>, formentlig skrevet af
+                                        Olga Dahl. Øverst på brevets forside er med blæk og i en
+                                        anden håndskrift end sekretærens skrevet datoen: <hi rend="italics">23/9
+                                            11.</hi>; i forhold til poststemplet må denne
+                                        oplysning anses for upålidelig</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1911-09-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1911-09-20">[1911, 20. september, onsdag] <note>Den præcise
+                        dato for Bangs sidste afrejse fra Danmark er ikke klarlagt. Noget tyder på,
+                        at den fandt sted i dagene efter fredag 22.9.1911, idet han denne aften
+                        optrådte på Casino i København ... ?</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gl: Kongevej 11.</p>
+            <p rend="right">
+               <app>
+                  <lem>23/9 11.</lem>
+                  <rdg>Sekundært påført datering i fremmed hånd</rdg>
+               </app>
+            </p>
+            <p>Min egen kære Ven.</p>
+            <p>Pludselig blev det bestemt, at jeg skal rejse imorgen. En Sorg er det mig, at jeg
+                    saaledes ikke faar Dem at se. Men jeg rejser til Kristiania med Dronning
+                        Maud<ref target="n1"/> paa Torsdag Kl: 12.
+                    (Larsens Plads<ref target="n2"/>.) Hvis De er rask nok dertil,
+                    kan jeg <app>
+                  <lem>måske</lem>
+                  <rdg>Ordet er stavet således</rdg>
+               </app> se Dem et Øjeblik paa Skibet</p>
+            <p rend="right">Altid Deres Ven</p>
+            <p rend="right">Herman B.</p>
+            <p>Til Søster<ref target="n3"/> tusinde Hilsener.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

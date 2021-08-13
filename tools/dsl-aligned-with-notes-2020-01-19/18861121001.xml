@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18861121001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 118</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. LIX</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1886-11-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1886-11-21"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 21. november], Søndag<note>Dateringen er skønsmæssig. –
+                  Vandreaar placerer dette brev som nummer to efter 22.10.1886</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag Søndag.</p>
+            <p>Kære Don.</p>
+            <p>Jeg er idag blevet uendelig glædet ved en Kritik i et norsk Blad som – <persName key="Jæger_Henrik">
+                  <hi rend="italics">Hans Jæger</hi>
+               </persName>
+               <ref target="n1"/> er Forfatteren – skriver, at jeg er den
+               danske Mellemting af <persName key="Dilling_Lars">Dilling</persName>
+               <ref target="n2"/> og <persName key="Paulsen_John">John Paulsen</persName>. Jeg er saa
+               nedslaaet som jeg var efter <persName key="Salomon_Benedikt">Salomon</persName>s
+                  Ulykke<ref target="n3"/>. Jeg havde saa lykkeligt Mod paa "Bernhard
+                  H"<ref target="n4"/> – i Følelse af "<!--start title reference--><title key="Ved_Vejen">Ved Veien</title>
+               <!--end title reference-->s"
+               Fremskridt. Men den Jord, jeg igen har fundet, har gjort det af med mig. Hvorfor skal
+               jeg leve, jeg som altid er lige "kraftløs og usund". Et Menneske, der "maaske vil
+                  <hi rend="italics">noget</hi> mere end Dilling". Jeg vilde være <hi rend="italics">den</hi> taknemlig,
+               som slog mig for Panden, saa jeg laa der – uendelig taknemlig. Saa kunde man da
+               ialfald blive glemt og havde ikke nødigt hvert Aar at skrive en Bog og vække
+                  <persName key="Falkman_Adolf">Falkman</persName>
+               <ref target="n5"/>s og Avisens "Medfølelse".</p>
+            <p>Naa – hvorfor plage dig med min Lidelse? Det er saavist ikke Nytte til.</p>
+            <p>Hils. Spørg <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n6"/>, om han ikke kunde skrive en Kritik og sende <persName key="Warburg_Karl">Varburg</persName>
+               <ref target="n7"/> i <placeName key="Göteborg">Göteborg</placeName>. Han tog
+               den vist. Og Esmann kunde gerne gøre mig den Tjeneste – <hi rend="italics">af Hensyn til
+                  Salget</hi>. Ti det vilde være meget slemt, om jeg <hi rend="italics">sank</hi> pr Ark – og
+               det er der Udsigt til. Saa hjælper dog alle Bække til at <hi rend="italics">afsætte</hi>. Jeg
+               skal saa gerne gøre Gengæld, kan du sige. Jeg vil jo ikke, han skal skrive noget op i
+               Himlen. Han kan jo læse lidt i "Haabløse"<ref target="n8"/> og "Fædras" siste Del<ref target="n9"/> og
+                     "Excentriske"<ref target="n10"/> og "Stille"<ref target="n11"/> og saa skrive, hvad der falder ham
+               ind – om den danske John Paulsen.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

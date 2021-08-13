@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19040526001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 376</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalsgaarde</placeName>
+               <date when="1904-05-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1904-05-26"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1904. 26. maj.  [torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">Aalsgaarde</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Aalsgaard pr: Hellebæk.</p>
+            <p rend="right">26.5.1904.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg maa nu skrive dette Brev til dig, fordi jeg forleden<ref target="n1"/> ligefrem ikke orkede at give dig Besked. Det var
+                        saamæn ikke noget Bedrag. Men jeg havde ikke Kræfter til at skrive.</p>
+            <p>Saa bad jeg om Pengene for Juni – skønt det ikke var dem, jeg havde villet bede
+                        om.</p>
+            <p>Jeg har paa min Oplæsningsrejse betalt saa megen Gæld og blev ved dermed indtil
+                        Rejsens sidste Dag – uden at blive færdig. Saa var der ogsaa Udflytningen og
+                        alt muligt, saa jeg maatte bruge de 400 Kr, som det hele Tiden havde været
+                        min Mening at bede om <hi rend="italics">ekstra</hi>.</p>
+            <p>Sé, der er nu to Ting, som jeg meget godt véd.</p>
+            <p>Den ene er, at jeg sidder dybt i Gæld hos Forlaget, og at jeg slet ikke tør
+                        forøge Gælden.</p>
+            <p>Den anden Ting er den, at du frygter for, at disse Penge – de 400 – skal være
+                        Begyndelsen til en hel Masse Anmodninger om Penge. Men det behøver du nu
+                        ikke at frygte. Ti dels er i Vinter meget klaret af mig; dels er <app>
+                  <lem>Udgifterner</lem>
+                  <rdg>Ordets sidste bogstav er en fejlskrivning, som ikke er
+                                        rettet</rdg>
+               </app> her overskuelige, og dels er det kun Juni Maaned, som er vanskelig.
+                        Allerede i Juli kan jeg læse op i nogle Sommer-Kroer.</p>
+            <p>Derfor beder jeg dig tilstaa mig de givne 400 Kr. som et Extra-Bidrag, der ikke
+                        skal gentage sig og lade Forlaget sende mig de 350 for Juni som sædvanligt,
+                        saa jeg har dem her den sidste Maj. For ellers sidder jeg midt i et Helvede
+                        – et Familje-Helvede.</p>
+            <p>I hvert Fald maa du ikke tro, at jeg har villet "svindle" paa nogen Maade. Men
+                        Reaktionen efter mine eksempelløse Anstrængelser er kommen saa stærkt, at
+                        jeg bogstavelig intet orker.</p>
+            <p>Mange Hilsener</p>
+            <p rend="right">Din hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

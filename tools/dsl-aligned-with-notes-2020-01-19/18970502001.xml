@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18970502001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 02</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1897-05-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1897-05-02"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1897. 2. maj. ] Søndag<note>Dateret i forhold til
+                  Elisabeth Riis' aftenunderholdning 3.5.1897</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Kære Børn.</p>
+            <p>I maa sagtens tro, jeg er gal. Men det er jeg ikke. Og jeg <hi rend="italics">vil</hi> ikke
+               komme op, før jeg har set Betty i "<!--start title reference--><title key="Strandby_Folk">Strandby
+                  Folk</title>
+               <!--end title reference-->"<ref target="n1"/>.
+               Imorgen er jeg jo <app>
+                  <lem>i</lem>
+                  <rdg>Rettet fra: saa</rdg>
+               </app> Tøjet, saa jeg i alle Fald kan sé første Akt<ref target="n2"/>....</p>
+            <p>Jeg skal jo læse op til <persName key="Riis_Elisabeth">Fru Riis</persName>
+               <ref target="n3"/>.</p>
+            <p>Alle disse fremmede Mennesker slider i mig, saa jeg aldrig faar et Minut hverken til
+               mig selv eller til de faa Mennesker, jeg holder af.</p>
+            <p>Og nu skal jeg jagte til <placeName key="Stockholm">Stockholm</placeName>
+               <ref target="n4"/>
+               om en halv Snes Dage og en <persName key="Jessen_frøken">Frøken Jessen</persName> og
+               en <persName key="Jansen_frøken">Frøken Jansen</persName>
+               <ref target="n5"/> lader mig aldrig Fred nu, hvor
+                  <persName key="Lautrup">Lautrup'en</persName>
+               <ref target="n6"/> og <persName key="Jonna">Jonna'en</persName>
+               <ref target="n7"/> er færdige.</p>
+            <p>Vil du ikke give <persName key="Sofie">Sofie</persName>
+               <ref target="n8"/> de to Akter af <persName key="Feddersen_Benjamin">Hr. Feddersen</persName>
+               <ref target="n9"/>s Stykke, som jeg en Gang bad
+                  <persName key="Nansen_Betty">Betty</persName>
+               <ref target="n10"/> læse, hvad hun vist aldrig gjorde. Hvis de er blevet
+               borte, tror jeg, det hidsige Menneske slaar mig ihjel.</p>
+            <p>Jeg skriver nu til <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n11"/> til hvem jeg ikke har mælet et Ord i tre Maaneder. Jeg
+               hilser.</p>
+            <p>Mange, mange Hilsener til Kunstnerinden.</p>
+            <p>Tak for Laan.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

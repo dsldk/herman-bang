@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19110827001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 5 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Henvisningen til dette brev hos Mette Borg, s. 204 allernederst,
+                              angående brevets omtale af to generalprøver, må underforstå, at Det Ny
+                              Teater i august også holdt generalprøve på Samfundets Støtter, som
+                              først havde premiere 3.11.1911 – begrundet i Bangs fravær på det
+                              tidspunkt, idet han i oktober 1911 påbegyndte sin oplæsningsturné i
+                              Norden og Rusland</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1911-08-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1911-08-27"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1911. 27. august], Søndag<note>Dateret i forhold til
+                  premieren på De smaa Landstrygere, Det Ny Teater, 27.8.1911</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gl. Kongevej 11.</p>
+            <p rend="right">Søndag.</p>
+            <p>Min kære Ven.</p>
+            <p>Jeg er efter to Generalprøver og med Aabningsforestilling i Aften (Opgave: De smaa
+               Landstrygere, Vandpantomime i 8 Akter<ref target="n1"/>) saa nervøs, at jeg ikke kan skrive selv.
+               Saa maa De nøjes med et Brev, fuldt af Sladder, hvis jeg kan hitte nogen. Paa
+               Dagmarteatret har de nu fire Instruktører og Overinstruktør <persName key="Nielsen_Johannes">Johannes</persName>
+               <ref target="n2"/>, der efterhaanden smider de andre ud. Efter 1te Prøve
+               sendte <persName key="Liebmann_August">Liebman</persName>
+               <ref target="n3"/> straks Sygemelding og begav sig til <persName key="Ida">Ida</persName>
+               <ref target="n4"/> paa
+               Rekreation. <persName key="Poulsen_Adam">Adam</persName>
+               <ref target="n5"/> er fjærn og usynlig. <persName key="Nørgaard_Poul">Svineslagteren</persName>
+               <ref target="n6"/> har paa Ravnene tabt 22000 og vil til næste Spilleaar
+               udleje Kunstens Fornyelse i Dyrehaven<ref target="n7"/>.</p>
+            <p>
+               <persName key="Nielsen_Martinius">Professor Nielsen</persName>
+               <ref target="n8"/> er paa min <app>
+                  <lem>Scene</lem>
+                  <rdg>Ordet er tilføjet over linjen, hvor det erstatter et udstreget ord, måske:
+                     Side [?]. "Min scene" betyder Det Ny Teater</rdg>
+               </app> Konsul Bernick<ref target="n9"/> og spiller denne Borger i Staten, ganske som
+               han spillede Kean<ref target="n10"/>. Dog viser han ikke Enden, da der ikke er Anledning
+               til <app>
+                  <lem>Matros</lem>
+                  <rdg>Ordet står uden noget afsluttende tegn lige før et sideskift. Meningen er
+                     måske: Matrosløjer ell.lign</rdg>
+               </app> Han gaar hjem til <persName key="Nielsen_Oda">Oda</persName>
+               <ref target="n11"/> indhyllet i samme Fjerboa som <persName key="Fønss_Thilda">Tilde Føns</persName>
+               <ref target="n12"/> – Tilde bestaar af en Hat
+               og en Rumpe – – – – – – – – –</p>
+            <p>Fru <persName key="Fritz-Petersen_Johanne">Johanne Fritz-Petersen</persName> er
+               hjemkommen fra Landophold i <placeName key="Hellerup">Hellerup</placeName> indsvøbt i
+               den Slags Enkeslør<ref target="n13"/>, der varsler Bruden. Hos
+               Veninden <persName key="Mariane_">Mariane</persName>
+               <ref target="n14"/> samles den Synagoge, hvor den unge Enkes Overgang
+               til Jødedommen forberedes. Den af Mariane udvalgte Brudgom er <persName key="Max">Max
+                  med Næsen</persName>
+               <ref target="n15"/>, saaledes heles alle Saar og
+               Mariane kan tilbringe sine Sommerferier paa Herregaarden Kaldsbøl<ref target="n16"/>.</p>
+            <p>Jeg har forladt det witzanskyske Etablissement<ref target="n17"/>, da <persName key="Witzansky_Harald">Korporalen</persName>s krigerske Patriotisme blev mig for
+               faretruende. Han vil nu rejse et nyt Mindesmærke <app>
+                  <lem>for</lem>
+                  <rdg>Herefter er overstreget ordet: en</rdg>
+               </app>
+               <persName key="Kjeldsen_Niels">Niels Keldsen</persName>
+               <ref target="n18"/>. A propos Nils Keldsen – hans Ridder Professor <persName key="Larsen_Karl">Karl Larsen</persName>
+               <ref target="n19"/> afrejser paa en Foredragstourné til
+               de forenede Stater<ref target="n20"/>. De arme Stater! Efter sigende gaar <persName key="Larsen_Mimi">Top-Mimi</persName>
+               <ref target="n21"/> nu i Barndom, bærende det tyske
+               Æresnavn, "die älteste Frau Europas". Nu tror jeg ikke, jeg véd mere, da min
+               Sladerkilde <persName key="Houmark_Christian">Houmark</persName>
+               <ref target="n22"/> (han gaar ligeledes paa Tourné, men i Kongeriget
+               Danmark) kun er optaget af sig selv og derfor ikke har Tid til at bringe upaalidelige
+               Historier om andre, hvad der har vakt en vis Stilhed i Sladren.</p>
+            <p>
+               <hi rend="italics">Jeg</hi> traf forleden <persName key="Fröberg_Einar">
+                  <hi rend="italics">Frøberg</hi>
+               </persName>
+               <ref target="n23"/>, som sagde mig, at De havde det meget bedre, Himlen være
+               lovet! Han mente, at De da ogsaa snart kom til at spille. Bagefter maa De da filme
+               Pengene sammen. Livet er en Lordt, som man sidder midt i, og den er fuld af Stank og
+               af Fluer. Dette er Summen af min Visdom, der ovenikøbet har været dyrt købt.</p>
+            <p>Tusinde Hilsener</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

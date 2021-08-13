@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18991228001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 447</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1899-12-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edvard Brandes</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1899-12-28">1899, 28. december [torsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Frederiksborggade 31.I<ref target="n1"/>.
+                    28.12.99.</p>
+            <p>Kære Dr. Brandes.</p>
+            <p>De maa ikke undres altfor meget over disse Linjer. Da jeg ikke taaler at skrive
+                    meget, skal jeg iøvrigt gaa lige til Sagen. Siden »Over Evne«<ref target="n2"/> har jeg atter været syg ‒ i al Stilhed ligesaa
+                    syg som i Sommer<ref target="n3"/>. Med
+                    Teatret er det altsaa forbi. Jeg tror ikke en Gang, jeg ‒ for
+                        Abrahams'<ref target="n4"/> Skyld ‒ kan sætte et enkelt Skuespil i Scene endnu.</p>
+            <p>Men denne nye Sygdom ‒ Folk bliver dog med Rette trætte af en Mand, der altid er
+                    syg uden at kunne dø ‒ har bragt mig ganske paa Elendens Rand. Min Sygdom i
+                    Assens havde opslugt hele Honoraret for min Bog ‒ og nu staar jeg, mens desværre
+                    alle kender Abrahams' Stilling, atter med Sygeplejersker, Læger,
+                    Arbejdsløshed.....</p>
+            <p>Det er derfor jeg »vover« at bede Dem, om ikke »Politiken« nu, hvor jeg atter
+                    faar Tid at skrive, vilde yde mig et Forskud af halvandethundrede Kr. Jeg ved
+                    godt, at jeg skylder tre; men saasnart jeg er blevet nogenlunde, skal jeg nok
+                    skrive umaadelig flittigt. Og De vilde tage megen Bekymring fra mig ved dette.
+                    Jeg har i de sidste Nætter tænkt saa meget paa en lille Fortælling fra Bøhmen.
+                    Den skulde være mit første Bidrag.</p>
+            <p>Vil De nok svare mig, saa jeg har Svaret imorgen. Syg som jeg er, venter jeg
+                    altid med saa megen Spænding.</p>
+            <p>Og saa et glædeligt Nytaar. Tro mig, at jeg ønsker Dem det meget ‒ med en
+                    inderlig Tak for alt, hvad De har støttet mig med i den Teatergerning, som
+                    altsaa vel nu er forbi. Hvor meget jeg alligevel havde kunnet udrette ‒ for ti
+                    Aar siden. Naa, Livet er nu en Gang anderledes. Tak i hvert Fald for al den
+                    Støtte, De saa <hi rend="italics">hensynsfuldt</hi> har ydet mig.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

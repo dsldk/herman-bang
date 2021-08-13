@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050326002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4685, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1905-03-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Christian Houmark</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-03-26">1905, 26. Marts [søndag] <note>Bang befandt sig
+                        på sin oplæsningsturné »rundt i landet«, januar-april 1905</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Ringe. 26.3.1905.</p>
+            <p>Min kære Houmark.</p>
+            <p>Tak for Telegrammet. Naar jeg er uden for Byen, udstiller den Flab<ref target="n1"/> alt muligt, skønt jeg overhovedet
+                    har forbudt ham at udstille nogetsomhelst.</p>
+            <p>Ja, det er længe siden jeg har skrevet. Men naar man kører rundt nu snart paa
+                    fjerde Maaned og læser <hi rend="italics">hver</hi> Aften uden en Dags Hvile, bliver man
+                    træt tilsist.</p>
+            <p>Desuden ‒ jeg vil være oprigtig. Der var en Sætning i Deres Brev om Deres Sygdom,
+                    som gav mig en vidunderlig Smag i Munden. De skrev om Privatforestillingen: »Jeg
+                    blev syg. Der er Ting, som angriber mig rent legemligt«. De var saa komiske, de
+                    Ord ‒ naar de skrives til mig, der <hi rend="italics">er</hi> syg og dog trodser alt ‒
+                    ‒</p>
+            <p>Naa, men nu er det jo forbi.</p>
+            <p>Der blev telegraferet til Levy<ref target="n2"/> om at komme. Og saa ‒
+                    kom Esbensen<ref target="n3"/>. <hi rend="italics">Det</hi> var ikke saa
+                    behageligt.... Men nok om det....</p>
+            <p>Bertha<ref target="n4"/> har Tuberkulose og er sendt til Silkeborg,
+                    hvorhen jeg maa rejse, saasnart min Turnée er forbi. Det ulykkelige Barn. Fru
+                        Holst<ref target="n5"/> tager det med godt Humør ‒ ‒ det er sagtens Himlens Straf over
+                    Barnet. Jeg véd, hvem der kommer til at bære Omkostningerne ‒</p>
+            <p>Ellers slet intet Nyt. Slet intet. Imorgen gaar Vejen til Ærø. Den 17
+                        April<ref target="n6"/> sætter Paasken Punktum for
+                    Afskedsrejsen. Men heller ikke før.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

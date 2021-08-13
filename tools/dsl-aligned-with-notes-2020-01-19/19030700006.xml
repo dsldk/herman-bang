@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19030700006</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 79</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Marienlyst?]</placeName>
+               <date when="1903-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1903-07-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1903.  juli], Mandag<note>Brevet må være skrevet i 1903,
+                  et stykke hen på året, siden der står: "...der i Februar..."</note>
+            </date>
+            <placeName cert="low">[Marienlyst?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Fru Nansen.</p>
+            <p>Ja, nu kommer <persName key="Rostrup_Oda">Oda</persName>
+               <ref target="n1"/> vist i Morgen. Men, Himlen véd,
+               hvad det kan blive til. Den eneste Dame, for hvem jeg ellers har den
+                  <hi rend="italics">allerstørste</hi> Interesse, er Frk <persName key="Causse_Sofie">Sofie
+                  Causse</persName>
+               <ref target="n2"/> der i Februar i <placeName key="Aarhus">Aarhus</placeName>
+               spillede "<!--start title reference--><title key="Hedda_Gabler">Hedda Gabler</title>
+               <!--end title reference-->"<ref target="n3"/>. Den Rolle er jo Deres<ref target="n4"/>. Men
+               hun har ogsaa spillet "Thea"<ref target="n5"/> og er i
+               denne Rolle, efter min Formening, udmærket.</p>
+            <p>Fransk af Oprindelse, saare intelligent og fuldkommen Dame er Frk. Causse paa Scenen
+               en sjælden Fugl i alle de kvindelige Figurer, der kæmper med Hovedfiguren.</p>
+            <p>Foreløbig bliver hun efter mit Ønske et Aar i Aarhus. Men vende Øjnene mod hende
+               burde De.</p>
+            <p>Mange Hilsner</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

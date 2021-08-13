@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070614001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 424</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Frederikshavn]</placeName>
+               <date when="1907-06-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-06-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 14. juni.  [fredag]<note>Skrevet i Frederikshavn, hvor Bang på dette tidspunkt har boet i en
+                ugestid</note>
+            </date>
+            <placeName cert="high">[Frederikshavn]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">14.6.1907.</p>
+            <p>Min kære Ven.</p>
+            <p>Tak for dit Brev.</p>
+            <p>Ja, saa er alt beredt til at tage imod <persName key="Nansen_Esther">Frøken
+                                Nansen</persName>
+               <ref target="n1"/> og Jomfru og Veninde paa Søndag Morgen.
+                                <persName key="Knudsen_Johan">Johan</persName>
+               <ref target="n2"/> er i Silkeborg den Dag, men jeg skal være ved
+                        Dampskibet og sørge for alt paa det bedste .... jeg tror ikke, <persName key="Nansen_Betty">Fru Nansen</persName>
+               <ref target="n3"/>
+               kan komme fra <placeName key="Göteborg">Göteborg</placeName> herover om Søndagen. Der gaar vist intet Skib Søndag.
+                        Men saa kommer hun vel Mandag. Naar jeg blot faar Telegram itide. – Nu er
+                        det vist Øjeblikket at komme: Haven derude<ref target="n4"/> –
+                        jeg boer jo i F.havn<ref target="n5"/> – er dejlig og Vejret
+                        vidunderligt ....</p>
+            <p>Jeg skriver og skriver og læser.</p>
+            <p rend="right">Din gamle Ven</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860209001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og
+                                Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 313</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Meiningen]</placeName>
+               <date when="1886-02-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-02-09"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1886. 9. februar [tirsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[Meiningen]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">9.2.86.</p>
+            <p>Kære Peter.</p>
+            <p>Gør mig den Tjeneste <hi rend="italics">strax</hi> at spørge <persName key="Brandes_Edvard">Edvard Brandes</persName>
+               <ref target="n1"/>, om han ikke kender <persName key="Possart_Ernst">
+                  <hi rend="italics">Possart</hi>
+               </persName>
+               <ref target="n2"/> fra München. Mig foresvæver noget saadant. Bed ham
+                        isaafald skrive et Par anbefalende(!) Ord om mig som dramatisk Kritiker og
+                        strax sende hid adresseret til mig men i Kuvert med Udskrift Possart. Det er
+                        mig meget vigtigt at lære Manden at kende. Han kommer hertil paa
+                                <hi rend="italics">Lørdag</hi>, saa det har yderste Hast.</p>
+            <p>Mandag danser han af igen.</p>
+            <p>
+               <persName key="Brandes_Georg">G.B.</persName>
+               <ref target="n3"/> kender
+                        ham <hi rend="italics">ialfald</hi>. Kan du da – du er jo saa fiffig – ikke spille den
+                        Komedie at sige til Edv: Br:: "Det lader til at være Bang meget vigtigt –
+                        Gud ved, om Deres Broder ikke skulde kende ham o:s:v:["] Og saa skaffe
+                        Ordene fra ham.</p>
+            <p>Af <hi rend="italics">meget</hi> stor Vigtighed er Sagen mig <hi rend="italics">hvor</hi> stor en anden
+                        Gang. Jeg har <hi rend="italics">for</hi> travlt idag.</p>
+            <p>Jeg véd, du strax vil gøre det muligste.</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

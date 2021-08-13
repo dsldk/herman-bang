@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19050630001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 883</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side; brevets venstre kant er senere blevet
+                                                perforeret med to huller i en hullemaskine, således
+                                                at brevet har kunnet sættes ind i et ringbind</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+               <date when="1905-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Bertha Holst (Bangs nièce)</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1905-06-30">1905, 30. Juni [fredag] <note>Villa Sans-souci
+                        (fr.: Villa Sorgenfri) var en af de talrige bygninger, der hørte til
+                        etablissementet Marienlyst Badehotel. ‒ Siden marts 1905 var den 23-årige
+                        Bertha Holst indlagt på tuberkulosesanatoriet Marienlund i Silkeborg</note>
+            </date>
+            <placeName cert="high">Marienlyst, ved Helsingør</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Villa Sans-Souci. 30.6.1905.</p>
+            <p>Min kære Bertha.</p>
+            <p>Naar jeg ikke har svaret, er det, fordi jeg har tænkt frem og tænkt tilbage...
+                    Naturligvis vil jeg saa inderlig gerne give Pengene. Det véd du. Men intet vil
+                    være Fru Holst<ref target="n1"/> saa meget imod som dette. Af Hensyn til hendes Nerver,
+                    som sandelig er haardt slidte, kan vi ikke sige hende det nu. Og hvordan sige
+                    hende det bagefter? Hun vil med Rette paastaa, at vi har dannet et Komplot bag
+                    hendes Ryg. Denne Sag, min egen Bertha, er mig mere pinlig end jeg kan sige dig.
+                    For jeg véd hverken, hvad jeg tør eller hvad jeg skal. <hi rend="italics">Men paa Pengene
+                        skal det saavist ikke strande</hi>. Nu skal jeg <hi rend="italics">paa Søndag</hi>
+                    skrive til Frøken Jørgensen<ref target="n2"/> og saa maa vi sé at handle i <app>
+                  <lem>Fælledsskab</lem>
+                  <rdg>Ordet er stavet således af Bang</rdg>
+               </app>. Tusind Hilsener</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

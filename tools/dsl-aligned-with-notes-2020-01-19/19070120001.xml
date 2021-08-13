@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070120001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 413</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Hillerød</placeName>
+               <date when="1907-01-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-01-20"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1907. 20. januar.  [søndag]<note>Bangs ophold på et hotel i
+                  Hillerød cirka 15.-21.1.1907, jf. Harry Jacobsen IV, s. 172</note>
+            </date>
+            <placeName cert="high">Hillerød</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hillerød. 20.1.1907.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg har begaaet en stor Slyngelstreg af dem, som det er min Afsky at begaa. Men jeg
+               var tvungen dertil. Jeg var saa udmattet og saa medtaget, at jeg maatte forsøge, om
+               fuldkommen Ro et Par Dage kunde bedre min Tilstand. Den er blevet en Smule bedre
+               forsaavidt som jeg nu atter spiser – hvad jeg næppe har gjort i to Maaneder.</p>
+            <p>Men desværre, jeg har spist for Penge, jeg ikke havde og ikke kunde skaffe. Mine
+               Indtægter ved Kasino er jo for Halvdelens Vedkommende de Procenter, som "Flotte
+                     Drenge"<ref target="n1"/> ikke gav.</p>
+            <p>Og nu er jeg taget herhen som en ren Svindler, der, for atter at komme hjem, maa
+               "svindle" Forlaget for halvandethundrede Kroner, som jeg endda maa bede Jer
+               telegrafere mig, for at jeg kan komme hjem imorgen Aften, hvor min Ferie er udløben.
+               Jeg véd, du tilgiver mig gerne. Men hvad der piner mig er de Ubehageligheder, du
+               maaske skal have for min Skyld.</p>
+            <p rend="right">Din</p>
+            <p rend="right">H.B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

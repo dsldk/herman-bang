@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18900124001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 330</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Blækpåskrift af Peter Nansen: <q>(Jan.-Febr. 89, Nakskov)</q> samt i
+                              anden hånd med blyant: <q>2-2-89</q>, men sidstnævnte svarer ikke til
+                              brevets egen datering Fredag, idet 2.2.1889 var en lørdag.</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">empty</placeName>
+               <date when="1890-01-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1890-01-24"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1890. 24. januar], Fredag<note>Peter Nansens fødselsdag var
+                  20.januar. Året er usikkert, men 1890 sandsynligere end 1889 - på trods af Nansens
+                  egen kommentar</note>
+            </date>
+            <placeName cert="low">empty</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg forsikrer dig, at der er ikke andet Ord for at udtrykke min Fornemmelse, da jeg
+               saá, at jeg havde glemt din Fødselsdag – end Skam. Saadan noget er utilgiveligt,
+               fordi det dog altid fylder En <app>
+                  <lem>ɔ: den, som glemmes</lem>
+                  <rdg>Ordene er tilføjet over linjen</rdg>
+               </app> med en vis <app>
+                  <lem>ubestemt</lem>
+                  <rdg>Ordet er rettet fra: ubevidst</rdg>
+               </app> Bitterhed, der ligner Lede ved Liv og Mennesker. Men vær vis paa, at jeg
+               ønsker dig, at du glad og frisk paa alle Aarets Dage maa tømme din "Drikke" af
+               "Grethes" Mundglas<ref target="n1"/>. Jeg tænker saa ofte
+               paa Jer – dig og <persName key="Brock_Louise">din Kone</persName>
+               <ref target="n2"/>, hvordan I, fine og kønne, nusler om i Jeres fine
+               Stuer.</p>
+            <p>– Jeg har ligget to Skub, ialt fem Dage. Det er en Forkølelse, som ikke vil forlade
+               Lokalet ɔ: mig. Var jeg rask, vilde det nok gaa med min Bog<ref target="n3"/>. Jeg har Feber og kan ikke skrive mer.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman Bang</p>
+            <p>Hils din Kone. Eders Lejlighed<ref target="n4"/> er jo hos <persName key="Esmanns_onkel">Esmanns
+                  Onkel</persName>
+               <ref target="n5"/>. Det er et net Hus og tæt ved den fashionable Verden.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

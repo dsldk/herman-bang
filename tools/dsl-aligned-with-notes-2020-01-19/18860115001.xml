@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860115001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 304</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 7 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XXXIV. – Brudstykker af dette brev lod Peter Nansen
+                              offentliggøre i Politiken, 18.1.1886: "Herman Bangs Udvisning af
+                              Prøjsen"</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Meiningen</placeName>
+               <date when="1886-01-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-01-15"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1886. 15. januar [fredag]<note>empty</note>
+            </date>
+            <placeName cert="high">Meiningen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">15.1.86. Meiningen.</p>
+            <p>Min kære Peter.</p>
+            <p>Nu – hvor jeg skal begynde paa dette Brev, vil Smerten næsten overvælde mig. Jeg skal
+               imidlertid forsøge at skrive kort og roligt. Det er kommet, dette, som et Lyn. Saadan
+               som Slag i Slag de forfærdeligste Rystelser hjemsøger mit Liv.</p>
+            <p>Jeg feirede denne Gang intet Nytaar. Ene, lidt sløv sagde jeg til mig selv: Nu vel –
+               et Aar med Arbeide, mellem Fremmede, rimeligvis uden store Rystelser.</p>
+            <p>Og den trettende i dette Aars første Maaned er jeg revet op med Rod og smidt ud.</p>
+            <p>Men til Sagen. Et Par Dage efter at jeg var flyttet til min nye Bolig, kom en
+               hemmelig Politimand til mig. Han spurgte mig ud og <app>
+                  <lem>jeg</lem>
+                  <rdg>Ordet er tilføjet over linjen</rdg>
+               </app> gav <app>
+                  <lem>ham</lem>
+                  <rdg>Ordet er rettet fra: mig</rdg>
+               </app> alle Oplysninger, han ønskede. Jeg var mig intet ondt bevidst. Det var i
+               Fredags. Mandag Aften kommer igen en Betjent – han vilde tale med mig. Jeg var ikke
+               hjemme. Værtinden talte ikke til mig ved min Hjemkomst for ikke at forstyrre min
+               Nattero. Ret glad var jeg just den Aften og sagde, da jeg skiltes fra <persName key="Hoffory_Julius">Dr. Hoffory</persName>
+               <ref target="n1"/>: ["]Jeg sér her et Maal at gaa efter – jeg tror, jeg vil
+               naa det, og at jeg vil gøre Nytte her". Det er længesiden jeg havde følt mig saa vel
+               og haft saa godt Mod.</p>
+            <p>Den næste Morgen vækkes jeg Klokken halv otte. Det var igen en Betjent. Han vilde
+               hente mig Klokken halvti. Jeg var meget rolig og intet anende. Da jeg kom til
+               Præsidiet, var Klokken ti, og man sagde mig, at jeg var ventet. Man førte mig ind og
+               forelæste mig en Udvisningsordre: <hi rend="italics">strax</hi>. Jeg svarede at jeg var ingen
+               Haandværkssvend, som reiste med et Tornyster. Jeg havde Ting at ordne, og jeg maatte
+               tale med <persName key="Vind_Emil">Gesandten</persName>
+               <ref target="n2"/>. Man
+               tilstod mig da en Frist af 48 Timer. Jeg tog strax til den danske Gesandt, som blev
+               meget bestyrtet og strax kørte til <persName key="Bismarck_Herbert_von">Grev
+                  Bismarck</persName>
+               <ref target="n3"/>. Alle mine Bekendte ɔ: Folk ved "Tageblatt" o:s:v:
+               blev sat i Bevægelse, og man var meget oprørt over Udvisningen. Jeg anede ikke
+               Grunden hvorfor jeg udvistes, og det var ikke muligt at faa den at vide. Om Aftenen
+               skrev Gesandten, at han havde været hos Bismarck, og at denne vilde lade Sagen
+               undersøge. Jeg havde som han Haab om en Ordning. Torsdag Middag<ref target="n4"/> kommer egenlig med straalende Udsigter: alle Liberale
+               var ophidsede over Udvisningen, de liberale Blades Penne var dyppede for at flette
+               mig Martyrkronen; hele Tyskland vilde i fire og tyve Timer kende mit Navn. <persName key="Levysohn_Arthur">Dr. Levysohn</persName>
+               <ref target="n5"/> ved "Tageblatt" lod mig sige: "at det nu kun galdt at
+               skrive hurtigt; han tog <hi rend="italics">alt</hi> fra min Pen".</p>
+            <p>Og saa kommer Bud fra Gesandten: at intet var at gøre. Jeg kører til ham: Intet at
+               gøre – og ovenikøbet maatte der for <hi rend="italics">min</hi> Skyld <hi rend="italics">ties</hi>: Jeg
+               havde skrevet – i <placeName key="Bergen">Bergen</placeName> – et Par dumme Dumheder
+               om <persName key="Wilhelm_1.">Keiseren</persName>
+               <ref target="n6"/>s Portræt<ref target="n7"/>! Den Artikel laa i Udenrigsministeriet og havde ventet paa mig
+               siden Oktober.</p>
+            <p>Jeg indsaa hastigt, at Slaget var tabt. Alt om Regeringen, intet Ord om Keiseren og
+               alle hans. En Mand paa halvfems er ikke mere noget Menneske. Han er at ligne med en
+               Gud. Keiseren er Symbolet paa Tysklands Storhed og afgudes som saadant af alle. Jeg
+               vidste det – vidste ikke, at Bergen laa saa nær ved Udenrigsministeriet i <placeName key="Berlin">Berlin</placeName>. Hvis den dumme Artikel aftrykkes her er alt ude.
+               Hvis det undgaaes, er der Haab.</p>
+            <p>Jeg satte hastigt Redaktionerne – ved Brev – ind i Sagen: at det var en
+               Uforsigtighed, skrevet for Tid siden, om et Par af de keiserlige. Tilbragte Onsdag
+                  Aften<ref target="n8"/> i det tyske Teater, hvor de spillede "<!--start title reference--><title key="Emilia_Galotti">Emilia Galotti</title>
+               <!--end title reference-->"<ref target="n9"/>, og
+               Torsdag Morgen reiste jeg hertil.</p>
+            <p>Jeg har været meget rolig under alle disse frygtelige og skiftende Sindsbevægelser.
+               Du véd, jeg bliver saa temmelig "stille" under Sligt. Men jeg vil ikke skjule, at jeg
+               betragter dette siste Slag som det haardeste, der har ramt mig.</p>
+            <p>Man var her kommet mig imøde med en Iver, som kun kan forklares ved den fuldstændige
+               Mangel paa tyske Talenter, og man ventede alt af mig. Derfor bar man sig ad næsten
+               som var man mine <hi rend="italics">Venner</hi>. Det er imidlertid kun
+               <hi rend="italics">Forretnings</hi>venner, som sikkert allerede <hi rend="italics">har</hi> svigtet, naar
+               de frygter for, at der ingen Forretning bliver af.</p>
+            <p>Naa – i "Schorers Familienblatt" kan jeg vel blive og skrive <hi rend="italics">pseudonymt</hi>.
+               Mig er det det samme, om man nævner mit Navn eller et andet. Imorgen vil jeg tage mig
+               sammen og skrive om det passerede til "Politiken". Du vil sé Hensigten, naar du læser
+                  Artiklen<ref target="n10"/>.</p>
+            <p>
+               <hi rend="italics">Naar</hi> jeg kommer tilbage til Berlin – Gud véd det. Tilbage
+                  <hi rend="italics">vil</hi> jeg. Det mærkelige Sted, hvorhen jeg er gaaet, staar i nøie
+               Sammenhæng med denne Plan. Man er her nær ved en <persName key="Georg_2.">Hertug</persName>
+               <ref target="n11"/>. Og denne Hertug, som er gift med
+               en <persName key="Franz_Ellen">Skuespillerinde</persName>
+               <ref target="n12"/> og selv Teaterdirektør, er intimt beslægtet med Hoffet i
+               Berlin. Jeg vil anholde om Forglemmelse af hin Artikel. Dette er det eneste. Det var
+               en Dumhed; at erkende, at det var det, er baade nødvendigt og det værdigste.</p>
+            <p>Lige nu modtaget din siste Depeche, som har ligget her en Dag. – Nei – min Ven –
+               humoristisk! Tak. Man maa ofre det mindre for at naa det større. Og jeg
+                  <hi rend="italics">vil</hi> reussere<ref target="n13"/> i Tyskland.
+               Og Tyskland er Berlin. Denne By vokser, mens de andre visner. <hi rend="italics">Her</hi> er der
+               den Luft, som strammer og styrker Vilierne. Og en smuk Dag vil der ogsaa vokse frem
+               en Literatur. Jeg vil sé og leve <app>
+                  <lem>dette</lem>
+                  <rdg>rettet fra: det</rdg>
+               </app> Foraar, som er i Vente, med.</p>
+            <p>Alle mine Planer kan og tør ikke tilintetgøres saaledes og for saa lidt.</p>
+            <p>Lad – kære Don – <persName key="Ottesen_Otto_Andreas">Ottesens</persName>
+               <ref target="n14"/> læse dette. Sig at jeg skriver imorgen.</p>
+            <p>Her er stille og græsseligt.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+            <p>Du vil forestille dig, hvad dette har kostet – na' – du mein Gott<ref target="n15"/>!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

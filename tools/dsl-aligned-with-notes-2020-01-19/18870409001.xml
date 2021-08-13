@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870409001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 500</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-04-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Emil Jonas</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1887-04-09">[1887, ca. 9. april] Lørdag<note>Forslaget til
+                        denne omtrentlige datering bygger på de omtalte tekster af Bang. ‒ Af brevet
+                        fremgår iøvrigt, at Emil Jonas, der var bosat i Berlin, nyligt havde aflagt
+                        et besøg hos Bang i Prag (i Jungmannstrasse 403, Weinberge)</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Prag. Lørdag.</p>
+            <p>Kære gamle Kammerraad.</p>
+            <p>Tak for Deres Brev.</p>
+            <p>Hermed: »die Bognar«<ref target="n1"/>. Er det muligt, da oversæt imorgen ogsaa »Mad.
+                        Erdmann«<ref target="n2"/> og send mig
+                    den ‒ for Pengenes Skyld: den skal til Norge.</p>
+            <p>Hvad Friedrich<ref target="n3"/> angaar, da var
+                    Forslaget frækt. Men var det ikke klogest at tage imod det ‒ <hi rend="italics">i alle
+                        Fald</hi>? Nu, da Tingene er oversatte, og det dog gælder om at faa
+                        <hi rend="italics">nyt</hi> Marked.</p>
+            <p>Send <hi rend="italics">ikke</hi> Hirsch flere Manuskripter. Hvorfor lade alt refusere?
+                    »Madam Erdmann« tager vel Ziemssen<ref target="n4"/>.</p>
+            <p>Fru Falkenberg<ref target="n5"/> har skrevet mig til. Jeg svarede, at jeg
+                    havde skrevet om »Gatschina« til Schorer, og at en Fjerdedel af Honoraret,
+                        <hi rend="italics">hvis</hi> det tryktes, tilkom mig.</p>
+            <p>Jeg beder Dem, kære Kammerraad, nu, hvor De har sét Forholdene her, skrive to Ord
+                    til hende (Königsgrätzerstr: 92, III)<ref target="n6"/> at De skulde sende hende <hi rend="italics">25 Mark</hi>, naar Honoraret
+                    faldt, <hi rend="italics">i Afdrag</hi>. De havde nu sét, hvor nødtørftigt jeg selv kom
+                    igennem, og hun skulde til Sommer faa 25 til.</p>
+            <p>Hils Deres Kone<ref target="n7"/>, og Gud ske Lov, at De kom godt hjem.</p>
+            <p>Deres hengivne</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

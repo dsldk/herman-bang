@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860205001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 318</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider plus en tilføjet sætning</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Meiningen</placeName>
+               <date when="1886-02-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-02-05"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1886. 5. februar [fredag]<note>Brevet er fejldateret af
+                  Bang. Datoen 5.2.1886 stemmer derimod med dateringen i Politiken 9.2.1886 af Bangs
+                  i brevet omtalte artikel</note>
+            </date>
+            <placeName cert="high">Meiningen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Meiningen <app>
+                  <lem>5.3.</lem>
+                  <rdg>En skrivefejl for: 5.2</rdg>
+               </app>86.</p>
+            <p>Kære Peter.</p>
+            <p>Du har faaet fra <persName key="Greibe_Vilhelm">Greibe</persName>
+               <ref target="n1"/> en Korrespondance fra "H-N"<ref target="n2"/>. Det er
+               længe siden noget har oprørt mig saaledes.</p>
+            <p>Jeg beder dig nu ikke fortælle, at sligt hænder hver Dag hjemme o:s:v: Eller at det
+               er ubesindigt at svare <hi rend="italics">det</hi>, jeg hermed sender dig. <hi rend="italics">Jeg vil det
+                  saaledes</hi>. Jeg er som Menneske for haardt prøvet – jeg vil, at det danske
+               Publikum skal faa <hi rend="italics">et</hi> Exempel – aa, du ved det jo, blandt de hundrede i
+               min Tid – paa, hvorledes man behandler mig.</p>
+            <p>Du vil maaske sige, du opnaar bare, at man trækker paa Skuldren. "Man" er maaske de
+               femtusinde – men i <hi rend="italics">dette</hi> Tilfælde er der ved Siden af disse femtusind
+                  <hi rend="italics">50</hi> hæderlige Mennesker, som smaat oprøres. Og disse 50 er mig
+               vigtige.</p>
+            <p>Har I haft et Udtog af Artiklen – da henvis dertil... Men tryk allenfals mit Brev og
+               helst med <hi rend="italics">hele</hi> Artiklen efter sig.<ref target="n3"/>
+            </p>
+            <p>Enkelte Ord i mit Brev giver jeg dig Lov til at rette. <hi rend="italics">Tonen deri ikke</hi>.
+               Naar man fornærmes saaledes, eller rettere, naar <hi rend="italics">jeg</hi> fornærmes saaledes
+               – taler Mennesket.</p>
+            <p>Jeg er <hi rend="italics">saa</hi> oprørt, som jeg ikke har været i Aar og Dag. Hvor dog Livet
+               er elendigt.</p>
+            <p rend="right">Herman.</p>
+            <p>
+               <hi rend="italics">Send mig de betræffende Blade</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

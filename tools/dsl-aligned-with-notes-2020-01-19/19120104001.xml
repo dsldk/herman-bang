@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19120104001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 97.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; den tilhørende kuvert er frankeret
+                                                med to tyske 10 Pfennigs frimærker og poststemplet:
+                                                  <hi rend="italics">Charlottenburg 4.1.12 4-5N</hi>; udskrift
+                                                i Bangs håndskrift: <hi rend="italics">Mm. Olga Dahl. /
+                                                  Kopenhagen. V / Prinsesse Maries Allée 14.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blyant i fremmed hånd på kuverten: <hi rend="italics">5/1-12</hi>,
+                                        formentlig skrevet af Olga Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1912-01-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1912-01-04">[1912, 4. januar] Torsdag <note>empty</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag.</p>
+            <p>Min egen Ven.</p>
+            <p>Om en Time skal jeg forlade Berlin og venter kun paa den russiske Ven<ref target="n1"/>, der skal følge mig til
+                        Cuxhafen<ref target="n2"/> ‒ ‒</p>
+            <p>Lev da saa vel, De kan. Og hvis De kan, da væn Dem lidt til Deres Stuer og udvælg
+                    den Stol, hvor jeg skal sidde, naar jeg kommer hjem, for at fortælle Dem saa
+                    mange, mange Ting om alle de Jordens sære og brogede Lande ‒ ‒</p>
+            <p>
+               <hi rend="italics">Ja, jeg satte det altsaa igennem.</hi> Som jeg satte det Meste igennem,
+                    naar jeg <hi rend="italics">vilde</hi> det. Let har det ikke været. Morsomt ikke heller.
+                    Men det er <hi rend="italics">naaet</hi>. Og hvad er Livet andet end dette: at
+                        <hi rend="italics">naa</hi>.</p>
+            <p>Og saa at naa <hi rend="italics">Forsagelsens</hi> sidste Bund.</p>
+            <p>Maaske det Højeste af alt.</p>
+            <p>Lev nu vel, De og Søster<ref target="n3"/> og Fru Steen<ref target="n4"/>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

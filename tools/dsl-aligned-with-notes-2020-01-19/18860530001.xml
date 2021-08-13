@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18860530001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Papirarket, som Bang har skrevet sit 4-siders brev på, har
+                                        først været anvendt i hans arbejde med novellen »Hendes
+                                        Højhed«, men er kasseret og i stedet brugt som brevpapir.
+                                        Begge sider af arket bærer en overstreget sætning. Disse
+                                        sætninger er begge skrevet med en lille og mere gnidret
+                                        håndskrift, som det var Bangs vane, når han skrev sine
+                                        manuskripter. Nederst på brevets side 1 står (omvendt i
+                                        forhold til brevteksten): »En Gang om Aaret overtog Hendes
+                                        Høihed Protektoratet over Basa[r]«. Tværs over det, der
+                                        senere blev brevets side 2 og 3, står: »En Gang om Aaret
+                                        modtog Hendes Høihed allernaadigst Protektoratet over en
+                                        Basar, hvor hun tog Plads paa en Tribune, med en stor Buket
+                                        i Haanden, og hørte Hr. Hofskuespiller von Pöllnitz fremsige
+                                        »die Glocke«.«</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-05-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1886-05-30">[1886. 30. maj] Søndag<note>empty</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Kære Jules.</p>
+            <p>Jeg sender indlagt II af »Hendes Høihed«. »And.«<ref target="n1"/> har nu
+                    sikkert <hi rend="italics">to</hi> Ark. I et Brev til ham har jeg ‒ for at kunne
+                    overhovedet fortsætte ‒ bedet om Betaling for disse to Ark ↄ: 60 Kroner og har
+                    bedet ham fremtidig <hi rend="italics">hver Uge</hi> at afsende for <hi rend="italics">modtaget
+                        Manuskript</hi>
+               <app>
+                  <lem>‒ i Ugens Løb af mig afleveret Mnsk: ‒</lem>
+                  <rdg>Ordene er tilføjet over linjen</rdg>
+               </app>
+               <hi rend="italics">30 Kroner pr. Ark à Conto. Ellers gaar jeg jo til Grunde</hi>. </p>
+            <p>Jeg beder dig nu understøtte min Anmodning. Skér det ikke, <hi rend="italics">kan</hi> jeg
+                    ikke begynde paa »Bernhard Hoff« ‒ vel ikke en Gang faa denne Samling endt.</p>
+            <p>Jeg vil jo ikke Forskud. Kun en à Conto paa afleveret Manuskript ‒ for at kunne
+                    skrive videre.</p>
+            <p>Jeg har slet intet. <hi rend="italics">Intet</hi>
+            </p>
+            <p>Saa afsend <hi rend="italics">strax</hi> de 60 Kroner for dette Manuskript og det forrige
+                    »Høihed«.</p>
+            <p>Min Ven ‒ jeg lever af Kaffe og tørt Hvedebrød. <hi rend="italics">Det</hi> skal du ikke
+                    sige Schou. Ti mit Forlangende er kun retfærdigt og behøver intet Kryderi.</p>
+            <p>Altsaa: Penge afsendt hver Uge (30 Kr. for Arket) for det i Ugens Løb modtagne
+                    Manuskript. For de rigelige (hvad tilovers er gaar af paa det knappe i de
+                    forrige) to Ark »Høihed« <hi rend="italics">afsendes 60 Kr.</hi> Mer <app>
+                  <lem>da</lem>
+                  <rdg>Svært læseligt; ligner mest: sa</rdg>
+               </app>.</p>
+            <p>
+               <app>
+                  <lem>NB. Gør ham vis, at han nu ‒ med dette ‒ <hi rend="italics">har</hi> to Ark af
+                            »Høiheden«</lem>
+                  <rdg>Bang har indrammet denne sætning med en streg</rdg>
+               </app>.</p>
+            <p>Jeg vil meget gerne hastigst gøre Bogen færdig, men kan det kun om jeg betales à
+                    Conto for Ugens Arbeide. <hi rend="italics">Hvormeget</hi> jeg har sendt i Ugen, kan Schou
+                    afgøre i Forening med dig.</p>
+            <p>Hils din Hustru.</p>
+            <p>I Renngasse var jeg.</p>
+            <p>Men ‒ kære Julius ‒ faa nu <hi rend="italics">en</hi> Gang for alle Sagen ordnet saaledes.
+                    Jeg venter nu paa Schous Svar, før jeg træffer <hi rend="italics">meget</hi> afgørende
+                    Bestemmelser. Han <hi rend="italics">maa</hi> gøre mig det muligt at leve. Send
+                        <hi rend="italics">strax</hi> de 60 Kroner.</p>
+            <p rend="right">Din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

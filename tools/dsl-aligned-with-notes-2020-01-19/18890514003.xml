@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890514003</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Nakskov]</placeName>
+               <date when="1889-05-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-05-14">1889, 14. Maj [tirsdag] <note>empty</note>
+            </date>
+            <placeName cert="high">[Nakskov]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">14.<app>
+                  <lem>5.</lem>
+                  <rdg>Bang har først skrevet et andet ciffer, måske: 9</rdg>
+               </app>89.</p>
+            <p>Kære Fru Fejlberg.</p>
+            <p>Tilgiv, at jeg ikke har skrevet ‒ men jeg har ikke <hi rend="italics">kunnet</hi>. Hvert
+                    Bogstav, jeg har skrevet i de siste to Maaneder har smertet mig ‒ saa nervøs har
+                    jeg været.</p>
+            <p>Igaar blev min Bog færdig<ref target="n1"/>.</p>
+            <p>Maaske burde Skæbnen i den Anledning have undet mig en Dag i Lys. Men lige det
+                    Modsatte er blevet Tilfældet.</p>
+            <p>Jeg skal ikke trætte Dem med alle disse Lidelser. Jeg har trofast stridt og
+                    »foredraget« for Føden ‒ fra Langhoff<ref target="n2"/> har
+                        <hi rend="italics">jeg</hi> i Maaneder faaet slet intet ‒ ; nu skulde jeg for en
+                    Novelle have 200 Kr: hvormed jeg skulde klare mig helt og betale en Frakke samt
+                    en Overfrakke. Saa skér det ‒ ‒ at Forlæggeren (Boghandler Poulsen af Firma:
+                    Hauberg et Co<ref target="n3"/>) er <hi rend="italics">død</hi>, hvad jeg
+                    først erfarede igaar! Og jeg Sjæl staar der med Novellen!</p>
+            <p>Hvor heldigt.</p>
+            <p>‒ ‒ ‒ ‒ Hvor skønt er dette Foraar. Hvor tungt at se det uden Glæde. Min næste
+                    Bog skal hedde: »En Bog om Døden«. Ja ‒ for hver Dag drager Døden mig mer og
+                    mer. Denne store, forunderlige stille <app>
+                  <lem>Død</lem>
+                  <rdg>Bang har ved en fejl skrevet Døden og overstreget de to sidste
+                            bogstaver</rdg>
+               </app>. Efter Livets Mangfoldighed én Stilhed. Jeg skulde være i København
+                    senest Mandag. Tirsdag Aften <hi rend="italics">skal</hi> jeg rejse <app>
+                  <lem>til</lem>
+                  <rdg>Bang har skrevet: fra, overstreget dette ord og over linjen skrevet:
+                            til</rdg>
+               </app> Bornholm<ref target="n4"/>. Men hvordan alt dette skal gaa,
+                    véd jeg ikke. Kommer jeg ud af denne Stad, saa sér De mig Tirsdag til Frokost. I
+                    Begyndelsen af Juni skal jeg jo være i Bergen. Himlen være med mig. Husk, at jeg
+                    maa have Lov til at <hi rend="italics">klage</hi> for Dem som for en Ven.</p>
+            <p rend="right">Hils Doktoren<ref target="n5"/> og Børnene.</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

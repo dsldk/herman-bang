@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19011025002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 818</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider; afslutningen af brevets korte
+                                                efterskrift mangler</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær [ikke dr. Torrild]; brevet er underskrevet af
+                                            Bang selv</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Aalborg</placeName>
+               <date when="1901-10-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Oluf Heise</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1901-10-25">1901, 25. Oktober [fredag] <note>Bang opholdt
+                        sig september-november 1901 i Aalborg og var i oktober patient ved dr.
+                        Torrilds nerveklinik i byen</note>
+            </date>
+            <placeName cert="high">Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Aalborg den 25' Oktober 1901</p>
+            <p>Kære Ven.</p>
+            <p>Ja naturligvis bør Tingene med Forlaget<ref target="n1"/> nu
+                    fremmes saa hurtig som muligt. Men det er umuligt at foretage noget Skridt,
+                    saalænge Korrekturerne ikke er færdige. Her har jeg imidlertid sørget for, at
+                        Nansen<ref target="n2"/> i rette Tid faar det bestemte Indtryk
+                    af min Bog<ref target="n3"/>, idet jeg lader ham læse 3' Korrektur.</p>
+            <p>Jeg beder Dem lade Forlaget vide, <hi rend="italics">at det først er tredie Korrekturene Hr
+                        Nansen skal have og at anden Korrekturene udelukkende skal tilstilles
+                        mig</hi>. Hr Nansen skriver om de første 24 Sider til mig:</p>
+            <p>»Det er en udmærket Begyndelse.« og hvad Forlagets Mening angaar, da er det
+                    karakteristisk, at Hr Hirschsprung<ref target="n4"/> i Gaar tilskrev mig personlig, om jeg havde noget
+                    imod at P.S. Krøyers Tegning af mig, der egentlig var bestemt for mine samlede
+                    Værker, allerede <app>
+                  <lem>anvendtes</lem>
+                  <rdg>Ordet er rettet fra: andvendtes</rdg>
+               </app> i »det graa Hus«, da den, som Hr Hirschsprung skriver, »utvivlsomt har
+                    sin rette Plads her«.</p>
+            <p>Vente paa en Afgørelse maa vi imidlertid, til »det graa Hus« foreligger, og,
+                    skulle jeg komme til at trænge til Penge inden den Tid, maa Gyldendal rykke ud
+                    med dem.</p>
+            <p>Med mange Hilsener er jeg</p>
+            <p>Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Efskr: Overfor Gyldendalske Forlag <hi rend="italics">vil</hi>
+               <app>
+                  <lem>jeg</lem>
+                  <rdg>Resten af sætningen mangler; den er skrevet nederst på brevets side 2,
+                            og muligvis mangler brevet en side</rdg>
+               </app>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

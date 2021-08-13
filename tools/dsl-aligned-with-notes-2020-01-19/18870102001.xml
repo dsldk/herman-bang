@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18870102001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 181</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="visitkort">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Visitkort, 2 sider. Fortrykt <q>Herman de Bang</q> i tillempet
+                                 skriveskrift</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Prag]</placeName>
+               <date when="1887-01-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1887-01-02"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1887. 2. januar, cirka]<note>Brevet er formentlig skrevet
+                  kort efter nytår 1887, jf. bemærkningen om Esmann</note>
+            </date>
+            <placeName cert="high">[Prag]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Peter.</p>
+            <p>Vær ikke vred over, at jeg plager dig. Men det tyske Blad – som har anskaffet Billede
+               til <persName key="Wolter_Charlotte">Wolter</persName>
+               <ref target="n1"/> – lader mig ikke Ro. Var det ikke muligt at jeg, naar du lod
+               Artiklen <hi rend="italics">sætte</hi>, kunde faa omgaaende et Aftryk af Værket?? I en Konvolut.
+               Vær saa rar.</p>
+            <p>
+               <persName key="Kielland_Alexander">Klands Bog</persName>
+               <ref target="n2"/>
+               er vist "smuk". <persName key="Brandes_Edvard">B' Anmeldelse</persName>
+               <ref target="n3"/> lod mig ane, at "Digteren" vel havde skrevet et Mesterværk
+                  <hi rend="italics">men</hi> at man dog maatte tilstaa o:s:v:, o:s:v:</p>
+            <p>
+               <persName key="Ottesen_Christine_Margrethe">Fru Ottesen</persName>
+               <ref target="n4"/> sendte mig et "Dagblads"
+                  Udklip<ref target="n5"/>. At jeg vilde kunne – "maaske" – udvikle mig til en
+               "læselig Forfatter" – var mig overraskende. Den Aften skar jeg "Fædras" siste Del op
+               og læste. Hvor man har været uretfærdig mod den Bog. Hvis den nogensinde falder dig i
+               Hænderne – vil du blive slaaet deraf som jeg.</p>
+            <p>"Ved Veien" læste jeg idag om i et <hi rend="italics">tysk</hi> Literaturblad<ref target="n6"/>. Man <app>
+                  <lem>saml:</lem>
+                  <rdg>Forkortelse for: sammenligner</rdg>
+               </app> mig med <persName key="Turgenjev_Ivan">Turgénjew</persName>
+               <ref target="n7"/> og <persName key="Keller_Gottfried">Keller</persName>
+               <ref target="n8"/>. Aa ja – sagde Lænkehunden, der var Barsel i Gaarden
+               og de gav den Lammefricassée<ref target="n9"/>.</p>
+            <p>Jeg glædede mig meget over dine Anmeldelser af de kvindelige, literære
+                  Haandarbeider<ref target="n10"/>. Hils
+                  <persName key="Esmann_Gustav">Esmann</persName>
+               <ref target="n11"/> og sig, at han kunde en Gang i Anledning af det nye Aar
+               overkomme at skrive. Hils <persName key="Brock_Louise">Frøken B.</persName>
+               <ref target="n12"/>
+            </p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

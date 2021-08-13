@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870618001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 424</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Prag</placeName>
+               <date when="1887-06-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Julius Schiøtt</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-06-18">[1887, 18. juni] Lørdag<note>Brevet er i Det
+                        Kongelige Bibliotek fejlagtigt anbragt sammen med Bangs breve til Paul
+                        Langhoff, NKS 2353, fol. Denne oplagt fejlagtige anbringelse blev påvist
+                        allerede i Torbjörn Nilssons bog fra 1965, s.343, note 38</note>
+            </date>
+            <placeName cert="high">Prag</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Kæreste Ven.</p>
+            <p>Jeg sender herved Slutningen af første Del og ‒ Begyndelsen af anden<ref target="n1"/>. Disse hvide Blade er
+                        <hi rend="italics">min</hi> Fortjeneste ved det Værk. Saa naaede vi altsaa
+                        <hi rend="italics">saa</hi> langt. Det er idag den 18, Mandag den 27 haaber jeg at
+                    kunne være færdig med I Kapitlet. Det er sandsynligt, at I og II vil blive
+                    kortere, III, IV og V meget længere ‒ hvormed hele Bogens Arkitektur af <app>
+                  <lem>Pyramide</lem>
+                  <rdg>Efter dette ord har Bang på samme linje tegnet en stor pyramideformet
+                            trekant</rdg>
+               </app> ‒ hvor vi nu staar paa Spidsen ‒ vilde fuldt bevares.</p>
+            <p>Naa ‒ min egen Ven, jeg skal ikke føje <hi rend="italics">mine</hi> Bemærkninger til V.
+                    Maaske er der baade et og andet, som synes dig ‒ »farligt«. Men i hvert Fald er
+                    Optrinenes <hi rend="italics">Fantasi</hi> fangende og ubestridelig. Og Kunsten, med
+                    hvilken Personerne nu holdes sammen ‒ og med hvilken <app>
+                  <lem>hver</lem>
+                  <rdg>Ordet er rettet fra et svært læseligt ord...</rdg>
+               </app> enkelts Skæbne gennem Scenerne fortælles ‒ er ikke almindelig
+                    Dusinfærdighed.</p>
+            <p>Og <hi rend="italics">min</hi> Mening er det, at Bogens <hi rend="italics">Alvor</hi> vil lyse frem af
+                    hver Linje ‒ <hi rend="italics">ogsaa dér</hi>, hvor man ellers maaske vilde føle
+                    Forargelse.</p>
+            <p>Jeg afsender Onsdag paany <hi rend="italics">Manskrpt</hi>
+               <ref target="n2"/>.
+                    Naar du da afleverer dét ‒ da bed Langhoff<ref target="n3"/> næste Lørdag afsende det <hi rend="italics">mere</hi> Penge, som dette og
+                    Onsdags-Sendingen er mer end et Ark .... Aa, Gud ‒ om jeg var blot
+                        <hi rend="italics">lidt</hi> raskere!</p>
+            <p>Hermed Fortællingen<ref target="n4"/>, der vist vil
+                    behage dine »Stjerne«-Beboere<ref target="n5"/>.</p>
+            <p>Hils Din Kone og Børnene fra Deres Onkel ‒</p>
+            <p rend="right">din Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

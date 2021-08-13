@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18860330001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 130</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XLVII</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Wien]</placeName>
+               <date when="1886-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1886-03-30"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1886. 30. marts], Tirsdag<note>Dateringen i Vandreaar s.
+                  203 følges</note>
+            </date>
+            <placeName cert="high">[Wien]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Tirsdag.</p>
+            <p>Kære Peter.</p>
+            <p>Hvis du vidste, hvad jeg lider vilde du have megen Medlidenhed med mig. Jeg
+                  <hi rend="italics">kan</hi> ikke falde sammen med Tonen i Eders Blad<ref target="n1"/>. For at være <hi rend="italics">noget</hi>, maa jeg være mig selv. Og hver
+               Gang sætter jeg mig hen og vil være mig selv og – tænker paa alt det fine og literære
+               og <hi rend="italics">tør</hi> ikke; og jeg mister mine Fortrin uden at kunne tilegne mig Eders.
+               Jeg føler mig som en <persName key="Axel">"Axel"</persName>
+               <ref target="n2"/> i Eders Selskab, men
+               en Axel, som har Selvkritik og lider.</p>
+            <p>Du véd, hvordan jeg arbeider. Jeg er klistret til mit Bord. Jeg har Ideer, jeg har
+               Indfald, skal <hi rend="italics">jeg</hi> skrive dem til <hi rend="italics">Jer</hi>, bliver de tørre,
+               dumme og spræller som halvdøde Torsk i et Net af idiotiske Ord. Vil jeg være
+               patetisk, siger jeg til mig selv: at det vil I bare le af; forsøger jeg at være
+               morsom, skærer mine Vittigheder Ansigter som den tykke Dronning, der blev trampet paa
+               Maven i <persName key="Hjort_Peder">Hjort</persName>s tyske Læsebog<ref target="n3"/>.</p>
+            <p>Det er græsseligt. Og skrive maa jeg for at leve.</p>
+            <p>Og skriver jeg til et svensk Blad den værste Traver, bliver den dog ialfald
+               naturlig.</p>
+            <p>Jeg sender "I Operaen"<ref target="n4"/>. Maaske er den ikke ugrinagtig. Men man føler det anvendte Arbeide.
+               Det eneste "frie" som af mig har staaet hos Jer – var "Det unge Sverig"<ref target="n5"/>, der var skrevet til et
+               andet Blad<ref target="n6"/>. Paa "I Operaen" har
+               jeg skrevet <hi rend="italics">ti</hi> Timer. Saa kender du mig.</p>
+            <p>Imorgen vil jeg forsøge at skrive om en Bog, som levende har interesseret mig<ref target="n7"/>. Maaske finder jeg <hi rend="italics">der</hi> mig selv.</p>
+            <p>Men om ét, min Ven, maa jeg bede dig: at Bladet sendes mig i Korsbaand
+                  <hi rend="italics">hver</hi> Dag. Pengene kan jo tages fra mit Honorar. Og jeg
+                  <hi rend="italics">lærer</hi> af at sé mig selv trykt og læse Jer andre. Nu er det, som jeg
+               skrev med Fingrene i den skønne blaa Luft.</p>
+            <p>"I Operaen" er légert<ref target="n8"/> . Men i Eders modige og frie Blad kan man jo tale om <persName key="Makart_Hans">Makart</persName>s Modeller<ref target="n9"/>.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

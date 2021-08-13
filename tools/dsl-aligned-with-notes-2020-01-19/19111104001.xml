@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19111104001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 69.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
+                                                  <hi rend="italics">Ystad den ... 19..</hi> og <hi rend="italics">Hotel
+                                                  Continental Ystad</hi> med tegning af
+                                                hotelbygningen, ligeledes på kuvertens bagside og
+                                                hotelnavnet trykt på kuvertens forside; den er
+                                                frankeret med et svensk 10 öres frimærke,
+                                                poststemplet <hi rend="italics">PBK[...] 4.11.1911</hi> og med
+                                                det danske postvæsens modtagerstempel på bagsiden:
+                                                  <hi rend="italics">Kjøbenhavn V. 1.OMB.-5.11.11</hi>;
+                                                udskrift i Bangs håndskrift: <hi rend="italics">Fru Olga Dahl. /
+                                                  København. V. / Prinsesse Maries Allée 14.</hi>
+                                                Dateres efter poststemplet</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Med blæk i fremmed hånd på kuverten: <hi rend="italics">4/11
+                                        1911.</hi>, formentlig skrevet af Olga Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Ystad</placeName>
+               <date when="1911-11-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-11-04">[1911, 4. november] Lørdag <note>empty</note>
+            </date>
+            <placeName cert="high">Ystad</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Ja, min egen Ven, idag er det Ystad.</p>
+            <p>I Landskrone var der meget faa Folk. Til Gengæld igaar i Malmö ‒ under en uhyre
+                    Entusiasme ‒ udsolgt i et uhyre Lokale. Jeg gjorde mig megen Umage ‒ i den
+                    hemmelige Hensigt at udvide det hjemlige »Terræn« med Staden Malmö for
+                    Fremtiden.</p>
+            <p>»Truppen« bestaaer foruden af mig af to Danserinder og én Danser. (!!)
+                    Primaballerina er gift med en Hofpræst og Danseren er Friherre. De danser
+                        »Pantomime«<ref target="n1"/>.</p>
+            <p>Man skal opleve meget.</p>
+            <p>Dette varer en Uge endnu. Frk. Thunes<ref target="n2"/> Fortumlethed er
+                    tiltagende. Hun tager sin bestandige Tilflugt til kraftige Maaltider, hvoraf hun
+                    daglig indtager 5. Til Frokost idag nød hun: 1) et særdeles kraftigt
+                    »Smörgåsbord« 2) ½ Hummer 3) 2 store Portioner Lobescowes<ref target="n3"/>. Nu sover hun. Stakkel, hun egner sig ikke for Rejser og lever
+                    i en evig Forfærdelse og Tumlethed.</p>
+            <p>Tusind Hilsener til Søster<ref target="n4"/> ‒</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

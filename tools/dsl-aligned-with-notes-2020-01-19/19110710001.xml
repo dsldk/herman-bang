@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19110710001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 54.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider, med tilhørende kuvert, frankeret med
+                                                et norsk 10 øres frimærke, poststemplet:
+                                                  <hi rend="italics">Bergen 11.VII.11. 6-7E</hi> og med
+                                                udskrift i Bangs håndskrift: <hi rend="italics">Fru Olga Dahl /
+                                                  København. K. / Frederiksborggade 34</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>På bagsiden af brevet med blyant i fremmed hånd:
+                                            <hi rend="italics">10/7 11.</hi>, rimeligvis skrevet af Olga
+                                        Dahl</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Bergen</placeName>
+               <date when="1911-07-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1911-07-10">1911, 10. Juli [mandag] <note>Skrevet under
+                        Bangs ophold hos familien Sundt på øen Skorpen ved Bergen, juli-august 1911,
+                        jf. Harry Jacobsen: Den tragiske Herman Bang, s. 198f.</note>
+            </date>
+            <placeName cert="high">Bergen</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Bergen 10.7.1911.</p>
+            <p>Min egen Ven.</p>
+            <p>Hvor bedrøvet Deres Brev gjorde mig. Men tag Dem sammen, hvis det er muligt. Jeg
+                    tror, alt vil blive uendelig meget bedre, naar De blot kan komme bort ‒ ud af de
+                    Stuer, hvor De har lidt saa meget. Naar blot Kræfterne slog til. Ak, kunde jeg
+                    dog være hos Dem for at trøste Dem en Smule ‒ lindre lidt ‒ ‒</p>
+            <p>Jeg har det dejligt her. Er snart ved Frithjofs<ref target="n1"/> Gruber, snart paa
+                    Landstedet ved Havet, snart her. Og overalt er der skønt. Yachten fører os fra
+                    det ene Sted til det andet. Men lidt træt er jeg ‒ og snart er det Hele forbi.
+                    Desværre.</p>
+            <p>Ti Frithof og jeg har det saa rart sammen. Hver passer sit og, naar vi sés, har
+                    vi derfor nok at tale om. Der er jo ogsaa meget at interessere sig for i saa
+                    stor en Bedrift.</p>
+            <p>Jo, som Oplæser gjorde jeg Lykke.</p>
+            <p>Skriv nu <hi rend="italics">strax</hi>, hvordan det gaar. Tusinde Hilsener til Dem og til
+                        Søster<ref target="n2"/>.</p>
+            <p rend="right">Altid Deres Ven</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18840103001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 37</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Side 3 er af Bang beskrevet på skrå, på langs og på
+                                 hovedet</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Kattinge, Sjælland]</placeName>
+               <date when="1884-01-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1884-01-03"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1884. 3. januar], Torsdag Aften<note>Brevet kan med
+                  sikkerhed dateres til den dag, da Bangs stilling ved Nationaltidende blev
+                  omordnet</note>
+            </date>
+            <placeName cert="high">[Kattinge, Sjælland]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Torsdag Aften.</p>
+            <p>I den yderste Grad udmattet, kære Nansen, skriver jeg kun to Ord. I Hovedsagen er alt
+               ordnet. Jeg fordrede dig og <persName key="Ipsen_Knud">Ipsen</persName>
+               <ref target="n1"/>. Skal selv ei skrive Føljetoner mer; kun til første
+               April.</p>
+            <p>Jeg er saa fortvivlet over dette, at jeg ikke ved, hvorhen jeg skal flygte fra mig
+               selv. Ikke at have kunnet rykke dette over og gaa.</p>
+            <p>Var du her blot for at "grynte" lidt og sige en "rolig" Bemærkning. Men alt her, som
+               minder mig om den Fremtid, der nu er min, er mig saa forhadt, at jeg bliver syg.</p>
+            <p>Nu kun Arbeidet og Velværet. Solgt ved Licitation sin Frihed og sin
+                  Samvittighed<ref target="n2"/>. Tror du, at jeg kan
+               udrette nok til at udholde at være saa ulykkelig, som jeg bliver?</p>
+            <p>Havde jeg staaet ene, havde jeg haft Mod til at gaa – men I stod bag, Sagen,
+               alting.</p>
+            <p>Sov vel. Jeg ved En, der ei vil dele Skæbnen med dig, sovende i <placeName key="Næstved">Næstved</placeName> Præstegaard<ref target="n3"/> – men som vil være nu og altid søvnløs paa <placeName key="Kattinge">Kattinge</placeName>
+               <ref target="n4"/>. Her staar over Porten at læse: Her solgtes den
+               tredie Januar Herman Bang.</p>
+            <p rend="right">Din Herman.</p>
+            <p rend="right">Hils <persName key="Nansen_Immanuel">Immanuel</persName>
+               <ref target="n5"/>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

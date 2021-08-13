@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Peter Nansen</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18830900001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 3289, 4to: breve til Edgar Collin o.a., læg M-Na. Blyantsnummer
+                           148</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider. Den tilhørende kuvert er bevaret. Den er uden spor
+                                 af frankering og er blevet åbnet ved afrivning i den venstre side,
+                                 hvorved enkelte bogstaver i kuvertens udskrift er gået tabt. Peter
+                                 Nansens udskrift på kuvertens forside lyder: <q>[Til]
+                                    Æventyrdigteren og Føljetonisten / [Hr] Journalist Herman Bang /
+                                    Nationaltidende / Hotel Royal.</q> og på skrå med to
+                                 understregninger: <q>privat</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="peter-nansen">
+                              <ab>empty</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Øverst på brevets første side er skrevet med blyant i fremmed hånd:
+                                 <q>dvs. Peter Nansen</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Peter Nansen</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1883-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1883-09-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1883. september, cirka]<note>Brevet er en spøg, skrevet med
+                  Peter Nansens håndskrift, blåt blæk på hvidt papir. Det må dateres til Bangs tid
+                  ved Nationaltidende og formodentlig mere præcist til 1882-84. Udgiveren foreslår,
+                  at denne lille practical joke hidrører fra den tid, da Bang og Nansen i 1883-84
+                  delte bolig i Nørregade, men forud for oktober 1883, hvor Nansen blev knyttet til
+                  Nationaltidende. For en fjern eftertid er det meget vanskeligt at klarlægge, hvori
+                  det morsomme i Nansens spøg har bestået. At brevet er endt blandt litteraten og journalisten <persName key="Collin_Edgar">Edgar Collin</persName>s (1836-1906) papirer må have sammenhæng med, at
+                  Collin i disse år var redaktør af Nationaltidendes føljeton</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Hr. Herman Bang!</p>
+            <p>Jeg har ofte med Fornøjelse og <hi rend="italics">noget</hi> Udbytte læst Deres
+               Søndagsfortællinger i "Nationaltidende"<ref target="n1"/> og henvender mig derfor trygt til Dem.</p>
+            <p>Det vilde glæde mig og mange af mine Venner, som stærkt tænke paa at abonnere sig til
+               Deres Blad, med, om De vilde sørge for, at Redaktøren, hvem jeg ikke kender, men
+               meget agter, optog omstaaende lidet godt Raad for hver Dag.</p>
+            <p>De, der er en Ven af Fremskridtet og Poesien, vil ikke nægte mig Deres Bistand.</p>
+            <p>At jeg ikke er Kemiker og ikke boer i Skive, véd jeg at De er overlegen nok til ikke
+               at tillægge nogen Vægt.</p>
+            <p>Min Kone og ældste Datter (lige fyldt 15) sender Dem en beundrende Hilsen.</p>
+            <p rend="right">Deres med Agtelse</p>
+            <p rend="right">meget ærbødige</p>
+            <p rend="right">Peter Petersen<ref target="n2"/>.</p>
+            <p>
+               <app>
+                  <lem>
+                     <hi rend="italics">Et godt Raad hver Dag</hi>
+                  </lem>
+                  <rdg>Alle fem ord har dobbelt understregning</rdg>
+               </app>
+            </p>
+            <p>Fra en Kemiker i Skive have vi modtaget følgende:</p>
+            <p>Jeg beskæftiger mig ofte med at anstille forskellige mer eller mindre videnskabelige
+               Undersøgelser og har <app>
+                  <lem>jeg</lem>
+                  <rdg>Ordet må være en skrivefejl, som Nansen ikke har rettet</rdg>
+               </app> i den sidste Tid navnlig søgt at udfinde den bedste Maade at spæde grumset
+               eller hentørret Blæk. Da skete det for en 8 Dage siden, da jeg sad og skrev i vort
+               Soveværelse, hvor vort yngste Barn, som er 6 Uger, laa i sin Vugge, hvilken jeg
+               passede, at mit Blæk pludselig nægtede at flyde behageligen fra Pennen. I min
+               Forlegenhed tog jeg min yngstes Patteflaske og gød nogen Draaber deraf i den
+               størknede Vædske, som strax blev til det fortrinligste Violblæk, med en let hvidblaa
+               Farve. Til Forsøget benyttes bedst Børnemælk paa forseglede Flasker. Læserne gøres
+               opmærksomme paa, at det ovenfor beskrevne Blæk er benyttet til denne Notits.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18910000002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4426, 4to; uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1891-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Anna Feilberg</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1891-01-01">[cirka 1891; dvs. ca. 1888-1891] Fredag
+                        <note>Brevteksten rummer intet holdepunkt for en nærmere datering af brevet,
+                        så længe det er uoplyst, hvilken Amalie Skram-relateret begivenhed Bang
+                        omtaler [...premieren torsdag 8.9.1892 på Skrams skuespil Fjældmennesker
+                        fandt sted på Dagmarteatret i København, men Bang synes på dette tidspunkt
+                        at have opholdt sig i Sæby...?]. ‒ Bangs håndskrift peger bredt i retning af
+                        årene mellem 1887 og ca. 1895. Vores kendskab til hans relation til Anna
+                        Feilberg indicerer en datering i et af årene fra 1888 til og med 1891</note>
+            </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Fredag.</p>
+            <p>Kære Fru Fejlberg.</p>
+            <p>Jeg har ikke sovet inat, og jeg var iaftes ikke glad, da jeg sad dér med disse
+                    Mennesker uden Fru Skram<ref target="n1"/>. Aa ‒
+                    hvor var det trist, og hvor gerne havde jeg givet alt, alt det Bifald, jeg
+                    nogentid har høstet, til hende, som jeg beundrer i saa høj en Grad.</p>
+            <p>Kære Fru Fejlberg, jeg kan næppe skrive af Ophidselse. <hi rend="italics">Hvad</hi> jeg nu
+                    skriver, vil De og Deres Mand<ref target="n2"/> tilgive mig.</p>
+            <p>Hele Dagen igaar var en Jagt, hvor jeg forfulgtes af Kongens Foged. Ingen véd,
+                    hvad jeg i disse Timer led. I siste Nu sendte jeg en Regn af Fribilletter ud
+                    over Byen ‒ ti det battede ikke hvad der var solgt. Jeg telegraferede til min
+                        Svoger<ref target="n3"/> om Penge og har
+                    endnu intet Svar. Under de Omstændigheder var det, jeg iaftes maatte se Fru
+                    Skram saadan og saa endda lade glad! Der er Penge, som maa betales idag. Jeg
+                        <hi rend="italics">kan</hi> ikke faa dem andetsteds end hos min Svoger. Vil De, som har
+                    været saa god imod mig og paa hvis Taushed jeg stoler, bede Deres Mand<ref target="n4"/> laane mig, til min Svoger svarer, disse 100 Kroner?</p>
+            <p>Tro mig, det er mig svært, saare svært at bede derom. Men <hi rend="italics">De</hi> vil jo
+                    ikke tale derom, heller ikke til Skrams. Ti hvorfor skal de have endnu mere
+                    Ærgrelse?</p>
+            <p>Vil De svare mig med Budet<ref target="n5"/> og tilgive</p>
+            <p rend="right">Deres altid hengivne</p>
+            <p rend="right">Herman Bang</p>
+         </div>
+      </body>
+   </text>
+</TEI>

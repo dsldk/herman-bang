@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19020000002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2009/148. Det 12.brev</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 1 side, med tilhørende ufrankerede kuvert;
+                                                udskrift i samme sekretærs håndskrift: <hi rend="italics">Fru
+                                                  Olga Dahl. / Frederiksborggade.</hi>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="sekretær">
+                              <ab>Sekretær; egenhændig underskrift</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Øverst på kuverten er med blyant og i fremmed hånd skrevet:
+                                            <hi rend="italics">før Pups første Aften i Studenterforeningen,
+                                            Septbr 1904?/1905</hi>, sandsynligvis skrevet af Olga
+                                        Dahl</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1902-01-01">[1902?] eller [1903?], Onsdag <note>Sekretærens
+                        håndskrift samt brevets omtale af en person ved navn Rasmussen peger på
+                        perioden fra ca. 1.9.1902 og et års tid frem, da Herman Bang havde ansat
+                        Otto K. Rasmussen (1878-1968) som sin sekretær og praktiske medhjælp. Det
+                        forekommer mere sandsynligt end Olga Dahls påskrift om 1904/1905. Datteren
+                        Erna Dahls alder udelukker næppe den tidlige datering, idet hun var født i
+                        1886. ‒ Antagelig har Bang den aften optrådt offentligt i Wittmacks Lokale
+                        og er derefter ‒ måske efter kl. 21? ‒ gået over gaden til
+                        Studenterforeningen i Holmens Kanal 9, hvor han var indbudt som æresgæst og
+                        blev ledsaget af den unge frøken Erna Dahl</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Onsdag.</p>
+            <p>Kære Ven.</p>
+            <p>Nu har jeg faaet Biletterne. Erna<ref target="n1"/> og jeg er Æresgæster. Men vi kommer
+                    for sent til Maden, som ædes Kl 8 ½.</p>
+            <p>Nu vilde jeg gerne, at Erna tog ned i Witmacks Lokale<ref target="n2"/>, hvor jeg jo gøgler<ref target="n3"/>, og hvor Rasmussen<ref target="n4"/> da kunde tage imod hende og opbevare hende paa et
+                    afsides Sted. Hun kan passende ankomme til Witmack Kl 8 3/4.</p>
+            <p>Farvel alle i Huset</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

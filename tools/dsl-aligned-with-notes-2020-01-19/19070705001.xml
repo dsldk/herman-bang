@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19070705001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 253</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Berlin</placeName>
+               <date when="1907-07-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen, Betty Nansen, Johan Knudsen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1907-07-05"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1907. 5. juli], Fredag<note>Brev må opfattes som stilet
+                  til både Peter Nansen, Betty Nansen og Johan Knudsen. – Det er Bangs tidligste
+                  brev fra Berlin, hvortil han var rejst 3.7.1907, jf. Harry Jacobsen: Den tragiske
+                  Herman Bang, s. 174</note>
+            </date>
+            <placeName cert="high">Berlin</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Nürnbergerstrasse 36. Berlin.</p>
+            <p rend="right">Fredag.</p>
+            <p>Det første Brev, jeg skriver, skal være til Jer – siden <persName key="Knudsen_Johan">Husherren</persName> paa <placeName key="Bangsbo">Bangsbo</placeName>
+               <ref target="n1"/> vel ikke er hjemme endnu. Tak for Telegrammet – det var
+               en Hilsen paa en tung Dag.</p>
+            <p>Rejsen hertil var frygtelig og blev værre ved tusind Uheld. Vor Bagage blev ved
+               Toldgrænsen i <placeName key="Vamdrup">Vamdrup</placeName>
+               <ref target="n2"/> – fordi vi troede,
+               der først skulde fortoldes i Berlin – og den er endnu ikke ankommen. <hi rend="italics">Der</hi>
+               stod vi altsaa uden Kufferter og – uden <persName key="Melnik_Josef">Melnik</persName>
+               <ref target="n3"/>, der ventede os ved en anden Banegaard. Og da vi, alene,
+               naaede vor Bolig, hvor vi lever uden Garderobe, var "den møblerede Bolig" endnu –
+               uden Møbler.</p>
+            <p>I kan forstaa, hvad for "Slag" alt det var, paa én Dag og paa den første Dag, for
+               mine pinte og bedøvede Nerver.</p>
+            <p>Naa, det kommer vel altsammen.</p>
+            <p>Tak for alt. For Godhed. For Overbærenhed. For hvert Haandtryk.</p>
+            <p>Noget nær det første, jeg saá her, var et Ligtog. Da sagde jeg til mig selv: "Ja, det
+               er her, du skal dø en Gang."</p>
+            <p>Men endnu ligger nogle af Livets Dage imellem. Og de skal leves.</p>
+            <p rend="right">Altid Jeres</p>
+            <p rend="right">Herman.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

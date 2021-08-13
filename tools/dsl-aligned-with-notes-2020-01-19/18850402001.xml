@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18850402001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 287</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 4 sider. Blyantspåskrift på s. 1 af Peter Nansen ved stedet
+                                 om første Oktober: <q>1ste eller 2den Okt 1884 blev jeg engageret
+                                    til Politiken og forlod Nationaltidende</q>, og s. 2: <q>Cl L ?
+                                    William = Red. Will. Secher. Gustaf af Geijerstam. Per Staaf.
+                                    August Strindberg</q>
+                                 </ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Vandreaar nr. XIII. – Anna Levin har bemærkninger om dette brev,
+                              trykt i: Fra Herman Bangs Journalistaar, 1932, s. 152</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Hangö]</placeName>
+               <date when="1885-04-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1885-04-02"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1885. 2. april [skærtorsdag]<note>Hangö (russ. Gangut) er
+                  en by på Finlands sydkyst, sydøst for Åbo/Turku og ca. 130 km vest for
+                  Helsingfors/Helsinki</note>
+            </date>
+            <placeName cert="high">[Hangö]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">2.4.85.</p>
+            <p>Jeg vil lade Munden løbe, som i gamle Dage, Peter, naar vi sad hver med sit Lys paa
+               den grønne Puf og kunde ikke komme i Seng, fordi vi havde saa meget at sige –
+               saameget, vi havde sagt saa mange Gange før. De gamle Dage med "Ida – er et farligt
+               Barn – Louise – Hr. Nansen – stoler jeg paa – hun har intet af sin Fader"<ref target="n1"/> – de
+               Dage, som ikke mer kommer igen. Det er ikke alene Erindringen, som forskønner dem, de
+               havde Sorger, men de havde deres eget Præg – Præg af Fortrolighed, af Samliv, af
+               Fællesskab i Modgang, Fællesskab i Medgang. Det er forbi. Jeg vil næppe nogensinde
+               mere blive i mit skønne Fædreland tre Maaneder ad Gangen.</p>
+            <p>Du vidste ikke, min Ven, hvilket Lod du kastede i en andens Vægtskaal den første
+                  Oktober<ref target="n2"/>. Men ser du, for mig maa
+               Sager altid være Personers, kære Personers Velfærd – ellers kan de ikke opfylde mig,
+               ikke holde mig fast ved Arbeidshjulet. Alt, hvad jeg havde villet af organisatorisk,
+               af reformatorisk i mit Fædreland, hvad jeg havde villet skabe for min Generation af
+               Forfattere fremfor alt pekuniært – har jeg forladt. Men jeg vil ikke bo i Ruinerne...
+               Andre vil bygge og plante – jeg vil glæde mig derover, og en Dag vil jeg sætte mig
+               paa en skyggefuld Bænk i en af de Livets Alléer, I har plantet. Men indtil da paa
+               Vandring – –</p>
+            <p>Og hvorfra er det saa, jeg skriver? Du har aldrig hørt Stedets Navn, og du vil aldrig
+               faa det at sé. Inat var jeg paa Vinterfart over den botniske Bugt. Nu er jeg i Hangö.
+               Det er <placeName key="Finland">Finland</placeName>. Udenfor mit Vindu holdes Torv.
+               Varerne bringes ind paa Slæder – de, som handler minder saa om Russer, saa om
+               Svensker. Nede paa Banegaarden er det ene Opslag svensk, det andet skrevet med de
+               underlige russiske Bogstaver, der minder om det Krimskrams, Zigeunersker i
+               Folkekomedier har paa Bælterne. Rundt om er Plakater fra Petersborgerfirmaer – og i
+               mit Blod begynder det allerede at krible som hver Gang, jeg nærmer mig en stor Stad.
+               Ved du, det er, som om den <hi rend="italics">trak</hi> i En og allerede slog sin Luft om En og
+               førte En med sig ligesom en Hvirvel. Jeg har mærket det saa tit, hvordan dette eneste
+               Storstads-Navn, denne Lyd kun, formaar at trænge ind i hver eneste Tanke og faa den
+               til bare dette at kredse om sig og vente og stirre paa sig og vente. Petersborg –
+               Petersborg. Jeg forsikrer dig, det lyder som Stormklokker – saadan kalder det paa
+               En.</p>
+            <p>Papa sagde: Naar du bliver Student, tager jeg med dig til <placeName key="Sankt_Petersborg">Petersborg</placeName> i Julen. Nu kommer jeg der – til
+               Paaske.</p>
+            <p>Overfarten var græsselig. Nu spiller de tyske Reisende Kort i Gæstestuen, og den unge
+               finske Skønhed, som drog fra Stockholmer Saison for at smage Petersburger-Saison,
+               rank og slank, med dovne Finne-Øine – igaar ved Table d'hôte<ref target="n3"/> stod bag hendes Stol
+               Livegen-underdanig en Kosak og betjente stum "hendes Naade" – har nonchalant lagt sig
+               paa <app>
+                  <lem>en</lem>
+                  <rdg>ordet er ikke slettet af Bang</rdg>
+               </app> Sofaen foran Ilden med et Isbjørneskind til Dække. Her er koldt en bitter
+               Kulde, som gaar gennem Marv og Ben...</p>
+            <p>Forresten er det interessant, "det finske Skib". Det gaar kun én Gang om Ugen. Gennem
+               Is og gennem Storm. Afskeden i Stockholm er altid varm. Ved intet Skib er der saa
+               mange Mennesker, ved ingen Afsked saa megen Vemod. Den finske Koloni i St. siger
+               Farvel til Slægtninge og Venner som vi vilde sige det til Sønderjyder. Finland er
+               Skandinaviens Sønderjylland nu. Mig sagde naturligvis en Mængde Mennesker Farvel, og
+               jeg fik mange Buketter med de svenske Farver. I <placeName key="Göteborg">Göteborg</placeName> skreg man Hurra og hvinede. Her indskrænkede man sig dog til
+               at vifte.</p>
+            <p>Du skrev, at jeg havde intet fortalt om mine Venner i St. Det er for ei at irritere
+               mig. Du gør dig intet Begreb om disse Mennesker. Min Ankomst var dem en Fortvivlelse.
+               Ser du, <persName key="Geijerstam_Gustaf_af">G.G.</persName>
+               <ref target="n4"/> vil nu selv have et skandinavisk Navn; <persName key="Staaff_Pehr">Hr. Staaf</persName>
+               <ref target="n5"/> – en lokal Berømthed – spekulerer paa fra Venstre at blive
+               Høire; <persName key="Lindberg_August">August L.</persName>
+               <ref target="n6"/> frygtede mig; <persName key="Edgren_Anne_Charlotte">Fru Edgr.</persName>
+               <ref target="n7"/> var bange; – Følgen var, at alle Mennesker modtog
+               mig med: desværre – vil jeg have saa daarlig Tid at være sammen med Dem. G. af G's
+               Stilling tillod ham ikke at sidde ved Siden af mig i Teatret. Det var Venstre. Høire
+               kendte mig ikke. Jeg var for "den svenske Erik"<ref target="n8"/>
+               <persName key="Lundin_Claës">(Cl. L.)</persName>
+               <ref target="n9"/> en Skoledreng, hvem man sparkede første Gang og siden ikke
+               omtalte. At høre disse Folk, du, som ikke kendte andet af Turgenjew end "Helena" (der
+               lige var udkommet paa Svensk) udtale sig om min Forstaaelse af Russeren. Jesus-Maria
+               – om jeg havde haft dig her til at lé med ... Naa, det nyttede jo ikke at skrige op.
+               Jeg indskrænkede mig til <hi rend="italics">en</hi> Gang under Publikums Jubel at haane disse
+               Gentlemen. Afgjort er det (og husk vel, at jeg naturligvis af mange er blev dækket
+               med Laurbær) at den svenske Presse er den mest uvidende, arrogante og selvsyge, som
+               existerer i Verden. Desværre har jeg intet samlet af dens Snak – ellers kunde jeg
+               have bragt den skønneste Buket af menneskelig Dumhed.</p>
+            <p>Gustafs <persName key="Valenkamph_Eugenia">Forlovede</persName>
+               <ref target="n10"/> er en Teatersfinx, store Øine, raa Stemme – mellem
+               os en ren Ludder-Udgave, Ludder i Teaterformat. De gnider sig op ad hinanden som to
+               Katte, hun er brutal og spjættende af Lidder. Han, tyk, Dag for Dag tykkere, Maven
+               frem, Provst for den nye Literatur. Grinende af Begær, og jeg frygter, af fed
+               Impotens. Alle de unge gaar omkring, synes jeg, og venter paa Præstekald i Samfundet.
+               G. lægger for.</p>
+            <p>"Eugenia" er iøvrigt helbefaren i Kærligheden. Ifjor tog hun Gift af Elskov til
+                  <persName key="Ödmann_Arvid">Ødman</persName>
+               <ref target="n11"/>. G. af G. sagde til mig: "Nei – min Ven – hun er ingen
+               Ingenue"<ref target="n12"/>.</p>
+            <p>Det mindede mig om <persName key="Secher_William">William</persName>
+               <ref target="n13"/>, da han sagde: "Nei, <persName key="Secher_Julie">Julie</persName>
+               <ref target="n14"/> er Gud ské Lov ingen Ingenue". Jeg frygter det grummeste
+               af dette Ægteskab. Gustaf sagde: Vi gifter os til Juni – og flytter ud i Skærgaarden.
+               – <hi rend="italics">Der</hi> skal han altsaa hen for at blive mager.</p>
+            <p>De rareste Mennesker er Fru Edgrens Kreds. Det er et Stykke Europa midt i Barbariet.
+               Især <persName key="Kovalevskaja_Sofia">Fru Cowalewsky</persName>
+               <ref target="n15"/>. Hun er Matematik-Professor og med al sine Algebra
+               en fuldkommen Dame. Hun ler som et Barn, smiler som en aandfuld Kvinde. Hun forstaar
+               en fortryllende Kunst: at sige sin halve Tanke, saa tie og have sagt – den hele, mens
+               hun tier. Der er et Spil af Lys og Skygge over hendes Ansigt, af Bleghed og Rødmen,
+               som jeg næsten aldrig har set. Og saa taler hun et blødt glidende Fransk, illustreret
+               med saa hastige smaa Haandbevægelser, at det vilde trætte, hvis det ikke var saa
+               katteagtigt henrivende. Det er besynderligt at høre hende og Anne Charlotte tale
+               sammen. A.C's klare og kolde Fraser falder ind i Russerfruens Tales Glimmerflor som
+               langsomt førte, <app>
+                  <lem>høfligt snittende</lem>
+                  <rdg>rettet fra: snittende, høflige</rdg>
+               </app> Knive. Alt, hvad der i <placeName key="Stockholm">Stockholm</placeName> er
+               værd at kende, kommer hos Anne Charlotte, som er en glimrende Værtinde. Kun hendes
+               Saloner er besynderlige; pyntet op med Femti-Øres Ting og de besynderligste Pjalter
+               af Gardiner og Portièrer. Men naar der er mange Folk, og man ser det hele flygtigt,
+               er det virkningsfuldt som en Teaterdekoration.</p>
+            <p>Jeg fik Bud hjemmefra om at skrive om <persName key="Høedt_F.L.">Høedt</persName>
+               <ref target="n16"/>, men jeg sagde nei. Saalænge jeg kan, skal mit ædle Fødeland
+               være fritaget for hvert Spor af mig, og jeg haaber, jeg kan det nogen Tid.</p>
+            <p>Du ved, jeg altid har længtes til Finland. Det er noget nyt. Her i denne Afkrog
+               kæmper to Nationaliteter, to Kulturbevægelser. Det ophidser og anstrænger Menneskenes
+               Evner. Og Rammen om Kampen er besynderlig og rig paa Skønhed. Sø ved Sø ligger
+               frossen Landet over, ingen Bakker, ingen Høining; bare Sø og Enge, frosne, hvide
+               under en graa og tung Himmel. Det er en Slags Skønhed, men en Skønhed, som gør tung
+               og kold om Hjertet.</p>
+            <p>– – Nu har jeg været ude at besé Staden. Det er tyve Huse, som hænger midt i
+               Klippernes Øde. Her mødes Storm fra Nord med Storm fra Øst, og selv idag, hvor det er
+               stille, hører man et Sus fra alle Kanter – "Byen" hænger paa et Næs – som Brus af
+               tusind Telegraftraade for Vinden. Det er den botniske Bugt, som murrer. Og véd du, at
+               jeg saa midt i alt dette finder et Hus med franske Rideauer, fortrukne over lyse
+               Silkegardiner og et stort, pragtfuldt Væksthus op til Huset? Hvem dræber Tiden inde
+               bag de Parisergardiner og fryser tre Fjerdingaar i Selskab med stakkels halvdøde
+               Palmer? Erindrer du en Aften paa <placeName key="Skodsborg">Skodsborg</placeName>
+               <ref target="n17"/>?
+                  <persName key="Winterhjelm_Hedvig">Hedvig Vinter-Hjelm</persName>
+               <ref target="n18"/> deklamerede finsk for os, saa hendes grimme Ansigt
+               næsten blev smukt derved – og hendes forspiste, rare Mand stirrede paa hende med
+               idiotisk Beundring? Nu er det dette Barnesprog – det lyder som du ved, naar man taler
+               til Smaabørn og Hunde – som lyder i Ørene i Butik og paa Gade. Det har saa troskyldig
+               en Lyd, det stakkels Fattigmandssprog.</p>
+            <p>Du, hvor det er sørgeligt med <persName key="Diederichsen_Laura">Fru
+                  Diedrichsen</persName>
+               <ref target="n19"/> – at hun vist kommer til at staa uden Stilling,
+               uagtet hun har et virkeligt Talent, som kun behøvede passeligt Rum for at spire og
+               tage Fart. Jeg har strax skrevet til <persName key="Andersen_Theodor">Andersen</persName>
+               <ref target="n20"/> og anbefalet. <persName key="Abrahams_Severin">Abrahams</persName>
+               <ref target="n21"/> sidder naturligvis tyndt i det, og kender jeg Jøden
+               ret, vil nu kun tro at kunne redde Situationen ved et eneste: at spare. Derfor giver
+               han vel ogsaa nok Afsked til halve Rusen af Personale. At afskedige <persName key="Marer_Johannes">Marer</persName>
+               <ref target="n22"/> vilde vel være <hi rend="italics">for</hi> dumt, men lade ham sulte
+               videre med sine 1200 – <hi rend="italics">det</hi> gør Aba<ref target="n23"/> nok.
+               Han skrev til mig forleden.</p>
+            <p>I de siste Dage var der i Stockholm kun Tale om Krigen<ref target="n24"/>. Man mener, det vil bære over denne Gang. Alle Mennesker sagde:
+               "Ja, De ønsker vel Krigen. Det vilde være den økonomiske Redning for Danmark og
+               bringe København nær sine Storhedsdrømme". En langvarig Krig maaske, men nutildags
+               fører man jo ikke langvarige Krige. Et Par Dage ventede man i de høieste Kredse
+               virkelig i Løbet af 48 Timer at sé Østersøen blokeret af Englænderne. Jeg synes, at
+               disse to Stormagter i Kamp med Skibe sværmende i Nord og Østersøen vilde minde lidt
+               for meget om en Høgeflok flakkende om en Duerede. Vi var Duereden. Kongen og
+               Dronningen af Sverig reiste iaftes til <placeName key="Konstantinopel">Konstantinopel</placeName> til den døende <persName key="Karl_prins_af_Sverige">Prins Karl</persName>
+               <ref target="n25"/>. Han var den smukkeste i Familien Bernadotte, skøn som
+               en Gud under sin Dragon-Hjelm. <persName key="Hartman_Victor">Victor
+                  Hartman</persName>
+               <ref target="n26"/> har faaet Slag, hans Frue er atter opgivet. Stockholm vaander
+               sig under saa mange Ulykker – bliver dog ved at polkere. Véd du, at man her paa
+               Ballerne er raa nok til at danse uden Ophold, bare svinge rundt og rundt ligesom paa
+               Bønderballer. Der er Kraft i de svenske Knæ. I <placeName key="Uppsala">Upsala</placeName> gav man en Fest for mig, der endte, sagde man mig, med et
+               blidt Slagsmaal. I <placeName key="Helsingfors">Helsingfors</placeName> pleier
+                  Fêter<ref target="n27"/> at ende med, at man slaar hinanden ihjel.
+               Formerne for Gemytlighed skifter jo med Landene. Enfin – jeg tror, man mener det
+               endda lige godt med hinanden, mindst lige saa godt som hos os.</p>
+            <p>Du er vist ikke paa <hi rend="italics">en</hi> Gang kommet til Ende med denne Epistel – har den,
+               naar du naar hertil virkelig ligget to Dage i din Lomme? – men nu skal du blive fri.
+               Jeg vil "æde" en Appelsin og forsøge at fordøie et Kapitel af "Une Diva", en saakaldt
+                  Roman<ref target="n28"/>.</p>
+            <p>Lev vel, cher. Jeg skriver herfra Finland <app>
+                  <lem>og</lem>
+                  <rdg>rettet fra: til</rdg>
+               </app> Petersborg til norske og svenske Blade (Oversættelse til dansk forbudt.x) Til
+               dig skal jeg sende Brev snarest fra Helsingfors. Mange Hilsener til <persName key="Nansen_Immanuel">Immanuel</persName>
+               <ref target="n29"/>.</p>
+            <p rend="right">Din Herman.</p>
+            <p>x) Ikke fordi jeg tror, nogen havde Lyst – men det er <hi rend="italics">saa</hi> en Form.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

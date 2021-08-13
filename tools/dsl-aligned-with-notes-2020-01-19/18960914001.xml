@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18960914001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 90</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Skørping, syd for Aalborg</placeName>
+               <date when="1896-09-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1896-09-14"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1896. 14. september], Mandag<note>Brevet dateres i forhold til
+                  oplysningen om premieren "iovermorgen" på Samfundets Støtter med Betty
+                  Nansen</note>
+            </date>
+            <placeName cert="high">Skørping, syd for Aalborg</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Skørping. Mandag.</p>
+            <p>Kære Nansen.</p>
+            <p>Jeg vilde gerne bede dig lade Bogladen sende mig "<!--start title reference--><title key="Naar_Sol_gaar_ned">Naar Sol gaar ned</title>
+               <!--end title reference--> –"<ref target="n1"/>. For
+               naturligvis har jeg ikke længere Bogen og jeg vilde gerne skrive et Par Føljetoner om
+                  den<ref target="n2"/>. Den gode <persName key="Schandorph_Sophus">Alderstegne</persName>
+               <ref target="n3"/> er nu borte – han er virkelig svært ældet – og jeg er helt
+               ene. Jeg elsker det. Jeg skriver, læser; taler aldrig. Min
+               Roman<ref target="n4"/> gaar sin Skildpaddevej mod Enden. Naar man fordrer
+               det Yderste af sig selv, kan man ikke skynde sig – – naa, det Yderste, jeg fordrer af
+               mig selv, er, at hver Person, jeg skriver om, skal være et gennemskuet Menneske. Men
+               vil du nu tænke dig, at de siger, Bogen bliver større end "Stuk". Det er saamæn
+               nydeligt.</p>
+            <p>Er der ingen Reklame-Tjeneste, jeg kan gøre Forlaget<ref target="n5"/>? Du
+               ved, at jeg er rede, naar jeg kan gøre en Smule.</p>
+            <p>Saa er det da iovermorgen, at <persName key="Nansen_Betty">Betty</persName> skal
+               spille<ref target="n6"/>. Hvor det maa
+               være sært og svært. Jeg tænker hver Dag paa det. Naar det nu er overstaaet, kunde hun
+               da ikke vise mig en stor Tjeneste: at slaa et Korsbaand om alle Bladene og sende mig
+               Kritikerne. Det vilde være mig saa vigtigt at læse det altsammen.</p>
+            <p><!--start title reference-->
+               <title key="De_Unges_Bog_til_Drachmann">De Unges Bog til Drachmann
+               </title>
+               <!--end title reference-->
+               <ref target="n7"/> vilde jeg ogsaa gerne læse.</p>
+            <p>Hils nu hundrede Gange</p>
+            <p rend="right">fra din</p>
+            <p rend="right">H.B.</p>
+            <p>Jeg læser hver Dag i <persName key="Heiberg_Johanne_Luise">Johanne
+               Louise</persName>s Erindringer<ref target="n8"/>. Alt, hvad der staar om
+               Skuespilkunst, er saare rigtigt og burde ofte gennemlæses af den nye Johanne
+                  Louise<ref target="n9"/>. <persName key="Brandes_Georg">Brandes</persName>
+               <persName key="Shakespeare_William">"Shakespeare"</persName>
+               <ref target="n10"/> har jeg ogsaa
+               læst om. Men i den Bog mangler netop – blandt andet – Forstand paa
+                  <hi rend="italics">Skuespilkunsten</hi>. Enfin<ref target="n11"/>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

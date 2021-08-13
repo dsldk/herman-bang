@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19021209001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 2.rk., Acc. 2005/126</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="georg-brandes">
+                              <ab>Georg Brandes</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Georg Brandes</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-12-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Herman Bang</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1902-12-09">1902, 9. December [tirsdag]<note>empty</note>
+            </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">9. Dec.</p>
+            <p>Kjære Hr. Bang.</p>
+            <p>Megen Tak for <hi rend="italics">Sommerglæder</hi>
+               <ref target="n1"/>, der sikkert er
+                    en helt igjennem vellykket Bog, livfuld, saa det næsten snurrer i Læserens
+                    Hoved, som af en Karussel, og med en meget, meget scenisk Centralfigur i
+                    Ingeborgs Skikkelse. Jeg beundrer dette, der er gjort med næsten Intet, denne
+                    Skikkelse og den Følelse, der fylder den.</p>
+            <p>Skuespiller Jacobsen<ref target="n2"/>
+                    har gjort mig opmærksom paa en Artikel, De har skrevet d. 2. December<ref target="n3"/>, og hvor De paany har omtalt mig med en Varme,
+                    for hvilken jeg takker Dem af Hjertet, men tillige med saa stærke Ord, at jeg
+                    ikke kan tage dem til Indtægt. Som De vel nok har vidst, om end ikke saa nøje
+                    som jeg, har den danske Gejstlighed (iøvrigt ogsaa Andre) udfoldet en betydelig
+                    Virksomhed for at forhindre mig i at tale. At det lykkedes dem, viser deres
+                    Magt, som jeg iøvrigt aldrig har betvivlet. Allerede for halvtredje Aar siden,
+                    da Heide<ref target="n4"/> anmodede mig om en Tale, svarte jeg ham, at den næppe
+                    vilde kunne holdes uden Modstand; men han slog det da aldeles hen. Senere blev
+                    han skræmmet af energiske Trusler.</p>
+            <p rend="right">Deres forbundne</p>
+            <p rend="right">Georg Brandes</p>
+         </div>
+      </body>
+   </text>
+</TEI>

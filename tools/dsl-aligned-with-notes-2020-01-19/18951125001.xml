@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18951125001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 339</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Sorø</placeName>
+               <date when="1895-11-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1895-11-25"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1895. 25. november [mandag] <note>I november-december 1895
+                  opholdt Bang sig formentlig ind imellem i Sorø, hvor der 18.12.1895 var première
+                  på Gustav Esmann: <!--start title reference--><title key="Magdalene">Magdalene</title>
+                  <!--end title reference-->, instrueret af Bang. Jf. også det tidligste brev til
+                  Fritz Boesen, Sorø [28.11.95]</note>
+            </date>
+            <placeName cert="high">Sorø</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sorø. 25.11.95.</p>
+            <p>Kære Nansen.</p>
+            <p>Ser du, det falder mig i Aarenes Løb alt sværere at udtrykke Følelser. Jeg trækker en
+               humoristisk Dress<ref target="n1"/> over min ganske Figur. Men i et Brev
+               vil jeg alligevel takke dig for Timerne fra sidst. Det var vel – paa Bunden af vort
+               Hjerte – alligevel altid sværere for os at misforstaa hinanden end i Venskab og
+               sammen at betragte denne mærkelige Verden og glædes, naar en af os naaede noget og
+               var lykkelig.</p>
+            <p>Tak ogsaa <persName key="Nansen_Betty">din Forlovede</persName>
+               <ref target="n2"/> saa
+               mange Gange. Hun vil naa vidt. Sig hende, at hun maa øve sin Stemme en Time om Dagen
+               – og faa de bløde Toner frem, uden derfor at faa nogen sødlig Klang i Organet.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+            <p>Hils Tykkerten <persName key="Nansen_Immanuel">Immanuel</persName>
+               <ref target="n3"/>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18870827002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 2353, folio. Blyantsnummer 439</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>På brevets sidste side ‒ oven over Bangs egen
+                                        adresseangivelse ‒ har Paul Langhoff skrevet: <hi rend="italics">Pengene
+                                            50 Mark kan sendes i Post Anvisning Poste restante efter
+                                            nedenstaaende Adresse. / PL.</hi>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Teplitz [Teplice]</placeName>
+               <date when="1887-08-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Paul (Poul) Langhoff</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1887-08-27">[1887, 27. august]
+                        Lørdag<note>Dateringsforslaget hos Torbjörn Nilsson s. 336 note 74, 342 note
+                        23 og 26, 343 note 41 samt s. 290 nr. 29 følges</note>
+            </date>
+            <placeName cert="high">Teplitz [Teplice]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Teplitz. Lørdag.</p>
+            <p>Kære Paul.</p>
+            <p>Det blev dog ved V: hermed altsaa Bogens <app>
+                  <lem>Slutning</lem>
+                  <rdg>Bang har skrevet: Slutningen, men har overstreget de to sidste
+                            bogstaver</rdg>
+               </app> Læs nu først lidt af det foregaaende, for at De kan komme ind i
+                    Stemningen. Maaske er det allerførste noget mattere ‒ men siden er
+                        <hi rend="italics">jeg</hi> tilfreds. Det synes mig, at Livet selv (det evigt videre
+                    strømmende) her taler ret veltalende om Livet. Maatte nu blot De og andre synes
+                    som jeg.</p>
+            <p>Sikkert er, at nu først kan der dømmes om Bogen. Nu ‒ hvor »Dybbøl-Tanken« bøjer
+                    sig fra første og fra siste Side sammen over »Stuk«.</p>
+            <p>Send det saa til Schiøtt<ref target="n1"/> og skriv mig.</p>
+            <p>Jeg antager, dette er et Ark. Det er det sikkert. Vil De da efter Modtagelsen paa
+                    Mandag sende mig <hi rend="italics">50 Mark ‒ nøje efter omstaaende Adresse</hi>.</p>
+            <p>Saa tager jeg fat paa IV. Og V ‒ ‒ betragter vi som færdig.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman B.</p>
+            <p>Hr. Herman <hi rend="italics">de</hi>x) Bang.</p>
+            <p>
+               <hi rend="italics">Poste restante</hi>. <hi rend="italics">Teplitz.</hi>
+               <hi rend="italics">Bøhmen</hi>
+            </p>
+            <p>x) hedder saaledes paa mit Pas.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

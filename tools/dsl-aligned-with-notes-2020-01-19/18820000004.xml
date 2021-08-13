@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18820000004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 2.rk. Blyantsnummer 542</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 2 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[København?]</placeName>
+               <date when="1882-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>A.C. Riemenschneider</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1882-01-01">[1882 eller 1883] <note>A.C. Riemenschneider
+                        grundlagde i 1880 sit forlag og boghandel. Fra august 1882 til konkursen i
+                        december 1883 var Bang anonym redaktør af ugebladet <hi rend="italics">Vor Tid</hi>,
+                        udgivet af Riemenschneider og Salomon</note>
+            </date>
+            <placeName cert="low">[København?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Kære Riemenschneider.</p>
+            <p>Jeg beder Dem <hi rend="italics">idag</hi> skaffe mig:</p>
+            <p>Henrik Ibsen: <hi rend="italics">Digte</hi>
+            </p>
+            <p> ‒ : <hi rend="italics">Keiser og Gallilæer</hi>
+            </p>
+            <p> ‒ : Catilina</p>
+            <p>Bjørnson: Halte Hulda</p>
+            <p> ‒ : Sigurd Slembe</p>
+            <p> ‒ : <app>
+                  <lem>En Fallit</lem>
+                  <rdg>Til højre for titlerne har Bang fra og med Keiser og Gallilæer til og
+                            med En Fallit tegnet en klamme og til højre for denne skrevet ordet:
+                            indbundne ‒</rdg>
+               </app>
+            </p>
+            <p>En Kasse Luksuspapir.</p>
+            <p>samt opføre <hi rend="italics">dem</hi> strax paa en ikke specificeret Regning, som De maa
+                    sende mig samtidig: Regningen vil blive afgjort i maanedlige
+                    <hi rend="italics">Afdrag</hi>, og alt, hvad jeg faar, skal saa fremtidig betales kontant.
+                    Mit Helbred er saa svækket, at mine Venner har foretrukket at ordne mine Sager
+                    saaledes og foreløbig forbudt mig at arbeide. Saasnart jeg imidlertid bliver
+                    lidt bedre, skal jeg være til Deres Tjeneste.</p>
+            <p rend="right">Deres</p>
+            <p rend="right">H. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

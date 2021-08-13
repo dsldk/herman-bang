@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">18890800001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NKS 4043, 4to. Nr. 65</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>empty</ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="low">[Bergen?]</placeName>
+               <date when="1889-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Peter Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low"
+                  when="1889-08-01"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">[1889.  august. ] Lørdag<note>Usikker datering, men vel
+                  august eller september</note>
+            </date>
+            <placeName cert="low">[Bergen?]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Victoria Hotel Lørdag.</p>
+            <p>Nej, nu maa jeg, kære Nansen – trods alt Paastyr, Uroen Millionærmiddagene, i
+               Parentes, min Rejse gaar saa op og ned og bliver mer og mer en Rejsen rundt i de
+               store Familjer, fra Sted til Sted, med deres endløse Super's Visiter o:s:v: – trods
+               alt det maa jeg, lige før en <persName key="Sundt_familien">Sundt</persName>
+               <ref target="n1"/>-Middag, tale med dig.</p>
+            <p>Det er dette med "Krøniken"<ref target="n2"/>. Jeg er saa angst for at
+               du skal misforstaa og ikke begribe.</p>
+            <p>Igaar sendte <persName key="Neergaard_Dagmar">Fru Neergaard</persName>
+               <ref target="n3"/> mig Korrektur paa første
+               Halvdel af "<!--start title reference--><title key="En_dejlig_Dag">En dejlig Dag</title>
+               <!--end title reference-->"<ref target="n4"/>. Denne Novelle lovede jeg N's i April Maaned. Nu er Halvdelen gaaet i
+               Trykken og sidste Halvdel uskreven. Denne Halvdel er det eneste, som jeg ud over
+               Rejser og Forelæsninger har faaet gjort i Sommer.</p>
+            <p>Nu tænkte jeg, naar nu Peter sér dette Stykke, saa siger han til sig selv: Altsaa –
+               jeg havde Ret – Bang tilhører "Skueren"<ref target="n5"/>.
+               Men dette er ikke sandt.</p>
+            <p>Tvertimod var min første Tanke kun denne ene: Jask op Slutningen af det om <persName key="Ibsen_Henrik">Ibsen</persName>
+               <ref target="n6"/> for at vise ham det
+               modsatte. <hi rend="italics">Og jeg faar det gjort</hi>.</p>
+            <p>Kære Nansen, du maa vide, at alt, hvad der hedder at konkurrere med dig og dit, har
+               været hele mit hidtidige Livs største Ubehag. Og dit Tidsskrift vil sikkert ogsaa
+               gøre mig <hi rend="italics">saa</hi> ubehageligt at være "Teater" i "Skueren", at jeg afstaar
+               derfra.</p>
+            <p>Jeg kan det ikke. Det strider nu som altid mod min Følelse. Og jeg vil skrive saare
+               indtrængende til N's derom.</p>
+            <p>Saaledes forholder Tingene sig. Hils <persName key="Brock_Louise">din
+                  Kone</persName>
+               <ref target="n7"/> mange Gange. Nu <hi rend="italics">maa</hi> jeg ind at klæde mig
+               om.</p>
+            <p rend="right">Din</p>
+            <p rend="right">Herman B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

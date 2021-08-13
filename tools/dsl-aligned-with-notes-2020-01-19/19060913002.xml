@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Carlsbergfondet</funder>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2015</date>
+            <idno type="hbb">19060913002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Tilg. 565, 4to. Nr. 35</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc form="brev">
+                           <supportDesc material="empty">
+                              <support>
+                                 <ab>Brev, 3 sider</ab>
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote scribe="herman-bang">
+                              <ab>Herman Bang</ab>
+                           </handNote>
+                        </handDesc>
+                        <additions>
+                           <ab>Bag på brevet står med blyant en huskeliste – rimeligvis i Betty
+                              Nansens håndskrift: <q>Massage / Bad / Tur. / Læsning / Musik</q>
+                           </ab>
+                        </additions>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">[Randers]</placeName>
+               <date when="1906-09-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Betty Nansen</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high"
+                  when="1906-09-13"
+                  notBefore="9999-01-01"
+                  notAfter="9999-01-01">1906. 13. september [torsdag]<note>Brevet er skrevet til Betty
+                  Nansen, der opholdt sig (måske sammen med sin mand?) som gæst hos Julie og Jacob
+                  Hegel (direktør for Gyldendal) på landstedet Skovgaard i Ordrup</note>
+            </date>
+            <placeName cert="high">[Randers]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">13.9. 1906.</p>
+            <p>Min kære Frue.</p>
+            <p>De er en So.</p>
+            <p>Ti gerne kunde De overvinde Deres Ugidelighed saa langt, at De skrev mig til om
+                  "<!--start title reference--><title key="Inez_fra_Coimbra">Inez fra Coimbra</title>
+               <!--end title reference-->"<ref target="n1"/>, saa jeg vidste, hvorefter jeg mig havde at rette. Jeg sendte Dem
+               jo Værket, fordi der var noget, som jeg syntes maatte friste Dem: Ømheden i
+               Landsbydragt, den stille Smerte – det underligt "Stumme", som man kunde lægge over
+               det Pigebarn, der ikke kan skrive og kun halvt kan tale ....</p>
+            <p>Men De beholder Komedien og siger ikke et Kvart Kvidder – –</p>
+            <p>
+               <hi rend="italics">Jeg</hi> har jo ikke tænkt, at De skulde spille den paa Kasino. Men kunde
+               Dramaet bankes op til at gaa de firs Gange – –</p>
+            <p>Forresten snakker <hi rend="italics">jeg</hi> jo som en Blind om en Farvelade. x)</p>
+            <p>Men <hi rend="italics">De</hi> kunde gerne skrive.</p>
+            <p> Jeg digter<ref target="n2"/> og digter videre. Men højsalig <persName key="Jacobsen_J.P.">I.P. Jakobsen</persName>
+               <ref target="n3"/> har fundet sin Overmand i Langsomhed. De kunde paa
+          Skovgaard<ref target="n4"/> passende udvide Deres Kundskaber ved at læse "<!--start title reference--><title key="Kalanus">Kalanus</title>
+               <!--end title reference-->"<ref target="n5"/> xx)</p>
+            <p>Tout à vous<ref target="n6"/>
+            </p>
+            <p rend="right">Herman B.</p>
+            <p>x) fordi jeg kender jo ikke Deres Planer.</p>
+            <p>xx) da dette Værk hører med til "almindelig Dannelse["].</p>
+         </div>
+      </body>
+   </text>
+</TEI>
