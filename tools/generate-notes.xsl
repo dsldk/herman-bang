@@ -5,7 +5,7 @@
   <xsl:output omit-xml-declaration="yes" indent="yes"/>
   <xsl:strip-space elements="*"/>
   <!--This template is meant to generate notes from note elements 
-    available in the text-->
+    available in the text -->
   <xsl:variable name="basename" select="substring-before(tokenize(base-uri(), '/')[last()], '.xml')"/>
 
   <xsl:template match="/">
@@ -23,14 +23,18 @@
       <xsl:number count="//tei:note[not(ancestor::tei:creation/tei:date)]" level="any"/>
     </xsl:variable>
 [n<xsl:value-of select="$identifier"></xsl:value-of>]
-lemma = 
-note = <xsl:apply-templates/>
+lemma = " "
+note = '''<xsl:apply-templates/>'''
 <xsl:text>      
 </xsl:text>
     
     
   </xsl:template>
   <xsl:template match="tei:hi[@rend='italics']"> _<xsl:value-of select="normalize-space()"/>_ </xsl:template>
+  <xsl:template match="tei:title">_<xsl:value-of select="normalize-space()"/>_</xsl:template>
+  <xsl:template match="tei:persName">&#160;<xsl:value-of select="normalize-space()"/>&#160;</xsl:template>
+  <xsl:template match="tei:placeName">&#160;<xsl:value-of select="normalize-space()"/>&#160;</xsl:template>
+  
   <xsl:template match="text()">
     <xsl:apply-templates select="normalize-space()"/>
   </xsl:template>
