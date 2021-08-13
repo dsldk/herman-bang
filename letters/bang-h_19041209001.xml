@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,10 +28,7 @@
                         <idno>Ms.phot. 266, 4to. Originalens opholdssted ukendt</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="postkort">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort; billedsiden viser et fotografi af en stor
+                        <ab>Postkort; billedsiden viser et fotografi af en stor
                                                 hotelbygning, med den trykte tekst: <hi rend="italics">Bucuresci.
                                                   Grand Hôtel du Boulevard.</hi> Kortet er
                                                 frankeret med et 10-sint frimærke, poststemplet:
@@ -39,18 +37,7 @@
                                                   13.12.04</hi>. Adressen er i Bangs håndskrift:
                                                   <hi rend="italics">Hr. Overretssagfører Oluf Heise. / Nørregade
                                                   / Copenhague. K. / Danemark</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        .  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -105,7 +92,8 @@
       <body>
          <div xml:lang="da">
             <p rend="right">Fredag.</p>
-            <p>Mange Hilsener til <persName key="Heise_Inger">Fru Heise</persName><ref target="n1"/> og Dem, kære Ven fra</p>
+            <p>Mange Hilsener til <persName key="Heise_Inger">Fru Heise</persName>
+               <ref target="n1"/> og Dem, kære Ven fra</p>
             <p rend="right">Herman Bang.</p>
          </div>
       </body>

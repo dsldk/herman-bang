@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,28 +28,14 @@
                         <idno>NKS 5152, 4to. Det 4. brev</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="postkort">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort; billedsiden viser et fotografi af en
+                        <ab>Postkort; billedsiden viser et fotografi af en
                                                 trafikeret gade med Friedrich der Grosses
                                                 rytterstaue i midten og den trykte tekst:
                                                   <hi rend="italics">Berlin Unter den Linden</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>Øverst på tekstsiden med blyant og i fremmed hånd:
+                        .  Egenhændigt skrevet af Herman Bang. .  Øverst på tekstsiden med blyant og i fremmed hånd:
                                             <hi rend="italics">[24/8-1907]</hi>, formodentlig skrevet af en
                                         ansat på Det Kgl. Bibliotek som en afskrift af
                                         poststemplerne. </ab>
-                        </additions>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -107,7 +94,8 @@
       <body>
          <div xml:lang="da">
             <p>Tusind Tak for Brevet, kære Astrid, og mange Hilsener til Jer alle tre. Billedet
-                    og <persName key="Scholten_Jobst_Palle_von">Drengen</persName><ref target="n1"/> er dejlige.</p>
+                    og <persName key="Scholten_Jobst_Palle_von">Drengen</persName>
+               <ref target="n1"/> er dejlige.</p>
             <p rend="right">Herman.</p>
          </div>
       </body>

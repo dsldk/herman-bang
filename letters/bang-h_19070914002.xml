@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,10 +28,7 @@
                         <idno>NKS 2353, folio. Blyantsnummer 901</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort af italiensk herkomst; billedsiden viser en
+                        <ab>Postkort af italiensk herkomst; billedsiden viser en
                                                 tegning af to får, der under et stråtækt halvtag
                                                 bliver klippet, og en større fåreflok i baggrunden,
                                                 og med den trykte tekst: <hi rend="italics">Tosatura delle pecore
@@ -41,18 +39,7 @@
                                                 læses: <hi rend="italics">14.9[...]</hi>, fordi frimærket er
                                                 borte; dansk modtagerstempel: <hi rend="italics">Mundelstrup
                                                   -15.9.07.8-11 F</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        .  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -109,7 +96,8 @@
       <body>
          <div xml:lang="da">
             <p>Min kære Nini.</p>
-            <p>Ja, nu kommer <persName key="Thune_Magdalene">Frøken Thune</persName><ref target="n1"/>
+            <p>Ja, nu kommer <persName key="Thune_Magdalene">Frøken Thune</persName>
+               <ref target="n1"/>
                <app>
                   <lem>imorgen</lem>
                   <rdg>Bang har rettet ordet fra: idag</rdg>

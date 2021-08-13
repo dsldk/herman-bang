@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>NKS 2353, folio. Blyantsnummer 443</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -99,7 +86,8 @@
          <div xml:lang="da">
             <p rend="right">Torsdag.</p>
             <p>Kære Paul.</p>
-            <p>Der sendes nu et Ark af IV til <persName key="Schiøtt-Julius">Schiøtt</persName><ref target="n1"/>.</p>
+            <p>Der sendes nu et Ark af IV til <persName key="Schiøtt-Julius">Schiøtt</persName>
+               <ref target="n1"/>.</p>
             <p>Desværre er jeg meget, meget syg. I en Ophidselse, hvor jeg ikke kan læse, ikke
                     spise ikke sove og kun venter paa at kunne rejse bort.</p>
             <p>Gud befalet og Gud hjælpe os!</p>

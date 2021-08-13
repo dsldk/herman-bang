@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,10 +28,7 @@
                         <idno>Acc. 2009/148. Det 76.brev</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side, skrevet på fortrykt brevpapir med
+                        <ab>Brev, 1 side, skrevet på fortrykt brevpapir med
                                                 billede af hotelfacade og teksten: <hi rend="italics">Savoy Hôtel
                                                   / Innehafvare: Hjalmar Andrée</hi> og fortrykt:
                                                   <hi rend="italics">Malmö den .... 19...</hi>; den tilhørende
@@ -42,19 +40,8 @@
                                                 udskrift i Bangs håndskrift: <hi rend="italics">Fru Olga Dahl. /
                                                   København. V. / Prinsesse Maries Allée
                                                 14.</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>Med blæk i fremmed hånd på kuverten: <hi rend="italics">12/11-11</hi>,
+                        .  Egenhændigt skrevet af Herman Bang. .  Med blæk i fremmed hånd på kuverten: <hi rend="italics">12/11-11</hi>,
                                         formentlig skrevet af Olga Dahl</ab>
-                        </additions>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -111,11 +98,14 @@
             <p>Saa, min egen Ven, nu er jeg i Malmö, hvor jeg ‒ paa Danmarks Grænse ‒ tager
                     Afsked med Sverig. Iaften gaar det da til Stockholm og imorgen Aften videre til
                     Helsingfors.</p>
-            <p><persName key="Thune_Magdalene">»Magdalene«</persName><ref target="n1"/> løb igaar vild i ‒ Lunds Teater og
+            <p>
+               <persName key="Thune_Magdalene">»Magdalene«</persName>
+               <ref target="n1"/> løb igaar vild i ‒ Lunds Teater og
                     er siden fuldkommen og aldeles forvildet. Selv hendes Madlyst har taget Skade.
                     Himlen véd, hvordan dette skal ende. Hun løber rundt som en løbsk Cirkushest i
                     en Manége.</p>
-            <p>Tusinde Hilsener til <persName key="Dahl_Signe">Søster</persName><ref target="n2"/>. Imorgen tidlig hører jeg
+            <p>Tusinde Hilsener til <persName key="Dahl_Signe">Søster</persName>
+               <ref target="n2"/>. Imorgen tidlig hører jeg
                     endelig, hvordan De har det.</p>
             <p rend="right">Deres Ven</p>
             <p rend="right">Herman B.</p>

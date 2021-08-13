@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>Acc. 2011/94; intet blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side, skrevet med blyant</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 1 side, skrevet med blyant.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -97,7 +84,9 @@
       <body>
          <div xml:lang="da">
             <p>Kære H.</p>
-            <p><persName key="Husum_Pauline">Frk Husums</persName><ref target="n1"/> Penge maa sendes.</p>
+            <p>
+               <persName key="Husum_Pauline">Frk Husums</persName>
+               <ref target="n1"/> Penge maa sendes.</p>
             <p>Jeg ved ikke, hvad de er opslugt af.</p>
             <p>Stærk Tilbagegang. Indtil alt er slut.</p>
             <p rend="right">Deres Ven H. B.</p>

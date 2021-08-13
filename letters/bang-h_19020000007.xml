@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,22 +28,8 @@
                         <idno>NKS 2353, folio. Blyantsnummer 825</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="sekretær">
-                              <ab>Skrevet af en sekretær; underskrift og efterskrift har Bangs selv
+                        <ab>Brev, 1 side.  Skrevet af en sekretær; underskrift og efterskrift har Bangs selv
                                             skrevet</ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -100,7 +87,8 @@
             <p>Tusind Tak for Deres Brev og Tusind Tak for al Deres Møje.</p>
             <p rend="right">Deres Ven</p>
             <p rend="right">Herman Bang.</p>
-            <p>Og mange Hilsener til <persName key="Heise_Inger">Deres Frue</persName><ref target="n1"/>.</p>
+            <p>Og mange Hilsener til <persName key="Heise_Inger">Deres Frue</persName>
+               <ref target="n1"/>.</p>
          </div>
       </body>
    </text>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,10 +28,7 @@
                         <idno>NKS 4685, 4to; uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="postkort">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort; billedsiden viser et fotografisk portræt
+                        <ab>Postkort; billedsiden viser et fotografisk portræt
                                                 af en ung mand med hat og den trykte tekst:
                                                   <hi rend="italics">Frank La Forge</hi> [1879-1953, amerikansk
                                                 pianist og sangskriver] og fotografnavnet
@@ -40,19 +38,8 @@
                                                 Adressefeltet er udfyldt i Bangs håndskrift:
                                                   <hi rend="italics">Hr. Christian Houmark. / Hotel Kongen af
                                                   Danmark. / Kopenhagen. / K.</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>Den sidste sætning har Bang skrevet som efterskrift på
+                        .  Egenhændigt skrevet af Herman Bang. .  Den sidste sætning har Bang skrevet som efterskrift på
                                         postkortets billedside</ab>
-                        </additions>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -111,10 +98,14 @@
                         Mandfolk<ref target="n1"/>. Men jeg har
                     ikke noget andet Kort. Og jeg har siddet og tænkt paa, at netop nu sad vi altid
                     tilbords i de gamle Dage, som ingensinde mere skal vende tilbage ‒ ‒</p>
-            <p>Idag var <persName key="Hirschsprung_Aage">Hirschsprung</persName><ref target="n2"/> her et Øjeblik. Han kom ‒ med den unge <persName key="Rørdam_Arvid">Rørdam</persName><ref target="n3"/> ‒ fra Prag. Men næste Aar vil han til Budapest ‒ ‒</p>
+            <p>Idag var <persName key="Hirschsprung_Aage">Hirschsprung</persName>
+               <ref target="n2"/> her et Øjeblik. Han kom ‒ med den unge <persName key="Rørdam_Arvid">Rørdam</persName>
+               <ref target="n3"/> ‒ fra Prag. Men næste Aar vil han til Budapest ‒ ‒</p>
             <p rend="right">Herman.</p>
-            <p>Sig til <persName key="Goll_August">Goll</persName><ref target="n4"/>, at jeg ikke har glemt mit Løfte om at snakke med
-                        <persName key="Fischer_Samuel">Fischer</persName><ref target="n5"/> om hans Bog.</p>
+            <p>Sig til <persName key="Goll_August">Goll</persName>
+               <ref target="n4"/>, at jeg ikke har glemt mit Løfte om at snakke med
+                        <persName key="Fischer_Samuel">Fischer</persName>
+               <ref target="n5"/> om hans Bog.</p>
          </div>
       </body>
    </text>

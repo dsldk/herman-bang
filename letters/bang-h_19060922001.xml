@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>NKS 2353, folio. Blyantsnummer 889</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 3 sider</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 3 sider.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -104,19 +91,25 @@
                   <lem>man</lem>
                   <rdg>Ordet synes at være stavet: maa</rdg>
                </app> jo dog altid faa noget gjort.</p>
-            <p><persName key="Ernst_Knud">Ernsts</persName><ref target="n1"/> Fader er død
+            <p>
+               <persName key="Ernst_Knud">Ernsts</persName>
+               <ref target="n1"/> Fader er død
                     og den Agtede<ref target="n2"/> har været hjemme hos sin
                     Moder og til Begravelsen.</p>
             <p>Ellers er her slet intet Nyt. Om alt gaar vel, kommer jeg hjem midt i Oktober.
                     Men det ved jeg forresten ikke.</p>
             <p>Det var da dejligt med Fru Kromeyers<ref target="n3"/> tohundrede.</p>
             <p>Mange Hilsener til Fru Bauditz<ref target="n4"/> og l'adroite<ref target="n5"/> og
-                    <persName key="Thune_Magdalene">Frøken Thune</persName><ref target="n6"/> og det
+                    <persName key="Thune_Magdalene">Frøken Thune</persName>
+               <ref target="n6"/> og det
                     Hele.</p>
             <p rend="right">Din Herman.</p>
             <p>Med den lille Trup gaar det storartet. De første 5 Forestillinger har givet en
-                    Indtægt af c: 1350 Kroner. Men i Begyndelsen har <persName key="Boesen_Fritz">Boesen</persName><ref target="n7"/> vist ogsaa meget at betale ‒ en ny
-                    Dekoration og Forfatterhonorarer o:s:v: Her spiller <persName key="Fjelstrup_Peter">Fjelstrup</persName><ref target="n8"/> med <persName key="Schmidt_Albrecht">Albrecht Schmidt</persName><ref target="n9"/> o:s:v: Men de holder sig
+                    Indtægt af c: 1350 Kroner. Men i Begyndelsen har <persName key="Boesen_Fritz">Boesen</persName>
+               <ref target="n7"/> vist ogsaa meget at betale ‒ en ny
+                    Dekoration og Forfatterhonorarer o:s:v: Her spiller <persName key="Fjelstrup_Peter">Fjelstrup</persName>
+               <ref target="n8"/> med <persName key="Schmidt_Albrecht">Albrecht Schmidt</persName>
+               <ref target="n9"/> o:s:v: Men de holder sig
                     da borte... Badeanstalten er saa god og en meget flink Massør.</p>
          </div>
       </body>

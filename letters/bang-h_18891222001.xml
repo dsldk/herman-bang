@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>NKS 4426, 4to; uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -108,7 +95,8 @@
             <p>En glædelig Jul for Dem og Deres ønsker ret inderlig</p>
             <p rend="right">Deres hengivne</p>
             <p rend="right">Herman Bang.</p>
-            <p>Hils <persName key="Feilberg_Carl">Deres Mand</persName><ref target="n1"/> og ogsaa Børnene.</p>
+            <p>Hils <persName key="Feilberg_Carl">Deres Mand</persName>
+               <ref target="n1"/> og ogsaa Børnene.</p>
          </div>
       </body>
    </text>

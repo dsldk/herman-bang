@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,10 +28,7 @@
                         <idno>NKS 4685, 4to; uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="postkort">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort; billedsiden viser et farvet fotografi af
+                        <ab>Postkort; billedsiden viser et farvet fotografi af
                                                 sneklædte fjelde med sejlbåde i forgrunden og den
                                                 trykte tekst: <hi rend="italics">Lofoten. Fra Stamsund.</hi>
                                                 (Stamsund ligger imidlertid langt nordligere i Norge
@@ -42,18 +40,7 @@
                                                 Bangs håndskrift: <hi rend="italics">Hr. Christian Houmark. /
                                                   Bagsværd St. ved København. / Hareskov S.</hi>
                                                 Postvæsenet har overstreget dele af adressen og
-                                                ændret den til: Amaliegade 32, København.</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                                                ændret den til: Amaliegade 32, København..  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -111,7 +98,8 @@
       <body>
          <div xml:lang="da">
             <p>Min kære Houmark.</p>
-            <p>Dette er fra Svanebugten, hvor <persName key="Sundt_Frithjof">F.S's</persName><ref target="n1"/> Kobbergruber ligger....
+            <p>Dette er fra Svanebugten, hvor <persName key="Sundt_Frithjof">F.S's</persName>
+               <ref target="n1"/> Kobbergruber ligger....
                     Her er underskønt. ‒ ‒ Jeg længes <hi rend="italics">meget</hi> efter at høre fra Dem,
                     hvordan De har det og alt.</p>
             <p>Deres Ven</p>

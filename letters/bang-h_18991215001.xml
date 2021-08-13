@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,22 +28,8 @@
                         <idno>NKS 2353, folio. Blyantsnummer 1606</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 2 sider</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>På brevets bagside er påklæbet Otto Linds exlibris: »Herman
+                        <ab>Brev, 2 sider.  Egenhændigt skrevet af Herman Bang. .  På brevets bagside er påklæbet Otto Linds exlibris: »Herman
                                         Bang Samlingen af 1912«</ab>
-                        </additions>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -103,7 +90,9 @@
          <div xml:lang="da">
             <p rend="right">Fredag Morgen.</p>
             <p>Kære Dr.</p>
-            <p><persName key="Husum_Pauline">Frøken Husum</persName><ref target="n1"/> formente iaftes, at jeg ‒ efter
+            <p>
+               <persName key="Husum_Pauline">Frøken Husum</persName>
+               <ref target="n1"/> formente iaftes, at jeg ‒ efter
                     at have overværet den første Prøve paa Teatret ‒ var saa træt, at det var
                     raadeligst at give mig en Smule Kloral, hvad jeg bad hende om, fordi jeg selv
                     følte mig adskillig mat.</p>

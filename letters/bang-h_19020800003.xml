@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>NKS 4685, 4to; uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -99,7 +86,8 @@
             <p rend="right">Rungstedgaard. Mandag.</p>
             <p>Min Ven.</p>
             <p>Jeg er sygere end nogensinde. Jeg opgiver det vist snart. Dette Brev fik jeg fra
-                        <persName key="Boesen_Fritz">Boesen</persName><ref target="n1"/>. Han har ikke én Øre.
+                        <persName key="Boesen_Fritz">Boesen</persName>
+               <ref target="n1"/>. Han har ikke én Øre.
                     Jeg ejer kun 70 Øre<ref target="n2"/>. Faa paa »København«<ref target="n3"/> tyve Kroner og afsend dem <hi rend="italics">strax</hi> i rek:
                         Brev<ref target="n4"/>, uden
                     Ord.</p>

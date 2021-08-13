@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>Tilg. 447</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 3 sider</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 3 sider.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -98,7 +85,9 @@
          <div xml:lang="da">
             <p rend="right">Frederiksborggade 31. Onsdag.</p>
             <p>Kære Dr: Brandes.</p>
-            <p><persName key="Boesen_Fritz">Hr. Fritz Boesen</persName><ref target="n1"/> vil bringe Dem eller har bragt Dem et Skuespil<ref target="n2"/> med Bøn
+            <p>
+               <persName key="Boesen_Fritz">Hr. Fritz Boesen</persName>
+               <ref target="n1"/> vil bringe Dem eller har bragt Dem et Skuespil<ref target="n2"/> med Bøn
                     om at læse det. Han har selv, uden Tilskyndelse, ønsket, at <hi rend="italics">De</hi>
                     skulde gøre det. Jeg beder Dem nu gøre det, saasnart De finder Tid. Det er svært
                     for mig at dømme uhildet om det Skuespil. Men skrevet af en Mand paa 22 Aar er

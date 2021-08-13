@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -28,21 +29,7 @@
                                     33</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 2 sider</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 2 sider.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -97,7 +84,7 @@
          <div xml:lang="da">
             <p rend="right">Marienlyst. 18.8.1903.</p>
             <p>Kære Fru Hegel.</p>
-            <p>Jeg skriver til Dem, hvad De maa tilgive mig, fordi jeg ikke tør skrive til <persName key="Hegel_Jacob"></persName>.</p>
+            <p>Jeg skriver til Dem, hvad De maa tilgive mig, fordi jeg ikke tør skrive til <persName key="Hegel_Jacob"/>.</p>
             <p>Hr. Hegel har altfor megen Ret, naar han for et Par Maaneder siden skrev til mig,
                     at jeg skyldte Forlaget saa mange Penge. Men hele Vinteren overholdt jeg den
                     gjorte Aftale. Først her er Pengene gaaet <app>
@@ -128,7 +115,8 @@
             <p>Jeg maatte for at <app>
                   <lem>kunne</lem>
                   <rdg>Ordet er tilføjet over linjen</rdg>
-               </app> skrive »Det graa Hus«, levere <persName key="Bojesen_Ernst">Bojesen</persName><ref target="n3"/> et
+               </app> skrive »Det graa Hus«, levere <persName key="Bojesen_Ernst">Bojesen</persName>
+               <ref target="n3"/> et
                     Bind ‒ »Sommerglæder«. Jeg kan ikke gøre dette Kunststykke om igen. Og »Mikaël«
                     ligger mig dog uendeligt mere paa Hjerte end »Det Graa Hus». Hvis vi ikke
                     spilder en Dag længere, kan jeg gøre »Mikaël« færdig ‒ og <hi rend="italics">efter</hi> den

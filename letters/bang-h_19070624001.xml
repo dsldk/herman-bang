@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,25 +28,11 @@
                         <idno>NKS 5152, 4to. Det 1. brev</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="postkort">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort; billedsiden viser et farvelagt fotografi
+                        <ab>Postkort; billedsiden viser et farvelagt fotografi
                                                 af en samling huse og i forgrunden en grøn fælled
                                                 med flere spadserende mennesker; for oven står
                                                 trykt: <hi rend="italics">Læsø</hi> og <hi rend="italics">Byrum</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        .  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -103,7 +90,9 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p>Mange Hilsener til <persName key="Scolten_Jobst_Palle_von">Søn</persName><ref target="n1"/> og <persName key="Scholten_Jens_Peter_von">Mand</persName><ref target="n2"/> og Hus og Hjem fra</p>
+            <p>Mange Hilsener til <persName key="Scolten_Jobst_Palle_von">Søn</persName>
+               <ref target="n1"/> og <persName key="Scholten_Jens_Peter_von">Mand</persName>
+               <ref target="n2"/> og Hus og Hjem fra</p>
             <p rend="right">Herman.</p>
          </div>
       </body>

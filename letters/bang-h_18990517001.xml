@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,22 +28,8 @@
                         <idno>Acc. 2011/94; intet blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>Dateringen »17/5 99« er tilføjet med blyant, formodentlig af
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. .  Dateringen »17/5 99« er tilføjet med blyant, formodentlig af
                                         Aage Hirschsprung</ab>
-                        </additions>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -100,10 +87,16 @@
             <p rend="right">Onsdag.</p>
             <p>Tak, min Ven.</p>
             <p>Vi har glemt tre Bøger<ref target="n1"/>, som <hi rend="italics">maa</hi> sendes.</p>
-            <p><persName key="Knudsen_Johan">Godsejer Johan Knudsen</persName><ref target="n2"/>. Bangsbo. Frederikshavn.</p>
-            <p><persName key="Korsgaard_Kristen_P.">Redaktør Korsgaard</persName><ref target="n3"/>. Ordrup.
+            <p>
+               <persName key="Knudsen_Johan">Godsejer Johan Knudsen</persName>
+               <ref target="n2"/>. Bangsbo. Frederikshavn.</p>
+            <p>
+               <persName key="Korsgaard_Kristen_P.">Redaktør Korsgaard</persName>
+               <ref target="n3"/>. Ordrup.
                     Charlottenlund.</p>
-            <p><persName key="Berendsen_Gustava">Fru Albert Berendsen</persName><ref target="n4"/>. <app>
+            <p>
+               <persName key="Berendsen_Gustava">Fru Albert Berendsen</persName>
+               <ref target="n4"/>. <app>
                   <lem>Sølvgade</lem>
                   <rdg>Bang havde første skrevet: Sølg, men har selv rettet g til et v</rdg>
                </app> 26.</p>

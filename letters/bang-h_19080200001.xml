@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,28 +28,14 @@
                         <idno>NKS 2353, folio. Blyantsnummer 960</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort; billedsiden viser et fotografi af venstre
+                        <ab>Postkort; billedsiden viser et fotografi af venstre
                                                 side af en gotisk portal i Breslau (Wroclaw), og med
                                                 den trykte tekst: <hi rend="italics">Breslau. Domportal</hi>.
                                                 Frimærket er dampet af; adressen i Bangs håndskrift:
                                                   <hi rend="italics">Mme Nini Holst. / Mynstersvej 3. /
                                                   Kopenhagen. V.</hi>. Af poststemplet kan intet
                                                 læses, fordi frimærket er borte; intet dansk
-                                                modtagerstempel</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                                                modtagerstempel.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -106,7 +93,8 @@
       <body>
          <div xml:lang="da">
             <p>Min kære Nini.</p>
-            <p>Tak for dit rare Brev. <persName key="Ernst_Knud">Ernst</persName><ref target="n1"/> har iforgaars sendt Sagerne hjem ‒ saaledes
+            <p>Tak for dit rare Brev. <persName key="Ernst_Knud">Ernst</persName>
+               <ref target="n1"/> har iforgaars sendt Sagerne hjem ‒ saaledes
                     som du i Julen skrev til ham, at du ønsker<ref target="n2"/>.</p>
             <p rend="right">Herman.</p>
          </div>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,25 +28,11 @@
                         <idno>NKS 2353, folio. Blyantsnummer 791</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
+                        <ab>Brev, 1 side, skrevet på fortrykt brevpapir:
                                                   <hi rend="italics">O. Heise / Overretssagfører. / Nørregade 39,
                                                   1. / Kontortid 9-2. / Telefon 3966. / Kjøbenhavn,
                                                   d. ...</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="sekretær">
-                              <ab>Skrevet af en sekretær; underskriften har Bang selv skrevet</ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        .  Skrevet af en sekretær; underskriften har Bang selv skrevet</ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -100,7 +87,8 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p>Da <persName key="Heise_Oluf">Overretssagfører O. Heise</persName><ref target="n1"/> for mig har udlagt et Beløb af 250 Kr, giver jeg ham
+            <p>Da <persName key="Heise_Oluf">Overretssagfører O. Heise</persName>
+               <ref target="n1"/> for mig har udlagt et Beløb af 250 Kr, giver jeg ham
                     herved Transport for et tilsvarende Beløb af tilgodehavende Honorar <app>
                   <lem>paa »Fest.«</lem>
                   <rdg>Disse to ord er med Herman Bangs håndskrift tilføjet over linjen</rdg>

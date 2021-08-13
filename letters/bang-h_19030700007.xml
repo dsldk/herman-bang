@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>NKS 4264, 4to. Det 1. brev</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -99,10 +86,11 @@
          <div xml:lang="da">
             <p rend="right">Marienlyst. Mandag.</p>
             <p>Ja, kære Hr. Nielsen, her er atter Manuskript<ref target="n1"/>. Jeg sender det til
-                    Dem, da <persName key="Nansen_Peter">Hr. Nansen</persName><ref target="n2"/> jo er i Holland.</p>
+                    Dem, da <persName key="Nansen_Peter">Hr. Nansen</persName>
+               <ref target="n2"/> jo er i Holland.</p>
             <p>Og jeg beder Dem, naar De har modtaget at sende mig mine Penge for August. Men De
                     maa sende <hi rend="italics">strax</hi> ‒ <hi rend="italics">minus</hi> Kr: 50, som <persName key="Heise_Oluf">Hr. Heise</persName>
-                        <ref target="n3"/> henter.
+               <ref target="n3"/> henter.
                     Den 10 August vender jeg hjem til Byen.</p>
             <p rend="right">Deres hengivne</p>
             <p rend="right">Herman Bang.</p>

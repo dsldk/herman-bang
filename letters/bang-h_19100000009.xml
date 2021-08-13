@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,21 +28,7 @@
                         <idno>NKS 4264, 4to. Det 6. brev</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="brev">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Brev, 1 side</ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -100,7 +87,8 @@
       <body>
          <div xml:lang="da">
             <p>Kære Ven.</p>
-            <p>De maa give <persName key="Hartmann_Max">Hartmann</persName><ref target="n1"/> 20 Kr.</p>
+            <p>De maa give <persName key="Hartmann_Max">Hartmann</persName>
+               <ref target="n1"/> 20 Kr.</p>
             <p rend="right">H. B.</p>
             <p>Vil De komme imorgen Kl 5 om Legatet<ref target="n2"/>.</p>
          </div>

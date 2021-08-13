@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -27,10 +28,7 @@
                         <idno>NKS 4685, 4to; uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <objectDesc form="postkort">
-                           <supportDesc material="empty">
-                              <support>
-                                 <ab>Postkort; billedsiden viser et fotografi fra en
+                        <ab>Postkort; billedsiden viser et fotografi fra en
                                                 menneskefyldt badestrand med seks unge drenge i
                                                 badebukser og to mindre piger i forgrunden, og med
                                                 den trykte tekst: <hi rend="italics">Seebad Wannsee</hi>.
@@ -39,18 +37,7 @@
                                                 Adressefeltet er udfyldt i Bangs håndskrift:
                                                   <hi rend="italics">Hr. Christian Houmark / »Hotel Kongen af
                                                   Danmark« / Kopenhagen. / K.</hi>
-                                 </ab>
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote scribe="herman-bang">
-                              <ab>Egenhændigt skrevet af Herman Bang. </ab>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <ab>empty</ab>
-                        </additions>
+                        .  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -105,7 +92,8 @@
       <body>
          <div xml:lang="da">
             <p>Min kære Ven.</p>
-            <p>Iaftes kom <persName key="Thune_Magdalene">Frøken Thune</persName><ref target="n1"/>. Saa nu er
+            <p>Iaftes kom <persName key="Thune_Magdalene">Frøken Thune</persName>
+               <ref target="n1"/>. Saa nu er
                     Korpset i Geled. Gid nu den endelige Ro maa indtræde ‒</p>
             <p>Skriv snart.</p>
             <p rend="right">Herman.</p>
