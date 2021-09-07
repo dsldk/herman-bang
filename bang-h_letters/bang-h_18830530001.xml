@@ -57,7 +57,7 @@
                <date when="1883-05-30"/>
             </correspAction>
             <correspAction type="received">
-               <persName>Peter Nansen</persName>
+               <persName key="nansen_peter_1861">Peter Nansen</persName>
                <placeName>empty</placeName>
             </correspAction>
          </correspDesc>
@@ -87,11 +87,9 @@
       <body>
          <div xml:lang="da">
             <p>Kære Nansen.</p>
-            <p>Vil De benytte denne Billet til <persName key="Nielsen_Martinius">Martinus</persName> Benefice? <ref target="n1"/>
+            <p>Vil De benytte denne Billet til <persName key="nielsen_martinius_1859">Martinus</persName> Benefice?<ref target="n1"/>
             </p>
-            <p>Selskabet er <persName key="Sandorff_Andrea">Frøken Sandorff</persName>
-               <ref target="n2"/>, <persName key="Salomon_Benedikt">Benedikt</persName>
-               <ref target="n3"/> og ellers alt det vanlige.</p>
+            <p>Selskabet er Frøken Sandorff<ref target="n2"/>, Benedikt<ref target="n3"/> og ellers alt det vanlige.</p>
             <p rend="right">Deres</p>
             <p rend="right">Herman B.</p>
          </div>

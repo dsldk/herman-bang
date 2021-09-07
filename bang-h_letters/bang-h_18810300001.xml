@@ -57,7 +57,7 @@
                <date when="1881-03-01"/>
             </correspAction>
             <correspAction type="received">
-               <persName>Peter Nansen</persName>
+               <persName key="nansen_peter_1861">Peter Nansen</persName>
                <placeName>empty</placeName>
             </correspAction>
          </correspDesc>
@@ -90,11 +90,8 @@
       <body>
          <div xml:lang="da">
             <p>Kære Nansen!</p>
-            <p>Vil De ikke spise en lille Middag med Dans her hos <persName key="Nimb_Vilhelm_Christopher">
-                  <hi rend="italics">Nimbs</hi>
-               </persName>
-               <ref target="n1"/> paa Onsdag Kl. 5 3/4. De vil glæde
-            <hi rend="italics">mig</hi> ved at komme. Adieu! Send Svar med mit Bud.</p>
+            <p>Vil De ikke spise en lille Middag med Dans her hos <hi rend="italics">Nimbs</hi><ref target="n1"/> paa Onsdag 
+               Kl. 5 3/4. De vil glæde <hi rend="italics">mig</hi> ved at komme. Adieu! Send Svar med mit Bud.</p>
             <p>Venlig Hilsen fra</p>
             <p rend="right">Deres</p>
             <p rend="right">Herman Bang</p>
