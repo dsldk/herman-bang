@@ -50,7 +50,13 @@ description = "jordemoder, enke og enlig mor til to døtre (Louise, født ca. 18
 name = "August Bagge"
 sortname = "Bagge, August"
 lifetime = "1864-1941"
-description = "erhvervsmand, 1903-20 meddirektør i Gyldendalske Boghandel Nordisk Forlag. Fra 1927 svigerfar til Esther Nansen, datter af Peter og Betty Nansen"
+description = "erhvervsmand, 1903-20 meddirektør i Gyldendalske Boghandel Nordisk Forlag, bror til Julie Hegel. I 1927 blev han svigerfar til Esther Nansen, datter af Peter og Betty Nansen"
+
+[bang_august_1844]
+name = "August Bang"
+sortname = "Bang, August"
+lifetime : "1844-1920"
+description = "fra 1875 indehaver og leder af en stor bog- og papirhandel på Vesterbrogade i København. Han var ikke i slægt med Herman Bang"
 
 [bang_william_1859]
 name = "William Bang"
@@ -446,13 +452,13 @@ description = "tysk forlægger, indehaver af S. Fischer Verlag, som han havde gr
 name = "Peter Fjelstrup"
 sortname = "Fjelstrup, Peter"
 lifetime = "1866-1920"
-description = "skuespiller"
+description = "skuespiller, gift 1889-1909 med skuespillerinden Mathilde Fjelstrup, født Berg"
 
 [fjelstrup_mathilde_1856]
 name = "Mathilde Fjelstrup"
 sortname = "Fjelstrup, Mathilde"
 lifetime = "1856-1939"
-description = "skuespillerinde, gift 1889-1909 med skuespilleren Peter Fjelstrup"
+description = "født Berg, skuespillerinde, gift 1889-1909 med skuespilleren Peter Fjelstrup"
 
 [franzos_ke_1848]
 name = "Karl Emil Franzós"
@@ -494,7 +500,7 @@ description = "cand.med., praktiserende læge i Hørsholm"
 name = "Svend Gade"
 sortname = "Gade, Svend"
 lifetime = "1877-1952"
-description = "sceneinstruktør, uddannet teatermaler; han boede i Berlin fra 1904 og var kunstnerisk rådgiver og instruktør ved skiftende teatre i byen; fra 1913 filminstruktør, bl.a. i USA"
+description = "scenograf, uddannet teatermaler; han boede i Berlin fra 1904 og var kunstnerisk rådgiver og instruktør ved flere teatre i byen; fra 1913 filminstruktør, i 1920'erne i USA"
 
 [geijerstam_ga_1858]
 name = "Gustaf af Geijerstam"
@@ -554,7 +560,7 @@ description = "Herman Bangs yngste søster; gift 1892 med T.W. Gøtsche, forpagt
 name = "Jacob Hegel"
 sortname = "Hegel, Jacob"
 lifetime = "1851-1918"
-description = "forlægger, fra 1887 eneejer af og direktør for Gyldendal, Klareboderne 3, København; gift 1874 med Julie Hegel, født Bagge"
+description = "forlægger, fra 1887 eneejer af og direktør for Gyldendal, Klareboderne 3, København; havde titel af justitsråd, fra 1908 etatsråd; gift 1874 med Julie Hegel, født Bagge"
 
 [hegel_julie_1857]
 name = "Julie Hegel"
@@ -782,7 +788,7 @@ description = "forfatter"
 name = "Emil Jonas"
 sortname = "Jonas, Emil"
 lifetime = "1824-1912"
-description = "holstenskfødt litterat, oversætter fra dansk til tysk; fik dansk indfødsret 1851, fik titel af dansk kammerråd 1854; han var fra 1867 bosat i Berlin; gift 1848 med Hertha Adele Jonas"
+description = "tyskfødt litterat, oversætter fra dansk til tysk; bosat 1847 i København, fik dansk indfødsret i 1851 og titel af dansk kammerråd i 1854; fra 1867 var han bosat i Berlin; gift 1848 med Hertha Adele Jonas"
 
 [jonas_hertha_1807]
 name = "Hertha Adele Jonas"
@@ -812,7 +818,7 @@ description = "arkitekt og branddirektør i Maribo, gift 18?? med Margarethe Jø
 name = "Thorvald Jørgensen"
 sortname = "Jørgensen, Thorvald"
 lifetime = "1857-1916"
-description = "cand.theol. og præst, Bangs skolekammerat på Sorø Akademi; bror til Peder Jørgensen"
+description = "cand.theol. og præst, Bangs klassekammerat på Sorø Akademi, hvorfra de begge i 1875 blev studenter; bror til Peder Jørgensen"
 
 [kainz_josef_1858]
 name = "Josef Kainz"
@@ -1210,6 +1216,12 @@ sortname = "Neumann, Victor"
 lifetime = "1852-1924"
 description = "skuespiller, bror til skuespilleren Sophus Neumann"
 
+[nielsen_chr_1871]
+name = "Christian Nielsen"
+sortname = "Nielsen, Christian"
+lifetime = "1871-1946"
+description = "fuldmægtig i forlaget Gyldendal, hvor han var ansat fra 1890, fra ca. 1899 leder af Forlagskontoret, kontorchef 1914; han forlod Gyldendal samtidig med Peter Nansen i 1916"
+
 [nielsen_johannes_1870]
 name = "Johannes Nielsen"
 sortname = "Nielsen, Johannes"
@@ -1258,7 +1270,7 @@ sortname = "Orlamundt, Dagmar"
 lifetime = "1863-1939"
 description = "født Hansen, skuespillerinde, 1900-15 tilknyttet Folketeatret; gift 1882 med skuespilleren Hans Orlamundt"
 
-[orlamundt_Hans_1837]
+[orlamundt_hans_1837]
 name = "Hans Orlamundt"
 sortname = "Orlamundt, Hans"
 lifetime = "1837-1912"
@@ -1478,7 +1490,7 @@ description = "skuespiller, fra 1911 direktør for Det Ny Teater, København"
 name = "Jens Peter von Scholten"
 sortname = "Scholten, Jens Peter von"
 lifetime = "1882-1947"
-description = "premierløjtnant ved 2. Dragonregiment i Odense 1904-16, senere ritmester; boede ca. 1901-02 som logerende hos Bangs søster Nini Holst, Gammel Kongevej 25, København; gift 12.8.1905 med Bangs tidligere sygeplejerske Astrid Pålsson"
+description = "premierløjtnant ved 2. Dragonregiment i Odense 1904-16, senere ritmester; nevø af Herman Bang og Nini Holst, som han ca. 1901-02 logerede hos i lejligheden Gammel Kongevej 25, København; gift 12.8.1905 med Bangs tidligere sygeplejerske Astrid Pålsson"
 
 [schou_andreas_1829]
 name = "Andreas Schou"
@@ -1497,6 +1509,12 @@ name = "William Secher"
 sortname = "Secher, William"
 lifetime = "1854-1907"
 description = "cand.polit., 1878-86 redaktør ved det radikale dagblad _Dagsavisen_, derefter politisk redaktør ved det radikale _Morgenbladet_, fra 1892 chefredaktør ved avisen _Dannebrog_; gift 1882 med skuespillerinde Julie Secher"
+
+[shakespeare_william_1564]
+name = "William Shakespeare"
+sortname = "Shakespeare, William"
+lifetime = "1564-1616"
+description = "engelsk dramatiker"
 
 [skram_amalie_1846]
 name = "Amalie Skram"

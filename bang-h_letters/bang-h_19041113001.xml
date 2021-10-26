@@ -56,15 +56,15 @@
                <date when="1904-11-13"/>
             </correspAction>
             <correspAction type="received">
-               <persName>Christian Houmark</persName>
+               <persName key="houmark_chr_1869">Christian Houmark</persName>
                <placeName>empty</placeName>
             </correspAction>
          </correspDesc>
          <creation>
             <date cert="high" when="1904-11-13">1904, 13. November [søndag] <note>Brevets første
                         4 sider befinder sig på Det Kongelige Bibliotek, NKS 4685, 4to. De sidste
-                        sider må være kommet på afveje forud for Det Kongelige Biblioteks køb af NKS 4685 i 1968; brevets afsluttende sider befinder sig i dag (2021) i privateje. Se også Harald Jepsens artikel "Herman Bang i Prag",_Danske Studier_
-                        1993, s.116-124, hvor brevets komplette ordlyd første gang blev publiceret.</note>
+                        sider må være kommet på afveje forud for Det Kongelige Biblioteks køb af NKS 4685 i 1968; brevets afsluttende sider befinder sig i dag (2021) i privateje. Se også Harald Jepsens artikel »Herman Bang i Prag«, _Danske Studier_
+                        1993, s.116-124, hvor det komplette brevs ordlyd første gang blev publiceret.</note>
             </date>
             <placeName cert="high">Prag</placeName>
          </creation>
@@ -113,7 +113,8 @@
             <p>Næste Dag fik jeg Brev fra den unge Person. Han sendte mig nogle Billeder af
                     Grevinde Strozzi, sin Landsmand....</p>
             <p>Og idag ‒ om nogle Minutter kommer han for at gøre Visit ‒ ‒ Jeg skal fortsætte
-                    efter Visiten... Hans Navn er Iwo de Raić-Lonjsky<ref target="n3"/> ‒ ligesom Kossinsky hos Schiller<ref target="n4"/> er han altsaa kroatisk Adelsmand. Hans Brev opbevarer jeg
+                    efter Visiten... Hans Navn er <persName key="raic_ivo_1881">Iwo de Raić-Lonjsky</persName><ref target="n3"/> ‒ ligesom 
+               Kossinsky hos Schiller<ref target="n4"/> er han altsaa kroatisk Adelsmand. Hans Brev opbevarer jeg
                     til Dem ‒ ‒</p>
          </div>
       </body>
