@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19040410002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>empty</settlement>
+                        <repository>Privateje. Ordlyden er gengivet efter en fotokopi</repository>
+                        <idno>empty</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Dette brev blev solgt 14.3.1990 på Københavns Auktioner, Æbeløgade 4, 2100 København Ø, Bogauktion 1010, kat.nr. 130. Afbildet i kataloget. Brevets køber og nuværende opholdssted er ukendt.</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Herman Bang</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1904-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="dahl_olga_1862">Olga Dahl</persName>
+               <placeName>empty</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1904-04-10">1904, 10. April [søndag]<note>empty</note>
+            </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Odense. Brockmanns Hotel. 10.4.1904.</p>
+            <p>Min kære Ven.</p>
+            <p>Hvor kunde De dog tænke, at Deres Brev vilde eller kunde gøre mig andet end glad. Aa, selv om jeg havde faaet 
+               tusind Breve, vilde <hi rend="italics">Deres</hi> Brev have glædet mig. Og nu – jeg har saagodt som intet hørt om
+               "Mikaël" og Bladene, de tier jo stille<ref target="n1"/>. Nei, jeg skal <hi rend="italics">aldrig</hi> have Lov at seire. Kan man intet andet,
+               kan man tie, trække Tiden ud og umuliggøre det virkelige Salg. Hvor tidt har vi ikke sét det! Jeg hjælper Aaret rundt den
+               hele Bande og til at give Fart for min Vogn, findes ikke én. Jo, "Berlingske"<ref target="n2"/>, som er min eneste Profet. 
+               <persName key="bojesen_ernst_1849">Ernst Bojesen</persName>, der elsker Mikaël, er rasende. Derfor var der ingen "Torsdags-Annonce"<ref target="n3"/>, 
+               hvilket jeg syntes var en god Vittighed af Bojesen.</p>            
+                  <p>Naa – i Himlens Navn.</p>
+            <p>Skal <persName key="dahl_signe_1890">Søster</persName> konfirmeres paa Søndag??<ref target="n4"/></p>
+            <p>Jeg fortsætter nu i nye Landsdele mine Oplæsninger. Men har Hovedstation her i tre Uger.</p>
+            <p>Hils alle derhjemme mangfoldige Gange.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
