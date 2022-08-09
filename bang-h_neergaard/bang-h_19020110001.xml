@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19020110001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider. Sekretær. Underskriften er egenhændig</ab>
+                     </physDesc>
+                     <history>
+                        <ab>På brevets bagside er med blyant og fremmed håndskrift (Niels Neergaard?) skrevet: <hi rend="italics">Mand, fyldt 74. 500 Kr. aarl.</hi></ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1902-01-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_niels_1854">Neergaard, Niels</persName>
+               <placeName>København</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1902-01-10">1902. 10. januar, fredag. <note>Bang fik først fra april 1903 en årlig statsunderstøttelse på 400 kroner på finansloven. ‒ Niels Neergaard var medlem af Folketinget for partiet Venstre
+            uafbrudt fra 1892. Han fik sin første ministerpost i 1908</note>
+            </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p>Gl. Kongevej 25 4 [et hævet "4-tal", for 4.sal] København B.</p>
+            <p rend="right">Fredag 10 Jan. 1902.</p>
+            <p>Kære Neergaard.</p>
+            <p>Nej, ved De hvad nu synes jeg, det bliver for galt.</p>
+            <p>Iaar har jeg (efter mine Lægers Ønske) <hi rend="italics">søgt</hi> Statsunderstøttelse og man har ikke taget Gnist af Hensyn til min Ansøgning.</p>
+            <p>Vil dog ikke De, for gammelt Venskabs Skyld, se at faa at vide, hvilken Grund man giver for dette, som nu rent ud synes en haansk Tilsidesættelse.</p>
+            <p>Vi er nu saa faa Digtere her i Landet, at det ikke ret vel gaar an at forbigaa mig forat belønne saa og saa mange Skribenter som ingen kender.</p>
+            <p>Vil De, naar De har erfaret Grunden, sende mig to Ord som Svar ‒ da vilde jeg være Dem meget taknemmelig.</p>
+            <p>De hjærteligste Hilsener fra</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>
+                            </div>
+      </body>
+   </text>
+</TEI>

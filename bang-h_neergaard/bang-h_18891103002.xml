@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18891103002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1889-11-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>[København]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-11-03">[1889, 3. november], søndag. <note>Bangs nye roman <hi rend="italics">Tine</hi> blev anmeldt i dagbladet <hi rend="italics">Politiken</hi> søndag 3.11.1889. Anmeldelsen, der var skrevet af forfatteren
+               Erik Skraam, påtaler flere tilfælde af, hvad Skram kalder for faktuelle fejl i romanen. ‒ Indtil 1892 var Dagmar Neergaard unavngiven redaktionssekretær for sin mand, da han 1884-1892 var redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+             </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">                     
+            
+            <p rend="right">Søndag.</p>
+            <p>Kære Fru Neergaard.</p>
+            <p>Nej ‒ <persName key="skram_erik_1847">Skram</persName> kan vi jo ikke have til at skrive i »Skueren«<ref target="n1"/>. Hans Anmeldelse var gruelig ‒ for Salget og for mig. At <hi rend="italics">den</hi> Recension, som ikke 
+               nævner II<ref target="n2"/> tillige er uretfærdig, hvem bekymrer sig om det? Det er jo klart, at han, som hele Sommeren af <persName key="langhoff_paul_1862">Langhoff</persName> har hørt om Bogens store Egenskaber, nu har løbet sig fast ‒ af Modsigelseslyst ‒ i alle dens Fejl.</p>
+            <p>Naa ‒ for mig er det slemt.</p>
+            <p>Jeg skal vel aldrig naa denne Fugl: Sukcès.</p>
+            <p>Fejlberg<ref target="n3"/> var hos mig idag og bad mig skrive om Coquelin<ref target="n4"/>. Da det jo ikke kan skade, sagde jeg endelig »Ja« ‒ maatte det ogsaa af Hensyn til Pengene ‒; saa sér jeg ham og kan jo i »Tilskueren« anstille visse
+            Enkeltsammenligninger.</p>
+            <p>Skrams Anmeldelse har truffet mig tungt. Blot han dog havde fremhævet visse Afsnit ‒ f:Ex: Begravelsen ‒ en enkelt Figur, f:Ex: Provsten. Men slet ingenting. Nu sér det ud som en Fiasco, der skal dækkes....
+            Gud fri En fra sine Venner.</p>
+            <p>Adieu. Tak for igaar. Hils <persName key="neergaard_niels_1854">Mand</persName> og Neveu<ref target="n5"/></p>
+            <p rend="right">fra Deres Ven</p>
+            <p rend="right">Herman B.</p>            
+                                 
+                            </div>
+      </body>
+   </text>
+</TEI>

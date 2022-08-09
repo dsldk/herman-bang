@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18891114001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1889-11-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>[København]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1889-11-14">[1889, 14. november], torsdag. <note>Af ukendte årsager endte det med, at Bangs nye roman <hi rend="italics">Tine</hi> aldrig fik en anmeldelse i <hi rend="italics">Tilskueren</hi>. ‒ Indtil 1892 
+               var Dagmar Neergaard unavngiven redaktionssekretær for sin mand, da han 1884-1892 var redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+             </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">                     
+            
+            <p rend="right">Torsdag Morgen.</p>
+            <p>Kære Fru Neergaard.</p>
+            <p>Indlagt Billetterne.</p>
+            <p>Iovermorgen faar De Teater-Revuen<ref target="n1"/>.</p>
+            <p>Gud give, De ikke boede i dette Falkonéralleens »Ultima«<ref target="n2"/>. Det er saa frygteligt at naa derud, især, naar man, som jeg nu, langtfra er ganske rask.</p>
+            <p>Vi maa lade <persName key="moeller_vilhelm_1846">Vilhelm Møller</persName> anmelde »Tine«. Lad <persName key="neergaard_niels_1854">Neergaard</persName> skrive til ham ‒ og det snarest. Vi véd, hvor langsomt 
+               han sadler og hvor sént han rider<ref target="n3"/>.</p>
+            <p>Mange Hilsener til <persName key="neergaard_niels_1854">Manden</persName></p>
+            <p rend="right">fra Deres Ven</p>
+            <p rend="right">H. B.</p>            
+                                 
+                            </div>
+      </body>
+   </text>
+</TEI>

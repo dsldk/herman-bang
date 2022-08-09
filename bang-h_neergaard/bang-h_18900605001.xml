@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18900605001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider.  Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">Larvik</placeName>
+               <date when="1890-06-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_niels_1854">Neergaard, Niels</persName>
+               <placeName>Larvik</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1890-06-05">[1890. 5. juni, torsdag]. <note>Brevet dateres i forhold til den offentlige erklæring, som Bang selv daterede »Laurvig den 5 Juni 1890«, og som blev trykt 13.6.1890 i 
+               <hi rend="italics">Nordisk Boghandlertidende</hi>. ‒ Niels Neergaard (1854-1936) var 1884-1892 redaktør af tidsskriftet
+                        <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">Larvik</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Laurvig.</p>
+            <p>Kære Neergaard.</p>
+            <p>Jeg er bedre men endnu stadig syg. Jeg lider meget.</p> 
+            <p><persName key="philipsen_gustav_1853">Philipsen</persName> vil have en »Erklæring« offentliggjort<ref target="n1"/>. Jeg har underskrevet. Han vil tillige have en <hi rend="italics">Bøde</hi>. Jeg beder Dem influere paa ham for at afstaa derfra. Jeg har virkelig handlet i god Tro og efter en hel Vinters Sygdom er jeg just ikke rig. Jeg tror heller ikke, Ph. vilde staa just med Sympatien.</p>
+            <p>Tusinde Hilsener til <persName key="neergaard_dagmar_1860">Fru Neergaard</persName>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+                    </div>
+      </body>
+   </text>
+</TEI>

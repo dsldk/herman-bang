@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18900414001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="low">Larvik</placeName>
+               <date when="1890-04-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_niels_1854">Neergaard, Niels</persName>
+               <placeName>[Larvik]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1890-04-14">[1890. ca. 14. april], Mandag. <note>Dateringsforslaget er et gæt ud fra følgende omstændigheder: Fra februar 1890 havde Vilhelm Møller overtaget de månedlige teateranmeldelser i tidsskriftet <hi rend="italics">Tilskueren</hi> under overskriften »Teatrene«.
+               I et brev til Dagmar Neergaard, dateret 18.4.1890, antyder Bang, at han på daværende tidspunkt længe har ventet brev fra hende. ‒ Niels Neergaard (1854-1936) var 1884-1892 redaktør af tidsskriftet
+                        <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="low">[Larvik]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Mandag.</p>
+            <p>Kære Neergaard.</p>
+            <p>Jeg sender Dem her en Artikel af en ung Mand, som er meget dygtig. Artiklen synes mig <hi rend="italics">udmærket</hi>. Med <persName key="moeller_vilhelm_1846">Vilhelm Møller</persName> vil den ikke kollidere<ref target="n1"/>. Forfatteren vil være meget lykkelig, om De tager den.</p> 
+            <p>Sig mig, hvorfor hører jeg dog <hi rend="italics">aldrig</hi> mere fra <persName key="neergaard_dagmar_1860">Deres Kone</persName>? Det gør mig meget ondt. Brevene fra hende var mig altid saa stor en Glæde.</p>
+            <p>Lad hende læse Artiklen, som vist vil interessere hende. Og hils hundrede Gange.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+                    </div>
+      </body>
+   </text>
+</TEI>

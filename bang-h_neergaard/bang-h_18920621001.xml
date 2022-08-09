@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18920621001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 6026: Niels Neergaard, III: korrespondance; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang. </ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Brevet er fejlagtigt blevet anbragt i hendes forhenværende mand Niels Neergaards privatarkiv</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">Sæby</placeName>
+               <date when="1892-06-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>Sæby</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1892-06-21">[1892, cirka 21. juni, tirsdag]. <note>Dateringsforslaget bygger først og fremmest på en sandsynlig identifikation af Bangs vedlagte manuskript med hans artikel »Nogle Bøger«, trykt i 
+               julinummeret af <hi rend="italics">Tilskueren</hi>, i kombination med at han håber at kunne modtage honorar herfor torsdag. ‒ Indtil 1892 var Dagmar Neergaard unavngiven redaktionssekretær for sin mand, da han 1884-1892 var 
+               redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+             </date>
+            <placeName cert="high">Sæby</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sæby.</p>
+            <p>Kære Ven.</p>
+            <p>Dette er egenlig skrevet for »Verdens Gang«<ref target="n1"/> men saa syntes jeg ‒ at det var lidt for godt, og skønt »V.G.« nok betaler tre Gange mere, sender jeg det til Dem ‒ ‒ hvis De nu
+            vil ha'e det. Det fører vist desuden en ung Digter frem for Beskuelsen<ref target="n2"/>.</p>
+            <p>Det maa vel nok være 40 Kr. værd. Vil De sende mig dem med næste Post, saa jeg haver dem Torsdag.</p>
+            <p>Og De er stum som en Fisk.</p>
+            <p>Hvis jeg paastod, at jeg havde det dejligt, løj jeg grovt. Men paa Veje til at blive rask er jeg da. Og paa Romanen<ref target="n3"/> skrives.</p>
+            <p>Balsamerer De »Hedda«?<ref target="n4"/> Og baade fransk og tysk Oversætter venter paa Liget.</p>
+            <p>Ved De, hvem der paa Tirsdag skal ‒ i trende Uger ‒ bo Dør om Dør med min Ringhed? <hi rend="italics">dame</hi> Linnemann<ref target="n5"/>. Foreløbig svæver hun i rød Silkekjole om
+            paa »Bangsbo« og »leger yndeligt for Herren«<ref target="n6"/> (til Bangsbo).</p>
+            <p>Hils Folketingets <persName key="neergaard_niels_1854">Paany-Mand</persName><ref target="n7"/>.</p>
+            <p rend="right">Deres Ven og Kavallerist<ref target="n8"/></p>
+            <p rend="right">Herman B.</p>
+                                             
+                            </div>
+      </body>
+   </text>
+</TEI>

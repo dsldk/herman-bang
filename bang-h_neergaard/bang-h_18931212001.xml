@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18931212001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">Paris</placeName>
+               <date when="1893-12-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_niels_1854">Neergaard, Niels</persName>
+               <placeName>Paris</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1893-12-12">1893. 12. december, [tirsdag]. <note>Der ses ikke at være trykt aktuelle tekster, »Breve«, af Bang i Paris i <hi rend="italics">Aarhus Amtstidende</hi> i den periode, hvor Niels Neergaard var avisens redaktør.
+               Det julenummer, som Bang hentyder til, er ikke nærmere oplyst. ‒ Niels Neergaard (1854-1936) var 1892-1897 redaktør af <hi rend="italics">Aarhus Amtstidende</hi>
+               </note>
+            </date>
+            <placeName cert="high">Paris</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Paris. 12.12.93.</p>
+            <p>Kære Neergaard.</p>
+            <p>Tak for Deres Brev.</p>
+            <p>Her er, hvad min Stemning har tilladt mig at skrive. Kan De, da det er et Julenummer<ref target="n1"/>, give mig 20 Kr: derfor eller 25 frcs?<ref target="n2/"></ref> <hi rend="italics">Send dem da omgaaende</hi>. Mit Arbejde her for alle de andre, gør mig saa fattig.</p>
+            <p>Jeg vil gerne skrive et Par Breve om Maaneden. Og for dem kan De saa betale mig som Evnen er.</p>
+            <p>»Tine« og »Ved Vejen« udkommer ‒ kontraktligt ‒ begge i Februar<ref target="n3"/>. I Januar bringer Revue des deux Mondes en stor <app><lem>Essay</lem><rdg>Ordets første bogstav har Bang rettet fra et A</rdg></app> om mig<ref target="n4"/>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+                    </div>
+      </body>
+   </text>
+</TEI>

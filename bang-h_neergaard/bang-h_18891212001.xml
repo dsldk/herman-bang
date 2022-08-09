@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18891212001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang. Brevpapir med trykte initialer: <hi rend="italics">H.B.</hi> foroven i venstre side; begge bogstaver med en lang nedstreg. Bang har beskrevet brevpapiret, så initialerne står på side 2</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">Odense</placeName>
+               <date when="1889-12-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>Odense</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1889-12-12">[1889, ca. 12. december], torsdag. <note>I Odense havde Bang arbejdsro til at færdigskrive sin novelle »En dejlig Dag«. Første del af novellen var trykt i <hi rend="italics">Tilskueren</hi> i september 1889,
+               anden og afsluttende del var først færdigskrevet, så den kunne trykkes i januar 1890. ‒ Indtil 1892 
+               var Dagmar Neergaard unavngiven redaktionssekretær for sin mand, da han 1884-1892 var redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+             </date>
+            <placeName cert="high">Odense</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">                     
+            
+            <p rend="right">Odense Torsdag.</p>
+            <p>Kære Ven.</p>
+            <p>Nu sidder jeg her igen. Imorgen skal De faa »Teaterrevuen«<ref target="n1"/>. Jeg laa i København i Sengen al den Tid, jeg ikke var i Teatret. Jeg er <hi rend="italics">meget</hi> syg, og sandsynligvis var min eneste rette Plads
+            paa et Hospital.</p>            
+            <p>De maa her i Korrekturen, <hi rend="italics">dér</hi>, hvor Generalinden, hjemkommen, staar foran sit Spejl, indføje et fransk Ordsprog, som siger:</p>
+            <p>»Det er Hip som Hap« ‒ eller:</p>
+            <p>»Den ene Ravn hugger ikke Øjnene ud paa den anden.«<ref target="n2"/></p>
+            <p>De kan finde det i et Leksikon. Jeg har intet.</p>
+            <p>Jeg kan ikke skrive mere, da jeg knap kan holde mig oprejst.</p>
+            <p rend="right">Altid Deres Ven</p>
+            <p rend="right">H. B.</p>                        
+                                 
+                            </div>
+      </body>
+   </text>
+</TEI>

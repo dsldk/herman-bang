@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19020208001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-02-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>[København]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1902-02-08">1902, 8. februar, [lørdag]. <note>Det fremgår af brevets ordlyd, at Bang i 1902 endnu ikke havde aflagt besøg hos Dagmar (Neergaard) Lemming; hun havde siden 1898 boet på en stor gård
+               mellem Roskilde og Borup. ‒ Dagmar [Neergaard] Lemming havde 16.8.1898 giftet sig (hendes andet ægteskab) med godsejer Jens Andreas Lemming, Skousboegaard ved Viby Sjælland</note>
+             </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">                              
+            <p rend="right">8.2.1902.</p>
+            <p>Kære Ven.</p>
+            <p>Jeg ved meget godt, at jeg gør Dem en lille Sorg, naar jeg ikke kommer imorgen. Men Sandheden er, at det er <hi rend="italics">umuligt</hi>: det er iaften<ref target="n1"/> tredje Aften i Træk, jeg skal læse op, og jeg er
+            allerede idag saa mat, at jeg véd, jeg, bogstavelig talt, ikke vil kunne røre mig imorgen.</p>
+            <p>Naar det en Søndag er blot muligt, skal jeg sikkert komme. Ti, hvad De end vil mene, er jeg ikke af <hi rend="italics">dem</hi>, der glemmer Mennesker, som er mine Venner, og jeg vil saa gerne se Deres Hjem.</p>
+            <p>De hjerteligste Hilsener til Deres Mand<ref target="n2"/> fra</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>            
+                                 
+                            </div>
+      </body>
+   </text>
+</TEI>

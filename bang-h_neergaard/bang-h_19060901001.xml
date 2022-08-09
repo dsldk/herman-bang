@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19060901001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Troensegaard I.2a. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang. </ab>
+                     </physDesc>
+                     <history>
+                        <ab>Øverst på brevets side 1 er med blyant og med fremmed håndskrift skrevet: <hi rend="italics">Bedes Retur</hi>; måske skrevet af Torben Troensegaard</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">[København]</placeName>
+               <date when="1906-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="michaelis_karin_1872">Michaëlis, Karin</persName>
+               <placeName>[København]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1906-09-01">1906, 1. september, [lørdag]. <note>Efter håndskriften at dømme kan brevet være fra årene ca. 1900-1905. En placering i 1904 er et gæt. ‒ Det må antages, at bogsamleren Torben Troensegaard (1916-1986) 
+               sidst i 1940'erne har erhvervet ialt 11 Bangbreve direkte fra Karin Michaëlis</note>
+             </date>
+            <placeName cert="high">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">1.9.1906.</p>            
+            <p>Kære Fru Michaëlis.</p>
+            <p>Ja, nu er jeg desværre blevet Sceneinstruktør igen<ref target="n1"/>. Der var ingen Vej frem andetsteds.</p>
+            <p>Men nu vilde jeg spørge Dem: Tror De ikke, at De kunde skrive en Eventyrkomedie? En med Trolde og det Hele? Det tror jeg, De maatte kunne.</p>
+            <p>En klar og enkel Fabel, fattelig selv for Børn, indenfor en Eventyrramme.</p>
+            <p>Hvis noget slaar ned i Dem, saa spring til Arbejdet.</p>
+            <p>Teatret skaffer sin Digter baade Ørenlyd og Penge.</p>
+            <p>Med mange Hilsener til Dem og <persName key="michaelis_sophus_1865">Deres Mand</persName></p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Prinsesse Maries Allée 5</p>
+            <p><hi rend="italics">V</hi>.</p>
+                                             
+                            </div>
+      </body>
+   </text>
+</TEI>

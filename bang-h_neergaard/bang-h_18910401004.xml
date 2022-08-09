@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18910401004</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider, stift kort. Egenhændigt skrevet af Herman Bang. </ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="low">[København]</placeName>
+               <date when="1891-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>[København]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1891-04-01">[1891, april?], mandag. <note>Er måske skrevet i februar-marts-april 1891? ‒ Indtil 1892 
+               var Dagmar Neergaard unavngiven redaktionssekretær for sin mand, da han 1884-1892 var redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+             </date>
+            <placeName cert="low">[København]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">            
+            <p rend="right">Mandag.</p>
+            <p>Kære Fru Neergaard.</p>
+            <p>Der er mange Ting, hvorom jeg ønskede lidt Besked.</p>
+            <p>1) Hvad er der blevet af »Kvinder«?<ref target="n1"/></p>
+            <p>2) Er min Artikel dog ikke sat? Det maa jo være høj Tid. Muligvis er en Korrektur sendt til Taarbæk. Jeg beder isaafald om at faa en ny Korrektur sendt <hi rend="italics">hertil Studiestræde</hi> 4.</p>
+            <p>Naar Artiklen er sat, skal jo Fru Andreasen<ref target="n2"/> have Pengene. Vis mig den Godhed, kære Fru Neergaard, ikke at forhale denne Ting, og tilgiv mig, min Ven, al den Møje, jeg volder Dem.</p>
+            <p>Til at besé »Læseforeningen«<ref target="n3"/> er jeg hver Dag beredt. Send mig saa Korrekturen. Hils <persName key="neergaard_niels_1854">Rigsdagsmanden</persName>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+                                             
+                            </div>
+      </body>
+   </text>
+</TEI>

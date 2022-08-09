@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000610002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>NBD 3.rk (acc. 2013/98)</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang. </ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">København</placeName>
+               <date when="1900-06-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="jensen_jv_1873">Jensen, Johannes V.</persName>
+               <placeName>København</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="low" when="1900-06-10">[1900, cirka 10. juni, søndag]. <note>Brevet er skrevet ved samme tid som det ligeledes udaterede brev til Karin Michaëlis [ca. 10.6.1900] og med tilsvarende ærinde. Efter et ophold i Paris, hvor han 
+               besøgte Verdensudstillingen, var Johannes V. Jensen hjemme i København en af de første dage i juni 1900 (se Oluf Friis: <hi rend="italics">Den unge Johannes V. Jensen</hi>, bd. 2, 1974, s. 87). Han boede Gammel Strand 28, 3.sal. ‒ Ifølge 
+               <hi rend="italics">Breve til Fritz</hi> modtog Bang et svarbrev fra Jensen torsdag 14.6.1900, og fredag 15.6.1900 aflagde Jensen sit eneste besøg hos Bang, skildret i Bangs brev »Fredag« til Fritz Boesen (Breve til Fritz, s. 93 og 94)</note>
+             </date>
+            <placeName cert="high">København</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Gamle Kongevej 25. København. B.</p>                                    
+            <p>Hr. Johannes V. Jensen.</p>
+            <p>Jeg skulde lave en »Julegave« for en Mand i Kolding<ref target="n1"/>. Og jeg vilde gerne have et Bidrag fra Dem<ref target="n2"/>. Skriv en lille »Juleaften« fra et eller andet Sted paa Jorden og send mig den hurtigst. Pengene faar De strax.</p>
+            <p>I denne Tid har jeg læst alle Deres Bøger igen<ref target="n3"/>. Noget af det er pragtfuldt. De er sikkerlig »Manden«.</p>
+            <p>Skriv saa den lille Ting og svar</p>
+            <p rend="right">Deres ærbødige</p>
+            <p rend="right">Herman Bang.</p>
+                                             
+                            </div>
+      </body>
+   </text>
+</TEI>

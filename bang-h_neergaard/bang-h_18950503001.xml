@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18950503001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">Sandvika, ved Kristiania</placeName>
+               <date when="1895-05-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>Sandvika, ved Kristiania</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1895-05-03">[1895. 3. maj], fredag. <note>På Dagmarteatret i København fik Dagmar Neergaard lørdag 4.5.1895 sin længe ønskede debut i den kvindelige hovedrolle som hertuginde Antonia Padovani i 
+               skuespillet <hi rend="italics">Kampen for Tilværelsen</hi>. Instruktør var Bjørn Bjørnson, som selv spillede den mandlige hovedrolle som arkitekten og darwinisten Paul Astier. ‒ Johan Knudsen var i 1895-1897 meddirektør 
+               for Dagmarteatret i København, sammen med sin bror C. Riis-Knudsen</note>  
+             </date>
+            <placeName cert="high">Sandvika, ved Kristiania</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sandviken. Fredag.</p>                  
+            <p>Min Ven. Saa er det da idag. Jeg vilde have telegraferet ‒ blot et eneste Ord: »Mod«. Men jeg har ikke »Midlerne«. Og man kan jo ikke <hi rend="italics">telegrafere</hi> paa Kredit. Saa vil jeg da
+            idetmindste skrive, saa De kan sé, hvad De vel forresten véd, at jeg tænker paa Dem. Saa er det idag. Efter saa mange Aar og efter saa lang en Vej. Gid jeg havde været der, gid jeg havde kunnet opmuntre Dem.
+            Men det har nu ikke skullet være...</p>
+            <p>Hvor underligt at tænke: at, naar De læser dette, er det skét og De har staaet paa Scenen og De har talt til dette Mange-Hoved ude i Mørket. Hvor inderligt, hvor uendeligt jeg ønsker Dem alt Godt,
+            alt det Bedste. Og spiller De saaledes ud, som de sidste Dage paa »Bangsbo«<ref target="n1"/>, véd jeg, De sejrer.</p>
+            <p>At sidde saa langt fra sine Venner...</p>
+            <p>Hvor I alle har været angst ‒ jeg vil slet ikke tale om <persName key="knudsen_johan_1865">Johan</persName>, der vist ikke har vidst, hverken hvor han skulde gaa eller staa. Det arme Menneske.
+               Hvor vil han gemme sig, naar det skal gaa løs ‒ ‒ ‒ Ja, jeg har jo ingenting at skrive mer, end dette.</p>            
+            <p>Blot ikke <hi rend="italics">alt</hi>for mange »private« Bevæggrunde maa diktere Kritiken for <persName key="nansen_peter_1861">Peter N.</persName><ref target="n2"/> og de andre. Det er min stille Bøn.</p>
+            <p><hi rend="italics">Kan</hi> De skrive en Smule til mig. Men da udførligt, selv om det bliver i den største Hast.</p>
+            <p>Hils Johan.</p>
+            <p>Aa, hvor De <app><lem>nu</lem><rdg>Før dette ordet havde Bang på linjen skrevet ordet: er, men han har straks overstreget det</rdg></app> er bange. Og gid jeg var der og kunde give Dem de sidste Raad.
+            B.B.<ref target="n3"/> tænker for meget paa sig selv og paa Atlaskryggen i sin egen Vest.</p>            
+            <p rend="right">Herman.</p>            
+                                 
+                            </div>
+      </body>
+   </text>
+</TEI>

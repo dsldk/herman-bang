@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18890119002</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 3 sider.  Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">[Nakskov]</placeName>
+               <date when="1889-01-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>[Nakskov]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-01-19">[1889. 19. januar], lørdag. <note>Ifølge Bangs angivelse af ugedag skal brevet dateres til enten 19. eller 26. januar; efter udgiverens skøn er den tidlige mulighed mest sandsynlig. ‒ Indtil 1892 var Dagmar Neergaard unavngiven 
+               redaktionssekretær for sin mand, da han 1884-1892 var redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+            </date>
+            <placeName cert="high">[Nakskov]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Lørdag.</p>
+            <p>Min kære Fru Neergaard.</p>
+            <p>Jeg er saa træt, at jeg næppe kan holde Pennen. Men alligevel vil jeg takke Dem for Brevet, det første, jeg fik her, og som gjorde mig saa glad. Det er saa faa, der nærer Venskab 
+               for <app><lem>en</lem><rdg>Ordet har Bang tilføjet over linjen</rdg></app> enlig Sær, hvis Meninger ikke er Mængdens, som »Klikerne« holder af at udlevere enten til »Medlidenheden« eller til Latteren, og som nu kun har bevaret
+            en Passion, en dyb Kærlighed til Ensomheden.</p>
+            <p>Jeg vilde ellers her være ret tilfreds, hvis jeg blot ret vidste, hvad jeg skulde leve af. Men derom er mit Begreb desværre mangelfuldt. Jeg har idag skrevet meget paa min Bog<ref target="n1"/>, indtil jeg tilsidst bogstavelig faldt hen,
+            udmattet som efter et langt Ridt. Himlen give dog, at denne Bog maatte blive sit Emne værd.</p>
+            <p>Min Adresse er: <hi rend="italics">Nakskov</hi>. At tro, at Posten ikke skulde kunne finde Herman Bang i Nakskov. Jeg henter hver Dag selv alle mine Breve<ref target="n2"/>. Saa kan Byen mindre let kontrollere min Brevveksling.</p>
+            <p>Hils <persName key="neergaard_niels_1854">Folketinget</persName><ref target="n3"/>.</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">H. B.</p>
+            <p>Jeg vil nu tilbringe Aftenen med Goncourt'ernes »Sensations«<ref target="n4"/>; jeg elsker saadanne store Sandheder, spejlede i Dugdraaber. Blev jeg nogensinde gammel, vilde jeg ogsaa 
+               skrive saadanne Sætninger og intet andet ‒ et Slags moderne Talmud<ref target="n5"/>.</p>
+                     
+                            </div>
+      </body>
+   </text>
+</TEI>

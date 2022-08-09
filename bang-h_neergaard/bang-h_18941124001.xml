@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18941124001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">Sandvika, ved Kristiania</placeName>
+               <date when="1894-11-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>Sandvika, ved Kristiania</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1894-11-24">1894. 24. november, [lørdag]. <note>Fra november 1894 til maj 1895 var Bang indlogeret på en pension i Sandvika, 13 km vest for Kristiania (Oslo). ‒ Johan Knudsen var i 1895-1897
+               meddirektør for Dagmarteatret i København, sammen med sin bror C. Riis-Knudsen. I sæsonen 1894-95 stræbte Dagmar Neergaard efter at få sin debut som skuespiller, ifølge dette brevs ordlyd enten på Folketeatret eller på Dagmarteatret</note>  
+             </date>
+            <placeName cert="high">Sandvika, ved Kristiania</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Sandviken. 24.11.94.</p>                     
+            <p>Kære Dagmar.</p>
+            <p>Aa, min Ven, jeg har tænkt med Uro paa Dem hver Dag. Og gør det endnu mere nu efter at jeg endelig har modtaget et Brev. Fremfor alt: en Afgørelse hos <persName key="abrahams_severin_1843">Abrahams</persName><ref target="n1"/>.
+            Af to Grunde: 1) fordi ellers »Mme-Sans-Gène« vil tage hele Resten af Vinteren<ref target="n2"/>; 2) fordi <persName key="knudsen_johan_1865">Johan</persName>, naar A's Afgørelse er falden, maa tage Sagen
+            i Haand med »Dagmar«<ref target="n3"/>. Ti spille <hi rend="italics">maa</hi> De. Jeg har atter skrevet til Johan derom.</p>
+            <p>B.B's<ref target="n4"/> Evner som Lærer ‒ der i sit Slags er meget betydelige ‒ vil De snart lære at værdsætte. Jeg imødesér med den Sindsro, med hvilken jeg betragter alt i dansk Teaterverden, overfor B.B. hele
+            den Reaktion, der vil blive ligesaa uretfærdig som nu Begeistringen er overdreven.</p>
+          <p>Og De, kære Dagmar, tab ikke Modet. Gid <hi rend="italics">jeg</hi> kunde gøre noget, da var det allerede gjort.</p>            
+            <p rend="right">Herman.</p>            
+                                 
+                            </div>
+      </body>
+   </text>
+</TEI>
