@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">18891229001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Rigsarkivet</repository>
+                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 3 sider. Øverst til venstre på brevpapirets forside er Bangs initialer fortrykt: <hi rend="italics">H.B.</hi>. Egenhændigt skrevet af Herman Bang.</ab>
+                     </physDesc>
+                     <history>
+                        <ab>empty</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>empty</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">[Odense]</placeName>
+               <date when="1889-12-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
+               <placeName>[Odense]</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1889-12-29">[1889. 29. december], søndag. <note>Med brev af 24.12.1889 havde Bang sendt sin flere gange omskrevne slutning af novellen »En dejlig Dag« til Dagmar Neergaard, dvs. til tidsskriftet <hi rend="italics">Tilskueren</hi>. I de mellemliggende dage har hun tilsyneladende ikke bekræftet modtagelsen. ‒ Indtil 1892 var Dagmar Neergaard unavngiven 
+               redaktionssekretær for sin mand, da han 1884-1892 var redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+            </date>
+            <placeName cert="high">[Odense]</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Søndag.</p>
+            <p>Min Ven, har De Influenza? Eller er Slutningen af »En dejlig Dag« falden saa slet ud, at De ømmer Dem ved at skrive? Jeg haaber da ikke, det er Epidemien, som <app><lem>har</lem><rdg>Ordets første bogstav er rettet fra: er</rdg></app> 
+               angrebet Dem. <persName key="feilberg_anna_1846">Fru Feilberg</persName> skrev, at den slet ikke mere var saa godartet som Folk gik om og mente. Og saa var det rigtig slemt, om De fik den.</p>                                  
+            <p>Hermed følger en stor Artikel om »Teaterdrift i Provinserne«. Jeg ønsker dette Spørgsmaal rejst. Den kan jo først komme i Februar<ref target="n1"/>.</p>
+            <p>Men Penge maa jeg have ‒ som sædvanlig. For »En dejlig Dag« har jeg faaet 125 Kr. Hvor stor er den mon i det Hele? For denne Artikel, som vist bliver 12 Sider<ref target="n2"/>, beder jeg Dem indstændigen og hurtigst at presse 50 Kr: ud
+            af <persName key="philipsen_gustav_1853">Philipsen</persName>, for at jeg kan komme til København tre, fire Dage at sé Komedie<ref target="n3"/>.</p>
+            <p>Mange Hilsener, kære Ven. Og et godt, et lykkeligt Aar. Af hele mit Sind takker jeg Dem for det gamle. Bevar ogsaa i Aaret, der kommer, lidt Venskab for et ensomt Skrog. Jeg vil ikke ophøre med at tænke i Venskab om Dem ‒ paa
+            Dem. Hils <persName key="neergaard_niels_1854">Deres Mand</persName> og ønsk ham i 90 alt godt i Liv, i Rigsdag, i »Tilskueren«.</p>
+            <p>Adieu.</p>
+            <p rend="right">Herman B.</p>
+            <p>Tak for Hunden<ref target="n4"/>. Jeg tog ham med til Nyborg, hvor jeg sad Juleaften paa en stille Kro.</p>
+                       
+                                 
+                            </div>
+      </body>
+   </text>
+</TEI>

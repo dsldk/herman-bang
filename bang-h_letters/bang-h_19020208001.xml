@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">19020208001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -28,7 +28,7 @@
                         <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang.</ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -52,19 +52,19 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-02-08"/>
             </correspAction>
             <correspAction type="received">
                <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <placeName>[København]</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
+            <date cert="high" when="1902-02-08">1902, 8. februar, [lørdag]. <note>Det fremgår af brevets ordlyd, at Bang i 1902 endnu ikke havde aflagt besøg hos Dagmar (Neergaard) Lemming; hun havde siden 1898 boet på en stor gård
+               mellem Roskilde og Borup. ‒ Dagmar [Neergaard] Lemming havde 16.8.1898 giftet sig (hendes andet ægteskab) med godsejer Jens Andreas Lemming, Skousboegaard ved Viby Sjælland</note>
              </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <placeName cert="high">[København]</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -81,13 +81,15 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
+         <div xml:lang="da">                              
+            <p rend="right">8.2.1902.</p>
             <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
-            <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
+            <p>Jeg ved meget godt, at jeg gør Dem en lille Sorg, naar jeg ikke kommer imorgen. Men Sandheden er, at det er <hi rend="italics">umuligt</hi>: det er iaften<ref target="n1"/> tredje Aften i Træk, jeg skal læse op, og jeg er
+            allerede idag saa mat, at jeg véd, jeg, bogstavelig talt, ikke vil kunne røre mig imorgen.</p>
+            <p>Naar det en Søndag er blot muligt, skal jeg sikkert komme. Ti, hvad De end vil mene, er jeg ikke af <hi rend="italics">dem</hi>, der glemmer Mennesker, som er mine Venner, og jeg vil saa gerne se Deres Hjem.</p>
+            <p>De hjerteligste Hilsener til Deres Mand<ref target="n2"/> fra</p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>            
                                  
                             </div>
       </body>

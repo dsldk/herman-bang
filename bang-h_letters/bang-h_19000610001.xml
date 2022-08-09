@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">19000610001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -24,14 +24,14 @@
                   <msDesc>
                      <msIdentifier>
                         <settlement>København</settlement>
-                        <repository>Rigsarkivet</repository>
-                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Troensegaard I.2a. Uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
-                        <ab>empty</ab>
+                        <ab>På samme linje som brevets indledningsord »Chère Madame« er med blyant i fremmed hånd tilføjet: <hi rend="italics">(Karin Michaëlis)</hi>, formodentlig af bogsamleren Torben Troensegaard</ab>
                      </history>
                      <additional>
                         <listBibl>
@@ -52,19 +52,20 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">København</placeName>
+               <date when="1900-06-10"/>
             </correspAction>
             <correspAction type="received">
-               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <persName key="michaelis_karin_1872">Michaëlis, Karin</persName>
+               <placeName>København</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
+            <date cert="low" when="1900-06-10">[1900, cirka 10. juni, søndag]. <note>Brevet skal dateres til juni 1900, men en mere præcis dato er udgiverens gæt. Anledningen er den samme som i Bangs ligeledes udaterede brev til Johannes V. Jensen, nemlig en
+               opfordring til at indsende et tekstbidrag til en julepublikation (en »Julegave«), som Bang skal redigere for en mand i Kolding. ‒ Det må antages, at bogsamleren Torben Troensegaard (1916-1986) sidst i 1940'erne har erhvervet ialt 11 Bangbreve direkte fra
+            Karin Michaëlis</note>
              </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <placeName cert="high">København</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -82,13 +83,13 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
-            <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
-            <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
-                                 
+            <p rend="right">Gamle Kongevej 25. København. B.</p>
+            <p>Chère Madame.</p>
+            <p>Jeg har skrevet om en »Julegave«<ref target="n1"/> til <persName key="michaelis_sophus_1865">Deres Mand</persName>. Vilde De ikke ogsaa skrive lidt? F:Eks: »Juleaften blandt Fremmede«?</p>
+            <p>Penge strax.</p>            
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>            
+                                             
                             </div>
       </body>
    </text>

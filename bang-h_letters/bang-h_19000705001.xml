@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bangs Breve</title>
+            <author>Herman Bang</author>
+            <editor xml:id="posselt_gert_1955">Gert Posselt</editor>
+            <funder>Augustinus Fonden</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Danske Sprog- og Litteraturselskab</publisher>
+            <pubPlace>København</pubPlace>
+            <date>2019</date>
+            <idno type="hbb">19000705001</idno>
+            <idno type="isbn">nil</idno>
+            <availability status="restricted">
+               <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>København</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Troensegaard I.2a. Uden blyantsnummer</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang. </ab>
+                     </physDesc>
+                     <history>
+                        <ab>Brevets tilhørende kuvert er frankeret med to 12-øres frimærker og poststemplet <hi rend="italics">Hørsholm 5.7.00.5-6 E</hi>, dvs. kl. 5-6 eftermiddag. Desuden et firkantet stempel: <hi rend="italics">Danemark R</hi> 
+                           for 'Rekommanderet brev' og håndskrevet nummer: 16. ‒ Bang har skrevet adressatens navn og adresse: <hi rend="italics">Fru Karin Michaëlis. / København. K. / Badstuestræde. »København«</hi> samt i øverste venstre hjørne:
+                           <hi rend="italics">Rekommanderet</hi>. Postvæsenet har efterfølgende overstreget »Badstuestræde« og rettet adressen til: Nørre Søgade 41, 4.sal. ‒ På kuvertens bagside et rødt laksegl med initialerne <hi rend="italics">H B</hi>
+                        samt postvæsenets modtagerstempel: <hi rend="italics">Kjøbenhavn K. 8.OMB - 5.7.00</hi>, dvs. dagens 8. og sidste ombæring i København</ab>
+                     </history>
+                     <additional>
+                        <listBibl>
+                           <bibl>Med blyant og i en fremmed håndskrift er under Bangs datering tilføjet: <hi rend="italics">5/7 00</hi> og efter »Kære Ven« tilføjet: <hi rend="italics">(Karin Michaëlis)</hi>, formodentlig af bogsamleren
+                           Torben Troensegaard</bibl>
+                        </listBibl>
+                     </additional>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>Bangs Breve 2014</ab>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Bang, Herman</persName>
+               <placeName cert="high">Hørsholm</placeName>
+               <date when="1900-06-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="michaelis_karin_1872">Michaëlis, Karin</persName>
+               <placeName>Hørsholm</placeName>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date cert="high" when="1900-07-05">[1900, 5. juli], torsdag. <note>Brevet dateres efter poststemplet på den tilhørende kuvert. Det må formodes, at Bang med brevet har returneret Karin Michaëlis' manuskript til novellen »De Dødes Have«, og at 
+               dette er forklaringen på, at brevet er sendt som rekommanderet post til den høje takst 24 øre. Antagelig har han ladet hendes manuskript afskrive forinden. Bang redigerede i 1900 en julepublikation for en mand i Kolding. ‒ Det må antages, at 
+               bogsamleren Torben Troensegaard (1916-1986) sidst i 1940'erne har erhvervet ialt 11 Bangbreve direkte fra Karin Michaëlis</note>
+             </date>
+            <placeName cert="high">Hørsholm</placeName>
+         </creation>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>brev</term>
+            </keywords>
+         </textClass>
+         <abstract>
+            <ab>empty</ab>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="da">
+            <p rend="right">Hørsholm. Torsdag.</p>            
+            <p>Kære Ven.</p>
+            <p>Hjertelig Tak for Bidraget.</p>            
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>            
+                                             
+                            </div>
+      </body>
+   </text>
+</TEI>

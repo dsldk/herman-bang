@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">19111003001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -24,14 +24,14 @@
                   <msDesc>
                      <msIdentifier>
                         <settlement>København</settlement>
-                        <repository>Rigsarkivet</repository>
-                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Acc. 2021/21</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
-                        <ab>empty</ab>
+                        <ab>Brevpapiret bærer fortrykt brevhoved: <hi rend="italics">Victoria Hotel / P.O. Persen / Christiania ......... 191..</hi> [en åben plads til udfyldelse af det sidste ciffer i årstallet]</ab>
                      </history>
                      <additional>
                         <listBibl>
@@ -52,19 +52,19 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">Kristiania</placeName>
+               <date when="1911-10-03"/>
             </correspAction>
             <correspAction type="received">
-               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <persName key="herold_vilhelm_1865">Herold, Vilhelm</persName>
+               <placeName>Kristiania</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
+            <date cert="high" when="1911-10-03">1911, 3. oktober, [tirsdag]. <note>25.9.1911 havde Bang påbegyndt sin planlagte jordomrejse, idet han sejlede fra København til Kristiania (Oslo). Frem til jul turnerede han med optræden og oplæsning i Norge, Sverige,
+               Finland og Rusland, og via Berlin sejlede han i januar 1912 til New York. ‒ I 1901 havde Herold fået titel af kongelig kammersanger</note>
              </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <placeName cert="high">Kristiania</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -82,13 +82,14 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
-            <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
-            <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
-                                 
+            <p rend="right">[Christiania] 3.10.[191]1.</p>
+            <p>Kære Hr. Kammersanger.</p>
+            <p>Naturligvis er det mig en Ære, at Busten skal udstilles<ref target="n1"/>.</p>
+            <p>Hr. Einar Petersen Adilsvej 8 har Nøglen til min Bolig<ref target="n2"/>. Hos ham maa man henvende sig for at komme ind.</p>
+            <p>Med mange Hilsener</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">Herman Bang.</p>            
+                                             
                             </div>
       </body>
    </text>

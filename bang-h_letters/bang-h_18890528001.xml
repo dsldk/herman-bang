@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">18890528001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -28,7 +28,7 @@
                         <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 3 sider. Egenhændigt skrevet af Herman Bang.</ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -52,19 +52,20 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">[København]</placeName>
+               <date when="1889-05-28"/>
             </correspAction>
             <correspAction type="received">
                <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <placeName>[København]</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
-             </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <date cert="high" when="1889-05-28">[1889. 28. maj], tirsdag. <note>Bang optrådte på en turné på Bornholm 20.-25.5.1889 (skildret selvironisk i »Kunstrejse paa Bornholm«, trykt i hans bog Ti Aar, 1891). 29. maj var han ombord
+               på et dampskib, der ledsagede den norske grønlandsfarer Fridtjof Nansen på sejladsen fra København til Kristiania (Oslo). Som <hi rend="italics">Politikens</hi> korrespondent skrev Bang reportager fra den norske hyldestmodtagelse af Nansen. ‒ Indtil 1892 var Dagmar Neergaard unavngiven 
+               redaktionssekretær for sin mand, da han 1884-1892 var redaktør af månedsskriftet <hi rend="italics">Tilskueren</hi></note>
+            </date>
+            <placeName cert="high">[København]</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -82,12 +83,19 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
+            <p rend="right">Tirsdag.</p>
             <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
-            <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
+            <p>Jeg staaer i Angst med det ene Bén paa Dampskibet. Sagen er denne:</p>
+            <p>Jeg <hi rend="italics">skal</hi> afsted til Norge imorgen ‒ jeg skal være Nansen-Korrespondent paa Vejen<ref target="n1"/>. Jeg kom hertil Kl. 12 1/2 efter en Turné<ref target="n2"/>, hvor jeg har tabt 100 Kr....</p>
+            <p>Nu véd jeg intet andet Raad end at spørge: <hi rend="italics">kan</hi> De bevæge <persName key="philipsen_gustav_1853">Philipsen</persName> til at give mig et Forskud 
+               paa 75 Kr. <app><lem>eller 50</lem><rdg>Tilføjet af Bang over linjen</rdg></app>? Novellen<ref target="n3"/> bliver 2-2 1/2 Ark, og De kan have den om fjorten Dage.</p>
+            <p>Jeg vil fremdeles skrive en Artikel om »Provinsernes Teaterforhold«, som maa gaa i Stedet for Ristori<ref target="n4"/>, som jeg vil have tilbage ‒ hvorfor synes De ikke om den? ‒ da den er blevet for gammel.</p>
+            <p>Nu, hvor jeg skal være »Teater« i »Tilskueren«<ref target="n5"/>, synes jeg gerne, Philipsen kunde give de 75. Himlen véd, hvordan jeg ellers skal komme afsted.</p>
+            <p>Vil De i alle Fald forsøge. Jeg véd hverken ud eller ind. Men i det mindste paa Dampskibet maa jeg da sé Dem.</p>
+            <p rend="right">Deres Ven</p>
+                         <p rend="right">H. B.</p>
+            <p>Jeg skriver dette til Dem, da jeg ikke véd om <persName key="neergaard_niels_1854">N.N.</persName> er hjemme. Hils.</p>
+            
                                  
                             </div>
       </body>

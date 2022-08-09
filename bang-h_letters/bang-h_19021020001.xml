@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">19021020001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -24,14 +24,14 @@
                   <msDesc>
                      <msIdentifier>
                         <settlement>København</settlement>
-                        <repository>Rigsarkivet</repository>
-                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Troensegaard I.2a. Uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
-                        <ab>empty</ab>
+                        <ab>Med blyant og i en fremmed håndskrift er på linjen efter »Kære Ven« tilføjet: <hi rend="italics">(Karin Michaëlis)</hi>, formodentlig af bogsamleren Torben Troensegaard</ab>
                      </history>
                      <additional>
                         <listBibl>
@@ -52,19 +52,20 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">[København]</placeName>
+               <date when="1902-10-20"/>
             </correspAction>
             <correspAction type="received">
-               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <persName key="michaelis_karin_1872">Michaëlis, Karin</persName>
+               <placeName>[København]</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
+            <date cert="high" when="1902-10-20">1902, 20. oktober, [mandag]. <note>I avisen <hi rend="italics">København</hi> skrev Bang lørdag 18.10.1902 en anmeldelse af Karin Michaëlis' nyeste roman <hi rend="italics">Lillemor</hi>.               
+               Karin Michaëlis har formentlig straks derefter sendt Bang et takkebrev, og det er dette brev, som Bang her kvitterer for. ‒ Det må antages, at bogsamleren Torben Troensegaard (1916-1986) 
+               sidst i 1940'erne har erhvervet ialt 11 Bangbreve direkte fra Karin Michaëlis</note>
              </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <placeName cert="high">[København]</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -82,13 +83,16 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
+            <p rend="right">20.10.1902.</p>            
             <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
-            <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
-                                 
+            <p>Hvor megen Ære gør dog ikke Deres Brev Dem. Ser De, det er jo altid saadan: naar man <hi rend="italics">vil</hi> være oprigtig, bliver man det let i altfor høj en Grad. De kan derfor tro, at <hi rend="italics">Rosen</hi> ikke
+            er overdreven.</p>
+            <p>Min Ven, i at finde de Udtryk, man ikke glemmer, er De maaske i dette Øjeblik enestaaende. Jeg bøjer idetmindste dybt mit Hoved for den inderlige Oprindelighed, hvormed De fæstner en Tanke, en Stemning,
+            en Menneske-Tilstand.</p>
+            <p>Tak for Deres Bog<ref target="n1"/> og maaske endnu mer Tak for Deres Brev.</p>            
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>            
+                                             
                             </div>
       </body>
    </text>

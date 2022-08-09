@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">19060901001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -24,14 +24,14 @@
                   <msDesc>
                      <msIdentifier>
                         <settlement>København</settlement>
-                        <repository>Rigsarkivet</repository>
-                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Troensegaard I.2a. Uden blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 2 sider. Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
-                        <ab>empty</ab>
+                        <ab>Øverst på brevets side 1 er med blyant og med fremmed håndskrift skrevet: <hi rend="italics">Bedes Retur</hi>; måske skrevet af Torben Troensegaard</ab>
                      </history>
                      <additional>
                         <listBibl>
@@ -52,19 +52,19 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">[København]</placeName>
+               <date when="1906-09-01"/>
             </correspAction>
             <correspAction type="received">
-               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <persName key="michaelis_karin_1872">Michaëlis, Karin</persName>
+               <placeName>[København]</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
+            <date cert="high" when="1906-09-01">1906, 1. september, [lørdag]. <note>Efter håndskriften at dømme kan brevet være fra årene ca. 1900-1905. En placering i 1904 er et gæt. ‒ Det må antages, at bogsamleren Torben Troensegaard (1916-1986) 
+               sidst i 1940'erne har erhvervet ialt 11 Bangbreve direkte fra Karin Michaëlis</note>
              </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <placeName cert="high">[København]</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -82,13 +82,19 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
-            <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
-            <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
-                                 
+            <p rend="right">1.9.1906.</p>            
+            <p>Kære Fru Michaëlis.</p>
+            <p>Ja, nu er jeg desværre blevet Sceneinstruktør igen<ref target="n1"/>. Der var ingen Vej frem andetsteds.</p>
+            <p>Men nu vilde jeg spørge Dem: Tror De ikke, at De kunde skrive en Eventyrkomedie? En med Trolde og det Hele? Det tror jeg, De maatte kunne.</p>
+            <p>En klar og enkel Fabel, fattelig selv for Børn, indenfor en Eventyrramme.</p>
+            <p>Hvis noget slaar ned i Dem, saa spring til Arbejdet.</p>
+            <p>Teatret skaffer sin Digter baade Ørenlyd og Penge.</p>
+            <p>Med mange Hilsener til Dem og <persName key="michaelis_sophus_1865">Deres Mand</persName></p>
+            <p rend="right">Deres Ven</p>
+            <p rend="right">Herman Bang.</p>
+            <p>Prinsesse Maries Allée 5</p>
+            <p><hi rend="italics">V</hi>.</p>
+                                             
                             </div>
       </body>
    </text>

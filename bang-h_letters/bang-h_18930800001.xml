@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">18930801001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,10 +25,10 @@
                      <msIdentifier>
                         <settlement>København</settlement>
                         <repository>Rigsarkivet</repository>
-                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang.</ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -52,19 +52,21 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">[Paris]</placeName>
+               <date when="1893-08-01"/>
             </correspAction>
             <correspAction type="received">
-               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <persName key="neergaard_niels_1854">Neergaard, Niels</persName>
+               <placeName>[Paris]</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
-             </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <date cert="high" when="1893-08-01">[1893. ca. august]. <note>Det udaterede brev er sandsynligvis skrevet i Paris i 1893. Ifølge ordlyden har Bang tydeligvis gjort sig forhåbning om regelmæssigt at sende aktuelle tekster, »Breve«, til <hi rend="italics">Aarhus Amtstidende</hi>.  
+               Imidlertid ses ikke én eneste tekst af Bang i Paris at være offentliggjort i denne avis. Derimod ses flere aktuelle beskrivelser af Bang ‒ under overskriften »Breve fra Frankrig« ‒ at være  
+               blevet offentliggjort fra september 1893 i avisen <hi rend="italics">Vendsyssel Tidende</hi> og helt frem til juli 1894. ‒ Niels Neergaard (1854-1936) var 1892-1897 redaktør af <hi rend="italics">Aarhus Amtstidende</hi>
+               </note>
+            </date>
+            <placeName cert="high">[Paris]</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -82,14 +84,13 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
-            <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
-            <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
-                                 
-                            </div>
+            
+            <p>Kære Neergaard.</p>
+            <p>Jeg tror selv, at dette lille Brev er for tørt og stivt for Deres Avis. Men det næste skal blive anderledes og bedre.</p>
+            <p>Skal jeg ikke sende »Brevene« direkte til Aarhus<ref target="n1"/>.</p>
+            <p rend="right">Deres hengivne</p>
+            <p rend="right">H. B.</p>
+                    </div>
       </body>
    </text>
 </TEI>

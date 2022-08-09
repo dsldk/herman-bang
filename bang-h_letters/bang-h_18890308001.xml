@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">18940824001</idno> 
+            <idno type="hbb">18890308001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,10 +25,10 @@
                      <msIdentifier>
                         <settlement>København</settlement>
                         <repository>Rigsarkivet</repository>
-                        <idno>Privatarkiv 5866: Dagmar og J.A. Lemming, A.II; intet blyantsnummer</idno>
+                        <idno>Personarkiv 6026: Niels Neergaard, III: korrespondance; intet blyantsnummer</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side. Egenhændigt skrevet af Herman Bang.</ab>
+                        <ab>Brev, 4 sider.  Egenhændigt skrevet af Herman Bang.</ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -52,19 +52,21 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
-               <date when="1894-08-24"/>
+               <placeName cert="high">[Nakskov]</placeName>
+               <date when="1889-03-08"/>
             </correspAction>
             <correspAction type="received">
-               <persName key="neergaard_dagmar_1860">Neergaard, Dagmar</persName>
-               <placeName>Bangsbo, ved Frederikshavn</placeName>
+               <persName key="neergaard_niels_1854">Neergaard, Niels</persName>
+               <placeName>[Nakskov]</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date cert="high" when="1894-08-24">1894. 24. august, [fredag]. <note>Brevets ordlyd skal forstås i forlængelse af Bangs brev, dateret »Mardi« [ca. 24.7.1894], til Dagmar Neergaard. ‒ Efter ca. 20.8.1894 var Bang tilbage
-            i Danmark og boede en god månedstid på Bangsbo som gæst hos Johan Knudsen</note>  
-             </date>
-            <placeName cert="high">Bangsbo, ved Frederikshavn</placeName>
+            <date cert="low" when="1889-03-08">[1889. ca. 8. marts], fredag. <note>Brevet er sandsynligvis fra det tidlige forår 1889, den præcise dato er et gæt. Dette dateringsforslag bygger på brevets omtale af Bangs store artikel om skuespillerinden Adelaide Ristori, trykt i <hi rend="italics">Tilskueren</hi>  
+               i juli 1889. ‒ Niels Neergaard (1854-1936) var 1884-1892 redaktør af tidsskriftet
+                        <hi rend="italics">Tilskueren</hi>
+               </note>
+            </date>
+            <placeName cert="high">[Nakskov]</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -82,14 +84,14 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Bangsbo. Frederikshavn. 24.8.94.</p>                     
-            <p>Kære Ven.</p>
-            <p>Ja, min Ven, nu er jeg her. Kom altsaa, <hi rend="italics">naar</hi> De vil.</p>
-            <p>Skriv.</p>
+            <p rend="right">Fredag.</p>
+            <p>Kære Neergaard.</p>
+            <p>Var det ikke muligt, at jeg for Digtet og Anmeldelserne<ref target="n1"/> kunde faa det halve Honorar? (og det andet halve var Afdrag?)</p> 
+            <p>Resten blev saa afdraget ved »Ristori«<ref target="n2"/>, som De snarest skal faa.</p>
+            <p>Hvis Sagen kan ordnes <hi rend="italics">saa</hi>, da send mig Pengene imorgen (Lørdag) da jeg Søndag Aften sandsynligvis rejser for nogle Dage<ref target="n3"/>.</p>
+            <p rend="right">Deres hengivne</p>
             <p rend="right">Herman B.</p>
-            <p>Der maa jo let kunne faaes et Værelse og Kosten i Frederikshavn.</p>
-                                 
-                            </div>
+         </div>
       </body>
    </text>
 </TEI>
