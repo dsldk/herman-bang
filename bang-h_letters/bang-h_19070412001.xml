@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">19070400001</idno>
+            <idno type="hbb">19070412001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,7 +25,7 @@
                      <msIdentifier>
                         <settlement>København</settlement>
                         <repository>Det Kongelige Bibliotek</repository>
-                        <idno>NKS 2353, folio. Blyantsnummer 530</idno>
+                        <idno>NKS 2353, folio. Blyantsnummer 543</idno>
                      </msIdentifier>
                      <physDesc>
                         <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
@@ -52,8 +52,8 @@
          <correspDesc>
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
-               <placeName cert="high">København</placeName>
-               <date when="1907-04-01"/>
+               <placeName cert="high">[København]</placeName>
+               <date when="1907-04-12"/>
             </correspAction>
             <correspAction type="received">
                <persName key="melnik_josef_1881">Melnik, Josef</persName>
@@ -61,13 +61,9 @@
             </correspAction>
          </correspDesc>
          <creation>
-            <date xml:lang="da" cert="low" when="1907-04-01">[1907. april?] søndag. <note>Af Bangs brev,
-                        10.4.1907, kan det formodes, at Josef Melnik har besøgt Bang i København
-                        senere i april 1907, måske i forbindelse med forberedelserne til Bangs
-                        flytning til Berlin i juli. Der er ingen yderligere argumenter til støtte for dette
-                        dateringsforslag.</note>
+            <date xml:lang="da" cert="low" when="1907-04-12">[1907. 12. april] fredag. <note>empty</note>
             </date>
-            <placeName cert="high">København</placeName>
+            <placeName cert="high">[København]</placeName>
          </creation>
          <langUsage>
             <language ident="da"/>
@@ -85,12 +81,11 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Prinsesse Maries Allée 5.</p>
-            <p rend="right">Sontag.</p>
-            <p>Lieber Freund.</p>
-            <p>Ich bin um drei Uhr zu Hause und freue mich mächtig darauf Sie zu sehen.</p>
-            <p rend="right">Immer Ihr</p>
-            <p rend="right">Herman Bang.</p>
+            <p rend="right">Freitag.</p>
+            <p>Mein lieber, guter Ossip.</p>
+            <p>Wenn reisen Sie? Heute essen Hr. und Mme Michaëlis<ref target="n1"/> hier. Sie sprechen kein Deutsch.
+                    Wann sehe ich Sie?</p>
+            <p rend="right">Herman.</p>
          </div>
       </body>
    </text>

@@ -12,7 +12,7 @@
             <publisher>Danske Sprog- og Litteraturselskab</publisher>
             <pubPlace>København</pubPlace>
             <date>2019</date>
-            <idno type="hbb">19000629001</idno>
+            <idno type="hbb">19070408001</idno>
             <idno type="isbn">nil</idno>
             <availability status="restricted">
                <ab>Copyright © 2015, Danske Sprog- og Litteraturselskab</ab>
@@ -25,11 +25,10 @@
                      <msIdentifier>
                         <settlement>København</settlement>
                         <repository>Det Kongelige Bibliotek</repository>
-                        <idno>Acc. 2011/94; intet blyantsnummer</idno>
+                        <idno>NKS 2353, folio. Blyantsnummer 531</idno>
                      </msIdentifier>
                      <physDesc>
-                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang.   Dateringen »28.9.1900« er tilføjet med blyant, formodentlig
-                                        af Aage Hirschsprung.</ab>
+                        <ab>Brev, 1 side.  Egenhændigt skrevet af Herman Bang. </ab>
                      </physDesc>
                      <history>
                         <ab>empty</ab>
@@ -54,16 +53,18 @@
             <correspAction type="sent">
                <persName>Bang, Herman</persName>
                <placeName cert="high">[København]</placeName>
-               <date when="1900-06-29"/>
+               <date when="1907-04-08"/>
             </correspAction>
             <correspAction type="received">
-               <persName key="hirschsprung_aage_1869">Hirschsprung, Aage</persName>
+               <persName key="melnik_josef_1881">Melnik, Josef</persName>
                <placeName>empty</placeName>
             </correspAction>
          </correspDesc>
          <creation>
-            <date xml:lang="da" cert="high" when="1900-06-29">[1900. 29. juni] fredag. <note>Den sekundært
-                        påførte blyantsdatering: »28.9.1900« er notorisk forkert.</note>
+            <date xml:lang="da" cert="low" when="1907-04-08">[1907. 8. april] mandag. <note>Af Bangs brev,
+                        10.4.1907, kan det formodes, at Josef Melnik har besøgt Bang i København
+                        senere i april 1907, måske i forbindelse med forberedelserne til Bangs
+                        flytning til Berlin i juli. </note>
             </date>
             <placeName cert="high">[København]</placeName>
          </creation>
@@ -83,18 +84,16 @@
    <text>
       <body>
          <div xml:lang="da">
-            <p rend="right">Fredag</p>
-            <p>Kære Hirschsprung.</p>
-            <p>
-               <persName key="brummerstedt_valdemar_1868">Lægen</persName>
-               <ref target="n1"/> har igaar bestemt
-                    paabudt nogle Dages Ro. Jeg maa derfor tage til Hørsholm i Eftermiddag. Mit
-                    Hjerte er saa slet, at jeg selv indser Nødvendigheden deraf. De <hi rend="italics">maa</hi>
-                    derfor give mig tredive Kroner. Derude kan jeg ogsaa meget lettere skrive paa
-                        »Huset«<ref target="n2"/> og
-                    som det nu gaar, gaar det ikke. Nogle Dages Ro maa jeg have.</p>
-            <p rend="right">I Hast.</p>
-            <p rend="right">H. B.</p>
+            <p rend="right">Montag.</p>
+            <p>Lieber Freund.</p>
+            <p>Wollen Sie morgen mit mir zu Mittag essen? Dann werde ich Sie um 6 Uhr im Hotel
+                    abholen. <app>
+                  <lem>Es</lem>
+                  <rdg>Bang har først skrevet: Det</rdg>
+               </app> wird mich am lebhafsten freuen Sie wiederzusehen.</p>
+            <p>Leider bin ich recht krank.</p>
+            <p rend="right">Immer und ganz</p>
+            <p rend="right">Ihr Herman B.</p>
          </div>
       </body>
    </text>
