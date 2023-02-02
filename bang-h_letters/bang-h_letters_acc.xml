@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tekstredegørelse</title>
+        <author>Gert Posselt</author>
+        <editor n="1">Gert Posselt</editor>
+        <editor n="2">Thomas Hansen</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Det Danske Sprog- og Litteraturselskab</publisher>
+        <pubPlace>København</pubPlace>
+        <date>2022</date>
+        <availability status="restricted">
+          <licence n="CC BY-SA 4.0" target="http://creativecommons.org/licenses/by-sa/4.0/">
+            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International
+            License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2023-01-31" who="#th">første XML-version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <orig>Udgave- og tekstforhold</orig>
+        </head>
+        <byline>af Gert Posselt</byline>
+        <div>
+          <p>De bevarede breve til og fra Herman Bang befinder sig for langt størstedelens
+            vedkommende på Det Kongelige Bibliotek i København. Breve fra Bang ejes desuden i
+            varierende antal af flere offentligt tilgængelige samlinger i udlandet og i Danmark – fx
+            Rigsarkivet i København. Endelig er et ukendt antal breve spredt i privateje; af og til
+            hænder det, at privatejede breve fra Herman Bang udbydes til salg på bogauktion eller i
+            antikvarboghandel.</p>
+          <p>Generelt er bevarede breve <hi rendition="simple:italic">til</hi> Herman Bang
+            sjældenheder, da han antageligvis ikke selv har passet på dem efter modtagelsen; ifølge
+            egne udsagn har han i en række enkelttilfælde brændt modtagne breve. Den relative
+            fordeling er i denne udgaves udvalg: 19 modtagne breve og 1823 afsendte breve.</p>
+          <div type="level2" xml:id="manuskriptforhold">
+            <head>Manuskriptforhold</head>
+            <p>Nedenfor er redegjort for opholdssted for de originale breve, hvis ordlyd er
+              publiceret (pr. 1.1.2023) i denne digitale udgave.</p>
+            <p>Bemærk at de originale breve ofte ligger uden datering under hver enkelt
+              katalogsignatur og i en helt anden rækkefølge end i denne udgave. Det Kongelige
+              Bibliotek har ikke skabt et »Herman Bang-brevarkiv«. Alle nyerhvervede breve uanset
+              tidsalder og ophav indlemmes i Håndskriftsamlingen i den rækkefølge, de indgår, og med
+              en katalogsignatur, der afspejler tidspunktet for brevenes indlemmelse (det såkaldte
+              proveniens-princip).</p>
+            <p>Benævnelsen <hi rend="italic">breve</hi> dækker også postkort,
+              telegrammer mv.</p>
+            <p>Med mindre andet udtrykkeligt anføres, er Herman Bang afsender af brevene.</p>
+            <div>
+              <head>Det Kongelige Bibliotek, København<lb/>Håndskriftsamlingen</head>
+              <table>
+                <row role="label">
+                  <cell><p>Katalogsignatur</p></cell>
+                  <cell><p>Antal</p></cell>
+                  <cell><p>Specifikation</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 2353, folio</p></cell>
+                  <cell><p>383</p></cell>
+                  <cell><p>til Valdemar Brummerstedt, Anna Ferslew, Christian Ferslew, Vilhelm
+                      Greibe, Inger Heise, Oluf Heise, Bertha Holst, Nini Holst, Emil Jonas, Paul
+                      Langhoff, Josef Melnik, Julius Schiøtt – samt ét brev fra Peter Nansen til
+                      Herman Bang (10.4.1902) og de sidste to sider af Bangs brev
+                    6.3.1886</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 2751, folio</p></cell>
+                  <cell><p>22</p></cell>
+                  <cell><p>til Christian Houmark. Samt ét brev fra Karin Michaëlis til Herman Bang
+                      (1.12.1906)</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 2906, kvart</p></cell>
+                  <cell><p>1</p></cell>
+                  <cell><p>til Peder Jørgensen</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 3289, kvart</p></cell>
+                  <cell><p>1</p></cell>
+                  <cell><p>fra Peter Nansen til Herman Bang</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 3742, kvart</p></cell>
+                  <cell><p>22</p></cell>
+                  <cell><p>til Jacob Hegel, Julie Hegel</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 4043, kvart</p></cell>
+                  <cell><p>471</p></cell>
+                  <cell><p>til Peter Nansen. – Samt to breve til Betty Nansen og ét brev fra Gustav
+                      Esmann og Bang til Peter Nansen</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 4127, kvart</p></cell>
+                  <cell><p>1</p></cell>
+                  <cell><p>til Anna Feilberg</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 4264, kvart</p></cell>
+                  <cell><p>24</p></cell>
+                  <cell><p>til Christian Nielsen, Christian Houmark</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 4426, kvart</p></cell>
+                  <cell><p>37</p></cell>
+                  <cell><p>til Anna Feilberg, Carl Feilberg</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 4508, kvart</p></cell>
+                  <cell><p>9</p></cell>
+                  <cell><p>til Julius Schiøtt, Hansine Schiøtt</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 4685, kvart</p></cell>
+                  <cell><p>81</p></cell>
+                  <cell><p>til Christian Houmark. Samt fire breve fra Peter Nansen til Herman
+                      Bang</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 4858, kvart</p></cell>
+                  <cell><p>14</p></cell>
+                  <cell><p>til Christian Houmark</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 5002, kvart</p></cell>
+                  <cell><p>3</p></cell>
+                  <cell><p>til A.P. Holst</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 5011, kvart</p></cell>
+                  <cell><p>20</p></cell>
+                  <cell><p>til Anna Ferslew, Christian Ferslew, Anna Levin</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 5152, kvart</p></cell>
+                  <cell><p>23</p></cell>
+                  <cell><p>til Astrid Pålsson, Jens Peter von Scholten</p></cell>
+                </row>
+                <row>
+                  <cell><p>NKS 5159, kvart</p></cell>
+                  <cell><p>17</p></cell>
+                  <cell><p>til Margarethe Jørgensen, Peder Jørgensen</p></cell>
+                </row>
+                <row>
+                  <cell><p>NBD, 2.rk.</p></cell>
+                  <cell><p>30</p></cell>
+                  <cell><p>til Theodor Andersen (9 breve); til Vilhelm Greibe (16 breve); til A.C.
+                      Riemenschneider (to breve); til Immanuel Nansen (et brev); til Betty Nansen
+                      (et brev) – samt et brev fra Georg Brandes til Herman Bang</p></cell>
+                </row>
+                <row>
+                  <cell><p>NBD, 3.rk.</p></cell>
+                  <cell><p>2</p></cell>
+                  <cell><p>til Christian Houmark</p></cell>
+                </row>
+                <row>
+                  <cell><p>Acc. 2001/76</p></cell>
+                  <cell><p>1</p></cell>
+                  <cell><p>fra Josef Melnik til Herman Bang</p></cell>
+                </row>
+                <row>
+                  <cell><p>Acc. 2009/148</p></cell>
+                  <cell><p>122</p></cell>
+                  <cell><p>til Kristian Dahl, Olga Dahl</p></cell>
+                </row>
+                <row>
+                  <cell><p>Acc. 2011/94</p></cell>
+                  <cell><p>154</p></cell>
+                  <cell><p>til Aage Hirschsprung, J.L. Lybecker</p></cell>
+                </row>
+                <row>
+                  <cell><p>Acc. 2013/98</p></cell>
+                  <cell><p>1</p></cell>
+                  <cell><p>til Johannes V. Jensen</p></cell>
+                </row>
+                <row>
+                  <cell><p>Acc. 2021/21</p></cell>
+                  <cell><p>2</p></cell>
+                  <cell><p>til Vilhelm Herold</p></cell>
+                </row>
+                <row>
+                  <cell><p>Tilg. 447</p></cell>
+                  <cell><p>44</p></cell>
+                  <cell><p>til Edvard Brandes</p></cell>
+                </row>
+                <row>
+                  <cell><p>Tilg. 565</p></cell>
+                  <cell><p>103</p></cell>
+                  <cell><p>til Betty Nansen</p></cell>
+                </row>
+                <row>
+                  <cell><p>Georg Brandes’ arkiv</p></cell>
+                  <cell><p>9</p></cell>
+                  <cell><p>til Georg Brandes</p></cell>
+                </row>
+                <row>
+                  <cell><p>Gyldendals arkiv B2, Kopibog</p></cell>
+                  <cell><p>10</p></cell>
+                  <cell><p>fra Peter Nansen til Herman Bang</p></cell>
+                </row>
+                <row>
+                  <cell><p>Gyldendals arkiv B4a og B4c</p></cell>
+                  <cell><p>43</p></cell>
+                  <cell><p>til Peter Nansen</p></cell>
+                </row>
+                <row>
+                  <cell><p>Troensegaard I.1</p></cell>
+                  <cell><p>4</p></cell>
+                  <cell><p>til A.C. Riemenschneider (tre breve); til Bertha Holst (et
+                    brev)</p></cell>
+                </row>
+                <row>
+                  <cell><p>Troensegaard I.2a</p></cell>
+                  <cell><p>11</p></cell>
+                  <cell><p>til Karin Michaëlis</p></cell>
+                </row>
+                <row>
+                  <cell><p>Fotostateret brevsamling</p></cell>
+                  <cell><p>1</p></cell>
+                  <cell><p>til Peter Nansen</p></cell>
+                </row>
+              </table>
+              <p>Signaturforkortelser over samlinger:</p>
+              <list rend="simple">
+                <item>NKS: Ny Kongelig Samling</item>
+                <item>NBD: Nyere Brevveksling Danske, 2. række og 3. række</item>
+                <item>Acc.: Accession</item>
+                <item>Tilg.: Tilgængelig samling (identisk med den ældre signatur Utilg., dvs.
+                  Utilgængelig samling. I 1990’erne ophævede Håndskriftsamlingen mange af de ældre
+                  samlingers utilgængelighed)</item>
+              </list>
+              <!--<p>NKS: Ny Kongelig Samling</p>
+              <p>NBD: Nyere Brevveksling Danske, 2. række og 3. række</p>
+              <p>Acc.: Accession</p>
+              <p>Tilg.: Tilgængelig samling (identisk med den ældre signatur Utilg., dvs.
+                Utilgængelig samling. I 1990’erne ophævede Håndskriftsamlingen mange af de ældre
+                samlingers utilgængelighed)</p>-->
+            </div>
+            <div>
+              <head>Rigsarkivet, København<lb/>Private personarkiver</head>
+              <table>
+                <row role="label">
+                  <cell><p>Katalogsignatur</p></cell>
+                  <cell><p>Antal</p></cell>
+                  <cell><p>Specifikation</p></cell>
+                </row>
+                <row>
+                  <cell><p>Personarkiv 5866</p></cell>
+                  <cell><p>87</p></cell>
+                  <cell><p>til Dagmar Neergaard (i 1898 gift Lemming). Samt ét brev til Niels
+                      Neergaard (9.9.1888)</p></cell>
+                </row>
+                <row>
+                  <cell><p>Personarkiv 6026, pk. 26</p></cell>
+                  <cell><p>55</p></cell>
+                  <cell><p>til Niels Neergaard. Samt 6 breve til Dagmar Neergaard</p></cell>
+                </row>
+              </table>
+            </div>
+            <div>
+              <head>Privateje</head>
+              <p>I spredt privat eje (pr. 2022):</p>
+              <p>8 breve til henholdsvis Olga Dahl, Svend Gade, Vilhelm Greibe, Ida Hansen, Bertha
+                Holst, Niels Neergaard, Elith Reumert, Julius Schiøtt – samt to fragmenter, der
+                kompletterer de to breve 23.2.1887 og 13.11.1904.</p>
+            </div>
+          </div>
+          <div type="level2" xml:id="tekstgrundlag-og-tekstrettelser">
+            <head>Tekstgrundlag og tekstrettelser</head>
+            <p>Ved etablering af teksten har <hi rend="strong">det originale brev</hi>
+              været forlæg. Hvor dette ikke kendes, er ordlyden gengivet efter fotokopi, afskrift
+              eller tryk, i hvert enkelt tilfælde oplyst under de indledende bemærkninger til
+              brevet.</p>
+            <p>Brevskrivers <hi rend="strong">stavemåde og tegnsætning</hi> respekteres.
+              Det gælder også for alle sekretærskrevne breve (et par heraf følger norsk
+              retskrivning) samt alle telegrammer (oftest håndskrevne af telegrafvæsenets
+              personale). Dog gengives ö som ø, undtagen i svenske og tyske ord og navne.</p>
+            <p>Hvis brevskriver har foretaget en <hi rend="strong">rettelse</hi>, en <hi
+                rend="strong">tilføjelse</hi> eller begået en <hi rend="strong"
+                >skrivefejl</hi>, kommenteres dette i en note til det pågældende sted. Tilsvarende
+              gælder for ulæselige ord, teksttab på grund af papirskade mv.</p>
+            <p>Brevteksterne bringes i <hi rend="strong">kronologisk rækkefølge</hi>. De
+              ordnes ved hjælp af år, dag, måned, fx <hi rend="italic">1895, 9.
+                februar</hi>. Udaterede og fejldaterede (dvs. af Bang selv fejldaterede) breve er
+              anbragt under den sandsynlige datering, sat i en skarp parentes <hi
+                rend="strong">[</hi>xxx<hi rend="strong">]</hi>, og
+              argumentation herfor gives under rubrikken <hi rend="strong"
+                >Bemærkninger</hi>. Tilsvarende gælder for breve uden afsendelsessted, at det
+              sandsynlige afsendelsessted ofte bliver anført i en skarp parentes.</p>
+            <p>Angivelse af et brevs <hi rend="strong">sideantal</hi> omfatter kun de
+              beskrevne sider, ikke eventuelle blanke sider. De originale breves <hi
+                rend="strong">papirformat</hi> kan variere, men angives ikke. Blækfarve og
+              eventuelt vandmærke i papiret angives ikke.</p>
+            <p>Den <hi rend="strong">grafiske opsætning</hi> af brevteksterne er
+              standardiseret, således at både den indledende angivelse af afsendelsessted og dato
+              samt den afsluttende underskrift er højrestillet, og at »Kære NN« altid efterfølges af
+              et linjeskift, – uanset hvordan det enkelte originalbrev måtte være opstillet.</p>
+            <p><hi rend="strong">Linjeskift og sideskift</hi> i originalbrevet markeres
+              ikke.</p>
+            <p><hi rend="strong">Understregede ord</hi> gengives <hi
+                rend="italic">i kursiv.</hi> Hvis ord står med mere end én
+              understregning, vil dette normalt være forklaret i en note til det pågældende
+              sted.</p>
+            <p>Breve på fremmedsprog gengives på originalsproget og oversættes tillige til
+              dansk.</p>
+            <p>Oplysninger til støtte for læserens forståelse af det enkelte brevs ordlyd leveres i
+              form af <hi rend="strong">noter</hi>, herunder som regel også de steder,
+              hvor udgiveren har måttet opgive at finde data (angivet som »Uoplyst«, »Ikke
+              identificeret« eller lignende). De fleste <hi rend="strong">personnavne</hi>
+              i brevene er klikbare, inklusiv navnet på hvert brevs modtager, og oplyser korte
+              biografiske data. Alternativt er en persons data oplyst i form af en note ved
+              navnet.</p>
+            <p>Postale benævnelser og forældede postale udtryk (fx korsbånd, helsag, telegram), som
+              uden nærmere forklaring anvendes i det enkelte brevs indledende bemærkninger eller i
+              noter, er alfabetisk oplistet med en tilhørende ordforklaring under Postale
+              fagudtryk</p>
+            <p>En del af de breve, der fra Bangs hånd er uden datering, har med fremmed håndskrift
+              fået påført en <hi rend="strong">blyantsdato</hi>, tit skrevet i en skarp
+              parentes. Disse påførsler, der skyldes personalet på Det Kongelige Bibliotek, er
+              sandsynligvis afskrift efter poststemplet på det pågældende brevs originale kuvert,
+              som derefter er blevet kasseret i henhold til dengang gældende arbejdsgang ved
+              indordning af en ny brevsamling i Det Kongelige Biblioteks Håndskriftsamling (denne
+              fremgangsmåde synes at have været den overvejende praksis frem til 2000-tallets
+              begyndelse). Da pålideligheden af sådanne blyantsdateringer principielt ikke kan
+              kontrolleres – og da personalet i enkelte tilfælde kan tænkes at have fejllæst et
+              poststempel – forholder udgiveren sig frit til sådanne sekundært påførte
+              blyantsdateringer, men refererer dem i alle tilfælde i de indledende bemærkninger til
+              hvert af disse breve.</p>
+            <p><hi rend="italic">Va.</hi> efterfulgt af et <hi rend="italic"
+                >romertal</hi>: Således anføres ved hvert af de 71 breve i bogen <hi
+                rend="italic">Herman Bangs Vandreaar fortalt i Breve til Peter
+                Nansen</hi> (København, Henrik Koppels Forlag, 1918), at den pågældende brevtekst er
+              trykt i denne bog under det pågældende nummer i romertal. Dette tryks eventuelle
+              afvigelser og udeladelser i forhold til ordlyden i det originale brev angives
+              ikke.</p>
+            <p>Hvorvidt andre af udgavens brevtekster helt eller delvis findes gengivet i den trykte
+              sekundærlitteratur om Herman Bang anføres ikke.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
